@@ -1,10 +1,11 @@
 {
-  "checked_at": "2026-08-04T16:40:16+09:00",
+  "checked_at": "2026-08-04T18:22:52+09:00",
   "journal_count": 1,
   "new_count": 0,
-  "baseline_initialized": false,
+  "baseline_initialized": true,
   "scope_start": "2026-01-01",
   "scope_end": "2026-08-04",
+  "source_mode": "crossref",
   "articles": [
     {
       "doi": "10.1021/jacs.6c09015",
@@ -30,7 +31,7 @@
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-07-29",
-      "indexed_at": "2026-08-03T21:47:47Z",
+      "indexed_at": "2026-08-04T08:47:44Z",
       "url": "https://doi.org/10.1021/jacs.6c08652"
     },
     {
