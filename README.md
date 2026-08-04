@@ -5,7 +5,7 @@ Journal of the American Chemical Society에 새로 등록된 논문을 DOI 기�
 ## 동작 방식
 
 1. GitHub Actions가 매일 Asia/Seoul 오전 9시 17분에 실행됩니다.
-2. Crossref에서 매년 1월 1일부터 실행 당일까지 출간된 JACS 논문 메타데이터를 모두 조회합니다.
+2. 기본 GitHub Actions는 Crossref에서 2026년 1월 1일부터 실행 당일까지의 JACS 메타데이터를 모두 조회합니다.
 3. 목록은 출간일 내림차순으로 정렬하여 최신 논문을 맨 위에 표시합니다.
 4. `data/seen_dois.json`에 없는 DOI를 신규 논문으로 판정합니다.
 5. 연도별 첫 실행에서는 해당 연도의 전체 결과를 기준선으로만 저장하고 알림을 만들지 않습니다.
@@ -19,6 +19,20 @@ Journal of the American Chemical Society에 새로 등록된 논문을 DOI 기�
 4. GitHub 알림을 받으려면 저장소의 `Watch → Custom → Issues`를 활성화합니다.
 
 Crossref의 polite pool 사용을 위해 저장소의 `Settings → Secrets and variables → Actions → Variables`에 `CROSSREF_MAILTO`를 만들고 본인의 이메일 주소를 입력하는 것을 권장합니다. 입력하지 않아도 실행은 가능하지만 연락 가능한 이메일을 제공하는 것이 Crossref 권장 방식입니다.
+
+## ACS 공식 목록을 사용하는 Windows 로컬 수집
+
+ACS 검색 페이지는 GitHub Actions의 데이터센터 요청을 차단할 수 있습니다. `scripts/collect_acs.mjs`는 사용자 Windows PC의 실제 Google Chrome과 전용 프로필을 사용하여 2026년 1월 1일 경계까지 검색 결과를 순회합니다. ACS DOI 목록과 Crossref DOI 목록의 합집합을 사용하므로 어느 한쪽에만 먼저 등록된 논문도 보존하며, 제목과 날짜는 Crossref 메타데이터로 보완합니다.
+
+최초 1회 PowerShell에서 다음을 실행합니다.
+
+```powershell
+Set-ExecutionPolicy -Scope Process Bypass
+.\scripts\install_windows_task.ps1
+.\scripts\run_local_acs_update.ps1
+```
+
+첫 수동 실행이 성공하면 Windows 작업 스케줄러의 `JACS Journal Alert ACS Update`가 매일 오전 9시 30분 실행됩니다. PC가 꺼져 있었으면 다음 시작 시 실행됩니다. Chrome에 CAPTCHA나 접근 차단이 나타나거나 2026년 1월 1일까지 도달하지 못하면 데이터 파일과 GitHub 저장소를 변경하지 않습니다. 실패 화면과 HTML은 로컬 `diagnostics` 폴더에만 저장됩니다.
 
 ## 로컬 점검
 
@@ -35,4 +49,4 @@ python -m http.server 8000
 
 ## 데이터 출처와 고지
 
-Article metadata are obtained from Crossref. This is an independent literature alert service and is not affiliated with or endorsed by the American Chemical Society. Journal names and article titles belong to their respective owners.
+Article inclusion can be verified from ACS JACS search results collected in a user's local Chrome, while metadata are supplemented from Crossref. The GitHub hosted fallback uses Crossref only. This is an independent literature alert service and is not affiliated with or endorsed by the American Chemical Society. Journal names and article titles belong to their respective owners.

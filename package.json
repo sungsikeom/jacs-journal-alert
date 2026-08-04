@@ -1,0 +1,11 @@
+{
+  "name": "jacs-journal-alert-local-collector",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect:acs": "node scripts/collect_acs.mjs"
+  },
+  "dependencies": {
+    "playwright-core": "^1.54.2"
+  }
+}
