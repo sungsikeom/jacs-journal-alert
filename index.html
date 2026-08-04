@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="JACS에 새로 등록된 논문 제목과 DOI를 매일 확인합니다.">
+  <title>Journal Pulse · JACS</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main>
+    <header class="hero">
+      <div>
+        <p class="eyebrow">DAILY JOURNAL MONITOR</p>
+        <h1>Journal <span>Pulse</span></h1>
+        <p class="lede">JACS에 새로 등록된 논문을 하루 한 번 확인합니다.</p>
+      </div>
+      <div class="status-card" aria-live="polite">
+        <span class="status-dot"></span>
+        <div><strong id="status-label">확인 중</strong><small id="checked-at">데이터를 불러오고 있습니다</small></div>
+      </div>
+    </header>
+
+    <section class="journal-bar" aria-label="모니터링 저널">
+      <div><span class="journal-mark">J</span><div><strong>Journal of the American Chemical Society</strong><small>ISSN 0002-7863</small></div></div>
+      <p><strong id="new-count">0</strong> new papers</p>
+    </section>
+
+    <section class="content">
+      <div class="section-heading">
+        <div><p class="eyebrow">LATEST RECORDS</p><h2>최근 확인된 논문</h2></div>
+        <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="제목 또는 DOI 검색" aria-label="논문 검색"></label>
+      </div>
+      <div id="articles" class="articles" aria-live="polite"></div>
+      <p id="empty" class="empty" hidden>표시할 논문이 없습니다.</p>
+    </section>
+  </main>
+  <footer>Independent literature alert · Metadata from Crossref · Not affiliated with ACS</footer>
+  <script src="app.js"></script>
+</body>
+</html>
