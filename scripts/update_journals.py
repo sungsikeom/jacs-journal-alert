@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch this year's journal metadata from Crossref and update the site data."""
+"""Fetch journal metadata published since the fixed site cutoff."""
 
 from __future__ import annotations
 
@@ -23,7 +23,8 @@ ARTICLES_PATH = DATA_DIR / "articles.json"
 STATE_PATH = DATA_DIR / "seen_dois.json"
 ISSUE_BODY_PATH = DATA_DIR / "new_articles.md"
 SEOUL = timezone(timedelta(hours=9))
-SCOPE_VERSION = 2
+SCOPE_START = "2026-01-01"
+SCOPE_VERSION = 3
 
 JOURNALS = [
     {
@@ -177,7 +178,7 @@ def issue_markdown(new_articles: list[dict[str, Any]], checked_at: str) -> str:
 def update(fixture: Path | None, rows: int) -> int:
     checked_at = datetime.now(SEOUL).isoformat(timespec="seconds")
     today = datetime.now(SEOUL).date()
-    scope_start = f"{today.year:04d}-01-01"
+    scope_start = SCOPE_START
     scope_end = today.isoformat()
     old_state = load_json(STATE_PATH, {})
     initialized = (
