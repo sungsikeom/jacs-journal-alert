@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch recent journal metadata from Crossref and update the static site data."""
+"""Fetch this year's journal metadata from Crossref and update the site data."""
 
 from __future__ import annotations
 
@@ -53,17 +53,34 @@ def first_date(item: dict[str, Any]) -> str | None:
     return None
 
 
-def crossref_url(issn: str, lookback_days: int, rows: int) -> str:
-    start = (datetime.now(timezone.utc) - timedelta(days=lookback_days)).date().isoformat()
+def crossref_url(issn: str, start: str, end: str, rows: int, cursor: str) -> str:
     params = {
-        "filter": f"from-index-date:{start},type:journal-article",
+        "filter": f"from-pub-date:{start},until-pub-date:{end},type:journal-article",
         "select": "DOI,title,URL,published-online,published-print,published,issued,indexed",
         "rows": str(rows),
-        "sort": "indexed",
+        "cursor": cursor,
+        "sort": "published",
         "order": "desc",
         "mailto": os.environ.get("CROSSREF_MAILTO", "journal-alert@example.com"),
     }
     return f"https://api.crossref.org/journals/{issn}/works?{urllib.parse.urlencode(params)}"
+
+
+def fetch_all_pages(issn: str, start: str, end: str, rows: int) -> list[dict[str, Any]]:
+    items: list[dict[str, Any]] = []
+    cursor = "*"
+    used_cursors: set[str] = set()
+    while cursor not in used_cursors:
+        used_cursors.add(cursor)
+        payload = fetch_json(crossref_url(issn, start, end, rows, cursor))
+        message = payload.get("message", {})
+        page = message.get("items", [])
+        items.extend(page)
+        next_cursor = message.get("next-cursor")
+        if len(page) < rows or not next_cursor:
+            break
+        cursor = str(next_cursor)
+    return items
 
 
 def fetch_json(url: str) -> dict[str, Any]:
@@ -118,7 +135,7 @@ def deduplicate(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
         by_doi[item["doi"]] = item
     return sorted(
         by_doi.values(),
-        key=lambda x: (x.get("indexed_at") or "", x["doi"]),
+        key=lambda x: (x.get("published_date") or "", x.get("indexed_at") or "", x["doi"]),
         reverse=True,
     )
 
@@ -137,39 +154,48 @@ def issue_markdown(new_articles: list[dict[str, Any]], checked_at: str) -> str:
     return "\n".join(lines).rstrip() + "\n"
 
 
-def update(fixture: Path | None, lookback_days: int, rows: int) -> int:
+def update(fixture: Path | None, rows: int) -> int:
     checked_at = datetime.now(SEOUL).isoformat(timespec="seconds")
+    today = datetime.now(SEOUL).date()
+    scope_start = f"{today.year:04d}-01-01"
+    scope_end = today.isoformat()
     old_state = load_json(STATE_PATH, {})
-    initialized = bool(old_state.get("initialized"))
+    initialized = bool(old_state.get("initialized")) and old_state.get("scope_start") == scope_start
     seen = {normalize_doi(value) for value in old_state.get("seen_dois", [])}
     fetched: list[dict[str, Any]] = []
 
     fixture_payload = load_json(fixture, {}) if fixture else None
     for journal in JOURNALS:
-        payload = fixture_payload if fixture_payload is not None else fetch_json(
-            crossref_url(journal["issn"], lookback_days, rows)
+        items = (
+            fixture_payload.get("message", {}).get("items", [])
+            if fixture_payload is not None
+            else fetch_all_pages(journal["issn"], scope_start, scope_end, rows)
         )
-        for item in payload.get("message", {}).get("items", []):
+        for item in items:
             article = article_from_item(item, journal)
-            if article:
+            if article and article["published_date"] and scope_start <= article["published_date"] <= scope_end:
                 fetched.append(article)
 
     fetched = deduplicate(fetched)
     new_articles = [article for article in fetched if article["doi"] not in seen] if initialized else []
     new_dois = {article["doi"] for article in fetched}
-    combined_seen = sorted(seen | new_dois)
-
-    previous_articles = load_json(ARTICLES_PATH, {}).get("articles", [])
-    merged = deduplicate(fetched + previous_articles)[:500]
+    combined_seen = sorted((seen | new_dois) if initialized else new_dois)
     output = {
         "checked_at": checked_at,
         "journal_count": len(JOURNALS),
         "new_count": len(new_articles),
         "baseline_initialized": not initialized,
-        "articles": merged,
+        "scope_start": scope_start,
+        "scope_end": scope_end,
+        "articles": fetched,
         "new_dois": [article["doi"] for article in new_articles],
     }
-    state = {"initialized": True, "checked_at": checked_at, "seen_dois": combined_seen}
+    state = {
+        "initialized": True,
+        "scope_start": scope_start,
+        "checked_at": checked_at,
+        "seen_dois": combined_seen,
+    }
 
     atomic_write(ARTICLES_PATH, json.dumps(output, ensure_ascii=False, indent=2) + "\n")
     atomic_write(STATE_PATH, json.dumps(state, ensure_ascii=False, indent=2) + "\n")
@@ -180,18 +206,20 @@ def update(fixture: Path | None, lookback_days: int, rows: int) -> int:
         with open(github_output, "a", encoding="utf-8") as handle:
             handle.write(f"new_count={len(new_articles)}\n")
             handle.write(f"checked_date={datetime.now(SEOUL).date().isoformat()}\n")
-    print(f"Checked {len(fetched)} recent records; found {len(new_articles)} new DOI(s).")
+    print(
+        f"Checked {len(fetched)} records published from {scope_start} through {scope_end}; "
+        f"found {len(new_articles)} new DOI(s)."
+    )
     return 0
 
 
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--fixture", type=Path, help="Use a local Crossref response for testing")
-    parser.add_argument("--lookback-days", type=int, default=14)
     parser.add_argument("--rows", type=int, default=1000)
     args = parser.parse_args()
     try:
-        return update(args.fixture, args.lookback_days, args.rows)
+        return update(args.fixture, args.rows)
     except (urllib.error.URLError, TimeoutError, OSError, ValueError) as exc:
         print(f"Update failed: {exc}", file=sys.stderr)
         return 1
