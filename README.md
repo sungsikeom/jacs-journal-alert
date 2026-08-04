@@ -5,10 +5,11 @@ Journal of the American Chemical Society에 새로 등록된 논문을 DOI 기�
 ## 동작 방식
 
 1. GitHub Actions가 매일 Asia/Seoul 오전 9시 17분에 실행됩니다.
-2. Crossref에서 최근 14일 동안 색인된 JACS 논문 메타데이터를 조회합니다.
-3. `data/seen_dois.json`에 없는 DOI를 신규 논문으로 판정합니다.
-4. 첫 실행에서는 현재 결과를 기준선으로만 저장하고 알림을 만들지 않습니다.
-5. 이후 신규 DOI가 있으면 사이트의 NEW 표시를 갱신하고 GitHub Issue를 생성합니다.
+2. Crossref에서 매년 1월 1일부터 실행 당일까지 출간된 JACS 논문 메타데이터를 모두 조회합니다.
+3. 목록은 출간일 내림차순으로 정렬하여 최신 논문을 맨 위에 표시합니다.
+4. `data/seen_dois.json`에 없는 DOI를 신규 논문으로 판정합니다.
+5. 연도별 첫 실행에서는 해당 연도의 전체 결과를 기준선으로만 저장하고 알림을 만들지 않습니다.
+6. 이후 신규 DOI가 있으면 사이트의 NEW 표시를 갱신하고 GitHub Issue를 생성합니다.
 
 ## GitHub에서 처음 설정하기
 
