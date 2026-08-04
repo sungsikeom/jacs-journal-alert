@@ -70,12 +70,15 @@ def crossref_url(issn: str, start: str, end: str, rows: int, cursor: str) -> str
 def fetch_all_pages(issn: str, start: str, end: str, rows: int) -> list[dict[str, Any]]:
     items: list[dict[str, Any]] = []
     cursor = "*"
-    used_cursors: set[str] = set()
-    while cursor not in used_cursors:
-        used_cursors.add(cursor)
+    seen_pages: set[tuple[str, ...]] = set()
+    while True:
         payload = fetch_json(crossref_url(issn, start, end, rows, cursor))
         message = payload.get("message", {})
         page = message.get("items", [])
+        page_signature = tuple(normalize_doi(str(item.get("DOI", ""))) for item in page)
+        if page_signature in seen_pages:
+            raise RuntimeError("Crossref returned the same result page more than once")
+        seen_pages.add(page_signature)
         items.extend(page)
         next_cursor = message.get("next-cursor")
         if len(page) < rows or not next_cursor:
