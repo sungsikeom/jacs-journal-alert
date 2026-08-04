@@ -7,7 +7,12 @@ const escapeHtml = value => String(value ?? '').replace(/[&<>'"]/g, char => ({'&
 
 function render(query = '') {
   const needle = query.trim().toLowerCase();
-  const rows = payload.articles.filter(article => `${article.title} ${article.doi}`.toLowerCase().includes(needle));
+  const rows = [...payload.articles]
+    .filter(article => `${article.title} ${article.doi}`.toLowerCase().includes(needle))
+    .sort((a, b) => {
+      const byDate = String(b.published_date || '').localeCompare(String(a.published_date || ''));
+      return byDate || String(b.doi || '').localeCompare(String(a.doi || ''));
+    });
   container.innerHTML = rows.map((article, index) => {
     const isNew = payload.new_dois.includes(article.doi);
     return `<a class="article" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer">
