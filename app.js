@@ -1,6 +1,7 @@
 const container = document.querySelector('#articles');
 const empty = document.querySelector('#empty');
 const search = document.querySelector('#search');
+const publicationCutoff = '2026-01-01';
 let payload = { articles: [], new_dois: [] };
 
 const escapeHtml = value => String(value ?? '').replace(/[&<>'"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
@@ -8,6 +9,7 @@ const escapeHtml = value => String(value ?? '').replace(/[&<>'"]/g, char => ({'&
 function render(query = '') {
   const needle = query.trim().toLowerCase();
   const rows = [...payload.articles]
+    .filter(article => String(article.published_date || '') >= publicationCutoff)
     .filter(article => `${article.title} ${article.doi}`.toLowerCase().includes(needle))
     .sort((a, b) => {
       const byDate = String(b.published_date || '').localeCompare(String(a.published_date || ''));
