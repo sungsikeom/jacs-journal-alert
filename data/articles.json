@@ -1,9 +1,99 @@
 {
-  "checked_at": "2026-08-04T15:43:54+09:00",
+  "checked_at": "2026-08-04T15:49:08+09:00",
   "journal_count": 1,
-  "new_count": 0,
-  "baseline_initialized": true,
+  "new_count": 10,
+  "baseline_initialized": false,
   "articles": [
+    {
+      "doi": "10.1021/jacs.3c10659",
+      "title": "Significance of Epitaxial Growth of PtO<sub>2</sub> on Rutile TiO<sub>2</sub> for Pt/TiO<sub>2</sub> Catalysts",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2024-02-02",
+      "indexed_at": "2026-08-04T06:48:31Z",
+      "url": "https://doi.org/10.1021/jacs.3c10659"
+    },
+    {
+      "doi": "10.1021/ja9621760",
+      "title": "Development and Testing of the OPLS All-Atom Force Field on Conformational Energetics and Properties of Organic Liquids",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "1996-11-13",
+      "indexed_at": "2026-08-04T06:47:17Z",
+      "url": "https://doi.org/10.1021/ja9621760"
+    },
+    {
+      "doi": "10.1021/ja0296733",
+      "title": "Discovery of a Potent, Selective Protein Tyrosine Phosphatase 1B Inhibitor Using a Linked-Fragment Strategy",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2003-03-12",
+      "indexed_at": "2026-08-04T06:47:03Z",
+      "url": "https://doi.org/10.1021/ja0296733"
+    },
+    {
+      "doi": "10.1021/ja00058a075",
+      "title": "Structure of maitotoxin",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2002-05-01",
+      "indexed_at": "2026-08-04T06:46:10Z",
+      "url": "https://doi.org/10.1021/ja00058a075"
+    },
+    {
+      "doi": "10.1021/ja00090a032",
+      "title": "Flavonoids as Antioxidants",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2002-05-01",
+      "indexed_at": "2026-08-04T06:46:03Z",
+      "url": "https://doi.org/10.1021/ja00090a032"
+    },
+    {
+      "doi": "10.1021/ja057763c",
+      "title": "Planar Catechin Analogues with Alkyl Side Chains:  A Potent Antioxidant and an α-Glucosidase Inhibitor",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2006-05-03",
+      "indexed_at": "2026-08-04T06:45:59Z",
+      "url": "https://doi.org/10.1021/ja057763c"
+    },
+    {
+      "doi": "10.1021/ja00054a061",
+      "title": "Gambierol: a new toxic polyether compound isolated from the marine dinoflagellate Gambierdiscus toxicus",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2002-05-01",
+      "indexed_at": "2026-08-04T06:45:44Z",
+      "url": "https://doi.org/10.1021/ja00054a061"
+    },
+    {
+      "doi": "10.1021/ja0178259",
+      "title": "Enhanced Radical-Scavenging Activity of a Planar Catechin Analogue",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2002-05-07",
+      "indexed_at": "2026-08-04T06:45:32Z",
+      "url": "https://doi.org/10.1021/ja0178259"
+    },
+    {
+      "doi": "10.1021/jacs.9b13356",
+      "title": "Weak Bonds in a Biomimetic Adhesive Enhance Toughness and Performance",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2020-02-18",
+      "indexed_at": "2026-08-04T06:44:42Z",
+      "url": "https://doi.org/10.1021/jacs.9b13356"
+    },
+    {
+      "doi": "10.1021/ja049388e",
+      "title": "Ag-Catalyzed Asymmetric Mannich Reactions of Enol Ethers with Aryl, Alkyl, Alkenyl, and Alkynyl Imines",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2004-03-06",
+      "indexed_at": "2026-08-04T06:43:31Z",
+      "url": "https://doi.org/10.1021/ja049388e"
+    },
     {
       "doi": "10.1021/ja01389a007",
       "title": "THEORY OF THE SORET EFFECT",
@@ -4413,97 +4503,18 @@
       "published_date": "2024-03-07",
       "indexed_at": "2026-08-03T23:21:44Z",
       "url": "https://doi.org/10.1021/jacs.3c11907"
-    },
-    {
-      "doi": "10.1021/jacs.2c01153",
-      "title": "Regulating the Spin State of Fe<sup>III</sup> Enhances the Magnetic Effect of the Molecular Catalysis Mechanism",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2022-04-26",
-      "indexed_at": "2026-08-03T23:21:44Z",
-      "url": "https://doi.org/10.1021/jacs.2c01153"
-    },
-    {
-      "doi": "10.1021/jacs.1c07112",
-      "title": "Nickel-Catalyzed 1,2-Carboamination of Alkenyl Alcohols",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2021-08-20",
-      "indexed_at": "2026-08-03T23:21:43Z",
-      "url": "https://doi.org/10.1021/jacs.1c07112"
-    },
-    {
-      "doi": "10.1021/ja062526a",
-      "title": "Automated Search for New Thermoelectric Materials: The Case of LiZnSb",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2006-08-25",
-      "indexed_at": "2026-08-03T23:21:43Z",
-      "url": "https://doi.org/10.1021/ja062526a"
-    },
-    {
-      "doi": "10.1021/jacs.6b04299",
-      "title": "“Manganese Extraction” Strategy Enables Tumor-Sensitive Biodegradability and Theranostics of Nanoparticles",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2016-08-02",
-      "indexed_at": "2026-08-03T23:21:37Z",
-      "url": "https://doi.org/10.1021/jacs.6b04299"
-    },
-    {
-      "doi": "10.1021/jacs.9b10993",
-      "title": "Rosette Nanotube Porins as Ion Selective Transporters and Single-Molecule Sensors",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2020-01-08",
-      "indexed_at": "2026-08-03T23:21:35Z",
-      "url": "https://doi.org/10.1021/jacs.9b10993"
-    },
-    {
-      "doi": "10.1021/ja971981r",
-      "title": "Ligand-Promoted Alumina Dissolution in the Preparation of MoO<i><sub>X</sub></i>/γ-Al<sub>2</sub>O<sub>3</sub> Catalysts:  Evidence for the Formation and Deposition of an Anderson-type Alumino Heteropolymolybdate",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "1997-10-22",
-      "indexed_at": "2026-08-03T23:21:35Z",
-      "url": "https://doi.org/10.1021/ja971981r"
-    },
-    {
-      "doi": "10.1021/ja040107c",
-      "title": "Envisaging the Physicochemical Processes during the Preparation of Supported Catalysts:  Raman Microscopy on the Impregnation of Mo onto Al<sub>2</sub>O<sub>3</sub> Extrudates",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2004-10-19",
-      "indexed_at": "2026-08-03T23:21:35Z",
-      "url": "https://doi.org/10.1021/ja040107c"
-    },
-    {
-      "doi": "10.1021/jacs.2c04595",
-      "title": "Nanopore Identification of Alditol Epimers and Their Application in Rapid Analysis of Alditol-Containing Drinks and Healthcare Products",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2022-07-22",
-      "indexed_at": "2026-08-03T23:21:24Z",
-      "url": "https://doi.org/10.1021/jacs.2c04595"
-    },
-    {
-      "doi": "10.1021/jacs.7b03144",
-      "title": "Experimental and Theoretical Evaluation of the Stability of True MOF Polymorphs Explains Their Mechanochemical Interconversions",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2017-06-05",
-      "indexed_at": "2026-08-03T23:21:20Z",
-      "url": "https://doi.org/10.1021/jacs.7b03144"
-    },
-    {
-      "doi": "10.1021/jacs.3c06335",
-      "title": "Proton- versus Cation-Selective Transport of Saccharide Rim-Appended Pillar[5]arene Artificial Water Channels",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2023-09-28",
-      "indexed_at": "2026-08-03T23:21:15Z",
-      "url": "https://doi.org/10.1021/jacs.3c06335"
     }
   ],
-  "new_dois": []
+  "new_dois": [
+    "10.1021/jacs.3c10659",
+    "10.1021/ja9621760",
+    "10.1021/ja0296733",
+    "10.1021/ja00058a075",
+    "10.1021/ja00090a032",
+    "10.1021/ja057763c",
+    "10.1021/ja00054a061",
+    "10.1021/ja0178259",
+    "10.1021/jacs.9b13356",
+    "10.1021/ja049388e"
+  ]
 }
