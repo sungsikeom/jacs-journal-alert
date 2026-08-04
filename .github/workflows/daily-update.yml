@@ -1,4 +1,5 @@
 name: Daily JACS update
+# GitHub Pages enabled; this commit triggers the first Pages deployment.
 
 on:
   push:
