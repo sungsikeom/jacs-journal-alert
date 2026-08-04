@@ -1,6 +1,15 @@
 name: Daily JACS update
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/daily-update.yml"
+      - "scripts/**"
+      - "index.html"
+      - "app.js"
+      - "styles.css"
   schedule:
     - cron: "17 9 * * *"
       timezone: "Asia/Seoul"
