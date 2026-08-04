@@ -2,6 +2,8 @@
 
 Journal of the American Chemical Society에 새로 등록된 논문을 DOI 기준으로 확인하는 정적 웹사이트입니다. 논문 제목과 DOI, 공식 DOI 링크만 표시하며 초록과 본문은 수집하지 않습니다.
 
+사이트에서는 전체 논문과 이번 실행에서 새로 발견된 논문을 구분해 볼 수 있고, 제목·DOI 검색과 50편 단위 더 보기를 지원합니다.
+
 ## 동작 방식
 
 1. GitHub Actions가 매일 Asia/Seoul 오전 9시 17분에 실행됩니다.
@@ -38,6 +40,7 @@ Set-ExecutionPolicy -Scope Process Bypass
 
 ```bash
 python scripts/update_journals.py --fixture tests/fixtures/crossref_sample.json
+python -m unittest discover -s tests
 python -m http.server 8000
 ```
 

@@ -7,6 +7,7 @@ import argparse
 import html
 import json
 import os
+import re
 import sys
 import time
 import urllib.error
@@ -42,6 +43,13 @@ def normalize_doi(value: str) -> str:
         if value.startswith(prefix):
             value = value[len(prefix) :]
     return value
+
+
+def normalize_title(value: str) -> str:
+    """Convert Crossref's occasional inline markup into a plain-text title."""
+    value = html.unescape(value)
+    value = re.sub(r"<[^>]+>", "", value)
+    return " ".join(value.split()).strip()
 
 
 def first_date(item: dict[str, Any]) -> str | None:
@@ -135,7 +143,7 @@ def atomic_write(path: Path, payload: str) -> None:
 def article_from_item(item: dict[str, Any], journal: dict[str, str]) -> dict[str, Any] | None:
     doi = normalize_doi(str(item.get("DOI", "")))
     titles = item.get("title") or []
-    title = html.unescape(str(titles[0])).strip() if titles else ""
+    title = normalize_title(str(titles[0])) if titles else ""
     if not doi or not title:
         return None
     indexed = item.get("indexed", {}).get("date-time")
@@ -267,6 +275,7 @@ def update(fixture: Path | None, rows: int, acs_file: Path | None) -> int:
         "checked_at": checked_at,
         "journal_count": len(JOURNALS),
         "new_count": len(new_articles),
+        "total_count": len(fetched),
         "baseline_initialized": not initialized,
         "scope_start": scope_start,
         "scope_end": scope_end,
