@@ -41,11 +41,32 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Fetch recent JACS records
+      - name: Fetch and verify JACS records
         id: update
+        continue-on-error: true
         env:
           CROSSREF_MAILTO: ${{ vars.CROSSREF_MAILTO }}
-        run: python scripts/update_journals.py
+        run: |
+          set -o pipefail
+          python scripts/update_journals.py 2>&1 | tee /tmp/jacs-update.log
+
+      - name: Report collection failure
+        if: steps.update.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          {
+            echo "The ACS based JACS collection failed. Existing site data was preserved."
+            echo
+            echo '~~~text'
+            tail -n 80 /tmp/jacs-update.log
+            echo '~~~'
+          } > /tmp/jacs-failure.md
+          gh issue create --title "JACS collection failed · $(date -u +%F)" --body-file /tmp/jacs-failure.md
+
+      - name: Stop after collection failure
+        if: steps.update.outcome == 'failure'
+        run: exit 1
 
       - name: Commit updated metadata
         run: |
