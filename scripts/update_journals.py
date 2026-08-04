@@ -8,6 +8,7 @@ import html
 import json
 import os
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -83,7 +84,7 @@ def fetch_all_pages(issn: str, start: str, end: str, rows: int) -> list[dict[str
     return items
 
 
-def fetch_json(url: str) -> dict[str, Any]:
+def fetch_json(url: str, attempts: int = 6) -> dict[str, Any]:
     request = urllib.request.Request(
         url,
         headers={
@@ -91,8 +92,23 @@ def fetch_json(url: str) -> dict[str, Any]:
             "User-Agent": "JACSJournalAlert/1.0 (mailto:journal-alert@example.com)",
         },
     )
-    with urllib.request.urlopen(request, timeout=45) as response:
-        return json.load(response)
+    for attempt in range(attempts):
+        try:
+            with urllib.request.urlopen(request, timeout=45) as response:
+                return json.load(response)
+        except urllib.error.HTTPError as exc:
+            if exc.code != 429 and not 500 <= exc.code < 600:
+                raise
+            if attempt == attempts - 1:
+                raise
+            retry_after = exc.headers.get("Retry-After")
+            try:
+                delay = float(retry_after) if retry_after else 5 * (2**attempt)
+            except ValueError:
+                delay = 5 * (2**attempt)
+            print(f"Crossref returned HTTP {exc.code}; retrying in {delay:g} seconds.")
+            time.sleep(delay)
+    raise RuntimeError("Crossref request retry loop ended unexpectedly")
 
 
 def load_json(path: Path, fallback: Any) -> Any:
