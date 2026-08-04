@@ -23,6 +23,7 @@ ARTICLES_PATH = DATA_DIR / "articles.json"
 STATE_PATH = DATA_DIR / "seen_dois.json"
 ISSUE_BODY_PATH = DATA_DIR / "new_articles.md"
 SEOUL = timezone(timedelta(hours=9))
+SCOPE_VERSION = 2
 
 JOURNALS = [
     {
@@ -179,7 +180,11 @@ def update(fixture: Path | None, rows: int) -> int:
     scope_start = f"{today.year:04d}-01-01"
     scope_end = today.isoformat()
     old_state = load_json(STATE_PATH, {})
-    initialized = bool(old_state.get("initialized")) and old_state.get("scope_start") == scope_start
+    initialized = (
+        bool(old_state.get("initialized"))
+        and old_state.get("scope_start") == scope_start
+        and old_state.get("scope_version") == SCOPE_VERSION
+    )
     seen = {normalize_doi(value) for value in old_state.get("seen_dois", [])}
     fetched: list[dict[str, Any]] = []
 
@@ -211,6 +216,7 @@ def update(fixture: Path | None, rows: int) -> int:
     }
     state = {
         "initialized": True,
+        "scope_version": SCOPE_VERSION,
         "scope_start": scope_start,
         "checked_at": checked_at,
         "seen_dois": combined_seen,
