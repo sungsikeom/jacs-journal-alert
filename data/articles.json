@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-05T12:55:36+09:00",
+  "checked_at": "2026-08-05T12:59:38+09:00",
   "journal_count": 2,
   "new_count": 0,
   "total_count": 3714,
@@ -35002,6 +35002,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c22860",
+      "title": "Deep Learning Assisted Proton Pure Shift NMR Spectroscopy",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-02",
+      "indexed_at": "2026-08-05T03:55:47Z",
+      "url": "https://doi.org/10.1021/jacs.5c22860",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c00735",
       "title": "Ultrasound-Activated Prodrugs for Tumor-Specific Immunotherapy",
       "journal": "Journal of the American Chemical Society",
@@ -35136,19 +35149,6 @@
       "published_date": "2026-03-02",
       "indexed_at": "2026-07-17T23:13:10Z",
       "url": "https://doi.org/10.1021/jacs.5c20016",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c22860",
-      "title": "Deep Learning Assisted Proton Pure Shift NMR Spectroscopy",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-02",
-      "indexed_at": "2026-07-17T02:54:55Z",
-      "url": "https://doi.org/10.1021/jacs.5c22860",
       "sources": [
         "acs",
         "crossref"
