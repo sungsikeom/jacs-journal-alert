@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="JACS와 Science Research Articles의 논문 제목과 DOI를 매일 확인합니다.">
   <title>Journal Pulse · JACS &amp; Science</title>
-  <link rel="stylesheet" href="styles.css?v=20260805-1">
+  <link rel="stylesheet" href="styles.css?v=20260805-2">
 </head>
 <body>
   <main>
@@ -38,14 +38,20 @@
         <div><p class="eyebrow">LATEST RECORDS</p><h2 id="list-title">최근 확인된 논문</h2><p id="result-summary" class="result-summary" aria-live="polite"></p></div>
         <div class="controls">
           <div class="filter-groups">
-            <div class="filters" role="group" aria-label="저널 선택">
-              <button class="filter journal-filter is-active" type="button" data-journal="all">모든 저널</button>
-              <button class="filter journal-filter" type="button" data-journal="JACS">JACS</button>
-              <button class="filter journal-filter" type="button" data-journal="Science">Science</button>
+            <div class="filter-group">
+              <span class="filter-label">저널</span>
+              <div class="filters" role="group" aria-label="저널 선택">
+                <button class="filter journal-filter is-active" type="button" data-journal="all">모든 저널</button>
+                <button class="filter journal-filter" type="button" data-journal="JACS">JACS</button>
+                <button class="filter journal-filter" type="button" data-journal="Science">Science</button>
+              </div>
             </div>
-            <div class="filters" role="group" aria-label="논문 범위">
-              <button class="filter scope-filter is-active" type="button" data-filter="all">전체</button>
-              <button class="filter scope-filter" type="button" data-filter="new">신규</button>
+            <div class="filter-group">
+              <span class="filter-label">범위</span>
+              <div class="filters" role="group" aria-label="논문 범위">
+                <button class="filter scope-filter is-active" type="button" data-filter="all">전체</button>
+                <button class="filter scope-filter" type="button" data-filter="new">신규</button>
+              </div>
             </div>
           </div>
           <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="제목 또는 DOI 검색" aria-label="논문 검색"></label>
