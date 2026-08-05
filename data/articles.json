@@ -1,13 +1,26 @@
 {
-  "checked_at": "2026-08-05T09:30:33+09:00",
+  "checked_at": "2026-08-05T12:30:30+09:00",
   "journal_count": 1,
-  "new_count": 18,
+  "new_count": 0,
   "total_count": 3161,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "scope_end": "2026-08-05",
   "source_mode": "acs+crossref",
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c10939",
+      "title": "Photocatalytic Activation of Fluoroform for Radical Trifluoromethylation",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-08-04",
+      "indexed_at": "2026-08-05T00:48:49Z",
+      "url": "https://doi.org/10.1021/jacs.6c10939",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
     {
       "doi": "10.1021/jacs.6c04854",
       "title": "Chiral N-Heterocyclic Carbene On-Surface Induced Electronic Spin Filtration",
@@ -262,18 +275,6 @@
       "published_date": "2026-08-04",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/jacs.6c12051",
-      "sources": [
-        "acs"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c10939",
-      "title": "Photocatalytic Activation of Fluoroform for Radical Trifluoromethylation",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-08-04",
-      "indexed_at": null,
-      "url": "https://doi.org/10.1021/jacs.6c10939",
       "sources": [
         "acs"
       ]
@@ -4842,6 +4843,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c05865",
+      "title": "Probing the Role of Accessory Domains in Oxygen Stability of [FeFe]-Hydrogenases",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-07-10",
+      "indexed_at": "2026-08-05T02:09:46Z",
+      "url": "https://doi.org/10.1021/jacs.6c05865",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c06538",
       "title": "Photoinduced Enhancement of Chemical Shift Sensitivity to Local Vibrations",
       "journal": "Journal of the American Chemical Society",
@@ -5003,19 +5017,6 @@
       "published_date": "2026-07-10",
       "indexed_at": "2026-07-22T15:07:00Z",
       "url": "https://doi.org/10.1021/jacs.6c03972",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c05865",
-      "title": "Probing the Role of Accessory Domains in Oxygen Stability of [FeFe]-Hydrogenases",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-07-10",
-      "indexed_at": "2026-07-22T15:06:59Z",
-      "url": "https://doi.org/10.1021/jacs.6c05865",
       "sources": [
         "acs",
         "crossref"
@@ -6176,6 +6177,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c05171",
+      "title": "Radical Cascades on Seawater Microdroplets Drive Atmospheric Mercury Oxidation",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-07-05",
+      "indexed_at": "2026-08-05T02:08:18Z",
+      "url": "https://doi.org/10.1021/jacs.6c05171",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c06642",
       "title": "Unlocking Electronic Spatiotemporal Confinement to Activate FeMn-Based Phosphates for High Energy Density and Ultra-Wide Temperature Na Storage",
       "journal": "Journal of the American Chemical Society",
@@ -6183,19 +6197,6 @@
       "published_date": "2026-07-05",
       "indexed_at": "2026-07-30T10:56:33Z",
       "url": "https://doi.org/10.1021/jacs.6c06642",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c05171",
-      "title": "Radical Cascades on Seawater Microdroplets Drive Atmospheric Mercury Oxidation",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-07-05",
-      "indexed_at": "2026-07-15T19:03:14Z",
-      "url": "https://doi.org/10.1021/jacs.6c05171",
       "sources": [
         "acs",
         "crossref"
@@ -10629,6 +10630,18 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c07710",
+      "title": "Synthesis and Properties of Stable Oxo-Bridged Dinuclear Pr IV Complexes",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-06-15",
+      "indexed_at": "2026-08-05T00:57:48Z",
+      "url": "https://doi.org/10.1021/jacs.6c07710",
+      "sources": [
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c06492",
       "title": "Freestanding Ordered Intermetallic Nanomembranes Released from Etchable Oxide Templates",
       "journal": "Journal of the American Chemical Society",
@@ -10910,18 +10923,6 @@
       "url": "https://doi.org/10.1021/jacs.6c04846",
       "sources": [
         "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c07710",
-      "title": "Synthesis and Properties of Stable Oxo-Bridged Dinuclear Pr IV Complexes",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-06-15",
-      "indexed_at": "2026-07-10T08:19:49Z",
-      "url": "https://doi.org/10.1021/jacs.6c07710",
-      "sources": [
         "crossref"
       ]
     },
@@ -11576,6 +11577,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c09326",
+      "title": "Dynamic Molecular Crystal Triggered by Near-Ambient Intramolecular Twisting for Switchable Luminescence and Two-Photon Absorption",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-06-10",
+      "indexed_at": "2026-08-05T01:55:18Z",
+      "url": "https://doi.org/10.1021/jacs.6c09326",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jav148i022_2088244",
       "title": "Issue Editorial Masthead",
       "journal": "Journal of the American Chemical Society",
@@ -11814,19 +11828,6 @@
       "published_date": "2026-06-10",
       "indexed_at": "2026-06-24T08:48:19Z",
       "url": "https://doi.org/10.1021/jacs.6c07454",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c09326",
-      "title": "Dynamic Molecular Crystal Triggered by Near-Ambient Intramolecular Twisting for Switchable Luminescence and Two-Photon Absorption",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-06-10",
-      "indexed_at": "2026-06-24T08:48:18Z",
-      "url": "https://doi.org/10.1021/jacs.6c09326",
       "sources": [
         "acs",
         "crossref"
@@ -12505,6 +12506,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c08076",
+      "title": "Phosphonium Ions as Activating Groups for the Selective Alkylation of Pyridines and Polyazines",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-06-05",
+      "indexed_at": "2026-08-05T01:11:31Z",
+      "url": "https://doi.org/10.1021/jacs.6c08076",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c08657",
       "title": "Band Gap Renormalization Drives Ultrafast Charge Separation and Slow Recombination in Covalently Functionalized Carbon Nanotubes: Nonadiabatic Molecular Dynamics Simulation",
       "journal": "Journal of the American Chemical Society",
@@ -12512,19 +12526,6 @@
       "published_date": "2026-06-05",
       "indexed_at": "2026-07-31T03:59:02Z",
       "url": "https://doi.org/10.1021/jacs.6c08657",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c08076",
-      "title": "Phosphonium Ions as Activating Groups for the Selective Alkylation of Pyridines and Polyazines",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-06-05",
-      "indexed_at": "2026-07-31T03:59:00Z",
-      "url": "https://doi.org/10.1021/jacs.6c08076",
       "sources": [
         "acs",
         "crossref"
@@ -12596,6 +12597,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c04785",
+      "title": "Covalent Functionalization of Dawson-Type Polyoxometalates to Achieve a Zero to Three-Dimensional Transition for Enhanced Proton Conductivity",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-06-04",
+      "indexed_at": "2026-08-05T01:55:14Z",
+      "url": "https://doi.org/10.1021/jacs.6c04785",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c04967",
       "title": "Three-State Electrochiroptical Switches Derived from Chiral Stable Carbenes",
       "journal": "Journal of the American Chemical Society",
@@ -12656,19 +12670,6 @@
       "indexed_at": "2026-07-31T03:58:54Z",
       "url": "https://doi.org/10.1021/jacs.6c05275",
       "sources": [
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c04785",
-      "title": "Covalent Functionalization of Dawson-Type Polyoxometalates to Achieve a Zero to Three-Dimensional Transition for Enhanced Proton Conductivity",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-06-04",
-      "indexed_at": "2026-07-31T03:58:54Z",
-      "url": "https://doi.org/10.1021/jacs.6c04785",
-      "sources": [
-        "acs",
         "crossref"
       ]
     },
@@ -12834,6 +12835,19 @@
       "published_date": "2026-06-04",
       "indexed_at": "2026-07-15T18:09:27Z",
       "url": "https://doi.org/10.1021/jacs.6c00792",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c01928",
+      "title": "Thermodynamic Control of Facet Chemistry for Precise Solid-State Synthesis of Na Layered Cathodes",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-06-03",
+      "indexed_at": "2026-08-05T00:50:47Z",
+      "url": "https://doi.org/10.1021/jacs.6c01928",
       "sources": [
         "acs",
         "crossref"
@@ -13078,19 +13092,6 @@
       "indexed_at": "2026-07-31T03:58:31Z",
       "url": "https://doi.org/10.1021/jacs.6c00516",
       "sources": [
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c01928",
-      "title": "Thermodynamic Control of Facet Chemistry for Precise Solid-State Synthesis of Na Layered Cathodes",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-06-03",
-      "indexed_at": "2026-07-22T15:08:17Z",
-      "url": "https://doi.org/10.1021/jacs.6c01928",
-      "sources": [
-        "acs",
         "crossref"
       ]
     },
@@ -13816,6 +13817,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c06599",
+      "title": "Optimized Biomimetic Syntheses of Discorhabdin B and Aleutianamine Drives a Deeper Exploration of Their Anticancer Potential",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-05-29",
+      "indexed_at": "2026-08-05T01:55:53Z",
+      "url": "https://doi.org/10.1021/jacs.6c06599",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c01656",
       "title": "Hypervalent Iodine-Mediated Stereotactic Amidation Enables COF-to-COF Transformation for Supercapacitors",
       "journal": "Journal of the American Chemical Society",
@@ -13953,19 +13967,6 @@
       "published_date": "2026-05-29",
       "indexed_at": "2026-06-10T09:00:57Z",
       "url": "https://doi.org/10.1021/jacs.6c06340",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c06599",
-      "title": "Optimized Biomimetic Syntheses of Discorhabdin B and Aleutianamine Drives a Deeper Exploration of Their Anticancer Potential",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-05-29",
-      "indexed_at": "2026-06-10T09:00:55Z",
-      "url": "https://doi.org/10.1021/jacs.6c06599",
       "sources": [
         "acs",
         "crossref"
@@ -14698,6 +14699,44 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c04783",
+      "title": "Ligand-Symmetry-Driven Metal-Cluster Rotation for Accessing Compressed Pore Regimes in Metal–Organic Frameworks",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-05-25",
+      "indexed_at": "2026-08-05T00:56:58Z",
+      "url": "https://doi.org/10.1021/jacs.6c04783",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c06828",
+      "title": "NaI-Mediated Defluorination: A Mild Route to Reduced Ruddlesden–Popper Oxyfluorides Demonstrated on La 2 CoO 3 F 3 as Model System",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-05-25",
+      "indexed_at": "2026-08-05T00:39:51Z",
+      "url": "https://doi.org/10.1021/jacs.6c06828",
+      "sources": [
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c06415",
+      "title": "Coating-Integrated Joule Heating Architecture for Energy-Efficient Hydrogen Release from Chemical Carriers",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-05-25",
+      "indexed_at": "2026-08-05T00:35:38Z",
+      "url": "https://doi.org/10.1021/jacs.6c06415",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c02343",
       "title": "AI-Guided De Novo Design of a Caffeine-Induced Protein Dissociation System",
       "journal": "Journal of the American Chemical Society",
@@ -14750,19 +14789,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.6c04783",
-      "title": "Ligand-Symmetry-Driven Metal-Cluster Rotation for Accessing Compressed Pore Regimes in Metal–Organic Frameworks",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-05-25",
-      "indexed_at": "2026-07-09T12:12:41Z",
-      "url": "https://doi.org/10.1021/jacs.6c04783",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.6c05609",
       "title": "Theory-Guided Synthesis of Stable Low-Nuclearity Cluster Catalysts via Atom-Stabilizer Locking",
       "journal": "Journal of the American Chemical Society",
@@ -14802,19 +14828,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.6c06415",
-      "title": "Coating-Integrated Joule Heating Architecture for Energy-Efficient Hydrogen Release from Chemical Carriers",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-05-25",
-      "indexed_at": "2026-06-10T09:03:22Z",
-      "url": "https://doi.org/10.1021/jacs.6c06415",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.6c01137",
       "title": "Cd-Rich Shell-Engineered ZnCdS Nanocrystals for Ultrahigh-Performance Adjustable Shielding of Ultraviolet–Blue Light",
       "journal": "Journal of the American Chemical Society",
@@ -14837,18 +14850,6 @@
       "url": "https://doi.org/10.1021/jacs.6c03329",
       "sources": [
         "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c06828",
-      "title": "NaI-Mediated Defluorination: A Mild Route to Reduced Ruddlesden–Popper Oxyfluorides Demonstrated on La 2 CoO 3 F 3 as Model System",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-05-25",
-      "indexed_at": "2026-06-10T09:01:36Z",
-      "url": "https://doi.org/10.1021/jacs.6c06828",
-      "sources": [
         "crossref"
       ]
     },
@@ -14962,7 +14963,7 @@
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-05-23",
-      "indexed_at": "2026-06-10T09:01:37Z",
+      "indexed_at": "2026-08-05T02:17:16Z",
       "url": "https://doi.org/10.1021/jacs.6c04647",
       "sources": [
         "acs",
@@ -15026,7 +15027,7 @@
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-05-22",
-      "indexed_at": "2026-07-22T05:26:20Z",
+      "indexed_at": "2026-08-05T01:04:31Z",
       "url": "https://doi.org/10.1021/jacs.6c04423",
       "sources": [
         "acs",
@@ -15151,6 +15152,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c02510",
+      "title": "Cavity-Reconstructed Exciton Relaxation and Charge Transfer in WS 2 /MoS 2 Junctions",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-05-21",
+      "indexed_at": "2026-08-05T01:47:02Z",
+      "url": "https://doi.org/10.1021/jacs.6c02510",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c22299",
       "title": "A Zeolite-MOF Synergy: Multi-Shell Nanoreactors for Tandem Catalysis",
       "journal": "Journal of the American Chemical Society",
@@ -15223,19 +15237,6 @@
       "published_date": "2026-05-21",
       "indexed_at": "2026-06-03T09:17:10Z",
       "url": "https://doi.org/10.1021/jacs.6c03590",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c02510",
-      "title": "Cavity-Reconstructed Exciton Relaxation and Charge Transfer in WS 2 /MoS 2 Junctions",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-05-21",
-      "indexed_at": "2026-06-03T09:16:41Z",
-      "url": "https://doi.org/10.1021/jacs.6c02510",
       "sources": [
         "acs",
         "crossref"
@@ -15700,6 +15701,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c06952",
+      "title": "High-Fidelity Transfer of Chiral Sulfonimidoyl Radicals",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-05-19",
+      "indexed_at": "2026-08-05T01:50:59Z",
+      "url": "https://doi.org/10.1021/jacs.6c06952",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c02162",
       "title": "Enzyme-Free Phosphorylation with Kinetic Gating in a De Novo Coiled-Coil System",
       "journal": "Journal of the American Chemical Society",
@@ -15829,19 +15843,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.6c06952",
-      "title": "High-Fidelity Transfer of Chiral Sulfonimidoyl Radicals",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-05-19",
-      "indexed_at": "2026-06-03T09:17:15Z",
-      "url": "https://doi.org/10.1021/jacs.6c06952",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.6c02368",
       "title": "A Hydrophobic Fe-Based Metal–Organic Framework with Hierarchical Micropores for Adsorption of Indoor Trace VOCs",
       "journal": "Journal of the American Chemical Society",
@@ -15907,6 +15908,31 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c05585",
+      "title": "Deciphering Competitive Kinetics in Nitrate Reduction via Mechanistic Modeling: Impact of Ru and Pd Dopants on Reaction Selectivity",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-05-18",
+      "indexed_at": "2026-08-05T02:59:34Z",
+      "url": "https://doi.org/10.1021/jacs.6c05585",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c03753",
+      "title": "A Synthetic Molybdenum Hydroxylase Compound That Cleaves C–H Bonds by Hydride Abstraction",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-05-18",
+      "indexed_at": "2026-08-05T01:07:05Z",
+      "url": "https://doi.org/10.1021/jacs.6c03753",
+      "sources": [
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c03702",
       "title": "Stenhouse Zwitterion Photoswitches as Hydrogen-Bond Acceptors",
       "journal": "Journal of the American Chemical Society",
@@ -15941,19 +15967,6 @@
       "indexed_at": "2026-07-24T16:22:19Z",
       "url": "https://doi.org/10.1021/jacs.6c05401",
       "sources": [
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c05585",
-      "title": "Deciphering Competitive Kinetics in Nitrate Reduction via Mechanistic Modeling: Impact of Ru and Pd Dopants on Reaction Selectivity",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-05-18",
-      "indexed_at": "2026-07-24T03:48:48Z",
-      "url": "https://doi.org/10.1021/jacs.6c05585",
-      "sources": [
-        "acs",
         "crossref"
       ]
     },
@@ -16111,18 +16124,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.6c03753",
-      "title": "A Synthetic Molybdenum Hydroxylase Compound That Cleaves C–H Bonds by Hydride Abstraction",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-05-18",
-      "indexed_at": "2026-06-03T09:13:11Z",
-      "url": "https://doi.org/10.1021/jacs.6c03753",
-      "sources": [
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.6c07733",
       "title": "Conformationally Switchable Molecular Trefoil Knot Assembled From 2,6-Bis(1,2,3-triazol-4-yl)pyridine (btp) Building Blocks",
       "journal": "Journal of the American Chemical Society",
@@ -16219,7 +16220,7 @@
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-05-15",
-      "indexed_at": "2026-07-31T10:21:38Z",
+      "indexed_at": "2026-08-05T00:44:08Z",
       "url": "https://doi.org/10.1021/jacs.6c00069",
       "sources": [
         "crossref"
@@ -16880,6 +16881,32 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c04832",
+      "title": "Synthesis of Distal 1,4-Diaxial Atropisomers: CPA-Catalyzed Atroposelective (3 + 3)-Annulation via a Desymmetrization Strategy",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-05-13",
+      "indexed_at": "2026-08-05T02:20:55Z",
+      "url": "https://doi.org/10.1021/jacs.6c04832",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c05805",
+      "title": "Iron-Catalyzed Selective C(sp 2 )–C(sp 3 ) Coupling of Nitro(hetero)arenes and Alkyl Bromides by Paired Electrolysis",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-05-13",
+      "indexed_at": "2026-08-05T01:43:08Z",
+      "url": "https://doi.org/10.1021/jacs.6c05805",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c04456",
       "title": "Framework for Speciation-Gated Mass Transfer at Liquid–Liquid Interfaces",
       "journal": "Journal of the American Chemical Society",
@@ -16932,19 +16959,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.6c05805",
-      "title": "Iron-Catalyzed Selective C(sp 2 )–C(sp 3 ) Coupling of Nitro(hetero)arenes and Alkyl Bromides by Paired Electrolysis",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-05-13",
-      "indexed_at": "2026-06-17T14:50:17Z",
-      "url": "https://doi.org/10.1021/jacs.6c05805",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.6c05118",
       "title": "Tailored Synergistic Vibronic Progression and Charge Transfer in 1,2-BN-Heteroarenes for Efficient and Stable Narrowband Electroluminescence",
       "journal": "Journal of the American Chemical Society",
@@ -16978,19 +16992,6 @@
       "published_date": "2026-05-13",
       "indexed_at": "2026-05-27T09:03:32Z",
       "url": "https://doi.org/10.1021/jacs.6c05255",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c04832",
-      "title": "Synthesis of Distal 1,4-Diaxial Atropisomers: CPA-Catalyzed Atroposelective (3 + 3)-Annulation via a Desymmetrization Strategy",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-05-13",
-      "indexed_at": "2026-05-27T09:03:28Z",
-      "url": "https://doi.org/10.1021/jacs.6c04832",
       "sources": [
         "acs",
         "crossref"
@@ -17596,7 +17597,7 @@
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-05-08",
-      "indexed_at": "2026-07-31T19:32:10Z",
+      "indexed_at": "2026-08-05T02:08:03Z",
       "url": "https://doi.org/10.1021/jacs.6c05890",
       "sources": [
         "acs",
@@ -18080,6 +18081,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c00611",
+      "title": "Compositionally Complex Doping Enables High-Voltage Spinel Cathodes with Ultrafast Charging and Chemo-Electro-Mechanical Stability",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-05-06",
+      "indexed_at": "2026-08-05T01:00:21Z",
+      "url": "https://doi.org/10.1021/jacs.6c00611",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c03373",
       "title": "Organophosphinidene in a T-Shaped Environment",
       "journal": "Journal of the American Chemical Society",
@@ -18100,19 +18114,6 @@
       "published_date": "2026-05-06",
       "indexed_at": "2026-07-29T19:00:43Z",
       "url": "https://doi.org/10.1021/jacs.6c03124",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c00611",
-      "title": "Compositionally Complex Doping Enables High-Voltage Spinel Cathodes with Ultrafast Charging and Chemo-Electro-Mechanical Stability",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-05-06",
-      "indexed_at": "2026-07-27T09:04:42Z",
-      "url": "https://doi.org/10.1021/jacs.6c00611",
       "sources": [
         "acs",
         "crossref"
@@ -18937,6 +18938,32 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c03001",
+      "title": "Anion Coordination Transition Enabled by Ion–Dipole Interactions At Low Temperatures",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-04-30",
+      "indexed_at": "2026-08-05T02:24:08Z",
+      "url": "https://doi.org/10.1021/jacs.6c03001",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c23182",
+      "title": "Engineering Structural Transitions in a Multilevel Molecular Switch via Intermolecular Coupling",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-04-30",
+      "indexed_at": "2026-08-05T00:33:50Z",
+      "url": "https://doi.org/10.1021/jacs.5c23182",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c00999",
       "title": "A Functional Model of Diiron Nitrite Reductases: Overcoming Catalyst Poisoning in the Diiron-Mediated Catalytic Reduction of Nitrite to Nitric Oxide",
       "journal": "Journal of the American Chemical Society",
@@ -18957,19 +18984,6 @@
       "published_date": "2026-04-30",
       "indexed_at": "2026-07-27T09:04:26Z",
       "url": "https://doi.org/10.1021/jacs.5c23370",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c23182",
-      "title": "Engineering Structural Transitions in a Multilevel Molecular Switch via Intermolecular Coupling",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-04-30",
-      "indexed_at": "2026-07-27T09:04:16Z",
-      "url": "https://doi.org/10.1021/jacs.5c23182",
       "sources": [
         "acs",
         "crossref"
@@ -19009,19 +19023,6 @@
       "published_date": "2026-04-30",
       "indexed_at": "2026-07-11T11:16:56Z",
       "url": "https://doi.org/10.1021/jacs.5c21811",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c03001",
-      "title": "Anion Coordination Transition Enabled by Ion–Dipole Interactions At Low Temperatures",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-04-30",
-      "indexed_at": "2026-07-09T18:03:20Z",
-      "url": "https://doi.org/10.1021/jacs.6c03001",
       "sources": [
         "acs",
         "crossref"
@@ -19210,6 +19211,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c06067",
+      "title": "Chemoenzymatic Synthesis with Plant Oxidases and Metabolic Engineering Enable Rapid Access to Rare Gibberellins",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-04-29",
+      "indexed_at": "2026-08-05T01:54:10Z",
+      "url": "https://doi.org/10.1021/jacs.6c06067",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c05941",
       "title": "Ni II –Pd II as a More Solution-Stable Paddlewheel Alternative to Cu II –Cu II in Metal–Organic Cages",
       "journal": "Journal of the American Chemical Society",
@@ -19327,19 +19341,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.6c06067",
-      "title": "Chemoenzymatic Synthesis with Plant Oxidases and Metabolic Engineering Enable Rapid Access to Rare Gibberellins",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-04-29",
-      "indexed_at": "2026-05-13T15:13:22Z",
-      "url": "https://doi.org/10.1021/jacs.6c06067",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.6c03132",
       "title": "SPACESHIP: Autonomous Mapping of Hardware-Dependent Synthesizable Space in Solution-Phase Gold Nanomaterials",
       "journal": "Journal of the American Chemical Society",
@@ -19429,6 +19430,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c21431",
+      "title": "Molecular Probing in a Metal–Organic Framework for Selective Gas Adsorption and Separation",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-04-28",
+      "indexed_at": "2026-08-05T01:56:15Z",
+      "url": "https://doi.org/10.1021/jacs.5c21431",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c02244",
       "title": "One-Shot Carbon Insertion Unlocks Polycyclic Frameworks and Near-Infrared Photocatalysts",
       "journal": "Journal of the American Chemical Society",
@@ -19448,19 +19462,6 @@
       "published_date": "2026-04-28",
       "indexed_at": "2026-08-04T16:03:11Z",
       "url": "https://doi.org/10.1021/jacs.5c21680",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c21431",
-      "title": "Molecular Probing in a Metal–Organic Framework for Selective Gas Adsorption and Separation",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-04-28",
-      "indexed_at": "2026-07-31T18:54:27Z",
-      "url": "https://doi.org/10.1021/jacs.5c21431",
       "sources": [
         "acs",
         "crossref"
@@ -19740,13 +19741,13 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.6c00931",
-      "title": "Driving Efficient Tandem Catalysis by Coupling Distinct Active Sites within a Ternary Hydride Lattice",
+      "doi": "10.1021/jacs.5c21778",
+      "title": "A Critical Reappraisal of the Evidence for Spontaneous Generation of Hydroxyl Radicals in Aqueous Nanodroplets",
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-04-27",
-      "indexed_at": "2026-08-01T00:47:47Z",
-      "url": "https://doi.org/10.1021/jacs.6c00931",
+      "indexed_at": "2026-08-05T02:07:38Z",
+      "url": "https://doi.org/10.1021/jacs.5c21778",
       "sources": [
         "acs",
         "crossref"
@@ -19758,7 +19759,7 @@
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-04-27",
-      "indexed_at": "2026-07-29T18:56:13Z",
+      "indexed_at": "2026-08-05T01:51:30Z",
       "url": "https://doi.org/10.1021/jacs.6c03062",
       "sources": [
         "acs",
@@ -19766,13 +19767,13 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.5c21778",
-      "title": "A Critical Reappraisal of the Evidence for Spontaneous Generation of Hydroxyl Radicals in Aqueous Nanodroplets",
+      "doi": "10.1021/jacs.6c00931",
+      "title": "Driving Efficient Tandem Catalysis by Coupling Distinct Active Sites within a Ternary Hydride Lattice",
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-04-27",
-      "indexed_at": "2026-07-29T04:52:40Z",
-      "url": "https://doi.org/10.1021/jacs.5c21778",
+      "indexed_at": "2026-08-01T00:47:47Z",
+      "url": "https://doi.org/10.1021/jacs.6c00931",
       "sources": [
         "acs",
         "crossref"
@@ -20218,6 +20219,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c05415",
+      "title": "Breaking the Trade-off in MPI-Guided Magnetic Hyperthermia by Tailoring the Dynamic Magnetization of Magnetic Nanoparticles via Site-Selective Trace Doping",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-04-23",
+      "indexed_at": "2026-08-05T00:58:08Z",
+      "url": "https://doi.org/10.1021/jacs.6c05415",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c05777",
       "title": "Overcoming the Barrier to Intermolecular Alkoxy Radical Reactivity: Proton-Coupled Electron Transfer-Mediated Alkene Hydroetherification",
       "journal": "Journal of the American Chemical Society",
@@ -20309,19 +20323,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.6c05415",
-      "title": "Breaking the Trade-off in MPI-Guided Magnetic Hyperthermia by Tailoring the Dynamic Magnetization of Magnetic Nanoparticles via Site-Selective Trace Doping",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-04-23",
-      "indexed_at": "2026-05-06T09:19:30Z",
-      "url": "https://doi.org/10.1021/jacs.6c05415",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.6c03063",
       "title": "Universal Approach for the Depolymerization of Polyamides via Photothermal Conversion",
       "journal": "Journal of the American Chemical Society",
@@ -20329,6 +20330,32 @@
       "published_date": "2026-04-23",
       "indexed_at": "2026-05-06T09:18:34Z",
       "url": "https://doi.org/10.1021/jacs.6c03063",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c01880",
+      "title": "Martensitic Transition Associated with Spin-Crossover Enabling Crystal Jumping and Pyroelectric Response",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-04-22",
+      "indexed_at": "2026-08-05T01:05:49Z",
+      "url": "https://doi.org/10.1021/jacs.6c01880",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c00850",
+      "title": "Generalizing Pore-Space Partitioning in Metal–Organic Frameworks",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-04-22",
+      "indexed_at": "2026-08-05T00:55:42Z",
+      "url": "https://doi.org/10.1021/jacs.6c00850",
       "sources": [
         "acs",
         "crossref"
@@ -20368,19 +20395,6 @@
       "published_date": "2026-04-22",
       "indexed_at": "2026-07-16T12:48:52Z",
       "url": "https://doi.org/10.1021/jacs.6c02735",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c00850",
-      "title": "Generalizing Pore-Space Partitioning in Metal–Organic Frameworks",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-04-22",
-      "indexed_at": "2026-07-09T12:12:40Z",
-      "url": "https://doi.org/10.1021/jacs.6c00850",
       "sources": [
         "acs",
         "crossref"
@@ -20509,19 +20523,6 @@
       "published_date": "2026-04-22",
       "indexed_at": "2026-05-06T09:19:29Z",
       "url": "https://doi.org/10.1021/jacs.6c02348",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c01880",
-      "title": "Martensitic Transition Associated with Spin-Crossover Enabling Crystal Jumping and Pyroelectric Response",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-04-22",
-      "indexed_at": "2026-05-06T09:18:33Z",
-      "url": "https://doi.org/10.1021/jacs.6c01880",
       "sources": [
         "acs",
         "crossref"
@@ -21053,14 +21054,15 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.5c22488",
-      "title": "Photophysics of Iodine-Substituted Oxyluciferins: Observation of Simultaneous High Fluorescence Quantum Yields and Singlet Oxygen Sensitization",
+      "doi": "10.1021/jacs.5c19985",
+      "title": "Prussian Blue Analogues with Entropically Stabilized Coordination Environment for High-Energy and Long-Life Aqueous Potassium-Ion Batteries",
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-04-17",
-      "indexed_at": "2026-07-31T23:04:07Z",
-      "url": "https://doi.org/10.1021/jacs.5c22488",
+      "indexed_at": "2026-08-05T03:10:14Z",
+      "url": "https://doi.org/10.1021/jacs.5c19985",
       "sources": [
+        "acs",
         "crossref"
       ]
     },
@@ -21070,7 +21072,7 @@
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-04-17",
-      "indexed_at": "2026-07-31T11:39:12Z",
+      "indexed_at": "2026-08-05T01:04:46Z",
       "url": "https://doi.org/10.1021/jacs.6c00776",
       "sources": [
         "crossref"
@@ -21082,10 +21084,22 @@
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-04-17",
-      "indexed_at": "2026-07-30T16:06:52Z",
+      "indexed_at": "2026-08-05T00:58:22Z",
       "url": "https://doi.org/10.1021/jacs.6c01844",
       "sources": [
         "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c22488",
+      "title": "Photophysics of Iodine-Substituted Oxyluciferins: Observation of Simultaneous High Fluorescence Quantum Yields and Singlet Oxygen Sensitization",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-04-17",
+      "indexed_at": "2026-07-31T23:04:07Z",
+      "url": "https://doi.org/10.1021/jacs.5c22488",
+      "sources": [
         "crossref"
       ]
     },
@@ -21148,19 +21162,6 @@
       "published_date": "2026-04-17",
       "indexed_at": "2026-07-09T19:21:44Z",
       "url": "https://doi.org/10.1021/jacs.5c17253",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c19985",
-      "title": "Prussian Blue Analogues with Entropically Stabilized Coordination Environment for High-Energy and Long-Life Aqueous Potassium-Ion Batteries",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-04-17",
-      "indexed_at": "2026-07-07T00:02:26Z",
-      "url": "https://doi.org/10.1021/jacs.5c19985",
       "sources": [
         "acs",
         "crossref"
@@ -21345,6 +21346,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c02474",
+      "title": "Interlocked Woven COFs as Molecular Metamaterials with Snap-through and Jamming Mechanics",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-04-16",
+      "indexed_at": "2026-08-05T01:42:03Z",
+      "url": "https://doi.org/10.1021/jacs.6c02474",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c04839",
       "title": "Catalyst-Free Photoinduced Deaminative Functionalization of Amino Acids and Glutarimide Precursors",
       "journal": "Journal of the American Chemical Society",
@@ -21441,19 +21455,6 @@
       "published_date": "2026-04-16",
       "indexed_at": "2026-05-02T10:54:35Z",
       "url": "https://doi.org/10.1021/jacs.6c00833",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c02474",
-      "title": "Interlocked Woven COFs as Molecular Metamaterials with Snap-through and Jamming Mechanics",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-04-16",
-      "indexed_at": "2026-05-02T10:50:03Z",
-      "url": "https://doi.org/10.1021/jacs.6c02474",
       "sources": [
         "acs",
         "crossref"
@@ -22831,6 +22832,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c23302",
+      "title": "Tuning the Thermodynamic Equilibrium of Electrolyte Solvation Structures via Formation Entropy for Wide-Temperature Lithium-Ion Batteries",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-04-08",
+      "indexed_at": "2026-08-05T02:23:58Z",
+      "url": "https://doi.org/10.1021/jacs.5c23302",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c02143",
       "title": "Tunable Methylation in Imide-Linked Covalent Organic Frameworks Enables Highly Selective SF 6 Capture",
       "journal": "Journal of the American Chemical Society",
@@ -22890,19 +22904,6 @@
       "indexed_at": "2026-07-20T22:15:26Z",
       "url": "https://doi.org/10.1021/jacs.5c19260",
       "sources": [
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c23302",
-      "title": "Tuning the Thermodynamic Equilibrium of Electrolyte Solvation Structures via Formation Entropy for Wide-Temperature Lithium-Ion Batteries",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-04-08",
-      "indexed_at": "2026-07-08T18:19:25Z",
-      "url": "https://doi.org/10.1021/jacs.5c23302",
-      "sources": [
-        "acs",
         "crossref"
       ]
     },
@@ -23108,6 +23109,31 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c23098",
+      "title": "Efficient Acidic CO 2 Electrolysis with Suppressed Crossover in a Separator-Based Membrane Electrode Assembly",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-04-07",
+      "indexed_at": "2026-08-05T03:19:11Z",
+      "url": "https://doi.org/10.1021/jacs.5c23098",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c22411",
+      "title": "Enantioselective Iridium-Catalyzed C–H Bond Alkylation for the Synthesis of N–N Atropisomeric Phosphines",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-04-07",
+      "indexed_at": "2026-08-05T01:05:28Z",
+      "url": "https://doi.org/10.1021/jacs.5c22411",
+      "sources": [
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c03371",
       "title": "Rethinking the Terms “π-Stacking” and “π–π Stacking” Again: A Proposal to Clarify the Language of Aromatic Interactions",
       "journal": "Journal of the American Chemical Society",
@@ -23156,18 +23182,6 @@
       "url": "https://doi.org/10.1021/jacs.6c03159",
       "sources": [
         "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c22411",
-      "title": "Enantioselective Iridium-Catalyzed C–H Bond Alkylation for the Synthesis of N–N Atropisomeric Phosphines",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-04-07",
-      "indexed_at": "2026-07-22T19:51:38Z",
-      "url": "https://doi.org/10.1021/jacs.5c22411",
-      "sources": [
         "crossref"
       ]
     },
@@ -23320,19 +23334,6 @@
       "published_date": "2026-04-07",
       "indexed_at": "2026-04-22T09:47:56Z",
       "url": "https://doi.org/10.1021/jacs.5c18488",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c23098",
-      "title": "Efficient Acidic CO 2 Electrolysis with Suppressed Crossover in a Separator-Based Membrane Electrode Assembly",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-04-07",
-      "indexed_at": "2026-04-22T09:47:46Z",
-      "url": "https://doi.org/10.1021/jacs.5c23098",
       "sources": [
         "acs",
         "crossref"
@@ -23582,6 +23583,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c01241",
+      "title": "Which Radical Abstracts Hydrogen Atom? Alkylperoxy versus Alkoxy in Cu-Catalyzed Benzylic C–H Oxidation",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-04-04",
+      "indexed_at": "2026-08-05T02:13:29Z",
+      "url": "https://doi.org/10.1021/jacs.6c01241",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c03064",
       "title": "The Curious Case of Dual Emission in 9,10-Bis(phenylethynyl)anthracene",
       "journal": "Journal of the American Chemical Society",
@@ -23621,19 +23635,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.6c01241",
-      "title": "Which Radical Abstracts Hydrogen Atom? Alkylperoxy versus Alkoxy in Cu-Catalyzed Benzylic C–H Oxidation",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-04-04",
-      "indexed_at": "2026-05-02T08:27:06Z",
-      "url": "https://doi.org/10.1021/jacs.6c01241",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.6c02863",
       "title": "Programmable DNA Origami-Based Protease Device for Precise and Direct Proteins Degradation",
       "journal": "Journal of the American Chemical Society",
@@ -23654,6 +23655,19 @@
       "published_date": "2026-04-04",
       "indexed_at": "2026-04-15T09:00:37Z",
       "url": "https://doi.org/10.1021/jacs.6c01081",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c20588",
+      "title": "Dimensionality- and Pathway-Engineered Charge Transport Dynamics Mediate Divergent Product Selectivity in Photocatalysis",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-04-03",
+      "indexed_at": "2026-08-05T00:58:01Z",
+      "url": "https://doi.org/10.1021/jacs.5c20588",
       "sources": [
         "acs",
         "crossref"
@@ -23706,19 +23720,6 @@
       "published_date": "2026-04-03",
       "indexed_at": "2026-07-24T03:04:04Z",
       "url": "https://doi.org/10.1021/jacs.5c19902",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c20588",
-      "title": "Dimensionality- and Pathway-Engineered Charge Transport Dynamics Mediate Divergent Product Selectivity in Photocatalysis",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-04-03",
-      "indexed_at": "2026-07-06T09:53:09Z",
-      "url": "https://doi.org/10.1021/jacs.5c20588",
       "sources": [
         "acs",
         "crossref"
@@ -23790,6 +23791,18 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c20207",
+      "title": "Enzyme Catalysis Induced Nanocluster Assembly into Micrometer-Size Monolayered Nanosheets with Enhanced Near-Infrared Region II Emission",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-04-02",
+      "indexed_at": "2026-08-05T01:00:14Z",
+      "url": "https://doi.org/10.1021/jacs.5c20207",
+      "sources": [
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c02047",
       "title": "Machine Learning Optimization of Laser Ablation in Liquid for the Green and Low-Cost Synthesis of Clean Gold Nanoparticles",
       "journal": "Journal of the American Chemical Society",
@@ -23824,18 +23837,6 @@
       "url": "https://doi.org/10.1021/jacs.6c03330",
       "sources": [
         "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c20207",
-      "title": "Enzyme Catalysis Induced Nanocluster Assembly into Micrometer-Size Monolayered Nanosheets with Enhanced Near-Infrared Region II Emission",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-04-02",
-      "indexed_at": "2026-07-18T04:25:42Z",
-      "url": "https://doi.org/10.1021/jacs.5c20207",
-      "sources": [
         "crossref"
       ]
     },
@@ -24002,6 +24003,32 @@
       "published_date": "2026-04-02",
       "indexed_at": "2026-04-15T09:00:34Z",
       "url": "https://doi.org/10.1021/jacs.5c17852",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c21082",
+      "title": "Chaotropic Anions Promote Electrochemical C–C Bond Formation by Reshaping Interfacial Solvation",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-04-01",
+      "indexed_at": "2026-08-05T02:11:53Z",
+      "url": "https://doi.org/10.1021/jacs.5c21082",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c22800",
+      "title": "Resolving Solution-Synthesized Graphyne-Graphdiyne Macromolecules at the Angstrom Level",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-04-01",
+      "indexed_at": "2026-08-05T01:54:20Z",
+      "url": "https://doi.org/10.1021/jacs.5c22800",
       "sources": [
         "acs",
         "crossref"
@@ -24228,19 +24255,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.5c22800",
-      "title": "Resolving Solution-Synthesized Graphyne-Graphdiyne Macromolecules at the Angstrom Level",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-04-01",
-      "indexed_at": "2026-04-22T09:43:47Z",
-      "url": "https://doi.org/10.1021/jacs.5c22800",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.5c21370",
       "title": "Searching for Evidence of Plasmonic Hot Carrier-Driven Photocatalysis for Ethanol Oxidation on Core–Shell Au–Pd Nanoparticle Photoelectrodes",
       "journal": "Journal of the American Chemical Society",
@@ -24274,19 +24288,6 @@
       "published_date": "2026-04-01",
       "indexed_at": "2026-04-15T09:00:36Z",
       "url": "https://doi.org/10.1021/jacs.6c03204",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c21082",
-      "title": "Chaotropic Anions Promote Electrochemical C–C Bond Formation by Reshaping Interfacial Solvation",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-04-01",
-      "indexed_at": "2026-04-15T09:00:34Z",
-      "url": "https://doi.org/10.1021/jacs.5c21082",
       "sources": [
         "acs",
         "crossref"
@@ -24473,6 +24474,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c01872",
+      "title": "Oxoisoaporphine Alkaloid Piano-Stool Arene Ruthenium(II) Derivative: A cGAS-STING-Mediated Chemoimmunotherapy Inducer that Acts as a Dual Catalytic Inhibitor of Topoisomerase I/II",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-30",
+      "indexed_at": "2026-08-05T01:55:12Z",
+      "url": "https://doi.org/10.1021/jacs.6c01872",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c21550",
       "title": "Manipulating Kinetic Competition and Electrocrystallization at Electrochemical Interfaces in Aqueous Zn Batteries",
       "journal": "Journal of the American Chemical Society",
@@ -24518,19 +24532,6 @@
       "published_date": "2026-03-30",
       "indexed_at": "2026-07-27T19:00:27Z",
       "url": "https://doi.org/10.1021/jacs.6c03178",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c01872",
-      "title": "Oxoisoaporphine Alkaloid Piano-Stool Arene Ruthenium(II) Derivative: A cGAS-STING-Mediated Chemoimmunotherapy Inducer that Acts as a Dual Catalytic Inhibitor of Topoisomerase I/II",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-30",
-      "indexed_at": "2026-07-22T22:17:47Z",
-      "url": "https://doi.org/10.1021/jacs.6c01872",
       "sources": [
         "acs",
         "crossref"
@@ -24825,7 +24826,7 @@
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-03-28",
-      "indexed_at": "2026-07-29T18:56:10Z",
+      "indexed_at": "2026-08-05T01:49:37Z",
       "url": "https://doi.org/10.1021/jacs.6c02132",
       "sources": [
         "acs",
@@ -24872,14 +24873,15 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.6c01516",
-      "title": "Selective Biomass Valorization via Cascade Photooxidation and Photothermal Hydride Shift",
+      "doi": "10.1021/jacs.5c22597",
+      "title": "Investigating the Intrinsic Activity, Nature, and Deactivation Pathway of a Carbon-Nanotube-Confined Molecular Co Catalyst for CO 2 Reduction",
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-03-27",
-      "indexed_at": "2026-07-30T08:50:20Z",
-      "url": "https://doi.org/10.1021/jacs.6c01516",
+      "indexed_at": "2026-08-05T02:11:55Z",
+      "url": "https://doi.org/10.1021/jacs.5c22597",
       "sources": [
+        "acs",
         "crossref"
       ]
     },
@@ -24889,10 +24891,22 @@
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-03-27",
-      "indexed_at": "2026-07-24T04:29:23Z",
+      "indexed_at": "2026-08-05T02:11:03Z",
       "url": "https://doi.org/10.1021/jacs.5c20918",
       "sources": [
         "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c01516",
+      "title": "Selective Biomass Valorization via Cascade Photooxidation and Photothermal Hydride Shift",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-27",
+      "indexed_at": "2026-07-30T08:50:20Z",
+      "url": "https://doi.org/10.1021/jacs.6c01516",
+      "sources": [
         "crossref"
       ]
     },
@@ -25068,19 +25082,6 @@
       "published_date": "2026-03-27",
       "indexed_at": "2026-05-30T01:21:56Z",
       "url": "https://doi.org/10.1021/jacs.5c22499",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c22597",
-      "title": "Investigating the Intrinsic Activity, Nature, and Deactivation Pathway of a Carbon-Nanotube-Confined Molecular Co Catalyst for CO 2 Reduction",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-27",
-      "indexed_at": "2026-05-05T12:19:37Z",
-      "url": "https://doi.org/10.1021/jacs.5c22597",
       "sources": [
         "acs",
         "crossref"
@@ -25496,6 +25497,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c02560",
+      "title": "Photoluminescent Cu(I) HETPHENs Featuring Bulky Alkyl-Substituted Phenanthrolines",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-25",
+      "indexed_at": "2026-08-05T02:12:51Z",
+      "url": "https://doi.org/10.1021/jacs.6c02560",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c02935",
       "title": "Tandem Auxochrome Design Enables Ready Access to Deep Shortwave Infrared Dyes",
       "journal": "Journal of the American Chemical Society",
@@ -25542,19 +25556,6 @@
       "published_date": "2026-03-25",
       "indexed_at": "2026-07-25T02:38:19Z",
       "url": "https://doi.org/10.1021/jacs.6c01750",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c02560",
-      "title": "Photoluminescent Cu(I) HETPHENs Featuring Bulky Alkyl-Substituted Phenanthrolines",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-25",
-      "indexed_at": "2026-07-23T22:30:44Z",
-      "url": "https://doi.org/10.1021/jacs.6c02560",
       "sources": [
         "acs",
         "crossref"
@@ -25728,6 +25729,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c21425",
+      "title": "One-Step-Three-Ring Propellanation Reaction of Yne-Vinylcyclobutanones Catalyzed by Nickel: Reaction Development, Mechanism, and Formal Synthesis of Modhephene",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-24",
+      "indexed_at": "2026-08-05T01:55:31Z",
+      "url": "https://doi.org/10.1021/jacs.5c21425",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c19973",
       "title": "Au δ+ –Au Relay-Promoted Synergy of Light Irradiation and Heating for Highly Selective Activation of C–H Bonds",
       "journal": "Journal of the American Chemical Society",
@@ -25856,19 +25870,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.5c21425",
-      "title": "One-Step-Three-Ring Propellanation Reaction of Yne-Vinylcyclobutanones Catalyzed by Nickel: Reaction Development, Mechanism, and Formal Synthesis of Modhephene",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-24",
-      "indexed_at": "2026-04-08T09:09:13Z",
-      "url": "https://doi.org/10.1021/jacs.5c21425",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.6c00542",
       "title": "Nitrogen Doping at the Periphery of a Quadruply-Fused Porphyrin and Its Multi-Step Proton-Coupled Electron Transfer to Form a 34π Aromatic Molecule",
       "journal": "Journal of the American Chemical Society",
@@ -25876,6 +25877,32 @@
       "published_date": "2026-03-24",
       "indexed_at": "2026-04-08T09:08:24Z",
       "url": "https://doi.org/10.1021/jacs.6c00542",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c20798",
+      "title": "Nickel-Catalyzed Cross-Dehydrogenative Allylation of Aldehydes",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-23",
+      "indexed_at": "2026-08-05T01:47:23Z",
+      "url": "https://doi.org/10.1021/jacs.5c20798",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c21648",
+      "title": "Regulating Noncovalent Interactions to Construct High-Temperature Multiaxial Lead-Free Metal Halide Hybrid Ferroelectrics",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-23",
+      "indexed_at": "2026-08-05T01:05:40Z",
+      "url": "https://doi.org/10.1021/jacs.5c21648",
       "sources": [
         "acs",
         "crossref"
@@ -25921,19 +25948,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.5c21648",
-      "title": "Regulating Noncovalent Interactions to Construct High-Temperature Multiaxial Lead-Free Metal Halide Hybrid Ferroelectrics",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-23",
-      "indexed_at": "2026-07-10T22:30:35Z",
-      "url": "https://doi.org/10.1021/jacs.5c21648",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.5c21249",
       "title": "High-Affinity Six-Letter DNA XenoAptamer Generation by Genetic Alphabet Expansion",
       "journal": "Journal of the American Chemical Society",
@@ -25954,19 +25968,6 @@
       "published_date": "2026-03-23",
       "indexed_at": "2026-06-13T00:59:44Z",
       "url": "https://doi.org/10.1021/jacs.6c03092",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c20798",
-      "title": "Nickel-Catalyzed Cross-Dehydrogenative Allylation of Aldehydes",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-23",
-      "indexed_at": "2026-06-01T20:43:14Z",
-      "url": "https://doi.org/10.1021/jacs.5c20798",
       "sources": [
         "acs",
         "crossref"
@@ -26306,6 +26307,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c02923",
+      "title": "Photoelectrochemical Valorization of Nitromethane for Oxime Synthesis",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-19",
+      "indexed_at": "2026-08-05T02:11:14Z",
+      "url": "https://doi.org/10.1021/jacs.6c02923",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c01637",
       "title": "Isoselective Ring-Opening Polymerization to Access High-Performance Poly(α-Substituted-β-Propiolactone)s",
       "journal": "Journal of the American Chemical Society",
@@ -26455,19 +26469,6 @@
       "published_date": "2026-03-19",
       "indexed_at": "2026-06-25T07:10:28Z",
       "url": "https://doi.org/10.1021/jacs.5c20209",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c02923",
-      "title": "Photoelectrochemical Valorization of Nitromethane for Oxime Synthesis",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-19",
-      "indexed_at": "2026-06-22T20:10:35Z",
-      "url": "https://doi.org/10.1021/jacs.6c02923",
       "sources": [
         "acs",
         "crossref"
@@ -27188,6 +27189,32 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c20920",
+      "title": "Self-Adaptive Superionic Electrolytes via Multiple-Cation Modulation for All-Solid-State Lithium–Metal Batteries",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-16",
+      "indexed_at": "2026-08-05T00:50:39Z",
+      "url": "https://doi.org/10.1021/jacs.5c20920",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c02649",
+      "title": "Systematic Discovery of Bacterial Diterpene Synthases and Structure-Guided Functional Interconversion of ShHS and CbCS",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-16",
+      "indexed_at": "2026-08-05T00:37:36Z",
+      "url": "https://doi.org/10.1021/jacs.6c02649",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c01285",
       "title": "A Self-Activating Cyclic Amplification Near-Infrared Sonoafterglow Probe for High-Contrast Imaging In Vivo",
       "journal": "Journal of the American Chemical Society",
@@ -27233,19 +27260,6 @@
       "published_date": "2026-03-16",
       "indexed_at": "2026-07-30T04:51:01Z",
       "url": "https://doi.org/10.1021/jacs.5c20939",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c20920",
-      "title": "Self-Adaptive Superionic Electrolytes via Multiple-Cation Modulation for All-Solid-State Lithium–Metal Batteries",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-16",
-      "indexed_at": "2026-07-29T12:18:36Z",
-      "url": "https://doi.org/10.1021/jacs.5c20920",
       "sources": [
         "acs",
         "crossref"
@@ -27388,19 +27402,6 @@
       "published_date": "2026-03-16",
       "indexed_at": "2026-06-23T00:54:56Z",
       "url": "https://doi.org/10.1021/jacs.6c03157",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c02649",
-      "title": "Systematic Discovery of Bacterial Diterpene Synthases and Structure-Guided Functional Interconversion of ShHS and CbCS",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-16",
-      "indexed_at": "2026-06-11T03:15:40Z",
-      "url": "https://doi.org/10.1021/jacs.6c02649",
       "sources": [
         "acs",
         "crossref"
@@ -27598,6 +27599,18 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c21016",
+      "title": "Inverse Al-ZrO 2 /Cu Catalysts Enable the On-Purpose Production of Separable Para -Xylene and Ethylene Glycol from PET Wastes",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-13",
+      "indexed_at": "2026-08-05T01:04:45Z",
+      "url": "https://doi.org/10.1021/jacs.5c21016",
+      "sources": [
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c01091",
       "title": "Boron-Mediated Hydroalkylation of Unactivated Olefins: An Anti -Markovnikov Approach to Congested Carbon Centers",
       "journal": "Journal of the American Chemical Society",
@@ -27698,18 +27711,6 @@
       "url": "https://doi.org/10.1021/jacs.5c21595",
       "sources": [
         "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c21016",
-      "title": "Inverse Al-ZrO 2 /Cu Catalysts Enable the On-Purpose Production of Separable Para -Xylene and Ethylene Glycol from PET Wastes",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-13",
-      "indexed_at": "2026-06-06T19:01:18Z",
-      "url": "https://doi.org/10.1021/jacs.5c21016",
-      "sources": [
         "crossref"
       ]
     },
@@ -27824,6 +27825,19 @@
       "published_date": "2026-03-13",
       "indexed_at": "2026-03-25T11:00:48Z",
       "url": "https://doi.org/10.1021/jacs.6c00367",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c02797",
+      "title": "Anion-Suppression Strategy Enables Palladium Metallaphotoredox-Catalyzed Desymmetric Carboxylation with CO 2",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-12",
+      "indexed_at": "2026-08-05T02:20:54Z",
+      "url": "https://doi.org/10.1021/jacs.6c02797",
       "sources": [
         "acs",
         "crossref"
@@ -27973,19 +27987,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.6c02797",
-      "title": "Anion-Suppression Strategy Enables Palladium Metallaphotoredox-Catalyzed Desymmetric Carboxylation with CO 2",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-12",
-      "indexed_at": "2026-06-02T06:59:36Z",
-      "url": "https://doi.org/10.1021/jacs.6c02797",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.5c21952",
       "title": "Tailored Spin Coupling of Single-Molecule Magnets with a Single Charge-Density-Wave Metal Layer",
       "journal": "Journal of the American Chemical Society",
@@ -28064,13 +28065,39 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c22164",
+      "title": "Electrocatalytic Oxidative Coupling of CO with Amines toward Symmetrical and Asymmetrical Urea Derivatives",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-11",
+      "indexed_at": "2026-08-05T02:11:54Z",
+      "url": "https://doi.org/10.1021/jacs.5c22164",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c00209",
       "title": "A “Lung-Trap” Theranostic Strategy for Precision Management of Drug-Resistant Bacterial Pneumonia and Bacteremia",
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-03-11",
-      "indexed_at": "2026-07-28T10:35:50Z",
+      "indexed_at": "2026-08-05T02:03:20Z",
       "url": "https://doi.org/10.1021/jacs.6c00209",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c00723",
+      "title": "Partially Protected N -Acetylglycosamine Donors Enable Direct β- O -Glycosylation: Applications and Mechanistic Insights",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-11",
+      "indexed_at": "2026-08-05T00:47:50Z",
+      "url": "https://doi.org/10.1021/jacs.6c00723",
       "sources": [
         "acs",
         "crossref"
@@ -28122,19 +28149,6 @@
       "published_date": "2026-03-11",
       "indexed_at": "2026-07-16T23:04:52Z",
       "url": "https://doi.org/10.1021/jacs.5c20059",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c00723",
-      "title": "Partially Protected N -Acetylglycosamine Donors Enable Direct β- O -Glycosylation: Applications and Mechanistic Insights",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-11",
-      "indexed_at": "2026-07-16T05:21:45Z",
-      "url": "https://doi.org/10.1021/jacs.6c00723",
       "sources": [
         "acs",
         "crossref"
@@ -28252,19 +28266,6 @@
       "indexed_at": "2026-06-04T05:29:26Z",
       "url": "https://doi.org/10.1021/jacs.5c17573",
       "sources": [
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c22164",
-      "title": "Electrocatalytic Oxidative Coupling of CO with Amines toward Symmetrical and Asymmetrical Urea Derivatives",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-11",
-      "indexed_at": "2026-05-29T15:15:01Z",
-      "url": "https://doi.org/10.1021/jacs.5c22164",
-      "sources": [
-        "acs",
         "crossref"
       ]
     },
@@ -28551,6 +28552,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c01373",
+      "title": "Electrochemical Synthesis of Isolated Fluoride Reagents from PFAS",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-09",
+      "indexed_at": "2026-08-05T02:20:43Z",
+      "url": "https://doi.org/10.1021/jacs.6c01373",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c21383",
       "title": "Immune-Evasive NIR-II Nanoplatforms for Repeatable Photodynamic Therapy",
       "journal": "Journal of the American Chemical Society",
@@ -28667,19 +28681,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.6c01373",
-      "title": "Electrochemical Synthesis of Isolated Fluoride Reagents from PFAS",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-09",
-      "indexed_at": "2026-07-03T03:58:59Z",
-      "url": "https://doi.org/10.1021/jacs.6c01373",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.5c18723",
       "title": "Correction to “Design of Tau Aggregation Inhibitors Using Iterative Machine Learning and a Polymorph-Specific Brain-Seeded Fibril Amplification Assay”",
       "journal": "Journal of the American Chemical Society",
@@ -28731,6 +28732,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c17961",
+      "title": "Optically Controlled Peptide-Based Reconfigurable Folding via Regular Monodisperse Azobenzene Arrangement",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-07",
+      "indexed_at": "2026-08-05T01:52:10Z",
+      "url": "https://doi.org/10.1021/jacs.5c17961",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c15554",
       "title": "A Bidentate Hydrogen-Bond Molecular Vise Activates Interfacial Water for Universal Hydrogen Electrocatalysis",
       "journal": "Journal of the American Chemical Society",
@@ -28738,19 +28752,6 @@
       "published_date": "2026-03-07",
       "indexed_at": "2026-08-03T16:56:08Z",
       "url": "https://doi.org/10.1021/jacs.5c15554",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c17961",
-      "title": "Optically Controlled Peptide-Based Reconfigurable Folding via Regular Monodisperse Azobenzene Arrangement",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-07",
-      "indexed_at": "2026-03-18T11:45:43Z",
-      "url": "https://doi.org/10.1021/jacs.5c17961",
       "sources": [
         "acs",
         "crossref"
@@ -28775,8 +28776,46 @@
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-03-06",
-      "indexed_at": "2026-08-04T21:18:42Z",
+      "indexed_at": "2026-08-05T03:29:13Z",
       "url": "https://doi.org/10.1021/jacs.5c22625",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c01236",
+      "title": "Potential-Driven Evolution of Coordination and Oxidation State in Cu–N–C Delivers Efficient and Selective Acetylene Semihydrogenation",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-06",
+      "indexed_at": "2026-08-05T02:11:15Z",
+      "url": "https://doi.org/10.1021/jacs.6c01236",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c22181",
+      "title": "An Automation Platform for the Chemoenzymatic Synthesis of Complex Sulfated and Branched Glycans",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-06",
+      "indexed_at": "2026-08-05T01:04:11Z",
+      "url": "https://doi.org/10.1021/jacs.5c22181",
+      "sources": [
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c19137",
+      "title": "Charge Loss in Hybrid Metal Halide Perovskites from Hydrogen Defects: Machine Learning Aided Nonadiabatic Molecular Dynamics",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-06",
+      "indexed_at": "2026-08-05T01:03:31Z",
+      "url": "https://doi.org/10.1021/jacs.5c19137",
       "sources": [
         "acs",
         "crossref"
@@ -28803,31 +28842,6 @@
       "published_date": "2026-03-06",
       "indexed_at": "2026-07-27T18:44:01Z",
       "url": "https://doi.org/10.1021/jacs.5c17859",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c22181",
-      "title": "An Automation Platform for the Chemoenzymatic Synthesis of Complex Sulfated and Branched Glycans",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-06",
-      "indexed_at": "2026-07-25T04:02:55Z",
-      "url": "https://doi.org/10.1021/jacs.5c22181",
-      "sources": [
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c19137",
-      "title": "Charge Loss in Hybrid Metal Halide Perovskites from Hydrogen Defects: Machine Learning Aided Nonadiabatic Molecular Dynamics",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-06",
-      "indexed_at": "2026-07-24T14:13:53Z",
-      "url": "https://doi.org/10.1021/jacs.5c19137",
       "sources": [
         "acs",
         "crossref"
@@ -28892,19 +28906,6 @@
       "published_date": "2026-03-06",
       "indexed_at": "2026-07-14T20:49:23Z",
       "url": "https://doi.org/10.1021/jacs.5c19414",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c01236",
-      "title": "Potential-Driven Evolution of Coordination and Oxidation State in Cu–N–C Delivers Efficient and Selective Acetylene Semihydrogenation",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-06",
-      "indexed_at": "2026-07-14T00:18:19Z",
-      "url": "https://doi.org/10.1021/jacs.6c01236",
       "sources": [
         "acs",
         "crossref"
@@ -29064,6 +29065,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c19686",
+      "title": "Resolving Ionic Liquid Electrolyte-Mediated Microscopic Electrified Interface for Stable Lithium Metal Anode",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-05",
+      "indexed_at": "2026-08-05T02:23:58Z",
+      "url": "https://doi.org/10.1021/jacs.5c19686",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c00050",
       "title": "Spontaneous Reaction between CO 2 and Organic Acids in Water Microdroplets: Implications for the Formation of Secondary Organic Aerosols",
       "journal": "Journal of the American Chemical Society",
@@ -29188,19 +29202,6 @@
       "published_date": "2026-03-05",
       "indexed_at": "2026-07-14T18:21:28Z",
       "url": "https://doi.org/10.1021/jacs.5c21702",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c19686",
-      "title": "Resolving Ionic Liquid Electrolyte-Mediated Microscopic Electrified Interface for Stable Lithium Metal Anode",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-05",
-      "indexed_at": "2026-07-14T11:05:30Z",
-      "url": "https://doi.org/10.1021/jacs.5c19686",
       "sources": [
         "acs",
         "crossref"
@@ -29374,6 +29375,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c10619",
+      "title": "Out-Of-Plane Symmetry Design Arrests Structural Evolution in Layered-Type Framework for Sustainable Sodium Shuttling",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-04",
+      "indexed_at": "2026-08-05T02:04:22Z",
+      "url": "https://doi.org/10.1021/jacs.5c10619",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c19634",
       "title": "Single-Feature Identification of α2–8 Linked Sialoglycans Using Engineered Aerolysin Nanopores: A Paradigm for Glycan Linkage Analysis",
       "journal": "Journal of the American Chemical Society",
@@ -29446,19 +29460,6 @@
       "published_date": "2026-03-04",
       "indexed_at": "2026-07-28T01:55:23Z",
       "url": "https://doi.org/10.1021/jacs.5c22724",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c10619",
-      "title": "Out-Of-Plane Symmetry Design Arrests Structural Evolution in Layered-Type Framework for Sustainable Sodium Shuttling",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-04",
-      "indexed_at": "2026-07-16T18:34:27Z",
-      "url": "https://doi.org/10.1021/jacs.5c10619",
       "sources": [
         "acs",
         "crossref"
@@ -29684,6 +29685,32 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c00420",
+      "title": "Decoupling Product Selectivity in Electrocatalytic CO 2 Reduction by Steering the Interfacial Water Structure",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-03",
+      "indexed_at": "2026-08-05T02:11:14Z",
+      "url": "https://doi.org/10.1021/jacs.6c00420",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c00267",
+      "title": "Photoinitiated Enantioselective Cycloisomerization/Addition Cascades of 2-Acyl Benzaldehydes with α,β-Unsaturated Carbonyl Compounds",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-03",
+      "indexed_at": "2026-08-05T01:49:23Z",
+      "url": "https://doi.org/10.1021/jacs.6c00267",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c20836",
       "title": "Biomass-Derived Sustainable Dual-Atom Catalysts Enabled Highly Efficient Electrochemical Reductive Ring-Opening of 5-Hydroxymethylfurfural to 2,5-Hexanediol",
       "journal": "Journal of the American Chemical Society",
@@ -29691,19 +29718,6 @@
       "published_date": "2026-03-03",
       "indexed_at": "2026-08-03T22:43:20Z",
       "url": "https://doi.org/10.1021/jacs.5c20836",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c00420",
-      "title": "Decoupling Product Selectivity in Electrocatalytic CO 2 Reduction by Steering the Interfacial Water Structure",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-03",
-      "indexed_at": "2026-07-31T18:39:46Z",
-      "url": "https://doi.org/10.1021/jacs.6c00420",
       "sources": [
         "acs",
         "crossref"
@@ -29788,19 +29802,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.6c00267",
-      "title": "Photoinitiated Enantioselective Cycloisomerization/Addition Cascades of 2-Acyl Benzaldehydes with α,β-Unsaturated Carbonyl Compounds",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-03",
-      "indexed_at": "2026-06-10T18:49:18Z",
-      "url": "https://doi.org/10.1021/jacs.6c00267",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.5c20802",
       "title": "Programmable Stereoregular Fully Aromatic-Substituted Polymethylenes",
       "journal": "Journal of the American Chemical Society",
@@ -29847,6 +29848,32 @@
       "published_date": "2026-03-03",
       "indexed_at": "2026-03-18T11:31:21Z",
       "url": "https://doi.org/10.1021/jacs.6c03055",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c00735",
+      "title": "Ultrasound-Activated Prodrugs for Tumor-Specific Immunotherapy",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-02",
+      "indexed_at": "2026-08-05T02:10:52Z",
+      "url": "https://doi.org/10.1021/jacs.6c00735",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c17561",
+      "title": "High-Throughput Aptamer Characterization via Real-Time Nuclease Digestion",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-02",
+      "indexed_at": "2026-08-05T01:47:01Z",
+      "url": "https://doi.org/10.1021/jacs.5c17561",
       "sources": [
         "acs",
         "crossref"
@@ -30083,19 +30110,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.5c17561",
-      "title": "High-Throughput Aptamer Characterization via Real-Time Nuclease Digestion",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-02",
-      "indexed_at": "2026-06-16T10:45:30Z",
-      "url": "https://doi.org/10.1021/jacs.5c17561",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.5c20438",
       "title": "Unraveling the Role of Ionizable Lipid Isomerism in Modulating Lipid Nanoparticles for mRNA Delivery",
       "journal": "Journal of the American Chemical Society",
@@ -30174,19 +30188,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.6c00735",
-      "title": "Ultrasound-Activated Prodrugs for Tumor-Specific Immunotherapy",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-02",
-      "indexed_at": "2026-03-18T11:38:11Z",
-      "url": "https://doi.org/10.1021/jacs.6c00735",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.5c19443",
       "title": "Cavity-Enhanced Giant Magneto-Optical Linear Dichroism in van der Waals CrSBr",
       "journal": "Journal of the American Chemical Society",
@@ -30233,6 +30234,19 @@
       "published_date": "2026-02-28",
       "indexed_at": "2026-03-11T23:28:07Z",
       "url": "https://doi.org/10.1021/jacs.5c20238",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c21530",
+      "title": "Surface Polarons for Synergistic Kinetic and Thermodynamic C–H Bond Oxidation",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-02-27",
+      "indexed_at": "2026-08-05T00:48:16Z",
+      "url": "https://doi.org/10.1021/jacs.5c21530",
       "sources": [
         "acs",
         "crossref"
@@ -30431,19 +30445,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.5c21530",
-      "title": "Surface Polarons for Synergistic Kinetic and Thermodynamic C–H Bond Oxidation",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-02-27",
-      "indexed_at": "2026-06-26T20:21:23Z",
-      "url": "https://doi.org/10.1021/jacs.5c21530",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.6c00213",
       "title": "Divergent Asymmetric Synthesis of Four Pentacyclic Homoproaporphine Alkaloids via C–H Elaboration",
       "journal": "Journal of the American Chemical Society",
@@ -30552,7 +30553,7 @@
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-02-26",
-      "indexed_at": "2026-07-29T16:45:39Z",
+      "indexed_at": "2026-08-05T03:27:09Z",
       "url": "https://doi.org/10.1021/jacs.5c22294",
       "sources": [
         "acs",
@@ -30790,6 +30791,18 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c01709",
+      "title": "Electrooxidation of Ethylene Glycol to Glycolic Acid in a Neutral Electrolyte via Enhanced *OH Generation and Directional Spillover",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-02-25",
+      "indexed_at": "2026-08-05T02:11:16Z",
+      "url": "https://doi.org/10.1021/jacs.6c01709",
+      "sources": [
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c19318",
       "title": "pH Controls Charge Localization in Redox-Active Ladder Polymers",
       "journal": "Journal of the American Chemical Society",
@@ -30797,18 +30810,6 @@
       "published_date": "2026-02-25",
       "indexed_at": "2026-07-31T19:52:17Z",
       "url": "https://doi.org/10.1021/jacs.5c19318",
-      "sources": [
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c01709",
-      "title": "Electrooxidation of Ethylene Glycol to Glycolic Acid in a Neutral Electrolyte via Enhanced *OH Generation and Directional Spillover",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-02-25",
-      "indexed_at": "2026-07-28T13:48:10Z",
-      "url": "https://doi.org/10.1021/jacs.6c01709",
       "sources": [
         "crossref"
       ]
@@ -31213,6 +31214,57 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c18989",
+      "title": "Enabling Controlled Synthesis of Poly(1,3-dioxolane) by Anion-Binding Catalytic Cationic Ring-Opening Polymerization",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-02-23",
+      "indexed_at": "2026-08-05T02:42:36Z",
+      "url": "https://doi.org/10.1021/jacs.5c18989",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c17939",
+      "title": "Electric-Field-Driven Dual-Pathway Click Coupling of Phenothiazines and Amines in Aqueous Microdroplets",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-02-23",
+      "indexed_at": "2026-08-05T02:11:39Z",
+      "url": "https://doi.org/10.1021/jacs.5c17939",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c22256",
+      "title": "A Dual-Engine Artificial Intelligence Framework Accelerates Sustainable Aviation Fuel Component Synthesis",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-02-23",
+      "indexed_at": "2026-08-05T01:44:44Z",
+      "url": "https://doi.org/10.1021/jacs.5c22256",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c20677",
+      "title": "Catalytic Remote Dihalogenation of Alkenes Induced by Transposition of Esters",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-02-23",
+      "indexed_at": "2026-08-05T00:46:15Z",
+      "url": "https://doi.org/10.1021/jacs.5c20677",
+      "sources": [
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c21094",
       "title": "Expanding the Molecular Scope of Photo-CIDNP for Nanomolar 19 F NMR Detection of Amines",
       "journal": "Journal of the American Chemical Society",
@@ -31233,19 +31285,6 @@
       "published_date": "2026-02-23",
       "indexed_at": "2026-08-04T00:55:25Z",
       "url": "https://doi.org/10.1021/jacs.5c23226",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c22256",
-      "title": "A Dual-Engine Artificial Intelligence Framework Accelerates Sustainable Aviation Fuel Component Synthesis",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-02-23",
-      "indexed_at": "2026-08-01T10:00:04Z",
-      "url": "https://doi.org/10.1021/jacs.5c22256",
       "sources": [
         "acs",
         "crossref"
@@ -31394,19 +31433,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.5c17939",
-      "title": "Electric-Field-Driven Dual-Pathway Click Coupling of Phenothiazines and Amines in Aqueous Microdroplets",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-02-23",
-      "indexed_at": "2026-07-13T15:44:07Z",
-      "url": "https://doi.org/10.1021/jacs.5c17939",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.5c16886",
       "title": "FAP-Synergistic Organ-Targeted mRNA-LNP for Overcoming Delivery Barriers in Hepatic and Pulmonary Fibrosis",
       "journal": "Journal of the American Chemical Society",
@@ -31471,19 +31497,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.5c18989",
-      "title": "Enabling Controlled Synthesis of Poly(1,3-dioxolane) by Anion-Binding Catalytic Cationic Ring-Opening Polymerization",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-02-23",
-      "indexed_at": "2026-06-14T08:07:49Z",
-      "url": "https://doi.org/10.1021/jacs.5c18989",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.5c22563",
       "title": "Atomic Bromine Layer as a Hole-Doping Decoupling Adlayer for Molecular Spin Modulation",
       "journal": "Journal of the American Chemical Society",
@@ -31530,18 +31543,6 @@
       "published_date": "2026-02-23",
       "indexed_at": "2026-03-11T23:42:11Z",
       "url": "https://doi.org/10.1021/jacs.5c22627",
-      "sources": [
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c20677",
-      "title": "Catalytic Remote Dihalogenation of Alkenes Induced by Transposition of Esters",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-02-23",
-      "indexed_at": "2026-03-11T23:41:37Z",
-      "url": "https://doi.org/10.1021/jacs.5c20677",
       "sources": [
         "crossref"
       ]
@@ -31624,12 +31625,25 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c20787",
+      "title": "High-Entropy Hexagonal-Phase Oxide Hollow Polyhedrons for Highly Efficient Electrocatalytic Reduction of Low-Concentration NO",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-02-20",
+      "indexed_at": "2026-08-05T02:12:00Z",
+      "url": "https://doi.org/10.1021/jacs.5c20787",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c17786",
       "title": "Boosting Computational Catalysis and Chemical Reactivity with Artificial Intelligence",
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-02-20",
-      "indexed_at": "2026-08-04T15:07:17Z",
+      "indexed_at": "2026-08-05T01:36:30Z",
       "url": "https://doi.org/10.1021/jacs.5c17786",
       "sources": [
         "acs",
@@ -31722,19 +31736,6 @@
       "published_date": "2026-02-20",
       "indexed_at": "2026-07-09T21:24:53Z",
       "url": "https://doi.org/10.1021/jacs.5c20226",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c20787",
-      "title": "High-Entropy Hexagonal-Phase Oxide Hollow Polyhedrons for Highly Efficient Electrocatalytic Reduction of Low-Concentration NO",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-02-20",
-      "indexed_at": "2026-07-02T09:40:46Z",
-      "url": "https://doi.org/10.1021/jacs.5c20787",
       "sources": [
         "acs",
         "crossref"
@@ -31851,6 +31852,32 @@
       "published_date": "2026-02-20",
       "indexed_at": "2026-03-11T06:20:27Z",
       "url": "https://doi.org/10.1021/jacs.5c21171",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c21201",
+      "title": "Amphiphile Confined Water Electrolyte Enables Facilitated Cation Transport through Nanometric Water Channels",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-02-19",
+      "indexed_at": "2026-08-05T01:54:39Z",
+      "url": "https://doi.org/10.1021/jacs.5c21201",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c19385",
+      "title": "Deciphering the Interfacial Catalysis of Metal–Oxide Nanocatalysts in CO 2 Hydrogenation through a Machine Learning Approach",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-02-19",
+      "indexed_at": "2026-08-05T01:36:32Z",
+      "url": "https://doi.org/10.1021/jacs.5c19385",
       "sources": [
         "acs",
         "crossref"
@@ -31984,19 +32011,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.5c21201",
-      "title": "Amphiphile Confined Water Electrolyte Enables Facilitated Cation Transport through Nanometric Water Channels",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-02-19",
-      "indexed_at": "2026-07-24T14:07:05Z",
-      "url": "https://doi.org/10.1021/jacs.5c21201",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.5c14078",
       "title": "PROTAC-Mediated Degradation of mHTT Aggregates Attenuates Neurotoxicity in Cellular and R6/2 Mouse Models of Huntington’s Disease",
       "journal": "Journal of the American Chemical Society",
@@ -32004,19 +32018,6 @@
       "published_date": "2026-02-19",
       "indexed_at": "2026-07-22T03:07:22Z",
       "url": "https://doi.org/10.1021/jacs.5c14078",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c19385",
-      "title": "Deciphering the Interfacial Catalysis of Metal–Oxide Nanocatalysts in CO 2 Hydrogenation through a Machine Learning Approach",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-02-19",
-      "indexed_at": "2026-07-21T19:19:54Z",
-      "url": "https://doi.org/10.1021/jacs.5c19385",
       "sources": [
         "acs",
         "crossref"
@@ -32449,7 +32450,7 @@
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-02-17",
-      "indexed_at": "2026-07-31T19:33:22Z",
+      "indexed_at": "2026-08-05T02:13:25Z",
       "url": "https://doi.org/10.1021/jacs.5c20629",
       "sources": [
         "acs",
@@ -32462,8 +32463,21 @@
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-02-17",
-      "indexed_at": "2026-07-27T18:43:08Z",
+      "indexed_at": "2026-08-05T01:56:09Z",
       "url": "https://doi.org/10.1021/jacs.5c19867",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c20464",
+      "title": "Potassium Bisulfite’s Role in Developing a Robust Platform for Enantioenriched N -Alkylpyridinium Salts as Piperidine Precursors",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-02-17",
+      "indexed_at": "2026-08-05T01:55:31Z",
+      "url": "https://doi.org/10.1021/jacs.5c20464",
       "sources": [
         "acs",
         "crossref"
@@ -32605,19 +32619,6 @@
       "published_date": "2026-02-17",
       "indexed_at": "2026-06-24T06:20:12Z",
       "url": "https://doi.org/10.1021/jacs.5c14936",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c20464",
-      "title": "Potassium Bisulfite’s Role in Developing a Robust Platform for Enantioenriched N -Alkylpyridinium Salts as Piperidine Precursors",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-02-17",
-      "indexed_at": "2026-06-16T09:31:30Z",
-      "url": "https://doi.org/10.1021/jacs.5c20464",
       "sources": [
         "acs",
         "crossref"
@@ -33567,6 +33568,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c21268",
+      "title": "Automated Assembly of Polyglucuronic Acids for Structural Explorations",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-02-11",
+      "indexed_at": "2026-08-05T00:47:49Z",
+      "url": "https://doi.org/10.1021/jacs.5c21268",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c20068",
       "title": "Chemist-Guided Human–AI Workflow for Covalent Organic Framework Synthesis",
       "journal": "Journal of the American Chemical Society",
@@ -33743,19 +33757,6 @@
       "published_date": "2026-02-11",
       "indexed_at": "2026-06-09T12:21:45Z",
       "url": "https://doi.org/10.1021/jacs.5c18997",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c21268",
-      "title": "Automated Assembly of Polyglucuronic Acids for Structural Explorations",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-02-11",
-      "indexed_at": "2026-06-02T11:22:33Z",
-      "url": "https://doi.org/10.1021/jacs.5c21268",
       "sources": [
         "acs",
         "crossref"
@@ -34124,6 +34125,32 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c20643",
+      "title": "Decoding the Role of Isolated Ga + in PdGa@MFI Catalyst Promoting a Direct CO 2 Hydrogenation Path to DME",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-02-09",
+      "indexed_at": "2026-08-05T01:08:19Z",
+      "url": "https://doi.org/10.1021/jacs.5c20643",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c16884",
+      "title": "On-Surface Synthesis of Isotactic Double-Stranded Corannulene Polymers Steered by Hierarchical Supramolecular Self-Assembly",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-02-09",
+      "indexed_at": "2026-08-05T00:33:43Z",
+      "url": "https://doi.org/10.1021/jacs.5c16884",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c20755",
       "title": "Auxiliary Linker-Enabled Local Protonation Boosts the Ammonia Electrosynthesis in Heterometallic Metal–Organic Frameworks",
       "journal": "Journal of the American Chemical Society",
@@ -34267,19 +34294,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.5c20643",
-      "title": "Decoding the Role of Isolated Ga + in PdGa@MFI Catalyst Promoting a Direct CO 2 Hydrogenation Path to DME",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-02-09",
-      "indexed_at": "2026-06-03T03:58:48Z",
-      "url": "https://doi.org/10.1021/jacs.5c20643",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.5c18403",
       "title": "Organocatalytic Deoxygenative Reduction of α,β-Unsaturated Ketones",
       "journal": "Journal of the American Chemical Society",
@@ -34339,19 +34353,6 @@
       "published_date": "2026-02-09",
       "indexed_at": "2026-03-11T07:23:25Z",
       "url": "https://doi.org/10.1021/jacs.5c21708",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c16884",
-      "title": "On-Surface Synthesis of Isotactic Double-Stranded Corannulene Polymers Steered by Hierarchical Supramolecular Self-Assembly",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-02-09",
-      "indexed_at": "2026-03-11T07:23:23Z",
-      "url": "https://doi.org/10.1021/jacs.5c16884",
       "sources": [
         "acs",
         "crossref"
@@ -34423,12 +34424,25 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c21423",
+      "title": "A C 1 -Homologative Trifluoromethylation: Light-Driven Decarboxylative Trifluoroethylation of Carboxylic Acids",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-02-06",
+      "indexed_at": "2026-08-05T01:50:51Z",
+      "url": "https://doi.org/10.1021/jacs.5c21423",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c22265",
       "title": "Mirror-Image L-DNA Aptamers Enable Stable In Vivo Dopamine Sensing",
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-02-06",
-      "indexed_at": "2026-07-31T11:42:14Z",
+      "indexed_at": "2026-08-05T01:26:37Z",
       "url": "https://doi.org/10.1021/jacs.5c22265",
       "sources": [
         "acs",
@@ -34496,19 +34510,6 @@
       "indexed_at": "2026-07-23T22:31:54Z",
       "url": "https://doi.org/10.1021/jacs.5c20087",
       "sources": [
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c21423",
-      "title": "A C 1 -Homologative Trifluoromethylation: Light-Driven Decarboxylative Trifluoroethylation of Carboxylic Acids",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-02-06",
-      "indexed_at": "2026-07-23T12:25:27Z",
-      "url": "https://doi.org/10.1021/jacs.5c21423",
-      "sources": [
-        "acs",
         "crossref"
       ]
     },
@@ -34585,6 +34586,19 @@
       "published_date": "2026-02-06",
       "indexed_at": "2026-03-05T10:03:50Z",
       "url": "https://doi.org/10.1021/jacs.5c21116",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c18767",
+      "title": "Ultrafast Carrier Self-Trapping Driven by Strong Exciton–Phonon Coupling in 2D MA 3 Bi 2 I 6 Cl 3 Perovskite",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-02-05",
+      "indexed_at": "2026-08-05T01:07:06Z",
+      "url": "https://doi.org/10.1021/jacs.5c18767",
       "sources": [
         "acs",
         "crossref"
@@ -34713,19 +34727,6 @@
       "published_date": "2026-02-05",
       "indexed_at": "2026-07-20T15:26:03Z",
       "url": "https://doi.org/10.1021/jacs.5c16988",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c18767",
-      "title": "Ultrafast Carrier Self-Trapping Driven by Strong Exciton–Phonon Coupling in 2D MA 3 Bi 2 I 6 Cl 3 Perovskite",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-02-05",
-      "indexed_at": "2026-07-10T21:48:50Z",
-      "url": "https://doi.org/10.1021/jacs.5c18767",
       "sources": [
         "acs",
         "crossref"
@@ -35218,6 +35219,32 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c18363",
+      "title": "Direct Observation of Collective Dissolution Mechanisms in Iridium Oxide Nanocrystals",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-02-03",
+      "indexed_at": "2026-08-05T00:56:02Z",
+      "url": "https://doi.org/10.1021/jacs.5c18363",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c19479",
+      "title": "Polysaccharide Meets Polyoxazoline: Regio- and Stereodefined β-1,2-Linked Pseudo-polysaccharides via Controlled Cationic Ring-Opening Polymerization",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-02-03",
+      "indexed_at": "2026-08-05T00:35:09Z",
+      "url": "https://doi.org/10.1021/jacs.5c19479",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c19419",
       "title": "Multimodal Evaporation on Patterned Nanoparticle Arrays for Exhaled Breath Condensate Detection",
       "journal": "Journal of the American Chemical Society",
@@ -35372,19 +35399,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.5c18363",
-      "title": "Direct Observation of Collective Dissolution Mechanisms in Iridium Oxide Nanocrystals",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-02-03",
-      "indexed_at": "2026-04-17T11:24:05Z",
-      "url": "https://doi.org/10.1021/jacs.5c18363",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.5c13140",
       "title": "Dynamic Polaronic Control of Metal Cluster Adaptability on Reducible Oxides",
       "journal": "Journal of the American Chemical Society",
@@ -35442,19 +35456,6 @@
       "published_date": "2026-02-03",
       "indexed_at": "2026-03-05T10:03:23Z",
       "url": "https://doi.org/10.1021/jacs.5c19760",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c19479",
-      "title": "Polysaccharide Meets Polyoxazoline: Regio- and Stereodefined β-1,2-Linked Pseudo-polysaccharides via Controlled Cationic Ring-Opening Polymerization",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-02-03",
-      "indexed_at": "2026-03-05T10:03:08Z",
-      "url": "https://doi.org/10.1021/jacs.5c19479",
       "sources": [
         "acs",
         "crossref"
@@ -35694,6 +35695,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c19651",
+      "title": "Introducing Small Rings into Farnesyl Pyrophosphates Paves the Way for the Enzymatic Generation of Unnatural Sesquiterpene Scaffolds",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-30",
+      "indexed_at": "2026-08-05T01:04:30Z",
+      "url": "https://doi.org/10.1021/jacs.5c19651",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c22490",
       "title": "A Crystalline In(II) Hydride",
       "journal": "Journal of the American Chemical Society",
@@ -35740,19 +35754,6 @@
       "published_date": "2026-01-30",
       "indexed_at": "2026-07-21T08:16:06Z",
       "url": "https://doi.org/10.1021/jacs.5c14271",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c19651",
-      "title": "Introducing Small Rings into Farnesyl Pyrophosphates Paves the Way for the Enzymatic Generation of Unnatural Sesquiterpene Scaffolds",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-30",
-      "indexed_at": "2026-07-15T22:19:08Z",
-      "url": "https://doi.org/10.1021/jacs.5c19651",
       "sources": [
         "acs",
         "crossref"
@@ -36338,6 +36339,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c19068",
+      "title": "Mixed-Valent Tetracopper Disulfides Supported by a 1,8-Naphthyridine-Based Ligand: Models for Electronic Communication in Biological Copper Systems",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-27",
+      "indexed_at": "2026-08-05T01:54:26Z",
+      "url": "https://doi.org/10.1021/jacs.5c19068",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c22209",
       "title": "Discovering Structure-Adaptive Oxides for Embedded Epitaxial Growth of Perovskite Nanocrystals",
       "journal": "Journal of the American Chemical Society",
@@ -36585,19 +36599,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.5c19068",
-      "title": "Mixed-Valent Tetracopper Disulfides Supported by a 1,8-Naphthyridine-Based Ligand: Models for Electronic Communication in Biological Copper Systems",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-27",
-      "indexed_at": "2026-02-11T15:04:31Z",
-      "url": "https://doi.org/10.1021/jacs.5c19068",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.5c22670",
       "title": "Nanobody-Based Bioconjugates as Potent and Broadly Active Inhibitors of HIV Entry",
       "journal": "Journal of the American Chemical Society",
@@ -36605,6 +36606,19 @@
       "published_date": "2026-01-27",
       "indexed_at": "2026-02-11T14:28:41Z",
       "url": "https://doi.org/10.1021/jacs.5c22670",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c18705",
+      "title": "Confined Chiral Pd(II) Catalyst-Enabled Enantioselective Intramolecular Aminoalkylation of Alkenes: One-Step Construction of Chiral N -Fused Bicyclic Skeletons",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-26",
+      "indexed_at": "2026-08-05T01:05:14Z",
+      "url": "https://doi.org/10.1021/jacs.5c18705",
       "sources": [
         "acs",
         "crossref"
@@ -36709,19 +36723,6 @@
       "published_date": "2026-01-26",
       "indexed_at": "2026-07-10T07:04:30Z",
       "url": "https://doi.org/10.1021/jacs.5c21977",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c18705",
-      "title": "Confined Chiral Pd(II) Catalyst-Enabled Enantioselective Intramolecular Aminoalkylation of Alkenes: One-Step Construction of Chiral N -Fused Bicyclic Skeletons",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-26",
-      "indexed_at": "2026-07-04T04:21:35Z",
-      "url": "https://doi.org/10.1021/jacs.5c18705",
       "sources": [
         "acs",
         "crossref"
@@ -36858,6 +36859,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c16652",
+      "title": "Amorphous–Crystalline High-Entropy Electrocatalysts for H 2 Evolution in High-Power Aluminum-Based Fuel Cells",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-23",
+      "indexed_at": "2026-08-05T02:11:11Z",
+      "url": "https://doi.org/10.1021/jacs.5c16652",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c22086",
       "title": "Formation of Ultrasmall Noble Metal Alloy Nanocrystals in Microdroplets",
       "journal": "Journal of the American Chemical Society",
@@ -36879,19 +36893,6 @@
       "indexed_at": "2026-08-03T19:38:31Z",
       "url": "https://doi.org/10.1021/jacs.5c16267",
       "sources": [
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c16652",
-      "title": "Amorphous–Crystalline High-Entropy Electrocatalysts for H 2 Evolution in High-Power Aluminum-Based Fuel Cells",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-23",
-      "indexed_at": "2026-08-01T04:14:48Z",
-      "url": "https://doi.org/10.1021/jacs.5c16652",
-      "sources": [
-        "acs",
         "crossref"
       ]
     },
@@ -37152,6 +37153,31 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c18855",
+      "title": "Cooperation of Carboxylate and Sulfonate Ligands in a High-Efficiency Ru Catalyst for Electrocatalytic Ammonia Oxidation",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-22",
+      "indexed_at": "2026-08-05T02:11:52Z",
+      "url": "https://doi.org/10.1021/jacs.5c18855",
+      "sources": [
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c20630",
+      "title": "Optimizing toward Discovery: AI-Driven Exploration of Lewis Acid–Base Catalysts for PET Glycolysis",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-22",
+      "indexed_at": "2026-08-05T01:04:47Z",
+      "url": "https://doi.org/10.1021/jacs.5c20630",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c16422",
       "title": "Compositional Phase Control in High-Entropy Alloy Electrocatalysts",
       "journal": "Journal of the American Chemical Society",
@@ -37173,18 +37199,6 @@
       "url": "https://doi.org/10.1021/jacs.5c12495",
       "sources": [
         "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c18855",
-      "title": "Cooperation of Carboxylate and Sulfonate Ligands in a High-Efficiency Ru Catalyst for Electrocatalytic Ammonia Oxidation",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-22",
-      "indexed_at": "2026-07-27T05:17:15Z",
-      "url": "https://doi.org/10.1021/jacs.5c18855",
-      "sources": [
         "crossref"
       ]
     },
@@ -37222,19 +37236,6 @@
       "published_date": "2026-01-22",
       "indexed_at": "2026-07-21T20:26:09Z",
       "url": "https://doi.org/10.1021/jacs.5c20841",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c20630",
-      "title": "Optimizing toward Discovery: AI-Driven Exploration of Lewis Acid–Base Catalysts for PET Glycolysis",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-22",
-      "indexed_at": "2026-07-21T04:18:03Z",
-      "url": "https://doi.org/10.1021/jacs.5c20630",
       "sources": [
         "acs",
         "crossref"
@@ -37535,6 +37536,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c12205",
+      "title": "Dynamics and Control of Dual Active Sites in Co-Substituted Ni Coordination Polymers for Enhanced Oxygen Evolution Catalysis",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-20",
+      "indexed_at": "2026-08-05T02:16:38Z",
+      "url": "https://doi.org/10.1021/jacs.5c12205",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c22622",
       "title": "Uniform Covalent Polymerization of Zirconium–Organic Cages for High-Loading CO 2 Separation Membranes",
       "journal": "Journal of the American Chemical Society",
@@ -37542,19 +37556,6 @@
       "published_date": "2026-01-20",
       "indexed_at": "2026-08-04T11:43:04Z",
       "url": "https://doi.org/10.1021/jacs.5c22622",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c12205",
-      "title": "Dynamics and Control of Dual Active Sites in Co-Substituted Ni Coordination Polymers for Enhanced Oxygen Evolution Catalysis",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-20",
-      "indexed_at": "2026-08-04T00:21:13Z",
-      "url": "https://doi.org/10.1021/jacs.5c12205",
       "sources": [
         "acs",
         "crossref"
@@ -37778,12 +37779,25 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c12858",
+      "title": "The Heterogeneous Charge Transfer Mechanism in Lithium Metal Batteries: Revealing Abnormal Lithiophilicity through the Marcus Theory",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-19",
+      "indexed_at": "2026-08-05T02:16:24Z",
+      "url": "https://doi.org/10.1021/jacs.5c12858",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c19165",
       "title": "Construction of Three-Dimensional Covalent Organic Frameworks for Photocatalytic Synthesis of 2,3-Dihydrobenzofuran Derivatives",
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-01-19",
-      "indexed_at": "2026-07-29T08:37:39Z",
+      "indexed_at": "2026-08-05T00:57:28Z",
       "url": "https://doi.org/10.1021/jacs.5c19165",
       "sources": [
         "acs",
@@ -37848,19 +37862,6 @@
       "published_date": "2026-01-19",
       "indexed_at": "2026-07-12T06:14:16Z",
       "url": "https://doi.org/10.1021/jacs.5c16692",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c12858",
-      "title": "The Heterogeneous Charge Transfer Mechanism in Lithium Metal Batteries: Revealing Abnormal Lithiophilicity through the Marcus Theory",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-19",
-      "indexed_at": "2026-07-07T04:38:44Z",
-      "url": "https://doi.org/10.1021/jacs.5c12858",
       "sources": [
         "acs",
         "crossref"
@@ -38098,6 +38099,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c14825",
+      "title": "Li 1+ x TaO x F 6– x Oxyfluoride Solid Electrolytes with Amorphization-Driven Enhancement of Ion Conduction Channels for 5 V All-Solid-State Batteries",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-15",
+      "indexed_at": "2026-08-05T01:02:55Z",
+      "url": "https://doi.org/10.1021/jacs.5c14825",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c20164",
       "title": "A Golden Fullerene Encapsulating Schmid Gold",
       "journal": "Journal of the American Chemical Society",
@@ -38228,19 +38242,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.5c14825",
-      "title": "Li 1+ x TaO x F 6– x Oxyfluoride Solid Electrolytes with Amorphization-Driven Enhancement of Ion Conduction Channels for 5 V All-Solid-State Batteries",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-15",
-      "indexed_at": "2026-06-22T13:06:21Z",
-      "url": "https://doi.org/10.1021/jacs.5c14825",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.5c19753",
       "title": "Chiral Spindle-like Nanorods Reprogram Neuroinflammation by Catalyzing α-Ketoglutarate Biosynthesis",
       "journal": "Journal of the American Chemical Society",
@@ -38319,6 +38320,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c17930",
+      "title": "Electrochemically Initiated Depolymerization of Poly(Methyl Methacrylate)",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-14",
+      "indexed_at": "2026-08-05T02:13:25Z",
+      "url": "https://doi.org/10.1021/jacs.5c17930",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c13894",
       "title": "Conformationally Constrained Bidentate Ligands Drive Record-High NIR Quantum Yield in Cu Nanoclusters",
       "journal": "Journal of the American Chemical Society",
@@ -38366,19 +38380,6 @@
       "indexed_at": "2026-07-21T03:43:17Z",
       "url": "https://doi.org/10.1021/jacs.5c20427",
       "sources": [
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c17930",
-      "title": "Electrochemically Initiated Depolymerization of Poly(Methyl Methacrylate)",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-14",
-      "indexed_at": "2026-07-11T05:00:46Z",
-      "url": "https://doi.org/10.1021/jacs.5c17930",
-      "sources": [
-        "acs",
         "crossref"
       ]
     },
@@ -38485,6 +38486,95 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c21413",
+      "title": "Positional Isomerization of 1,2-Azaborine through BN-Benzvalene",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-13",
+      "indexed_at": "2026-08-05T02:45:31Z",
+      "url": "https://doi.org/10.1021/jacs.5c21413",
+      "sources": [
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c15876",
+      "title": "MetalloDock: Decoding Metalloprotein–Ligand Interactions via Physics-Aware Deep Learning for Metalloprotein Drug Discovery",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-13",
+      "indexed_at": "2026-08-05T01:56:02Z",
+      "url": "https://doi.org/10.1021/jacs.5c15876",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c22180",
+      "title": "Enantioselective Radical Addition of Carboxylic Acids to Imines through Cooperative Copper/Acridine Catalysis",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-13",
+      "indexed_at": "2026-08-05T01:50:58Z",
+      "url": "https://doi.org/10.1021/jacs.5c22180",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c19659",
+      "title": "Nature of Reverse Water–Gas Shift Reactions at Metal–Oxide Interfaces Uncovered via Interpretable Machine Learning",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-13",
+      "indexed_at": "2026-08-05T01:36:29Z",
+      "url": "https://doi.org/10.1021/jacs.5c19659",
+      "sources": [
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c20994",
+      "title": "Assembly of Tetrahedral Units in the Atomic-Resolved Structural Evolution of Gold Nanostructures",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-13",
+      "indexed_at": "2026-08-05T01:09:20Z",
+      "url": "https://doi.org/10.1021/jacs.5c20994",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c18154",
+      "title": "Topology-Informed Design of Circularly Locked DNAzymes Enables Orthogonally Controlled Gene Regulation",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-13",
+      "indexed_at": "2026-08-05T00:55:22Z",
+      "url": "https://doi.org/10.1021/jacs.5c18154",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c16831",
+      "title": "Fe-Based Polyanionic Solid-Solution Phases as High-Power and Low-Temperature Cathodes for Sodium-Ion Batteries",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-13",
+      "indexed_at": "2026-08-05T00:53:27Z",
+      "url": "https://doi.org/10.1021/jacs.5c16831",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c19187",
       "title": "Rational Lithium Salt Selection Principle for Designing High-Entropy Electrolytes toward High-Performance Lithium Metal Batteries",
       "journal": "Journal of the American Chemical Society",
@@ -38549,19 +38639,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.5c16831",
-      "title": "Fe-Based Polyanionic Solid-Solution Phases as High-Power and Low-Temperature Cathodes for Sodium-Ion Batteries",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-13",
-      "indexed_at": "2026-07-31T20:05:19Z",
-      "url": "https://doi.org/10.1021/jacs.5c16831",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.5c17917",
       "title": "Neutral Electrosynthesis of Methane from Diluted CO 2 on Dense Cu Sites Embedded Covalent Organic Frameworks",
       "journal": "Journal of the American Chemical Society",
@@ -38583,18 +38660,6 @@
       "url": "https://doi.org/10.1021/jacs.5c18314",
       "sources": [
         "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c21413",
-      "title": "Positional Isomerization of 1,2-Azaborine through BN-Benzvalene",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-13",
-      "indexed_at": "2026-07-25T15:11:31Z",
-      "url": "https://doi.org/10.1021/jacs.5c21413",
-      "sources": [
         "crossref"
       ]
     },
@@ -38664,19 +38729,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.5c20994",
-      "title": "Assembly of Tetrahedral Units in the Atomic-Resolved Structural Evolution of Gold Nanostructures",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-13",
-      "indexed_at": "2026-07-20T11:45:44Z",
-      "url": "https://doi.org/10.1021/jacs.5c20994",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.5c20715",
       "title": "Extending the Distance Range in Double Electron–Electron Resonance Measurements of Transition Metal Clusters",
       "journal": "Journal of the American Chemical Society",
@@ -38701,18 +38753,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.5c19659",
-      "title": "Nature of Reverse Water–Gas Shift Reactions at Metal–Oxide Interfaces Uncovered via Interpretable Machine Learning",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-13",
-      "indexed_at": "2026-07-15T09:22:12Z",
-      "url": "https://doi.org/10.1021/jacs.5c19659",
-      "sources": [
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.5c14625",
       "title": "A Self-Healing Platinum Catalyst for Methanol Oxidation Reaction",
       "journal": "Journal of the American Chemical Society",
@@ -38720,32 +38760,6 @@
       "published_date": "2026-01-13",
       "indexed_at": "2026-07-15T09:08:57Z",
       "url": "https://doi.org/10.1021/jacs.5c14625",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c15876",
-      "title": "MetalloDock: Decoding Metalloprotein–Ligand Interactions via Physics-Aware Deep Learning for Metalloprotein Drug Discovery",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-13",
-      "indexed_at": "2026-07-13T13:20:37Z",
-      "url": "https://doi.org/10.1021/jacs.5c15876",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c22180",
-      "title": "Enantioselective Radical Addition of Carboxylic Acids to Imines through Cooperative Copper/Acridine Catalysis",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-13",
-      "indexed_at": "2026-07-12T06:17:51Z",
-      "url": "https://doi.org/10.1021/jacs.5c22180",
       "sources": [
         "acs",
         "crossref"
@@ -38785,19 +38799,6 @@
       "indexed_at": "2026-06-01T16:47:12Z",
       "url": "https://doi.org/10.1021/jacs.5c19392",
       "sources": [
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c18154",
-      "title": "Topology-Informed Design of Circularly Locked DNAzymes Enables Orthogonally Controlled Gene Regulation",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-13",
-      "indexed_at": "2026-05-01T20:39:55Z",
-      "url": "https://doi.org/10.1021/jacs.5c18154",
-      "sources": [
-        "acs",
         "crossref"
       ]
     },
@@ -38865,12 +38866,51 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c19389",
+      "title": "Catellani-Inspired BN-Aromatic Expansion: A Versatile Tool toward π-Extended 1,2-Azaborines with Tunable Photosensitizing Properties",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-12",
+      "indexed_at": "2026-08-05T02:45:07Z",
+      "url": "https://doi.org/10.1021/jacs.5c19389",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c13979",
+      "title": "Structure-Guided Semisynthesis of Blasticidin S–Amicetin Chimeras as Selective Ribosome Inhibitors",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-12",
+      "indexed_at": "2026-08-05T02:03:41Z",
+      "url": "https://doi.org/10.1021/jacs.5c13979",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c19912",
+      "title": "Electrochemical Indole Skeletal Editing via Single-Carbon Atom Insertion",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-12",
+      "indexed_at": "2026-08-05T01:05:14Z",
+      "url": "https://doi.org/10.1021/jacs.5c19912",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c15937",
       "title": "Ultrahigh Ionic Conductivity in Halide Electrolytes Enabled by Anion Framework Flexibility Engineering",
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-01-12",
-      "indexed_at": "2026-07-30T03:31:08Z",
+      "indexed_at": "2026-08-05T01:02:55Z",
       "url": "https://doi.org/10.1021/jacs.5c15937",
       "sources": [
         "acs",
@@ -38885,19 +38925,6 @@
       "published_date": "2026-01-12",
       "indexed_at": "2026-07-23T03:21:45Z",
       "url": "https://doi.org/10.1021/jacs.5c16679",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c19912",
-      "title": "Electrochemical Indole Skeletal Editing via Single-Carbon Atom Insertion",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-12",
-      "indexed_at": "2026-07-21T12:36:36Z",
-      "url": "https://doi.org/10.1021/jacs.5c19912",
       "sources": [
         "acs",
         "crossref"
@@ -38995,19 +39022,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.5c13979",
-      "title": "Structure-Guided Semisynthesis of Blasticidin S–Amicetin Chimeras as Selective Ribosome Inhibitors",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-12",
-      "indexed_at": "2026-02-26T19:16:20Z",
-      "url": "https://doi.org/10.1021/jacs.5c13979",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.5c19806",
       "title": "Characterization of a Silver Vinylcarbene Intermediate in Carbene–Alkyne Metathesis and Its Concerted C(sp 2 )–H Bond Insertion",
       "journal": "Journal of the American Chemical Society",
@@ -39028,19 +39042,6 @@
       "published_date": "2026-01-12",
       "indexed_at": "2026-01-28T22:25:06Z",
       "url": "https://doi.org/10.1021/jacs.5c18299",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c19389",
-      "title": "Catellani-Inspired BN-Aromatic Expansion: A Versatile Tool toward π-Extended 1,2-Azaborines with Tunable Photosensitizing Properties",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-12",
-      "indexed_at": "2026-01-28T22:22:36Z",
-      "url": "https://doi.org/10.1021/jacs.5c19389",
       "sources": [
         "acs",
         "crossref"
@@ -39281,6 +39282,32 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c19678",
+      "title": "A Spatially Controllable DNA Origami-Based T-Cell Cluster Engager for Precise Tumor Elimination",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-08",
+      "indexed_at": "2026-08-05T02:14:42Z",
+      "url": "https://doi.org/10.1021/jacs.5c19678",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c20444",
+      "title": "Local pH Effects on the Temperature Dependence of Product Formation in CO 2 Electrolyzers",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-08",
+      "indexed_at": "2026-08-05T00:40:58Z",
+      "url": "https://doi.org/10.1021/jacs.5c20444",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c16414",
       "title": "Pretreatment-Free Direct Seawater Electrolysis Using Chloride-Blocking Bipolar Membranes",
       "journal": "Journal of the American Chemical Society",
@@ -39301,19 +39328,6 @@
       "published_date": "2026-01-08",
       "indexed_at": "2026-07-29T14:13:18Z",
       "url": "https://doi.org/10.1021/jacs.5c18451",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c19678",
-      "title": "A Spatially Controllable DNA Origami-Based T-Cell Cluster Engager for Precise Tumor Elimination",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-08",
-      "indexed_at": "2026-07-28T00:58:08Z",
-      "url": "https://doi.org/10.1021/jacs.5c19678",
       "sources": [
         "acs",
         "crossref"
@@ -39366,19 +39380,6 @@
       "published_date": "2026-01-08",
       "indexed_at": "2026-07-17T05:08:20Z",
       "url": "https://doi.org/10.1021/jacs.5c17879",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c20444",
-      "title": "Local pH Effects on the Temperature Dependence of Product Formation in CO 2 Electrolyzers",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-08",
-      "indexed_at": "2026-07-16T06:08:50Z",
-      "url": "https://doi.org/10.1021/jacs.5c20444",
       "sources": [
         "acs",
         "crossref"
@@ -39540,6 +39541,44 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c15860",
+      "title": "Amino Acid Residue-Driven Nanoparticle Targeting of Protein Cavities: Surface Chemistry Dictates Binding Specificity beyond Size Complementarity",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-07",
+      "indexed_at": "2026-08-05T02:23:29Z",
+      "url": "https://doi.org/10.1021/jacs.5c15860",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c17976",
+      "title": "Ultrastable Copper Superatom",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-07",
+      "indexed_at": "2026-08-05T02:11:51Z",
+      "url": "https://doi.org/10.1021/jacs.5c17976",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c18484",
+      "title": "Iron-Catalyzed Synthesis of Unsymmetrical Disilanes",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-07",
+      "indexed_at": "2026-08-05T01:08:37Z",
+      "url": "https://doi.org/10.1021/jacs.5c18484",
+      "sources": [
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c20554",
       "title": "Asymmetric Desymmetrizing Sulfonylation of Diarylmethanes via Peptidyl-Cu(I)-Catalysis with Remote Stereocontrol",
       "journal": "Journal of the American Chemical Society",
@@ -39573,31 +39612,6 @@
       "indexed_at": "2026-07-31T10:33:13Z",
       "url": "https://doi.org/10.1021/jacs.5c19331",
       "sources": [
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c18484",
-      "title": "Iron-Catalyzed Synthesis of Unsymmetrical Disilanes",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-07",
-      "indexed_at": "2026-07-29T20:34:47Z",
-      "url": "https://doi.org/10.1021/jacs.5c18484",
-      "sources": [
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c17976",
-      "title": "Ultrastable Copper Superatom",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-07",
-      "indexed_at": "2026-07-28T19:56:57Z",
-      "url": "https://doi.org/10.1021/jacs.5c17976",
-      "sources": [
-        "acs",
         "crossref"
       ]
     },
@@ -39636,19 +39650,6 @@
       "indexed_at": "2026-07-20T13:09:23Z",
       "url": "https://doi.org/10.1021/jacs.5c21178",
       "sources": [
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c15860",
-      "title": "Amino Acid Residue-Driven Nanoparticle Targeting of Protein Cavities: Surface Chemistry Dictates Binding Specificity beyond Size Complementarity",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-07",
-      "indexed_at": "2026-07-18T09:26:13Z",
-      "url": "https://doi.org/10.1021/jacs.5c15860",
-      "sources": [
-        "acs",
         "crossref"
       ]
     },
@@ -40018,7 +40019,7 @@
       "journal": "Journal of the American Chemical Society",
       "journal_short": "JACS",
       "published_date": "2026-01-05",
-      "indexed_at": "2026-07-29T18:51:46Z",
+      "indexed_at": "2026-08-05T00:54:13Z",
       "url": "https://doi.org/10.1021/jacs.5c19172",
       "sources": [
         "acs",
@@ -40273,6 +40274,44 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c18222",
+      "title": "Caging the Chlorine Radical: Chemoselective Photocatalytic C(sp 3 )–H Functionalization Enabled by Terminal Cu–Cl Sites in a Metal–Organic Framework",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-02",
+      "indexed_at": "2026-08-05T02:40:07Z",
+      "url": "https://doi.org/10.1021/jacs.5c18222",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c18188",
+      "title": "Transient Imaging of the Oxygen Reduction Reaction at Single Nanocatalysts",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-02",
+      "indexed_at": "2026-08-05T02:11:16Z",
+      "url": "https://doi.org/10.1021/jacs.5c18188",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c18839",
+      "title": "Mapping the Undirected Borylation of C(sp 3 )–H Bonds in Strained Rings",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-02",
+      "indexed_at": "2026-08-05T01:52:56Z",
+      "url": "https://doi.org/10.1021/jacs.5c18839",
+      "sources": [
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c21439",
       "title": "Atomic Resolution of Solid–Electrolyte Interphase Formation via Off-Lattice On-the-Fly Kinetic Monte Carlo",
       "journal": "Journal of the American Chemical Society",
@@ -40382,31 +40421,6 @@
       "published_date": "2026-01-02",
       "indexed_at": "2026-07-26T03:36:07Z",
       "url": "https://doi.org/10.1021/jacs.5c20376",
-      "sources": [
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c18188",
-      "title": "Transient Imaging of the Oxygen Reduction Reaction at Single Nanocatalysts",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-02",
-      "indexed_at": "2026-07-25T19:31:25Z",
-      "url": "https://doi.org/10.1021/jacs.5c18188",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c18839",
-      "title": "Mapping the Undirected Borylation of C(sp 3 )–H Bonds in Strained Rings",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-02",
-      "indexed_at": "2026-07-24T06:51:48Z",
-      "url": "https://doi.org/10.1021/jacs.5c18839",
       "sources": [
         "crossref"
       ]
@@ -40594,19 +40608,6 @@
       ]
     },
     {
-      "doi": "10.1021/jacs.5c18222",
-      "title": "Caging the Chlorine Radical: Chemoselective Photocatalytic C(sp 3 )–H Functionalization Enabled by Terminal Cu–Cl Sites in a Metal–Organic Framework",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-02",
-      "indexed_at": "2026-04-18T08:21:10Z",
-      "url": "https://doi.org/10.1021/jacs.5c18222",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
       "doi": "10.1021/jacs.5c13788",
       "title": "Discovery of Supra-Bivalent GSK3β Inhibitory Peptides Containing an ATP-Mimetic Amino Acid",
       "journal": "Journal of the American Chemical Society",
@@ -40646,6 +40647,18 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c18589",
+      "title": "Coexistence of Ohmic Contact and Fermi Level Pinning at 2D Electride/2D Semiconductor Interfaces",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-08-05T00:52:58Z",
+      "url": "https://doi.org/10.1021/jacs.5c18589",
+      "sources": [
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c17207",
       "title": "Efficient Surface to Bulk Catalysis in the Reverse Water–Gas Shift Reaction by the FeO x /Fe 3 C Catalyst",
       "journal": "Journal of the American Chemical Society",
@@ -40655,18 +40668,6 @@
       "url": "https://doi.org/10.1021/jacs.5c17207",
       "sources": [
         "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c18589",
-      "title": "Coexistence of Ohmic Contact and Fermi Level Pinning at 2D Electride/2D Semiconductor Interfaces",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-07-24T09:36:20Z",
-      "url": "https://doi.org/10.1021/jacs.5c18589",
-      "sources": [
         "crossref"
       ]
     },
@@ -40709,24 +40710,5 @@
       ]
     }
   ],
-  "new_dois": [
-    "10.1021/jacs.6c04854",
-    "10.1021/jacs.6c08946",
-    "10.1021/jacs.6c10688",
-    "10.1021/jacs.6c11488",
-    "10.1021/jacs.6c10243",
-    "10.1021/jacs.6c07895",
-    "10.1021/jacs.6c12291",
-    "10.1021/jacs.6c09915",
-    "10.1021/jacs.6c10566",
-    "10.1021/jacs.6c07493",
-    "10.1021/jacs.6c07185",
-    "10.1021/jacs.6c11060",
-    "10.1021/jacs.6c11639",
-    "10.1021/jacs.6c10111",
-    "10.1021/jacs.6c11308",
-    "10.1021/jacs.6c07430",
-    "10.1021/jacs.6c08975",
-    "10.1021/jacs.6c10939"
-  ]
+  "new_dois": []
 }
