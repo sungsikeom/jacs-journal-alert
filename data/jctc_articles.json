@@ -1,0 +1,3284 @@
+{
+  "source": "ACS JCTC Article search results",
+  "collected_at": "2026-08-05T09:20:55.982Z",
+  "scope_start": "2026-01-01",
+  "article_count": 546,
+  "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01064",
+      "title": "Replica Exchange Molecular Dynamics with Hydrogen Mass Repartitioning Improves Sampling of Peptide Binding to a Lipid Bilayer",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01064"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00942",
+      "title": "Predicting Properties of Key Ingredients of Battery Solvents with Density Functional Theory and Adaptive Force Matching",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00942"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00798",
+      "title": "Accurate and Time-Efficient Condensed-Phase Free Energy Simulations with Reaction Specific Δ-Machine Learning Potentials in CHARMM",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00798"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00544",
+      "title": "Encounter-State Over-Anchoring Governs Productive PETase Binding on PET Surfaces",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00544"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00432",
+      "title": "Resource-Efficient Simulation of Molecular Ground and Excited States Based on Contextual Subspace and Quantum Subspace Expansion",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00432"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00739",
+      "title": "Toward Accurate RIXS Spectra at Heavy Element Edges: A Relativistic Four-Component and Exact Two-Component TDDFT Approach",
+      "published_date": "2026-08-03",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00739"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00518",
+      "title": "Iterative Methods for Discrete Dyson Series and Applications in Open Quantum Systems",
+      "published_date": "2026-08-03",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00518"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00424",
+      "title": "Correcting Hybrid Density Functionals to Model Y6 and Other Nonfullerene Acceptors",
+      "published_date": "2026-08-03",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00424"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01192",
+      "title": "Modeling Peptides in Aqueous Ionic Liquid Mixtures: A Quantum Mechanics/Molecular Dynamics Study of Structural and NMR Properties",
+      "published_date": "2026-08-01",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01192"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00930",
+      "title": "Charged Systems in Absolute Binding Free Energy Calculations: An Analytical Electrostatic Approach",
+      "published_date": "2026-07-31",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00930"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00847",
+      "title": "Electric-Field Effects on Spin Diffusion Length in Solids: An Ab Initio Approach Beyond the Drift-Diffusion Model",
+      "published_date": "2026-07-30",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00847"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00746",
+      "title": "Self-Consistent Biased Fine-Tuning for Highly Accurate Reaction-Specific Machine-Learning Interatomic Potentials",
+      "published_date": "2026-07-30",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00746"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00664",
+      "title": "Non-Negative Least Squares Reweighting and Pruning of Quadrature Grids for Tensor Hypercontraction",
+      "published_date": "2026-07-30",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00664"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00537",
+      "title": "Optimization of Random Phase Approximation Calculations for Improved Energies of Molecules, Solids, and Surfaces",
+      "published_date": "2026-07-30",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00537"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01334",
+      "title": "Reliability of AI Methods in Drug Discovery: Evaluation of Boltz-2 for Structure and Binding Affinity Prediction",
+      "published_date": "2026-07-29",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01334"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00977",
+      "title": "Quantifying the Energetics of Protein-Mediated Stabilization of Membrane Deformation",
+      "published_date": "2026-07-29",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00977"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00883",
+      "title": "Stepping Up Enhanced Rate Calculations with EATR-Flooding",
+      "published_date": "2026-07-29",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00883"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00500",
+      "title": "Improving Sampling of Binding Free Energy Differences between Covalently Bound Ligands in Alternate Binding Pockets Using MT-REXEE",
+      "published_date": "2026-07-29",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00500"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00521",
+      "title": "Resource-Efficient Quantum Algorithms for Selected Hamiltonian Subspace Diagonalization",
+      "published_date": "2026-07-28",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00521"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00178",
+      "title": "Improving Binding Free Energy Predictions with Swap Monte Carlo for Water Sampling",
+      "published_date": "2026-07-28",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00178"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00869",
+      "title": "Branched Ionizable Lipids Drive Cholesterol Domain Formation and pH-Dependent Remodeling in Lipid Nanoparticles",
+      "published_date": "2026-07-27",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00869"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00533",
+      "title": "Two-Factor Authentication of Dynamic Disorder for Computational Screening of High-Mobility Organic Semiconductors",
+      "published_date": "2026-07-27",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00533"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01062",
+      "title": "Comparative Assessment of DNA Force Fields for Small-Molecule Ligand Binding via Multicanonical MD-Based Dynamic Docking Simulations",
+      "published_date": "2026-07-25",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01062"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00997",
+      "title": "The Many-Electron Perspective on Local Spins and their Implication for Chemical Bonding",
+      "published_date": "2026-07-25",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00997"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00796",
+      "title": "SURFXsim: Free-Energy Simulations of Spin-Forbidden Events with a Spin-Gap Collective Variable",
+      "published_date": "2026-07-25",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00796"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00741",
+      "title": "NNP/CG-MM: Embedding of All-Atom Neural Network Potentials into a Coarse-Grained Molecular Mechanics Environment",
+      "published_date": "2026-07-25",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00741"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01092",
+      "title": "Parameterization of the PA Endonuclease Bimetallic Center Reveals the Dynamics of Clinically Relevant Mutations",
+      "published_date": "2026-07-24",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01092"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00671",
+      "title": "Differentiable Grand-Canonical Monte Carlo with Importance-Sampled Insertions for Gas Adsorption in Porous Materials",
+      "published_date": "2026-07-24",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00671"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00506",
+      "title": "Reliable Viscosity Calculation from High-Pressure Equilibrium Molecular Dynamics: Case Study of 2,2,4-Trimethylhexane",
+      "published_date": "2026-07-24",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00506"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00473",
+      "title": "Automated Active Space Selection with CASCI Dipole Moments",
+      "published_date": "2026-07-24",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00473"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00180",
+      "title": "A Hessian-Based Interpolation Method for Locating Transition Structures",
+      "published_date": "2026-07-24",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00180"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01053",
+      "title": "Time-Resolved X-ray Photoelectron Spectroscopy: Probing Bond Order Rearrangements during Ultrafast Excited-State Intramolecular Proton Transfer",
+      "published_date": "2026-07-23",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01053"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00989",
+      "title": "Free Energies of Solvation in Cyclohexane and Water: United-Atom vs All-Atom",
+      "published_date": "2026-07-23",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00989"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00963",
+      "title": "Fully Automatable Relative Binding Free Energy Calculations with Enhanced Sampling Using FAST/MBAR",
+      "published_date": "2026-07-23",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00963"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00824",
+      "title": "Dual-Coordinate Relative Free Energy Simulations Using Machine-Learned Interatomic Potentials",
+      "published_date": "2026-07-23",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00824"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00815",
+      "title": "Relation-Aware Pretraining and Reaction Center Modeling for Chemical Reaction Graph Representation Learning",
+      "published_date": "2026-07-23",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00815"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00787",
+      "title": "Charge Transport in Solvated Donor–Acceptor Functionalized Peptoids: Molecular Dynamics and Rate Theory",
+      "published_date": "2026-07-23",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00787"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00413",
+      "title": "Refractory to Improvement: A Cautionary Tale of Two-Electron Densities Computed with One-Electron Basis Sets and of Their Employment in Quantum-Chemical Formalisms",
+      "published_date": "2026-07-23",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00413"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01008",
+      "title": "Why a Single Mutation Dims the Light: Local Chromophore Organization Modulates Fluorescence in smURFP",
+      "published_date": "2026-07-22",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01008"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00319",
+      "title": "Assessing the Stability of Molecular Glues with Weighted Ensemble Simulations",
+      "published_date": "2026-07-22",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00319"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00876",
+      "title": "Accuracy Diagnostics for Natural Orbitals and Their Occupation Numbers from the Contracted Schrödinger Equation",
+      "published_date": "2026-07-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00876"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00788",
+      "title": "Upper Bounds on Gaussian Geminal Integrals",
+      "published_date": "2026-07-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00788"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00758",
+      "title": "Linear-Scaling Asymmetric Triples Correction through the Solution of the DLPNO–CCSD Lambda Equations: DLPNO–CCSD(T)Λ",
+      "published_date": "2026-07-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00758"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00565",
+      "title": "Efficient Algorithms for Analytical Gradients and Nonadiabatic Couplings of Second-Order Extended Multiconfiguration Quasi-Degenerate Perturbation Theory",
+      "published_date": "2026-07-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00565"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00934",
+      "title": "High-Fidelity Surrogate Framework for Rapid Solvation of Gas-Phase and Interfacial Reaction Potential Energy Surfaces",
+      "published_date": "2026-07-20",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00934"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00906",
+      "title": "DDCCNet: Physics-Enhanced Multitask Neural Networks for Data-Driven Coupled-Cluster",
+      "published_date": "2026-07-20",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00906"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00882",
+      "title": "Nodal Error behind Discrepancies between Coupled Cluster and Diffusion Monte Carlo",
+      "published_date": "2026-07-20",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00882"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00370",
+      "title": "Systematic Calibration of Pourbaix Diagrams of Organic Molecules",
+      "published_date": "2026-07-20",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00370"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00350",
+      "title": "Chalcogen Impurity Barriers in 2D Systems via Semi-Empirical/Machine Learning Modeling: A Survey of 4000 Materials",
+      "published_date": "2026-07-20",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00350"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01079",
+      "title": "Efficient Force Evaluation via Fragmentation: Toward Geometry Optimization of Protein–Ligand Systems with Quantum Mechanical Accuracy",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01079"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01022",
+      "title": "Mapping the Product-Dividing Boundary from a Valley-Ridge Inflection to the Product-Connecting Transition State in Substituent-Controlled Bifurcating Reactions",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01022"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00831",
+      "title": "Linear and Nonlinear Vibrational Excitations Driven by Molecular Polaritons",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00831"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00631",
+      "title": "Backmapping of Highly Coarse-Grained Protein Models and Applications to Nanomedicine Designs",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00631"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00754",
+      "title": "DARMN: Domain-Aware Residual Feature Modulation Network for Multidomain Protein Dynamic Inter-Residue Contact Prediction",
+      "published_date": "2026-07-16",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00754"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00525",
+      "title": "TENSO: Software Package for Numerically Exact Open Quantum Dynamics Based on Efficient Tree Tensor Network Decomposition of the Hierarchical Equations of Motion",
+      "published_date": "2026-07-15",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00525"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01016",
+      "title": "Two-Photon Absorption of Quadrupolar Dyes: Performance of Density Functional Approximations",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01016"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00328",
+      "title": "SGMSC: A New Software for Searching the Global-Minimum Structure of Surface-Supported Clusters by the Improved Basin Hopping Algorithm and Embedded Atom Potentials",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00328"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00247",
+      "title": "Reactive Chemistry at the Unrestricted Coupled Cluster Level: High-Throughput Calculations for Training Machine Learning Potentials",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00247"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00164",
+      "title": "Statistical Mechanics of a 2D Material in a Gas Reservoir",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00164"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00581",
+      "title": "Smoother Alchemical Transformations via Enveloping Distribution Sampling for Free-Energy Estimation",
+      "published_date": "2026-07-13",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00581"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00491",
+      "title": "Structural and Thermodynamic Properties of RNA Molecules Using a Knowledge-Based Model",
+      "published_date": "2026-07-13",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00491"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00400",
+      "title": "A Perturbative Super-CI Approach for Orbital Optimization in Two-Component Relativistic CASSCF",
+      "published_date": "2026-07-13",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00400"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01080",
+      "title": "A Cross-Domain Graph Learning Protocol for Single-Step Molecular Geometry Refinement",
+      "published_date": "2026-07-12",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01080"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00935",
+      "title": "One-Step Relativistic Driven Similarity Renormalization Group Multireference Perturbation Theory",
+      "published_date": "2026-07-10",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00935"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00903",
+      "title": "Extending Atom–Atom Polarizabilities to Frequency-Dependent Coupled Cluster and MCSCF Response",
+      "published_date": "2026-07-10",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00903"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00849",
+      "title": "Multi-Force-Field Molecular Dynamics Reveals How Cation Hydration Kinetics Dictate Polypeptide Assembly Pathways and Timescales",
+      "published_date": "2026-07-09",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00849"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00555",
+      "title": "3dDNAi: An Integrated Approach for 3D Structure Prediction of Single-Stranded DNAs",
+      "published_date": "2026-07-09",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00555"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00126",
+      "title": "Spin-Projected Divide-and-Conquer Unrestricted Self-Consistent Field: Practical Linear-Scaling Approaches for Static Correlation",
+      "published_date": "2026-07-09",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00126"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01147",
+      "title": "Multi-GPU MBE(3)-OSV-MP2 for Performant Large-Scale Ab Initio Calculations",
+      "published_date": "2026-07-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01147"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00784",
+      "title": "Double Asymptotic Expansion of Three-Center Electron Repulsion Integrals 2nd Derivatives",
+      "published_date": "2026-07-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00784"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00719",
+      "title": "Electron Alchemy with Machine-Learned Interatomic Potentials: Case Studies of Local Charge in Bond Dissociation Curves",
+      "published_date": "2026-07-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00719"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00701",
+      "title": "A Double-Valued Boundary Condition for Incorporating the Geometric Phase into Adiabatic Calculation",
+      "published_date": "2026-07-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00701"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00414",
+      "title": "An Uncontracted Epstein-Nesbet Perturbation Theory Approximation to SC-NEVPT2 Based on Spin-Pure Selected CI Wave Functions",
+      "published_date": "2026-07-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00414"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00879",
+      "title": "A Force-Kernel Reformulation of the Extended-System Adaptive Biasing Force for Free-Energy Calculations",
+      "published_date": "2026-07-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00879"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00816",
+      "title": "Multilevel Fragmentation and Boundary Corrections for Accurate Vibrational Spectra of Large Molecules",
+      "published_date": "2026-07-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00816"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00759",
+      "title": "Many-Body Theory Predictions of Positron Binding Energies in Five-Membered Heterocycles Involving N, O, S, and NH Substituents",
+      "published_date": "2026-07-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00759"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00727",
+      "title": "opt-DDAP: Optimizable Density-Derived Atomic Point Charges via Automatic Differentiation",
+      "published_date": "2026-07-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00727"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00312",
+      "title": "Predicting Excited-State Energies from Ground-State Descriptors in Thermally Fluctuating π-Conjugated Molecules",
+      "published_date": "2026-07-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00312"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00884",
+      "title": "Benchmark Study for Calculations of pKa Values of Metal Ligands in Proteins",
+      "published_date": "2026-07-06",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00884"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00472",
+      "title": "Charge Transfer Interaction between Ab Initio and Effective Fragment Potential Molecules",
+      "published_date": "2026-07-06",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00472"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00901",
+      "title": "Complementing Onsager’s Conductivity Theory by Grotthuss Mechanism Mitigation via Ion-Induced Depletion of Hydrogen-Bond-Donating Water",
+      "published_date": "2026-07-04",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00901"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00639",
+      "title": "Analytic Nuclear Gradients Including Oriented External Electric Fields in a Molecule-Fixed Frame",
+      "published_date": "2026-07-03",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00639"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00574",
+      "title": "Knowledge Distillation of a Protein Language Model Yields a Foundational Implicit Solvent Model",
+      "published_date": "2026-07-03",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00574"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00480",
+      "title": "Generalizable Protein Folding Pathway Exploration with DA2-GRASP: Extending Beyond Miniproteins",
+      "published_date": "2026-07-03",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00480"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00830",
+      "title": "BFEE-Docking: A User-Friendly and Customizable End-to-End Tool from High-Throughput Virtual Screening to Binding Free-Energy Calculations",
+      "published_date": "2026-07-02",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00830"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00710",
+      "title": "Extending the MARTINI 3 Coarse-Grained Force Field to Polypeptoids",
+      "published_date": "2026-07-02",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00710"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00705",
+      "title": "Improving PCM in Protic Media: Markov State Models for TD-DFT Calculations",
+      "published_date": "2026-07-02",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00705"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00558",
+      "title": "Efficient Coupled-Cluster Python Frameworks for Next-Generation GPUs: A Comparative Study of CuPy and PyTorch on the Hopper and Grace Hopper Architecture",
+      "published_date": "2026-07-02",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00558"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00476",
+      "title": "Statistical Mechanics of Density- and Temperature-Dependent Potentials: Application to Condensed Phases within GenDPDE",
+      "published_date": "2026-07-02",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00476"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00854",
+      "title": "Machine-Learned Force Fields for Lattice Dynamics at Coupled-Cluster Level Accuracy",
+      "published_date": "2026-07-01",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00854"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00755",
+      "title": "A State-Averaged Formulation for Variational Multiconfigurational Pair-Density Functional Theory",
+      "published_date": "2026-07-01",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00755"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00715",
+      "title": "Is a Bit over Okay? – Overcomplete Sets of Localized Molecular Orbitals",
+      "published_date": "2026-07-01",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00715"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00390",
+      "title": "On-the-Fly Trajectory Simulation of Two-Pulse, Three-Pulse, and Higher-Order Pump–Probe Signals",
+      "published_date": "2026-07-01",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00390"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00372",
+      "title": "Nuclear Gradients from Auxiliary-Field Quantum Monte Carlo and Their Applications in ML-Driven Geometry Optimization and Transition State Search",
+      "published_date": "2026-07-01",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00372"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01002",
+      "title": "Continuous Information Descriptors for Electron Localization: Relativistic Spatial Responses, Nonadditivity, and Chemical Bonding",
+      "published_date": "2026-06-30",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01002"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00839",
+      "title": "Determining Quantum Mechanical Methods Suitable for Quantitative Modeling of Hydrogen Atom Transfer by Halogen Atoms",
+      "published_date": "2026-06-30",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00839"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00575",
+      "title": "Systematic Molecularity-Dependent Entropy Errors in Continuum/RRHO Solution Thermochemistry: Origin and Correction",
+      "published_date": "2026-06-30",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00575"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00401",
+      "title": "Sample-Based Quantum Diagonalization Methods for Modeling the Photochemistry of Diazirine and Diazo Compounds",
+      "published_date": "2026-06-30",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00401"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00863",
+      "title": "Molecular Modeling of Surfactant Interaction on Phospholipid Bilayers Mimicking Corneal Epithelium",
+      "published_date": "2026-06-29",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00863"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00692",
+      "title": "Predicting Solvation Free Energies of Molecules and Ions via First-Principles and Machine-Learning Molecular Dynamics",
+      "published_date": "2026-06-29",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00692"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02154",
+      "title": "Resolving Local and Global Conformational Heterogeneity of the Human Intrinsically Disordered Proteome",
+      "published_date": "2026-06-29",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02154"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00732",
+      "title": "Unveiling Electric Field-Driven Stereocontrol in Hurd–Claisen Rearrangements",
+      "published_date": "2026-06-25",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00732"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00663",
+      "title": "Low-Scaling Many-Body Green’s Function Calculations for Molecular Systems via Interacting-Bath Dynamical Embedding Theory",
+      "published_date": "2026-06-25",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00663"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00629",
+      "title": "GPU Accelerated Minimal Auxiliary Basis Approach TDDFT for Large Organic Molecules",
+      "published_date": "2026-06-25",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00629"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00554",
+      "title": "Machine-Learned Leftmost Hessian Eigenvectors for Robust Transition State Finding",
+      "published_date": "2026-06-25",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00554"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00469",
+      "title": "PSFF-PTM: A Coarse-Grained Force-Field Parameter Patch for Modeling Post-Translational Modification Effects on Biomolecular Condensates",
+      "published_date": "2026-06-25",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00469"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01119",
+      "title": "Generative Replica Exchange: A Flow-Based Framework for Accelerating Replica-Exchange Simulations",
+      "published_date": "2026-06-24",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01119"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00980",
+      "title": "Exploring the Origin of Molecular Chirality: A Standalone Suite of Tools to Visualize and Analyze Transition Current Density",
+      "published_date": "2026-06-24",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00980"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00713",
+      "title": "Reference Energies for Non-Relativistic Core Ionization Potentials",
+      "published_date": "2026-06-24",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00713"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00634",
+      "title": "Scalable Correlated Local Approaches for Computing Valence and Core-Level Ionization Energies in Large Molecules",
+      "published_date": "2026-06-24",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00634"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00557",
+      "title": "Accelerating Free Energy Exploration Using Parallelizable Gaussian Accelerated Molecular Dynamics (ParGaMD)",
+      "published_date": "2026-06-24",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00557"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00623",
+      "title": "Accelerating Prediction of Complex Molecular Crystals by Sensible Selection of Asymmetric Units",
+      "published_date": "2026-06-23",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00623"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00591",
+      "title": "Aitomia: An Agentic Framework for AI-Driven Atomistic and Quantum Chemical Simulations",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00591"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00490",
+      "title": "TorchDisorder: A Differentiable Framework for Generating Physically Realistic Disorder Structures from Experimental Diffraction Data",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00490"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00637",
+      "title": "Modeling Xanthophyll Excited States via Cost-Effective Quantum Chemistry methods and Property-Based Diabatization",
+      "published_date": "2026-06-20",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00637"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00553",
+      "title": "Integrating Charge Equilibration with Equivariant Machine-Learning Interatomic Potentials",
+      "published_date": "2026-06-20",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00553"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00425",
+      "title": "Bias in Universal Machine-Learned Interatomic Potentials and Its Effects on Fine-Tuning",
+      "published_date": "2026-06-20",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00425"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00365",
+      "title": "How Long Is Long Enough? Extrapolation of Machine-Learning Interatomic Potentials for Oligomeric and Polymeric Systems",
+      "published_date": "2026-06-19",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00365"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00785",
+      "title": "From Localized to Delocalized OH···O Hydrogen Bonds: Benchmark of Hierarchical Quantum Chemical Methods against Rotational Spectroscopy",
+      "published_date": "2026-06-18",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00785"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00445",
+      "title": "A Deterministic Framework for Neural Network Quantum States in Quantum Chemistry",
+      "published_date": "2026-06-18",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00445"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00299",
+      "title": "Monte Carlo-Based Prediction of Residual Dipolar Couplings in Weakly Aligned Molecules",
+      "published_date": "2026-06-18",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00299"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00105",
+      "title": "Multi-Objective Optimization of Conceptual DFT Reactivity Descriptors in Open-Shell Radicals by Reinforcement Learning",
+      "published_date": "2026-06-18",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00105"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00580",
+      "title": "Stable, Fast, and Accurate Kohn–Sham Matrix Reconstruction in Gaussian Basis for Open-Shell Molecular and Condensed-Phase Systems via Density Matrix Penalization",
+      "published_date": "2026-06-17",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00580"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00731",
+      "title": "Computation of Electronic Bound States in Anionic Clusters as Precursors to Solvated Electrons",
+      "published_date": "2026-06-16",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00731"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00620",
+      "title": "Stochastic Difference-Dedicated Configuration Interaction for Magnetic Exchange in Large Active Spaces",
+      "published_date": "2026-06-16",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00620"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00422",
+      "title": "Efficient Nonadiabatic Molecular Dynamics for Exploring Excitation Energy Transfer in Thermally Fluctuating Molecular Aggregates",
+      "published_date": "2026-06-16",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00422"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00274",
+      "title": "Accuracy and Resource Advantages of Quantum Eigenvalue Estimation with Non-Hermitian Transcorrelated Electronic Hamiltonians",
+      "published_date": "2026-06-16",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00274"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00593",
+      "title": "Enhancing Relative Binding Free Energy Calculation with Grand Canonical Monte Carlo, Water-swap Monte Carlo, Terminal-flip Monte Carlo and Replica Exchange Solute Tempering",
+      "published_date": "2026-06-15",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00593"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00543",
+      "title": "Reconstruction of Local Potentials from Matrix Representations in Arbitrary Basis Sets",
+      "published_date": "2026-06-15",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00543"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00526",
+      "title": "Quantum-Centric Alchemical Free Energy Calculations",
+      "published_date": "2026-06-15",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00526"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00419",
+      "title": "Implementation of EC-RISM for ADC(2) and CC2 to Include Solvent Granularity Effects in Excited-State Energies and Gradients",
+      "published_date": "2026-06-15",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00419"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00197",
+      "title": "Counterdiabatic ADAPT-VQE for Molecular Simulation",
+      "published_date": "2026-06-15",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00197"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00675",
+      "title": "Solid–Liquid Interfacial Free Energies from Atomistic Mean-Field Quantum Mechanical Calculations",
+      "published_date": "2026-06-14",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00675"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00659",
+      "title": "seekrflow: Towards an End-to-End Automated Simulation Pipeline with Machine-Learned Force Fields for Accelerated Drug-Target Kinetic and Thermodynamic Predictions",
+      "published_date": "2026-06-12",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00659"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00460",
+      "title": "Nonlocal Orbital-Free Kinetic Energy Functional from the Jellium-with-Gap Model for Finite Systems",
+      "published_date": "2026-06-12",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00460"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00320",
+      "title": "Exact SO(3) Averages and Directional Analysis of Molecular Hyperpolarizabilities: Closed Form β/γ Invariant Lab Channel Metrics with Certified Sampling",
+      "published_date": "2026-06-12",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00320"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00239",
+      "title": "Benchmarking the Plasmon-Pole and Multipole Approximations in the Yambo Code Using the GW100 Data Set",
+      "published_date": "2026-06-12",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00239"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00632",
+      "title": "TDΔSCF: Time-Dependent Density Functional Theory with a Non-Aufbau Reference for Near-Degenerate States",
+      "published_date": "2026-06-11",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00632"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00556",
+      "title": "Analytic Nonadiabatic Derivative Couplings Using Noncollinear Spin-Flip TDDFT",
+      "published_date": "2026-06-11",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00556"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00398",
+      "title": "Adaptive Normal Mode Sampling (aMDeNM) Enhances Exploration of Protein Conformational Space and Reveals the Functional Role of Frequency Coupling",
+      "published_date": "2026-06-11",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00398"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00207",
+      "title": "The Importance of Going beyond the Independent Atom Model When Predicting UED Signals from Simulations",
+      "published_date": "2026-06-10",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00207"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00596",
+      "title": "Fast Molecular Crystal Structure Prediction Using Sampling by Analogy to Previously Predicted Landscapes",
+      "published_date": "2026-06-09",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00596"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00454",
+      "title": "Extended Mixed-Reference Spin-Flip Time-Dependent Density Functional Theory for Charge-Transfer State",
+      "published_date": "2026-06-09",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00454"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00334",
+      "title": "Entropy, Free Energy, and a Generalized Order Parameter for Liquid Crystal Phases of Chiral and Achiral Rods",
+      "published_date": "2026-06-09",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00334"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00640",
+      "title": "Implementation and Validation of Titratable Cysteine in GROMACS-Based Constant-pH Molecular Dynamics",
+      "published_date": "2026-06-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00640"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00306",
+      "title": "Reactive Coarse Grained Force Field for Metal–Organic Frameworks Applied to Modeling ZIF-8 Self-Assembly",
+      "published_date": "2026-06-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00306"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00202",
+      "title": "Beyond Single Structures: The Role of Structural Ensembles in Discrete–Continuum Modeling of Highly Charged Metal Ions",
+      "published_date": "2026-06-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00202"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00653",
+      "title": "Faster Molecular Dynamics with Neural Network Potentials via Distilled Multiple Time-Stepping and Nonconservative Forces",
+      "published_date": "2026-06-06",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00653"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00545",
+      "title": "Fast Computation of Exact Symmetry-Corrected RMSD of Conformers",
+      "published_date": "2026-06-05",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00545"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00474",
+      "title": "HiMac: High-Throughput Initialization of Multidentate Adsorption Configurations for Geometry Relaxation and Transition-State Searches",
+      "published_date": "2026-06-05",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00474"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00208",
+      "title": "Reducing the Cost of Unitary Coupled Cluster via Active Space Partitioning",
+      "published_date": "2026-06-05",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00208"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00130",
+      "title": "Accuracy and Efficiency Benchmarks of Pretrained Machine Learning Potentials for Molecular Simulations",
+      "published_date": "2026-06-05",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00130"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00364",
+      "title": "Molecular Quantum Computations on a Protein",
+      "published_date": "2026-06-04",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00364"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00348",
+      "title": "A Novel NPT Thermodynamic Integration Scheme to Derive Rigorous Gibbs Free Energies for Crystalline Solids",
+      "published_date": "2026-06-04",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00348"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00224",
+      "title": "Adaptive Vibrational Coordinates via Symmetry-Aware Normalizing Flows",
+      "published_date": "2026-06-04",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00224"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00082",
+      "title": "Measuring Differences in Protein Allosteric Graphs Constructed via Molecular Dynamics Simulations",
+      "published_date": "2026-06-04",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00082"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00511",
+      "title": "Cytosolic K+ Binding to the Human Serotonin Transporter",
+      "published_date": "2026-06-03",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00511"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00329",
+      "title": "Unbiased Fuzzy Global Optimization with Complex Three-Body Interactions: The Case of Large (C60)N Clusters with the First-Principles PPR Potential",
+      "published_date": "2026-06-03",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00329"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02183",
+      "title": "Geometric Structure-Aware Diffusion Model with Self-Optimization Strategy for Molecular Generation",
+      "published_date": "2026-06-03",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02183"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01967",
+      "title": "AdsorPy: A Python Package for Lattice-Based Random Sequential Adsorption Simulations",
+      "published_date": "2026-06-03",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01967"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00339",
+      "title": "Computing Paramagnetic 13C NMR Chemical Shifts of Cobalt(II) Porphyrins with the eXtended ONIOM Method",
+      "published_date": "2026-06-02",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00339"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00057",
+      "title": "Hamiltonian-Informed Point Group Symmetry-Respecting Ansätze for the Variational Quantum Eigensolver",
+      "published_date": "2026-06-02",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00057"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01343",
+      "title": "Polaritonic Coupled Cluster Theory for Unpolarized Cavities Exploiting Point-Group Symmetry",
+      "published_date": "2026-06-02",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01343"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00695",
+      "title": "Integrating Conformational Sampling and Siamese Learning to Predict Mutation-Induced Binding Affinity Changes in Abelson Tyrosine Kinase and Its Ligands",
+      "published_date": "2026-06-01",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00695"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00679",
+      "title": "Steering Langevin Dynamics toward Transition States Using Collective-Variable-Free Resampling",
+      "published_date": "2026-06-01",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00679"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00421",
+      "title": "Packed by the Surface: Relating Surface Structure and Solvation Properties at Solid/Water Interfaces",
+      "published_date": "2026-06-01",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00421"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00405",
+      "title": "H2X100: A Gold-Standard CCSD(T)/CBS Benchmark Dataset of Binding Energies, Structures, and Harmonic Frequencies for (H2X)n, X = S, Se, Te, n = 2–4, and Assessment of Lower-Scaling Density Functional Theory Methods",
+      "published_date": "2026-05-29",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00405"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00357",
+      "title": "Local Spin Density Approximation Strongly Improved by a Better-Informed Local Scaling of Its Self-Interaction Correction",
+      "published_date": "2026-05-29",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00357"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00100",
+      "title": "PoroNet: An Intrinsically Interpretable Pore Graph Neural Network for Resolving Pore-Level Adsorption in Metal–Organic Frameworks",
+      "published_date": "2026-05-29",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00100"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00504",
+      "title": "A Flexible and Generalized Constant-Potential Framework in i‑PI",
+      "published_date": "2026-05-28",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00504"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00257",
+      "title": "Toward Robust Three-State Diabatization: A Systematic Benchmark of O(3) Transformation Parameterizations",
+      "published_date": "2026-05-28",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00257"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00170",
+      "title": "Fewest-Switches Surface Hopping with Combined Deep Learning Potential and Long Short-Term Memory Network Propagator for Simulating Realistic Photochemical Processes",
+      "published_date": "2026-05-28",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00170"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00821",
+      "title": "EZPro-Multi: Contrastive Learning-Enhanced Multi-property Prediction for Enzyme Engineering",
+      "published_date": "2026-05-27",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00821"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00492",
+      "title": "Efficient QM/MM Modeling of Enzymatic Reactions Combining PathCV with OPES",
+      "published_date": "2026-05-27",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00492"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00487",
+      "title": "Adaptive Tensor Train Metadynamics for High-Dimensional Free Energy Exploration",
+      "published_date": "2026-05-27",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00487"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00214",
+      "title": "StruCloze: A Unified Framework for Backmapping and Inpainting Biomolecule Structures",
+      "published_date": "2026-05-27",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00214"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00133",
+      "title": "A Local Charge State Fixation Approach for Resolving Charge-Flow Problems in Reorganization Energy Calculations of Electron Transfer in Donor–Bridge–Acceptor Systems",
+      "published_date": "2026-05-27",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00133"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00463",
+      "title": "Martini 3 Metabolome",
+      "published_date": "2026-05-26",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00463"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00412",
+      "title": "Anharmonic Effects Revealed by Temperature-Dependent Phonon Lifetimes and Thermal Conductivities in a π‑Conjugated Molecular Crystal",
+      "published_date": "2026-05-26",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00412"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01887",
+      "title": "Spin Dynamics in Open Quantum Systems: A DLvN-TDDFT Approach",
+      "published_date": "2026-05-26",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01887"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01813",
+      "title": "Generative Autoencoders Coupled to Monte Carlo Simulation Allow Efficient Protein Conformation Sampling",
+      "published_date": "2026-05-25",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01813"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00443",
+      "title": "General Expression for Vibronic Coupling in Proton-Coupled Energy Transfer",
+      "published_date": "2026-05-24",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00443"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00523",
+      "title": "KSSOLV Toolbox: A MATLAB Graphical User Interface for Plane-Wave Density Functional Theory Calculations",
+      "published_date": "2026-05-23",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00523"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00260",
+      "title": "Bayesian Modeling of Polarizable Water: Lessons for Force Field Development",
+      "published_date": "2026-05-23",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00260"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00255",
+      "title": "Multilevel DFT Response Theory",
+      "published_date": "2026-05-22",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00255"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00512",
+      "title": "Fragment, Entangle, and Consolidate: Strong Correlation through Bifold Quantum Circuits",
+      "published_date": "2026-05-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00512"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00486",
+      "title": "How Do Virtual Orbitals Influence Charge-Transfer Excitations in ΔSCF Calculations? Insights from Constricted Variational DFT",
+      "published_date": "2026-05-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00486"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00353",
+      "title": "Quantifying Hydroxyl Adsorption on Copper with Electrochemical-Aware Random Phase Approximation",
+      "published_date": "2026-05-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00353"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00345",
+      "title": "Decoding Cancer-Associated Mutations in DNA Polymerase η through Atomistic Simulations",
+      "published_date": "2026-05-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00345"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00009",
+      "title": "LFaB: Low Fidelity as Bias for Active Learning in the Chemical Configuration Space",
+      "published_date": "2026-05-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00009"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00618",
+      "title": "Low-Scaling GW Calculations of Quasi-Particle Energies for Extended Systems within the Numerical Atomic Orbital Framework",
+      "published_date": "2026-05-20",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00618"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00471",
+      "title": "Hierarchical Truncations for Many-Body Expansion Potentials",
+      "published_date": "2026-05-20",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00471"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00417",
+      "title": "Electrochemistry-Enhanced Dynamic Path Sampling for Reaction Rate Calculations Considering Nuclear Quantum Effects",
+      "published_date": "2026-05-20",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00417"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00280",
+      "title": "Fast Generation of Pipek–Mezey Wannier Functions via the Co-Iterative Augmented Hessian Method",
+      "published_date": "2026-05-20",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00280"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00234",
+      "title": "Assessing the Limitations of Self-Interaction-Corrected Functionals for Describing the Hydrated Electron",
+      "published_date": "2026-05-20",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00234"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02035",
+      "title": "Bridging Atomistic and Mesoscale Lithium Transport via Machine-Learned Force Fields and Markov State Models",
+      "published_date": "2026-05-20",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02035"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00218",
+      "title": "Decomposition of Magnetic Coupling in μ‑Oxo-Bridged Metal Complexes",
+      "published_date": "2026-05-19",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00218"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00071",
+      "title": "Efficient and Accurate Modeling of Anisotropic Electrostatic Landscapes in Amorphous Organic Semiconductor Films",
+      "published_date": "2026-05-19",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00071"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00630",
+      "title": "Optical Anisotropy as a Probe of Proton Ordering at Ice Surfaces",
+      "published_date": "2026-05-18",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00630"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00154",
+      "title": "Aufbau-Suppressed Coupled Cluster Theory for Doubly Excited States",
+      "published_date": "2026-05-18",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00154"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00080",
+      "title": "Minimum-Excess-Work Guidance: Score-Based Sampling with Experimental Data or Sparse Restraints",
+      "published_date": "2026-05-18",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00080"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00058",
+      "title": "Enhancing Vibronic-Coupling Hamiltonian Parameterization with Machine Learning: The PyVCHAM Tool",
+      "published_date": "2026-05-18",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00058"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00466",
+      "title": "Multiresolution Quantum Chemistry: Nonlinear Response Properties at the Basis Set Limit",
+      "published_date": "2026-05-15",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00466"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00379",
+      "title": "Spin-Adapted Restricted Open-Shell Hartree–Fock and Its Dynamic Correlation Extension",
+      "published_date": "2026-05-15",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00379"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00251",
+      "title": "Leveraging Chemical Hidden-Space Representations Effectively in Bayesian Optimization for Experiment Design through Dimension-Aware Hyperpriors",
+      "published_date": "2026-05-15",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00251"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00177",
+      "title": "Terminal-Flip Monte Carlo: Accelerating the Convergence of Molecular Dynamics and Alchemical Free Energy Calculations",
+      "published_date": "2026-05-15",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00177"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00457",
+      "title": "Constructing Moisture-Induced Degradation Pathways in Metal-Oxide Resists from Two-Phase Active Learning of Deep Potential Model",
+      "published_date": "2026-05-14",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00457"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00423",
+      "title": "MQED-QD: An Open-Source Package for Quantum Dynamics Simulation in Complex Dielectric Environments",
+      "published_date": "2026-05-14",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00423"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00265",
+      "title": "Improving Protein Structure Prediction Using Integrative Cryo-EM and Ion Mobility Mass Spectrometry Modeling",
+      "published_date": "2026-05-14",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00265"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00230",
+      "title": "Solving Constrained Optimization Problems Using Hybrid Qubit-Qumode Quantum Devices",
+      "published_date": "2026-05-14",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00230"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00108",
+      "title": "Toward Accurate RNA Folding Thermodynamics: Evaluation of Enhanced Sampling Methods for Force Field Benchmarking",
+      "published_date": "2026-05-14",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00108"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00395",
+      "title": "MolSculptor: An Adaptive Diffusion–Evolution Framework Enabling Generative Drug Design for Multitarget Affinity and Selectivity",
+      "published_date": "2026-05-13",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00395"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00381",
+      "title": "Dynamics of Electronically Inelastic and Reactive Collisions of O(1D) with N2 Based on Machine-Learned Coupled Potential Energy Surfaces",
+      "published_date": "2026-05-13",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00381"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00269",
+      "title": "Constructing Compact ADAPT Unitary Coupled-Cluster Ansatz with Parameter-Based Criterion",
+      "published_date": "2026-05-13",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00269"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00115",
+      "title": "Energy Eigenstates of Electrons, Magnons, and Phonons in Fe3O4 (Magnetite), MnFe2O4 (Jacobsite), and Mixed Mn–Zn Ferrites",
+      "published_date": "2026-05-13",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00115"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02127",
+      "title": "Molecular Dynamics Workflows to Compute Large-Scale Sets of Absolute Binding Free Energies Aiding Drug Candidate and Binding Pose Selection",
+      "published_date": "2026-05-13",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02127"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02185",
+      "title": "Geometry Optimization for Nonlocal Excited State Using the Divide-and-Conquer Method",
+      "published_date": "2026-05-12",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02185"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01985",
+      "title": "Statistical Thermodynamics Based Design Principles into the Temperature Induced Fold Switching of a Metamorphic Protein",
+      "published_date": "2026-05-12",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01985"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00053",
+      "title": "Cryo-Electron Microscopy Structural Ensemble Optimization Using Individual Particles",
+      "published_date": "2026-05-11",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00053"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00310",
+      "title": "How to Train a Shallow Ensemble",
+      "published_date": "2026-05-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00310"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00427",
+      "title": "Predicting and Decoding Allosteric Binding Sites Using Protein Language Models and Structure-Based Machine Learning: An Energy Landscape-Guided Explainable AI Framework",
+      "published_date": "2026-05-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00427"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00403",
+      "title": "Transfer Learning Meets Embedded Correlated Wavefunction Theory for Chemically Accurate Molecular Simulations: Application to Calcium Carbonate Ion Pairing",
+      "published_date": "2026-05-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00403"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00199",
+      "title": "Distance-Restraint-Guided Diffusion Models for Sampling Protein Conformational Changes and Ligand Dissociation Pathways",
+      "published_date": "2026-05-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00199"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00103",
+      "title": "Perturbative Coordinate Descent Full Configuration Interaction",
+      "published_date": "2026-05-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00103"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00047",
+      "title": "Comparing Empirical and Physics-Based Models of Intermolecular Dispersion and Repulsion Energies",
+      "published_date": "2026-05-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00047"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02102",
+      "title": "A General Quasi-Periodic Sampling Method for Simulating and Interpreting X‑ray Powder Diffraction Patterns of Ultrathin Crystalline Materials",
+      "published_date": "2026-05-07",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02102"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00440",
+      "title": "Environment-Induced Exciton Renormalization in the Photosystem II Reaction Center",
+      "published_date": "2026-05-06",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00440"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00246",
+      "title": "Umbrella Sampling Workflows for Fast-Converging PMF Calculations without Artificial WHAM Constraints",
+      "published_date": "2026-05-06",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00246"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00175",
+      "title": "Double-Hybrid, but Not Double-Cost: GPU-Accelerated DHDFT for the COMPAS‑3 Data Set of Polybenzenoid Hydrocarbons",
+      "published_date": "2026-05-05",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00175"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00150",
+      "title": "Double-Hybrid Density Functional Theory within the Cluster-in-Molecule Local Correlation Framework for Large Molecular Systems",
+      "published_date": "2026-05-05",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00150"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01918",
+      "title": "Adiabatic Connection Methods Applied to Molecular Crystals",
+      "published_date": "2026-05-05",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01918"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00439",
+      "title": "Free-Energy Landscapes of HBV Hexamer Closure Reveal Key Structural Features of the Transition",
+      "published_date": "2026-05-04",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00439"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00227",
+      "title": "Modeling pH-Dependent Protein Dynamics by Integrating Coarse-Grained Molecular Simulation and the Deep Neural Network Model",
+      "published_date": "2026-05-04",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00227"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00075",
+      "title": "Low-Lying Excited States of Linear All-Trans Polyenes: Insights from Analytic Gradient and Nonadiabatic Coupling Calculations Based on Multireference Configuration Interaction",
+      "published_date": "2026-05-04",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00075"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00026",
+      "title": "MolXProt: A Cross-Attention Transformer-Based Graph Neural Network for Protein-Ligand Binding Affinity Prediction",
+      "published_date": "2026-05-04",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00026"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01979",
+      "title": "Enumeration of Autocatalytic Subsystems in Large Chemical Reaction Networks",
+      "published_date": "2026-05-04",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01979"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00459",
+      "title": "GMFCC-UMA: A Fragment-Based Machine Learning Framework for Scalable Ab Initio-Quality Protein Energies",
+      "published_date": "2026-05-01",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00459"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00404",
+      "title": "Magnetic Exchange Coupling in Radical-Bridged Lanthanide Complexes",
+      "published_date": "2026-05-01",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00404"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00121",
+      "title": "DSKO: Dancing through DFTB Parametrization",
+      "published_date": "2026-05-01",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00121"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00083",
+      "title": "InterMap: Accelerated Detection of Interaction Fingerprints on Large-Scale Molecular Ensembles",
+      "published_date": "2026-05-01",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00083"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00386",
+      "title": "Generalized Quantum Master Equation from Memory Kernel Coupling Theory",
+      "published_date": "2026-04-30",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00386"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00228",
+      "title": "Ab Initio Insights into the Formation of Hydrated Dielectrons: Structure and Recombination Dynamics",
+      "published_date": "2026-04-30",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00228"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00391",
+      "title": "Hydration Free Energies of Alkali Metal and Halide Ions from Data-Driven Many-Body Potentials",
+      "published_date": "2026-04-29",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00391"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00245",
+      "title": "Mimyria: Machine-Learned Vibrational Spectroscopy for Aqueous Systems Made Simple",
+      "published_date": "2026-04-29",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00245"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00118",
+      "title": "The Hartree–Fock Exchange for Crystalline Systems: The Implementation with an (All-Electron) Gaussian-Type Basis Set and Numerical Evidence with Reference to Perovskites",
+      "published_date": "2026-04-29",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00118"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00374",
+      "title": "Converging the n‑Mode Representation of Anharmonic Molecular Vibrations via Local Modes",
+      "published_date": "2026-04-28",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00374"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00362",
+      "title": "DysNet: Learning Implicit Many-Body Interactions via Dynamically Attending to Body-Orders in Equivariant Graph Networks",
+      "published_date": "2026-04-28",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00362"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00314",
+      "title": "A Unified Formulation for ⟨S^2⟩ in Two-Component TDDFT",
+      "published_date": "2026-04-28",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00314"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00270",
+      "title": "Incorporating Scientific Knowledge into Neural Network Density Functionals",
+      "published_date": "2026-04-28",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00270"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00094",
+      "title": "Water Phase Diagram from a General-Purpose Atomic Cluster Expansion Potential",
+      "published_date": "2026-04-28",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00094"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02135",
+      "title": "Real-Time Time-Dependent Density Functional Theory Simulations with Range-Separated Hybrid Functionals for Periodic Systems",
+      "published_date": "2026-04-28",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02135"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02129",
+      "title": "Accurate Atomic Correlation and Total Energies for Correlation-Consistent Effective Core Potentials II: Rb–Xe Elements",
+      "published_date": "2026-04-28",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02129"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00444",
+      "title": "Modeling Triplet Excited-State Energy Transfer (TEET) via Multistate Density Functional Theory with Nonorthogonal State Interaction (MSDFT–NOSI)",
+      "published_date": "2026-04-27",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00444"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00429",
+      "title": "Excitonic Hamiltonian for Singlet Fission: Beyond a Dimer Model",
+      "published_date": "2026-04-27",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00429"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00290",
+      "title": "Monomeric Neural Network Potential for General Covalent Molecules: Linear Alkanes as an Example",
+      "published_date": "2026-04-27",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00290"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00161",
+      "title": "FR-TO ΔSCF: A Robust and Systematic Framework for Core Excitations",
+      "published_date": "2026-04-27",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00161"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00129",
+      "title": "Simulating Electron Dynamics with GPU-Accelerated Real-Time Tamm–Dancoff Approximation",
+      "published_date": "2026-04-27",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00129"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00283",
+      "title": "EAC-Net: Predicting Real-Space Charge Density via Equivariant Atomic Contributions",
+      "published_date": "2026-04-25",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00283"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00347",
+      "title": "An Improved Size-Consistent Second-Order Brillouin–Wigner Perturbation Theory: Which Desirable Properties Are Compatible with Unconditional Size-Consistency and Optimized Chemical Accuracy?",
+      "published_date": "2026-04-24",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00347"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00293",
+      "title": "Feynman Path Tube–Guided Surrogate Ring-Polymer Dynamics for Quantum Nuclear Transfer in the Gas Phase and on Surfaces",
+      "published_date": "2026-04-24",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00293"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00095",
+      "title": "SCF Framework, HF Stability, and RPA Correlation for Jordan–Wigner-Transformed Spin Hamiltonians on Arbitrary Coupling Topologies",
+      "published_date": "2026-04-24",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00095"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00248",
+      "title": "Efficient and Equivariant Prediction of Distributed Charges for Accurate Molecular Electrostatics",
+      "published_date": "2026-04-23",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00248"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00235",
+      "title": "Structure Prediction of Organic/Inorganic Interfaces with Genarris",
+      "published_date": "2026-04-23",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00235"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00063",
+      "title": "Characterizing Defect Dynamics in Silicon Carbide Using Symmetry-Adapted Collective Variables and Machine Learning Interatomic Potentials",
+      "published_date": "2026-04-23",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00063"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02130",
+      "title": "Learning Latent Representations to Bridge Coarse-Grained and Atomistic Resolutions in Polymer Simulations",
+      "published_date": "2026-04-23",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02130"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00516",
+      "title": "A Unified Hyperdynamics Framework for Rare-Event Simulations Across Complex Energy Landscapes",
+      "published_date": "2026-04-22",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00516"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00384",
+      "title": "Steering Active-Colloid Assembly by Biasing Dissipation",
+      "published_date": "2026-04-22",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00384"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00366",
+      "title": "The Dose Makes the Poison: Perturbative Steps toward the Ultimate Linearized Coupled Cluster Method",
+      "published_date": "2026-04-22",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00366"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00338",
+      "title": "New Framework for Multi-Electronic-State Dynamics and Its Validation for Photoisomerization of 1,3-Cyclohexadiene",
+      "published_date": "2026-04-22",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00338"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00330",
+      "title": "Modeling Multistate Photodynamics of Azobenzene Using Hybrid Computational Scheme",
+      "published_date": "2026-04-22",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00330"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01994",
+      "title": "Selected Configuration Interaction Using Time-Evolved Population Statistics",
+      "published_date": "2026-04-22",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01994"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01950",
+      "title": "Accurate Modeling of Interfacial Thermal Transport in van der Waals Heterostructures via Hybrid Machine Learning and Registry-Dependent Potentials",
+      "published_date": "2026-04-22",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01950"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00308",
+      "title": "Analytical Nuclear Gradients for State-Averaged Configuration Interaction Singles Variants: Application to Conical Intersections",
+      "published_date": "2026-04-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00308"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00268",
+      "title": "Effects of Molecular Aggregation on Dynamic Third-Order Nonlinear Optical Responses: Oligo(thiophene-benzothiadiazole) as a Case Study",
+      "published_date": "2026-04-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00268"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00169",
+      "title": "Developing and Benchmarking Sage 2.3.0 with the AshGC Neural Network Charge Model",
+      "published_date": "2026-04-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00169"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00418",
+      "title": "Guiding Peptide Kinetics via Collective-Variable Tuning of Free-Energy Barriers",
+      "published_date": "2026-04-20",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00418"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00146",
+      "title": "qNEP: A Highly Efficient Neuroevolution Potential with Dynamic Charges for Large-Scale Atomistic Simulations",
+      "published_date": "2026-04-20",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00146"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00098",
+      "title": "Definitive Assessment of the Accuracy, Variationality, and Convergence of Relativistic Coupled Cluster and Density Matrix Renormalization Group in 100-Orbital Space",
+      "published_date": "2026-04-20",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00098"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02097",
+      "title": "Many-Body Benchmark of Electronic Charge and Spin Densities for Li1–xNiO2",
+      "published_date": "2026-04-20",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02097"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02086",
+      "title": "Machine-Learned Electrostatic Potentials for Accurate Hydration Free Energy Calculations",
+      "published_date": "2026-04-20",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02086"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02088",
+      "title": "How to Use Quantum Computers for Biomolecular Free Energies",
+      "published_date": "2026-04-19",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02088"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00305",
+      "title": "Spin–Orbit-Induced Nonadiabatic Dynamics: An Exact Ω Representation",
+      "published_date": "2026-04-18",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00305"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00568",
+      "title": "Quantum Gambling: Best-Arm Strategies for Generator Selection in Adaptive Variational Algorithms",
+      "published_date": "2026-04-17",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00568"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00368",
+      "title": "Thermodynamic Activation Parameters for Chemical Reactions in Enzymes and Solution from Computer Simulations at a Single Temperature",
+      "published_date": "2026-04-17",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00368"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00242",
+      "title": "ChemXDyn: Dynamics-Informed Species and Reaction Detection Methodology from Atomistic Simulations",
+      "published_date": "2026-04-17",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00242"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00132",
+      "title": "Explainable Machine Learning Guided Enhanced Sampling of Protein Conformational Transition in HSP90",
+      "published_date": "2026-04-17",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00132"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01768",
+      "title": "Accurate Vibrational Frequency Calculations for Quantum Computing via an Analytic Second-Order Energy Derivative Framework",
+      "published_date": "2026-04-17",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01768"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00352",
+      "title": "Using Weighted and Chopped Rectangular Collocation Methods with Tensor-Product Contracted Bases To Compute Vibrational Spectra: Avoiding Quadrature",
+      "published_date": "2026-04-16",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00352"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00277",
+      "title": "Markov State Models for Tracking Reaction Dynamics on Catalytic Nanoparticles",
+      "published_date": "2026-04-16",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00277"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02166",
+      "title": "Precessional Dynamics of Octahedra in CsPbBr3",
+      "published_date": "2026-04-16",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02166"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02032",
+      "title": "Automatic Refinement of Force Fields Based on Phase Diagrams",
+      "published_date": "2026-04-16",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02032"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00221",
+      "title": "mdBIRCH for Fast, Scalable, Online Clustering of Molecular Dynamics Trajectories",
+      "published_date": "2026-04-15",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00221"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00196",
+      "title": "Elastic Tensors from Pairwise Energy Frameworks in Molecular Crystals",
+      "published_date": "2026-04-15",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00196"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00110",
+      "title": "Block-Correlated Coupled Cluster Theory with up to Five-Pair Correlation for Accurate Static Correlation of High-Spin Strongly Correlated Systems",
+      "published_date": "2026-04-15",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00110"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00086",
+      "title": "Multiscale Modeling Reveals Synergistic Rectification in DNA-Coralyne Complexes by Environmental Symmetry Breaking and Resonant Intercalation",
+      "published_date": "2026-04-15",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00086"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02174",
+      "title": "Exact-Factorization Framework for Electron–Nuclear Dynamics in Electromagnetic Fields",
+      "published_date": "2026-04-15",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02174"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00321",
+      "title": "Relativistic Complete Active Space Self-Consistent-Field Method with a Hierarchy of Exact Two-Component Hamiltonians",
+      "published_date": "2026-04-14",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00321"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00250",
+      "title": "Martini 3 Coarse-Grain Model For Linear Perfluoroalkyl Substances",
+      "published_date": "2026-04-14",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00250"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01866",
+      "title": "Predicting Molecular Laser Properties from First-Principles Using Machine Learning-Based Nuclear Ensemble Approach Spectra",
+      "published_date": "2026-04-14",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01866"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00136",
+      "title": "Free Energy of a Solvent Molecule: Conventional Ideal Gas Approximation versus Experimental Thermodynamics Data",
+      "published_date": "2026-04-13",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00136"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02179",
+      "title": "Surface Adsorption at the Thermodynamic Limit Using Periodic DLPNO-MP2 Theory: A Study of CO on MgO at Dilute and Dense Coverages",
+      "published_date": "2026-04-13",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02179"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00168",
+      "title": "Accelerating Excited-State Calculations of Large Systems with Restricted Boltzmann Machines",
+      "published_date": "2026-04-11",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00168"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00223",
+      "title": "Linear-Scaling and Memory-Efficient Implementation of van-der-Waals Interaction (DFT-D3) for Large Systems",
+      "published_date": "2026-04-10",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00223"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01917",
+      "title": "Phonon-Focusing and Rattler-Mode Interference in Thermal Conductivity Transitions of the Breathing Metal–Organic Framework MIL-53",
+      "published_date": "2026-04-10",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01917"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00002",
+      "title": "Scalable Distributed Memory Implementation of the Quasi-Adiabatic Propagator Path Integral",
+      "published_date": "2026-04-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00002"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01825",
+      "title": "Study of Arbitrarily Low Shear Rate Rheology Using Dissipative Particle Dynamics",
+      "published_date": "2026-04-08",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01825"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00241",
+      "title": "The Interplay of Pauli Repulsion, Electrostatics, and Field Inhomogeneity for Blueshifting and Redshifting Vibrational Probe Molecules",
+      "published_date": "2026-04-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00241"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00162",
+      "title": "Assessment and Optimization of Force Fields for Glycine Polymorphism and Solution Properties",
+      "published_date": "2026-04-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00162"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00135",
+      "title": "How Well Can AI and Physics-Based Simulations Predict the Probability a Cryptic Pocket Is Open?",
+      "published_date": "2026-04-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00135"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00116",
+      "title": "StochasticGW-GPU: Rapid Quasi-Particle Energies for Molecules beyond 10,000 Atoms",
+      "published_date": "2026-04-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00116"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00017",
+      "title": "Quantum Seniority-Based Subspace Expansion: Linear Combinations of Short-Circuit Unitary Transformations for the Electronic Structure Problem",
+      "published_date": "2026-04-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00017"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01977",
+      "title": "Second-Order Perturbative Treatment of Spin–Orbit Coupling and Ground-State Electron Correlation",
+      "published_date": "2026-04-07",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01977"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00127",
+      "title": "A Low Cost Relativistic Algebraic Diagrammatic Construction Method Based on Cholesky Decomposition and Frozen Natural Spinors for Electronic Ionization, Attachment and Excitation Energy Problem",
+      "published_date": "2026-04-06",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00127"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00030",
+      "title": "Routes of Transport in the Path Integral Lindblad Dynamics through State-to-State Analysis",
+      "published_date": "2026-04-06",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00030"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02089",
+      "title": "On the Feasibility of Exact Unitary Transformations for Many-Body Hamiltonians",
+      "published_date": "2026-04-06",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02089"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00415",
+      "title": "Escaping Vibrational Purgatory: Hybrid kMC/MD Algorithms for Atomistic Simulations of Slow Reaction Chemistry",
+      "published_date": "2026-04-03",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00415"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02145",
+      "title": "Decomposition of Molecular Charge and Spin Transfer Global Indexes into Atomic Group Contributions",
+      "published_date": "2026-04-03",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02145"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00188",
+      "title": "Extending Conceptual DFT to Fourth Order: From Quartic Curvature to Third-Order Fukui Response",
+      "published_date": "2026-04-01",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00188"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02092",
+      "title": "From Quantum Mechanics to Coarse-Grained Models: Bridging the Gap toward Polymer Rational Design",
+      "published_date": "2026-04-01",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02092"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00143",
+      "title": "An Efficient PCM Scheme for ESA Oscillator Strengths within the Unrelaxed TD-DFT Approximation",
+      "published_date": "2026-03-31",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00143"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02043",
+      "title": "Limitations of Cluster-Trained MLIPs for Liquid Density and Diffusivity",
+      "published_date": "2026-03-31",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02043"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00190",
+      "title": "Energy-Screened Many-Body Expansion for Protein–Ligand Interactions: Examining Convergence for Metalloenzymes Through Seven–Body Interactions",
+      "published_date": "2026-03-30",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00190"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00182",
+      "title": "Leveraging Configuration Interaction Singles for Qualitative Descriptions of Ground and Excited States: State-Averaging, Linear-Response, and Spin-Projection",
+      "published_date": "2026-03-30",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00182"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00085",
+      "title": "AmberTorchPB: A Unified Framework for Poisson–Boltzmann-Based Reaction Field Energy Calculation via Tensor Computation",
+      "published_date": "2026-03-30",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00085"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00056",
+      "title": "Accelerated Combinatorial Drug Design for Human Immunodeficiency Virus Resistance through Seeded Multisite λ‑Dynamics",
+      "published_date": "2026-03-30",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00056"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02071",
+      "title": "Nuclear Spin–Spin Coupling Constants from Auxiliary Density Functional Theory",
+      "published_date": "2026-03-30",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02071"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01791",
+      "title": "Reduced-Cost Four-Component Relativistic Double Ionization Potential Equation-of-Motion Coupled-Cluster Approaches with 4‑Hole–2-Particle Excitations and Three-Body Clusters",
+      "published_date": "2026-03-27",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01791"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00032",
+      "title": "SAP-X2C: Optimally-Simple Two-Component Relativistic Hamiltonian with Size-Intensive Picture Change",
+      "published_date": "2026-03-26",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00032"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02141",
+      "title": "ORCA Meets PythonThe ORCA Python Interface OPI",
+      "published_date": "2026-03-26",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02141"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02029",
+      "title": "The Electronic Structure and Properties of First-Row Transition Metal Oxides",
+      "published_date": "2026-03-26",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02029"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01990",
+      "title": "Evaluation of protein–RNA Docking Web Servers for Template-Free Docking and Comparison with the AlphaFold Server",
+      "published_date": "2026-03-26",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01990"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00079",
+      "title": "Accurate Coarse-Graining of Conjugated Organic Molecules in Melts and Thin Films Using Density-Dependent Potentials",
+      "published_date": "2026-03-25",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00079"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01920",
+      "title": "An Efficient Implementation of the ESM-RISM Method for Simulating Electrode/Electrolyte Interfaces",
+      "published_date": "2026-03-25",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01920"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02128",
+      "title": "Systematically Improvable and Locality Accelerated Enzymatic Reactivity Modeling: Toward Chemical Accuracy at Affordable Cost",
+      "published_date": "2026-03-24",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02128"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02013",
+      "title": "High-Precision Solvation Free Energy Calculation via Multi-Input Linear Correction in 3D-RISM Theory",
+      "published_date": "2026-03-24",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02013"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01966",
+      "title": "NEAT-DNA: A Chemically Accurate, Sequence-Dependent Coarse-Grained Model for Large-Scale DNA Simulations",
+      "published_date": "2026-03-24",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01966"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01837",
+      "title": "Orbital Optimization and Neural-Network-Assisted Configuration Interaction Calculations of Rydberg States",
+      "published_date": "2026-03-24",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01837"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00215",
+      "title": "Unified MPI Parallelization of Wave Function Methods: iCIPT2 as a Showcase",
+      "published_date": "2026-03-23",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00215"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00065",
+      "title": "pyEF: A Python Framework for QM and QM/MM Atom-Wise Electric Field Analysis",
+      "published_date": "2026-03-23",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00065"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01818",
+      "title": "QC Lab: A Python Package for Quantum–Classical Dynamics",
+      "published_date": "2026-03-23",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01818"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01949",
+      "title": "Comprehensive Comparison of Molecular Fragmentation Schemes for Proteins",
+      "published_date": "2026-03-21",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01949"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02151",
+      "title": "Nuclear Quantum Effects on the Equation of State of Water: Insights from the Potential Energy Landscape Formalism",
+      "published_date": "2026-03-20",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02151"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01988",
+      "title": "An Algorithm for Atom-Centered Lossy Compression of the Atomic Orbital Basis in Density Functional Theory Calculations",
+      "published_date": "2026-03-20",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01988"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00219",
+      "title": "ReVesicle: Curation and Equilibration of Lipid Vesicles for Mesoscale Simulations",
+      "published_date": "2026-03-19",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00219"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00144",
+      "title": "Fundamental Study of Density Functional Theory Applied to Triplet State Reactivity: Introduction of the TRIP50 Data Set",
+      "published_date": "2026-03-19",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00144"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00045",
+      "title": "Gaussian Charge-Based Electrostatic Embedding Scheme for Solid-State Excited-State Modeling",
+      "published_date": "2026-03-19",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00045"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00044",
+      "title": "PNcsp+: A Periodic Number-Based Crystal Structure Prediction Method Enhanced by Machine Learning",
+      "published_date": "2026-03-19",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00044"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02167",
+      "title": "Induced Dipole Calculation with E(3)-Equivariant Neural Networks and Multipole Field Perturbation",
+      "published_date": "2026-03-19",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02167"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02079",
+      "title": "Complete Active Space Self-Consistent Field with GPU-Accelerated Density Fitting",
+      "published_date": "2026-03-19",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02079"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00107",
+      "title": "Constrained Multipole Moment Density Functional Theory for the Frozen Contribution in Non-Covalent Complexes",
+      "published_date": "2026-03-18",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00107"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00015",
+      "title": "Accurate Core-Level Ionization Energies from an Affordable Second-Order Approach",
+      "published_date": "2026-03-18",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00015"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02046",
+      "title": "One-Body Properties and Their Perturbative Accuracy with Aufbau Suppressed Coupled Cluster Theory",
+      "published_date": "2026-03-18",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02046"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02019",
+      "title": "Accurate Hydration Free Energy Calculations for Diverse Organic Molecules With a Machine Learning Force Field",
+      "published_date": "2026-03-18",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02019"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02006",
+      "title": "Li–P–S Electrolyte Materials as a Benchmark for Machine-Learned Interatomic Potentials",
+      "published_date": "2026-03-18",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02006"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01991",
+      "title": "Unitary Coupled-Cluster Based Self-Consistent Electron Propagator Theory for Electron-Detached and Electron-Attached States: A Quadratic Unitary Coupled-Cluster Singles and Doubles Method and Benchmark Calculations",
+      "published_date": "2026-03-18",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01991"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01951",
+      "title": "Orbital-Optimized Unitary Coupled Cluster for Indirect Nuclear Spin–Spin Coupling Constants within a Quantum Linear Response Framework",
+      "published_date": "2026-03-18",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01951"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02114",
+      "title": "Reaction-Diffusion Dynamics Simulations of Bimolecular Quenching in Solution",
+      "published_date": "2026-03-17",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02114"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01970",
+      "title": "Bias and Its Control in Stochastic Approaches to Electronic-Structure Theory",
+      "published_date": "2026-03-17",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01970"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01812",
+      "title": "Single-Reference Methods Based on Complex Orbital in Electronic Structure Calculations for High-Symmetry Systems",
+      "published_date": "2026-03-17",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01812"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00068",
+      "title": "Data-Driven Characterization and Acceleration of Metastable Dynamics Using Koopman Operators",
+      "published_date": "2026-03-16",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00068"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00051",
+      "title": "Bias-Deletion Metadynamics Revealing Volume–Rotation Coupling Mechanisms in Metal–Organic Frameworks",
+      "published_date": "2026-03-16",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00051"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02153",
+      "title": "Uncertainty-Driven Deep-Ensemble Temporal Convolutional Networks for Predicting Chemical Reaction Dynamics",
+      "published_date": "2026-03-16",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02153"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02120",
+      "title": "Toward Reaction Vessel Mimicry: Machine Learning-Assisted Automated Exploration of Alkene Polymerization and Its Transferability",
+      "published_date": "2026-03-16",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02120"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02055",
+      "title": "Quantum Chemistry-Driven Molecular Inverse Design of Stable Isomers with Data-Free Reinforcement Learning",
+      "published_date": "2026-03-16",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02055"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01974",
+      "title": "Freeze-and-Release Direct Optimization Method for Variational Calculations of Excited Electronic States",
+      "published_date": "2026-03-16",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01974"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01922",
+      "title": "Ionization Potentials at Mean-Field Computational Cost: The Extended Koopmans’ Framework for pCCD",
+      "published_date": "2026-03-13",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01922"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01811",
+      "title": "An Active Learning Algorithm for Identifying Transition States on a Potential Energy Surface",
+      "published_date": "2026-03-13",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01811"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00158",
+      "title": "Quantum Inner Product Scoring with Grid-Based Maps for Structure-Based Virtual Screening",
+      "published_date": "2026-03-12",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00158"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02160",
+      "title": "Large-Scale Calculation of Vibrational Sum Frequency Generation Spectra of Aqueous Interfaces",
+      "published_date": "2026-03-12",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02160"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02107",
+      "title": "How Long-Range Are Three-Body “Exchange” Interactions in Liquid Water?",
+      "published_date": "2026-03-12",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02107"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02070",
+      "title": "Energy Landscape Analysis of Membrane Proteins Using NMR-Based Hybrid Restraint Potentials",
+      "published_date": "2026-03-12",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02070"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02008",
+      "title": "Interpolative Separable Density Fitting on Adaptive Real Space Grids",
+      "published_date": "2026-03-12",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02008"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01862",
+      "title": "Fast Generation of Simulation-Quality Structural Ensembles of Mixed-Chirality Cyclic Peptides via Diffusion Models",
+      "published_date": "2026-03-12",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01862"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02010",
+      "title": "Generalized Eigenvalue Problem in Subspace-Based Excited-State Methods for Quantum Computers",
+      "published_date": "2026-03-10",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02010"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02112",
+      "title": "Solving the Scaled Schrödinger Equation with SAC–CI and Electrostatic Force Formalism. Ground, Excited, and Ionized States of the Benzene Molecule",
+      "published_date": "2026-03-09",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02112"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02103",
+      "title": "RxnNet: An AI Framework for Reaction Mechanism DiscoveryA Case Study of Carbocations",
+      "published_date": "2026-03-09",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02103"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01939",
+      "title": "Molecular Resonance Identification in Complex Absorbing Potentials via Integrated Quantum Computing and High-Throughput Computing",
+      "published_date": "2026-03-09",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01939"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01868",
+      "title": "Atomistic Modeling of Methane and Carbon Dioxide Structure I Gas Hydrates under Pressure: Guest Effects and Properties",
+      "published_date": "2026-03-09",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01868"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01852",
+      "title": "Modal Backflow Neural Quantum States for Anharmonic Vibrational Calculations",
+      "published_date": "2026-03-09",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01852"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01657",
+      "title": "KinCat: Kinetic Monte Carlo Parallel Computations of Surface Kinetics in Heterogeneous Catalysis",
+      "published_date": "2026-03-09",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01657"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02111",
+      "title": "Simulation of Charge Distribution and Microstructure in Semicrystalline Polymeric Ionic-Electronic Conductors Using Classical Simulation at Constant Electrochemical Potential",
+      "published_date": "2026-03-06",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02111"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01958",
+      "title": "UGA-SSMRPT2 - A Multireference Perturbation Theory Predicting Accurate Electronic Excitation Energies in Diverse Molecular Systems",
+      "published_date": "2026-03-06",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01958"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01910",
+      "title": "Local Pair Natural Orbital-Based Coupled-Cluster Theory through Full Quadruples (DLPNO–CCSDTQ)",
+      "published_date": "2026-03-06",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01910"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01861",
+      "title": "5- and 6‑Membered Rings: A Natural Orbital Functional Study",
+      "published_date": "2026-03-06",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01861"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01807",
+      "title": "HighRelax: Physics-Based Refinement of Deep Learning Protein Predictions with Noncanonical Amino Acids",
+      "published_date": "2026-03-06",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01807"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00034",
+      "title": "The Madelung Problem of Finite Crystals",
+      "published_date": "2026-03-05",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00034"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00073",
+      "title": "Solvation Lies Within: Simulating Condensed-Phase Properties from Local Electronic Structures",
+      "published_date": "2026-03-04",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00073"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02100",
+      "title": "A Hybrid Physics-Driven Neural Network Force Field for Liquid Electrolytes",
+      "published_date": "2026-03-04",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02100"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02016",
+      "title": "Exploring the Structural Basis of Cryptic Pocket Formation Driven by Extensive Protein Conformational Changes in Drug Targets",
+      "published_date": "2026-03-04",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02016"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02011",
+      "title": "Evaluating the Impact of Phosphorylation on the Dynamics of the Tau Protein Proline-Rich Region",
+      "published_date": "2026-03-04",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02011"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02184",
+      "title": "A Linear-Scaling Integral-Direct Explicitly Correlated Second-Order Møller–Plesset Approach",
+      "published_date": "2026-03-03",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02184"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02045",
+      "title": "Machine-Learning Interatomic Potentials Achieving CCSD(T) Accuracy for Systems with Extended Covalent Networks and van der Waals Interactions",
+      "published_date": "2026-03-03",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02045"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01936",
+      "title": "Evaluating Multiconfigurational Trials for Accurate Phaseless Auxiliary-Field Quantum Monte Carlo on 3d Transition Metal Complexes",
+      "published_date": "2026-03-03",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01936"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02156",
+      "title": "CO2 Capture from Flue Gas: A High-Fidelity Force Field and Machine Learning Framework for Adsorbent Discovery",
+      "published_date": "2026-03-02",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02156"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02066",
+      "title": "Origin of the Singlet Excited Electronic Energy Shifts in ΔSCF with Fractional Occupation Numbers and Hybrid Density Functionals",
+      "published_date": "2026-03-02",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02066"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01874",
+      "title": "Formulation of an Efficient O(M4)-Scaling Explicitly Correlated MP2-F12 Correction by Combining Numerical Quadrature with Density Fitting and CABS-RI",
+      "published_date": "2026-03-02",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01874"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00050",
+      "title": "Quantum Dynamics Description of Reactions with Seven Atoms: Application to the OH + CHD3",
+      "published_date": "2026-02-28",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00050"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02178",
+      "title": "Rapid Prediction of Hot-Carrier Relaxation by Learning of Nonadiabatic Hamiltonians with Graph Neural Networks",
+      "published_date": "2026-02-27",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02178"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02028",
+      "title": "MaxwellLink: A Unified Framework for Self-Consistent Light–Matter Simulations",
+      "published_date": "2026-02-27",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02028"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01867",
+      "title": "Coarse-Grained Mapping of Fluid Particles via Evolutionary Fuzzy Clustering: Membership-Evolution Term as a Pressure Correction Mechanism",
+      "published_date": "2026-02-27",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01867"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00097",
+      "title": "Local Vibrational Mode Analysis of Phonon Dispersion Relations in Crystals",
+      "published_date": "2026-02-26",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00097"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01953",
+      "title": "Generative Modeling of Entangled Polymers with a Distance-Based Variational Autoencoder",
+      "published_date": "2026-02-26",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01953"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02150",
+      "title": "User-Defined Electrostatic Potentials in DFT Supercell Calculations: Implementation and Application to Electrified Interfaces",
+      "published_date": "2026-02-25",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02150"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02144",
+      "title": "Anharmonic Adsorption Free Energies Beyond GGA for Monomer Ethanol in H‑ZSM‑5",
+      "published_date": "2026-02-25",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02144"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02087",
+      "title": "Accelerated Percolation Path Identification in Twisted Bilayer Graphene",
+      "published_date": "2026-02-25",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02087"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02068",
+      "title": "Characterizing the Conformational Dynamics of the Ribose Transporter B Protein in Escherichia coli: Enhanced Sampling via Multiple Force Fields",
+      "published_date": "2026-02-25",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02068"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02002",
+      "title": "Time-Dependent Open-Quantum Approach to Two-Dimensional Electronic Spectroscopy within a GW/BSE Active Space",
+      "published_date": "2026-02-25",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02002"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01945",
+      "title": "Unraveling Charge and Energy Transfer in a Singlet Fission Donor–Acceptor Complex: An Ab Initio Quantum Dynamical Study",
+      "published_date": "2026-02-25",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01945"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01855",
+      "title": "Rovibrational Computations for the He2 a 3Σ+u State Including Nonadiabatic, Relativistic, and QED Corrections",
+      "published_date": "2026-02-25",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01855"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01816",
+      "title": "Improving Conformational Ensembles of Folded Proteins in Go¯Martini",
+      "published_date": "2026-02-25",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01816"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01810",
+      "title": "Cracking the Capsid Code: A Computationally Feasible Approach for Investigating Virus–Excipient Interactions in Biologics Design",
+      "published_date": "2026-02-25",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01810"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02067",
+      "title": "Effect of Pressure on Molecular and Transition-State Geometries",
+      "published_date": "2026-02-24",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02067"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02004",
+      "title": "Machine Learning Interatomic Potentials Enable Molecular Dynamics Simulations of Doped MoS2",
+      "published_date": "2026-02-24",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02004"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01735",
+      "title": "An Accurate Charge-Aware Machine-Learning Interatomic Potential for the Reduction of Li-Ion Battery Electrolytes in Solution",
+      "published_date": "2026-02-24",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01735"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02155",
+      "title": "Coarse-Grained Modeling of Drug Absorption into Plasticized PVC",
+      "published_date": "2026-02-23",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02155"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02146",
+      "title": "Jordan–Wigner Transformation for the Description of Strong Correlation in Fermionic Systems",
+      "published_date": "2026-02-23",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02146"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02123",
+      "title": "Accurate and Affordable Vibrational Spectra of Large Molecules: Primary, Auxiliary, and Spectator Modes in a Perturb-then-Diagonalize Framework",
+      "published_date": "2026-02-23",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02123"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02122",
+      "title": "A Coupled-Trajectory Strategy for Decoherence, Frustrated Hops and Internal Consistency in Surface Hopping",
+      "published_date": "2026-02-23",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02122"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01980",
+      "title": "Environmental Effects via Frozen Density Embedding in Real-Time Time-Dependent Dirac–Kohn–Sham Theory: Solvation of Lead Halides",
+      "published_date": "2026-02-23",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01980"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01944",
+      "title": "Using Density-Corrected DFT to Understand Density-Driven and Functional-Dependent Errors in Ab Initio Simulations of the Hydrated Electron",
+      "published_date": "2026-02-23",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01944"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01934",
+      "title": "Diabatization with Electrostatic Embedding for Studying Photophysics in Organic Molecular Crystals",
+      "published_date": "2026-02-23",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01934"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01906",
+      "title": "Revealing the Atomistic Mechanism of Rare Events in Molecular Dynamics",
+      "published_date": "2026-02-23",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01906"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01743",
+      "title": "Coarse-Grained Martini 3 Model of Chondroitin Sulfate A",
+      "published_date": "2026-02-23",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01743"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00039",
+      "title": "Beyond Partitioning: Using Force Field Science to Evaluate Electrostatics Models",
+      "published_date": "2026-02-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00039"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02073",
+      "title": "Graph-Based Internal Coordinate Analysis for Transition State Characterization",
+      "published_date": "2026-02-21",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02073"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01926",
+      "title": "The Potential Blind Spot of the τ‑Dependent Exchange Density Functional Approximations",
+      "published_date": "2026-02-20",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01926"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01798",
+      "title": "Machine Learning for Accelerated Metal Oxide Thermochemical Predictions",
+      "published_date": "2026-02-20",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01798"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01758",
+      "title": "Constructing Diabatic Potential Energy Matrices with Quantum Dynamic Accuracy: A Neural Network Based Δ‑Machine Learning Approach",
+      "published_date": "2026-02-20",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01758"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02119",
+      "title": "Combining Density Functional Embedding Theory and DMRG-NEVPT2 to Treat Large Active Spaces: Addressing Electronic Structure Complexity in Single-Atom Alloys",
+      "published_date": "2026-02-19",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02119"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02051",
+      "title": "Bayesian Learning for Accurate and Robust Biomolecular Force Fields",
+      "published_date": "2026-02-19",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02051"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01885",
+      "title": "Hierarchical Reinforcement Learning of a Short-Range Bond-Order Potential for Silica: Analytic Embedding of Coordination with Classical Efficiency",
+      "published_date": "2026-02-19",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01885"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00124",
+      "title": "Is it Possible to Reconcile the Amount of Charge Transfer Defined in Real Space by the Charge Displacement Function and in Hilbert Space by Absolutely Localized Molecular Orbitals?",
+      "published_date": "2026-02-18",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00124"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00025",
+      "title": "Lossless and Lossy Characterization of the State of Perturbed Anharmonic Diatomics: An Information-Theoretic Compaction of Quantum Dynamics",
+      "published_date": "2026-02-18",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00025"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02137",
+      "title": "Flexible Framework for Surface Hopping: From Hybrid Schemes for Machine Learning to Benchmarkable Nonadiabatic Dynamics",
+      "published_date": "2026-02-18",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02137"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01937",
+      "title": "A General Predictive and Conceptual Model for Repulsive Electronic States in Valence Ionized Molecules",
+      "published_date": "2026-02-18",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01937"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01748",
+      "title": "Multiscale Modeling of Transport-Mediated Catalytic Reactions in Linear Nanopores: PNB Conversion in MSN",
+      "published_date": "2026-02-18",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01748"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00018",
+      "title": "Density-Potential Functional Theory with Explicit Solvation and Desolvation for Electrical Double Layers",
+      "published_date": "2026-02-17",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00018"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01865",
+      "title": "Orbital Surface Hopping with an Electron Thermostat Yields Accurate Dynamics and Detailed Balance",
+      "published_date": "2026-02-17",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01865"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01833",
+      "title": "System-Specific Reparameterization of Density Functionals with Machine Learning: Application to Spin-Splitting Energies of Transition Metal Complexes",
+      "published_date": "2026-02-17",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01833"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01819",
+      "title": "Target State Optimization with Density Functional Theory for Computing K‑Edge X‑ray Absorption Spectra",
+      "published_date": "2026-02-17",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01819"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01671",
+      "title": "Volume Dependence of Contact Angle in Nanodroplets: Interface Layering Contributions beyond the Standard Line Tension",
+      "published_date": "2026-02-17",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01671"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02180",
+      "title": "Benchmarking Orbital-Free Density-Potential Functional Theory of Electrified Metal-Solution Interfaces",
+      "published_date": "2026-02-16",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02180"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01973",
+      "title": "Quantum-Electrodynamical Time-Dependent Density Functional Theory Description of Molecules in Optical Cavities",
+      "published_date": "2026-02-15",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01973"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02041",
+      "title": "Semiclassical Multi-State Dynamics of High-Energy O + O2 Collisions: Influence of Electronic Excitation on Energy Relaxation",
+      "published_date": "2026-02-14",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02041"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01794",
+      "title": "AIQM3: Targeting Coupled-Cluster Accuracy with Semi-Empirical Speed across Seven Main-Group Elements",
+      "published_date": "2026-02-14",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01794"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02056",
+      "title": "Machine Learning and Computer Simulation Disentangle the Fuzzy Inhibitor Binding by Hsp90",
+      "published_date": "2026-02-13",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02056"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01952",
+      "title": "Toward Doubly Local Double Hybrid Functionals Using Neural-Network Local Mixing Functions",
+      "published_date": "2026-02-13",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01952"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01534",
+      "title": "Electrochemical Potential Fluctuation Matters in Rate Constant Calculations for Proton-Coupled Electron Transfer",
+      "published_date": "2026-02-13",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01534"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00005",
+      "title": "Excited-State Static Polarizabilities: CC3 Reference Values, Wave Function, and TD-DFT Benchmarks",
+      "published_date": "2026-02-12",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00005"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02014",
+      "title": "n‑Mode Quantized Anharmonic Vibronic Hamiltonians for Matrix Product State Dynamics",
+      "published_date": "2026-02-12",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02014"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01726",
+      "title": "From PECs to Spectrum and From Spectrum to PECs: A Morse Protocol for Diatomic X‑ray Absorption",
+      "published_date": "2026-02-12",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01726"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01689",
+      "title": "Artificial Intelligence for Direct Prediction of Molecular Dynamics across Chemical Space",
+      "published_date": "2026-02-12",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01689"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01682",
+      "title": "Automated Discovery of Reactive Events via Hypergraph Mining of Ab Initio Atomistic Simulations",
+      "published_date": "2026-02-12",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01682"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01451",
+      "title": "Boltz-ABFE: Free Energy Perturbation without Crystal Structures",
+      "published_date": "2026-02-12",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01451"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01959",
+      "title": "Multiscale Machine Learning Prediction of Infrared Spectra of Solvated Molecules",
+      "published_date": "2026-02-11",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01959"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01848",
+      "title": "Committors without Descriptors",
+      "published_date": "2026-02-11",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01848"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01800",
+      "title": "A Mixed-Precision Approach to a Preconditioned Eigensolver for Efficient Density Functional Calculations on AI-Focused GPUs",
+      "published_date": "2026-02-11",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01800"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02116",
+      "title": "DMRG/FQ: A Polarizable Embedding Approach Combining Density Matrix Renormalization Group and Fluctuating Charges",
+      "published_date": "2026-02-10",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02116"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02077",
+      "title": "Hitchhikers Guide To Training More General Machine Learning Potentials in Heterogeneous Catalysis",
+      "published_date": "2026-02-10",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02077"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01911",
+      "title": "Error-Mitigation Enabled Multicomponent Quantum Simulations beyond the Born–Oppenheimer Approximation",
+      "published_date": "2026-02-10",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01911"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01881",
+      "title": "ChemRefine: An Open-Source Automated and Interoperable Platform for Machine Learning and Quantum Chemistry Simulations",
+      "published_date": "2026-02-10",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01881"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01863",
+      "title": "Theory and Simulations of Fluorescence-Detected Two-Dimensional Electronic Spectroscopy: From Rigorous Quantum Mechanics to Simple Kinetic Models",
+      "published_date": "2026-02-10",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01863"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01678",
+      "title": "Destabilization of Structured RNAs by OPC and TIP4PD Water Models",
+      "published_date": "2026-02-10",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01678"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01930",
+      "title": "Projection-Based DMRG-in-DFT Embedding Corrected by Nonadditive Exchange-Correlation",
+      "published_date": "2026-02-09",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01930"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01859",
+      "title": "MemConverter: An Iterative Pipeline for Reprogramming Protein Localization in Membrane or Aqueous Solution",
+      "published_date": "2026-02-09",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01859"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01734",
+      "title": "Marcus Theory and The Condon Approximation Revisited II: The Horror of Triplet Energy Transfer",
+      "published_date": "2026-02-09",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01734"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01828",
+      "title": "Performance of Universal Machine-Learned Potentials with Explicit Long-Range Interactions in Biomolecular Simulations",
+      "published_date": "2026-02-05",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01828"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01353",
+      "title": "Reduced Density Matrix and Cumulant Approximations of Quantum Linear Response",
+      "published_date": "2026-02-05",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01353"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01872",
+      "title": "A Hardware-Feasible Quantum Machine Learning Framework for Structure-Based Virtual Screening",
+      "published_date": "2026-02-04",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01872"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01849",
+      "title": "Multistate Iterative Qubit Coupled Cluster (MS-iQCC): A Quantum-Inspired, State-Averaged Approach to Ground- And Excited-State Energies",
+      "published_date": "2026-02-04",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01849"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01797",
+      "title": "Transition State Theory for Dissociation of Dynamic Bonding Networks",
+      "published_date": "2026-02-04",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01797"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01269",
+      "title": "Braess’ Paradox in Enzyme Kinetics: Asymmetry from Population Balance without Direct Cooperativity",
+      "published_date": "2026-02-04",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01269"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01733",
+      "title": "Marcus Theory and the Condon Approximation Revisited I: E‑SHAKE and Seam Sampling",
+      "published_date": "2026-02-03",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01733"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01704",
+      "title": "QO‑BRA: A Quantum Operator-Based Autoencoder for De Novo Molecular Design",
+      "published_date": "2026-02-03",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01704"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01925",
+      "title": "Scalable Quantum Monte Carlo Method for Polariton Chemistry via Mixed Block Sparsity and Tensor Hypercontraction Method",
+      "published_date": "2026-02-02",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01925"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01780",
+      "title": "Cavity-Induced Enhancement of Reaction Rate for a Weakly Asymmetric Isotope Exchange Reaction",
+      "published_date": "2026-02-02",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01780"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01767",
+      "title": "Enhanced Representation-Based Sampling for the Efficient Generation of Data Sets for Machine-Learned Interatomic Potentials",
+      "published_date": "2026-02-02",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01767"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01498",
+      "title": "Estimating Full Path Lengths and Kinetics from Partial Path Transition Interface Sampling Simulations",
+      "published_date": "2026-02-02",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01498"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01455",
+      "title": "From Pretrained to Precision: Fine-Tuning Universal Interatomic Potentials for Accurate Catalytic Reaction Simulations",
+      "published_date": "2026-02-02",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01455"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01426",
+      "title": "Scalable Force Fields for Metal-Mediated DNA Nanostructures",
+      "published_date": "2026-02-02",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01426"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01328",
+      "title": "Multi-Objective Optimization of Approximate Functionals via Implicit Interdependency Modeling",
+      "published_date": "2026-02-02",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01328"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01652",
+      "title": "Machine Learning Assisted Selective Configuration Interaction for Accurate Ground and Excited State Calculations",
+      "published_date": "2026-01-31",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01652"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01960",
+      "title": "Analytical Excited-State Gradients and Derivative Couplings in TDDFT with Minimal Auxiliary Basis Set Approximation and GPU Acceleration",
+      "published_date": "2026-01-30",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01960"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02017",
+      "title": "Beyond Brillouin’s Theorem: On the Importance of Single Excitations in Jastrow-Correlated Wave Functions",
+      "published_date": "2026-01-29",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02017"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01690",
+      "title": "Motion as a Language: Transformer-Based Classification of Antimicrobial Peptide Conformational Dynamics",
+      "published_date": "2026-01-29",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01690"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01638",
+      "title": "Random Functions as Data Compressors for Machine Learning of Molecular Processes",
+      "published_date": "2026-01-29",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01638"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01790",
+      "title": "Toward Operando Modeling of Electrochemical Processes at Metal-Aqueous Solution Interfaces",
+      "published_date": "2026-01-28",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01790"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01547",
+      "title": "Effective Approximations for Hartree–Fock Exchange Potential",
+      "published_date": "2026-01-28",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01547"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01280",
+      "title": "Robust and Automated Force Field Parameterization Using Validation Sets and Active Learning",
+      "published_date": "2026-01-28",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01280"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02031",
+      "title": "Accurate and Efficient Calculation of Protein–Ligand Interaction Energies Using an Electrostatically Embedded Fragmentation Method",
+      "published_date": "2026-01-27",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02031"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01984",
+      "title": "Long-Range Fit: A Software Package for the Representation and Study of Long-Range Molecular Interactions",
+      "published_date": "2026-01-27",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01984"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01890",
+      "title": "Analytical Nuclear Gradients for the Multiconfigurational Self-Consistent Field Method Coupled with the Polarizable Fluctuating Charges Model",
+      "published_date": "2026-01-27",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01890"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01703",
+      "title": "Benchmarking Density Functional Theory for Accurate Calculation of Nitride Band Gaps",
+      "published_date": "2026-01-27",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01703"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01989",
+      "title": "Bayesian Optimization of the Coarse-Grained Force Field for Ions and Ionic Surfactants Based on a Polarizable Water Model",
+      "published_date": "2026-01-26",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01989"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01721",
+      "title": "Cost-Effective Multi-Channel MolOrbImage for Machine-Learned Excited-State Properties of Practical Photofunctional Materials",
+      "published_date": "2026-01-26",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01721"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01720",
+      "title": "Reducing the Cost of CCSD Basis Set Extrapolation in Ab Initio Computational Thermochemistry",
+      "published_date": "2026-01-26",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01720"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01602",
+      "title": "Relativistic Fermionic Neural Networks Based on Zeroth-Order Regular Approximation: ZORANet",
+      "published_date": "2026-01-26",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01602"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01745",
+      "title": "Combining Coarse-Grained Reactive Molecular Dynamics with an Enhanced-Sampling Method for MFI Zeolite Crystallization",
+      "published_date": "2026-01-23",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01745"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01587",
+      "title": "Predicting S1 TDDFT Energies from ZINDO Calculations Using Message-Passing ΔML with Electronically Informed Descriptors",
+      "published_date": "2026-01-22",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01587"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01483",
+      "title": "WaveMixings.jl: A Julia Package for Computing Time-Resolved Nonlinear Electronic Spectra from on-the-Fly Quasi-Classical Trajectories",
+      "published_date": "2026-01-22",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01483"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01766",
+      "title": "MolCluster: An Unsupervised Framework for Multiscale Molecular Representations with Physically Consistent Resolution Control",
+      "published_date": "2026-01-21",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01766"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01500",
+      "title": "Bayesian Optimization for High-Dimensional Coarse-Grained Model Parameterization: A Case Study on Pebax Polymer",
+      "published_date": "2026-01-21",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01500"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01809",
+      "title": "Accounting for Electronic Coherences Induced by Broadband Pulses by Using Pulse-Independent Trajectories",
+      "published_date": "2026-01-20",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01809"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01695",
+      "title": "NOCI‑F Electronic Couplings in Assemblies of Indolonaphthyridine Molecules: From Dimers to the Full Stack",
+      "published_date": "2026-01-20",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01695"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01773",
+      "title": "Determining the Optimal Structural Resolution of Proteins through an Information-Theoretic Analysis of Their Conformational Ensemble",
+      "published_date": "2026-01-19",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01773"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01814",
+      "title": "Membrane Pore Formation Unveiled by ∞RETIS Path Sampling: From Thinning to Flip-Flop",
+      "published_date": "2026-01-17",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01814"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00007",
+      "title": "Following the Committor Flow: A Data-Driven Discovery of Transition Pathways",
+      "published_date": "2026-01-16",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00007"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01691",
+      "title": "Assessment of Grouped-Bath Configuration Interaction for Transition-Metal Complexes by L‑Edge X‑ray Spectra Calculations",
+      "published_date": "2026-01-16",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01691"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01730",
+      "title": "Unified Theory of Equilibrium Thermodynamics and Ion Association in Aqueous and Nonaqueous Electrolytes with Explicit Hard-Core Size",
+      "published_date": "2026-01-15",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01730"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01672",
+      "title": "Optimization of Grand-Canonical Self-Consistent Field across Manifolds with Varying Occupation Spaces",
+      "published_date": "2026-01-15",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01672"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01494",
+      "title": "Qumode-Based Variational Quantum Eigensolver for Molecular Excited States",
+      "published_date": "2026-01-15",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01494"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01870",
+      "title": "Performance of Different Spin–Orbit Operators for the Splitting of 4f-Multiplets in Trivalent Lanthanides",
+      "published_date": "2026-01-14",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01870"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01759",
+      "title": "Multireference Dynamic Correlation Energy from the Combined Particle–Hole and Particle–Particle Adiabatic Connection with Random Phase Approximation",
+      "published_date": "2026-01-14",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01759"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01729",
+      "title": "Effective Core Potentials for Calculations of Continuum Spectra of Molecules Using the Molecular R‑Matrix Method",
+      "published_date": "2026-01-14",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01729"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01752",
+      "title": "Ab Initio Methodology To Describe the Static Mechanism of Electrodipolar Luminescence in Lanthanides",
+      "published_date": "2026-01-13",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01752"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01747",
+      "title": "ME‑pKa: A Deep Learning Method with Multimodal Learning for Protein pKa Prediction",
+      "published_date": "2026-01-13",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01747"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01660",
+      "title": "Inferring DNA Kinkability from Biased MD Simulations",
+      "published_date": "2026-01-13",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01660"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01576",
+      "title": "A Reusable Library for Second-Order Orbital Optimization Using the Trust Region Method",
+      "published_date": "2026-01-13",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01576"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01555",
+      "title": "Catalytic Asymmetry Dictating Emergent Dynamics and Self-Assembly in Janus Dimer Pairs",
+      "published_date": "2026-01-13",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01555"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01435",
+      "title": "Large-Scale Efficient Molecule Geometry Optimization with Hybrid Quantum–Classical Computing",
+      "published_date": "2026-01-13",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01435"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01792",
+      "title": "Excitation/Relaxation Analysis of Electronic Transitions Using Difference Density Natural Orbitals",
+      "published_date": "2026-01-12",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01792"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01731",
+      "title": "Autonomous Reaction Discovery of CO2 Capture in Aqueous Ammonia through Active-Learning Neural Networks",
+      "published_date": "2026-01-12",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01731"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01561",
+      "title": "Multiscale Modeling of Solid Electrolyte Interphase Formation on Oxygen-Functionalized Graphite Anodes for Lithium-Ion Batteries",
+      "published_date": "2026-01-12",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01561"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c00894",
+      "title": "Solvent Effects on Nonadiabatic Coupling: Interfacing Time-Dependent Density Functional Theory with the Effective Fragment Potential Method",
+      "published_date": "2026-01-12",
+      "url": "https://doi.org/10.1021/acs.jctc.5c00894"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01785",
+      "title": "Efficient Protein–Ligand Binding Free Energy Estimation with Coarse-Grained Funnel Metadynamics",
+      "published_date": "2026-01-10",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01785"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01929",
+      "title": "Accelerating Replica Exchange Molecular Dynamics: A Comparison of Hydrogen Mass Repartitioning and Light Water Models",
+      "published_date": "2026-01-09",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01929"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01919",
+      "title": "Differential Allosteric Modulation of Cas9 Specificity",
+      "published_date": "2026-01-09",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01919"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01850",
+      "title": "Size-Consistent Adiabatic Connection Functionals via Orbital-Based Matrix Interpolation",
+      "published_date": "2026-01-08",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01850"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01787",
+      "title": "Role of Water Models in Simulations of Ion Conduction in Potassium Channels",
+      "published_date": "2026-01-08",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01787"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c02026",
+      "title": "BindFlow: A Free, User-Friendly Pipeline for Absolute Binding Free Energy Calculations Using Free Energy Perturbation or MM(PB/GB)SA",
+      "published_date": "2026-01-07",
+      "url": "https://doi.org/10.1021/acs.jctc.5c02026"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01406",
+      "title": "Getting the Manifold Right: The Crucial Role of Orbital Resolution in DFT+U for Mixed d–f Electron Compounds",
+      "published_date": "2026-01-07",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01406"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01719",
+      "title": "Multiphoton Absorption Spectra of Channelrhodopsin‑2 via Multiscale Simulation Methods",
+      "published_date": "2026-01-06",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01719"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01709",
+      "title": "Exploring the Energetics of Membrane Fission Using Molecular Simulations",
+      "published_date": "2026-01-06",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01709"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01366",
+      "title": "DNET: A Graph-Based Tool and Workflow for Dynamic Hydrogen-Bond Networks and Applications for Visual Rhodopsins",
+      "published_date": "2026-01-06",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01366"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01240",
+      "title": "Integrated Boltzmann Sampling: A Few-State Approach for Efficient Multistate Free Energy Calculations",
+      "published_date": "2026-01-06",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01240"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01904",
+      "title": "Spin-Permutation Diabatization: A General Framework for Spin Localization and Exchange Coupling",
+      "published_date": "2026-01-05",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01904"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01677",
+      "title": "Decoding RNA Structural Ensembles: Energy Landscape Exploration of the TAR Stemloop",
+      "published_date": "2026-01-05",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01677"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01643",
+      "title": "Interlayer Force Field for the Anisotropic Interaction between Planar Organic Molecules and Two-Dimensional Hexagonal Boron Nitride",
+      "published_date": "2026-01-05",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01643"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01632",
+      "title": "FragmentRetro: A Quadratic Retrosynthetic Method Based on Fragmentation Algorithms",
+      "published_date": "2026-01-05",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01632"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01875",
+      "title": "Multiscale Modeling for the Design of Deoxyribonucleic Acid-Functionalized Nanoparticles for Targeted Self-Assembly of the Double Gyroid",
+      "published_date": "2026-01-02",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01875"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01827",
+      "title": "Predicting NMR Relaxation Using a First-Principles Brownian Dynamics Approach",
+      "published_date": "2026-01-02",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01827"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01727",
+      "title": "Unlocking High-Throughput Investigation of Transport Tunnels in Enzymes Using Coarse-Grained Simulation Methods",
+      "published_date": "2026-01-02",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01727"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01696",
+      "title": "Nonadiabatic Direct Dynamics Simulation of Photoinduced Isomerization of Cubic Hydrogen Silsesquioxane",
+      "published_date": "2026-01-02",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01696"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01579",
+      "title": "Efficient Sampling of Short Protein Trajectories with Conditional Diffusion Models",
+      "published_date": "2026-01-02",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01579"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01468",
+      "title": "The Protein Force Field Plays a Crucial Role in Obtaining Accurate Macromolecular Ensembles of IDPs",
+      "published_date": "2026-01-02",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01468"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01108",
+      "title": "Why Variational Density Functional Theory Is More Accurate Than Time-Dependent Density Functional Theory for Certain “Difficult” Excited States?",
+      "published_date": "2026-01-02",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01108"
+    }
+  ]
+}
