@@ -270,7 +270,49 @@ def merge_acs_and_crossref(
     return deduplicate(merged)
 
 
-def update(fixture: Path | None, rows: int, acs_file: Path | None, science_file: Path | None) -> int:
+def load_publisher_articles(path: Path, journal: dict[str, str], minimum: int = 10) -> dict[str, dict[str, Any]]:
+    payload = load_json(path, {})
+    if payload.get("scope_start") != SCOPE_START:
+        raise ValueError(f"{journal['short_name']} scope_start must be {SCOPE_START}")
+    articles = payload.get("articles")
+    if not isinstance(articles, list) or len(articles) < minimum:
+        raise ValueError(f"{journal['short_name']} inventory contains implausibly few articles")
+    by_doi: dict[str, dict[str, Any]] = {}
+    for item in articles:
+        doi = normalize_doi(str(item.get("doi", "")))
+        published_date = item.get("published_date")
+        if not doi or not published_date or published_date < SCOPE_START:
+            continue
+        by_doi[doi] = {
+            "doi": doi,
+            "title": normalize_title(str(item.get("title") or doi)),
+            "journal": journal["name"],
+            "journal_short": journal["short_name"],
+            "published_date": published_date,
+            "indexed_at": None,
+            "url": f"https://doi.org/{urllib.parse.quote(doi, safe='/()')}",
+            "sources": ["publisher"],
+        }
+    if len(by_doi) < minimum:
+        raise ValueError(f"{journal['short_name']} DOI validation left implausibly few articles")
+    return by_doi
+
+
+def apply_publisher_authority(
+    articles: list[dict[str, Any]], inventory: dict[str, dict[str, Any]], journal: dict[str, str]
+) -> list[dict[str, Any]]:
+    kept = [article for article in articles if article.get("journal_short") != journal["short_name"]]
+    kept.extend(inventory.values())
+    return deduplicate(kept)
+
+
+def update(
+    fixture: Path | None,
+    rows: int,
+    acs_file: Path | None,
+    science_file: Path | None,
+    publisher_files: dict[str, Path],
+) -> int:
     checked_at = datetime.now(SEOUL).isoformat(timespec="seconds")
     today = datetime.now(SEOUL).date()
     scope_start = SCOPE_START
@@ -282,28 +324,35 @@ def update(fixture: Path | None, rows: int, acs_file: Path | None, science_file:
         and old_state.get("scope_version") == SCOPE_VERSION
     )
     seen = {normalize_doi(value) for value in old_state.get("seen_dois", [])}
-    fetched: list[dict[str, Any]] = []
-
-    fixture_payload = load_json(fixture, {}) if fixture else None
-    for journal in JOURNALS:
-        items = (
-            fixture_payload.get("message", {}).get("items", [])
-            if fixture_payload is not None
-            else fetch_all_pages(journal["issn"], scope_start, scope_end, rows)
-        )
-        for item in items:
-            article = article_from_item(item, journal)
-            if article and article["published_date"] and scope_start <= article["published_date"] <= scope_end:
-                fetched.append(article)
-
-    fetched = deduplicate(fetched)
-    source_mode = "crossref"
-    if acs_file:
-        fetched = merge_acs_and_crossref(load_acs_articles(acs_file), fetched)
-        source_mode = "acs+crossref"
-    if science_file:
-        fetched = deduplicate([*fetched, *load_science_articles(science_file).values()])
-        source_mode += "+science"
+    journals_by_key = {journal["key"]: journal for journal in JOURNALS}
+    official_only = bool(acs_file and science_file and len(publisher_files) == 4)
+    if official_only:
+        fetched = [*load_acs_articles(acs_file).values(), *load_science_articles(science_file).values()]
+        for key, inventory_path in publisher_files.items():
+            fetched.extend(load_publisher_articles(inventory_path, journals_by_key[key]).values())
+        fetched = deduplicate(fetched)
+        source_mode = "publisher-only"
+    else:
+        fetched = []
+        fixture_payload = load_json(fixture, {}) if fixture else None
+        for journal in JOURNALS:
+            items = (
+                fixture_payload.get("message", {}).get("items", [])
+                if fixture_payload is not None
+                else fetch_all_pages(journal["issn"], scope_start, scope_end, rows)
+            )
+            for item in items:
+                article = article_from_item(item, journal)
+                if article and article["published_date"] and scope_start <= article["published_date"] <= scope_end:
+                    fetched.append(article)
+        fetched = deduplicate(fetched)
+        source_mode = "crossref-transition"
+        if acs_file:
+            fetched = merge_acs_and_crossref(load_acs_articles(acs_file), fetched)
+        if science_file:
+            fetched = deduplicate([*fetched, *load_science_articles(science_file).values()])
+        for key, inventory_path in publisher_files.items():
+            fetched = apply_publisher_authority(fetched, load_publisher_articles(inventory_path, journals_by_key[key]), journals_by_key[key])
     new_articles = [article for article in fetched if article["doi"] not in seen] if initialized else []
     new_dois = {article["doi"] for article in fetched}
     combined_seen = sorted((seen | new_dois) if initialized else new_dois)
@@ -349,9 +398,23 @@ def main() -> int:
     parser.add_argument("--rows", type=int, default=1000)
     parser.add_argument("--acs-file", type=Path, help="Use an ACS DOI inventory as the inclusion authority")
     parser.add_argument("--science-file", type=Path, help="Include a verified Science Research Article inventory")
+    parser.add_argument("--nature-file", type=Path, help="Use the Nature Communications Research Articles inventory")
+    parser.add_argument("--jctc-file", type=Path, help="Use the ACS JCTC search inventory")
+    parser.add_argument("--jcc-file", type=Path, help="Use the Wiley Journal of Computational Chemistry inventory")
+    parser.add_argument("--angew-file", type=Path, help="Use the Wiley Angewandte inventory")
     args = parser.parse_args()
     try:
-        return update(args.fixture, args.rows, args.acs_file, args.science_file)
+        publisher_files = {
+            key: path
+            for key, path in {
+                "nature-communications": args.nature_file,
+                "jctc": args.jctc_file,
+                "journal-of-computational-chemistry": args.jcc_file,
+                "angewandte": args.angew_file,
+            }.items()
+            if path is not None
+        }
+        return update(args.fixture, args.rows, args.acs_file, args.science_file, publisher_files)
     except (urllib.error.URLError, TimeoutError, OSError, ValueError) as exc:
         print(f"Update failed: {exc}", file=sys.stderr)
         return 1

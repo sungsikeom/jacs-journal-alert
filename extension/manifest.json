@@ -1,14 +1,17 @@
 {
   "manifest_version": 3,
   "name": "Journal Alert Collector",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Collect journal results from normal user-opened publisher pages.",
   "permissions": ["storage"],
   "host_permissions": [
     "https://pubs.acs.org/*",
     "https://www.science.org/*",
+    "https://www.nature.com/*",
+    "https://onlinelibrary.wiley.com/*",
     "http://127.0.0.1:47821/*",
-    "http://127.0.0.1:47822/*"
+    "http://127.0.0.1:47822/*",
+    "http://127.0.0.1:47823/*"
   ],
   "background": {
     "service_worker": "background.js"
@@ -22,6 +25,15 @@
     {
       "matches": ["https://www.science.org/toc/science/*"],
       "js": ["science.js"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": [
+        "https://www.nature.com/ncomms/research-articles*",
+        "https://pubs.acs.org/jctcce/search-results*",
+        "https://onlinelibrary.wiley.com/action/doSearch*"
+      ],
+      "js": ["publisher.js"],
       "run_at": "document_idle"
     }
   ]

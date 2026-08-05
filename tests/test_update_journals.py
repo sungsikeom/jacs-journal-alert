@@ -34,6 +34,26 @@ class MetadataNormalizationTests(unittest.TestCase):
         self.assertEqual(journals["JCTC"], "1549-9626")
         self.assertEqual(journals["Angew. Chem. Int. Ed."], "1521-3773")
 
+    def test_publisher_authority_removes_unverified_journal_items(self):
+        journal = next(item for item in UPDATE.JOURNALS if item["short_name"] == "JCTC")
+        articles = [
+            {"doi": "10.1021/acs.jctc.6c00001", "journal_short": "JCTC", "title": "keep"},
+            {"doi": "10.1021/acs.jctc.6c00002", "journal_short": "JCTC", "title": "remove"},
+            {"doi": "10.1021/jacs.6c00001", "journal_short": "JACS", "title": "other"},
+        ]
+        inventory = {
+            "10.1021/acs.jctc.6c00001": {
+                "doi": "10.1021/acs.jctc.6c00001",
+                "journal_short": "JCTC",
+                "title": "publisher",
+                "published_date": "2026-01-02",
+            }
+        }
+        result = UPDATE.apply_publisher_authority(articles, inventory, journal)
+        self.assertEqual({item["doi"] for item in result}, {"10.1021/acs.jctc.6c00001", "10.1021/jacs.6c00001"})
+        kept = next(item for item in result if item["doi"] == "10.1021/acs.jctc.6c00001")
+        self.assertEqual(kept["title"], "publisher")
+
     def test_load_science_articles_normalizes_site_fields(self):
         science_path = Path(__file__).resolve().parents[1] / "data" / "science_articles.json"
         articles = UPDATE.load_science_articles(science_path)

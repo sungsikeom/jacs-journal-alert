@@ -46,13 +46,14 @@ jobs:
         env:
           CROSSREF_MAILTO: ${{ vars.CROSSREF_MAILTO }}
         run: |
-          if [ -f data/acs_articles.json ] && [ -f data/science_articles.json ]; then
-            python scripts/update_journals.py --acs-file data/acs_articles.json --science-file data/science_articles.json
-          elif [ -f data/acs_articles.json ]; then
-            python scripts/update_journals.py --acs-file data/acs_articles.json
-          else
-            python scripts/update_journals.py
-          fi
+          args=()
+          [ -f data/acs_articles.json ] && args+=(--acs-file data/acs_articles.json)
+          [ -f data/science_articles.json ] && args+=(--science-file data/science_articles.json)
+          [ -f data/nature_communications_articles.json ] && args+=(--nature-file data/nature_communications_articles.json)
+          [ -f data/jctc_articles.json ] && args+=(--jctc-file data/jctc_articles.json)
+          [ -f data/jcc_articles.json ] && args+=(--jcc-file data/jcc_articles.json)
+          [ -f data/angew_articles.json ] && args+=(--angew-file data/angew_articles.json)
+          python scripts/update_journals.py "${args[@]}"
 
       - name: Commit updated metadata
         run: |
@@ -61,6 +62,9 @@ jobs:
           git add data/articles.json data/seen_dois.json
           if [ -f data/acs_articles.json ]; then git add data/acs_articles.json; fi
           if [ -f data/science_articles.json ]; then git add data/science_articles.json; fi
+          for inventory in data/nature_communications_articles.json data/jctc_articles.json data/jcc_articles.json data/angew_articles.json; do
+            if [ -f "$inventory" ]; then git add "$inventory"; fi
+          done
           if git diff --cached --quiet; then
             echo "No metadata changes"
           else

@@ -5,7 +5,11 @@
   "scripts": {
     "collect:acs": "node scripts/receive_acs_collection.mjs",
     "collect:acs:legacy": "node scripts/collect_acs.mjs",
-    "collect:science": "node scripts/receive_science_collection.mjs"
+    "collect:science": "node scripts/receive_science_collection.mjs",
+    "collect:nature": "node scripts/receive_publisher_collection.mjs nature",
+    "collect:jctc": "node scripts/receive_publisher_collection.mjs jctc",
+    "collect:jcc": "node scripts/receive_publisher_collection.mjs jcc",
+    "collect:angew": "node scripts/receive_publisher_collection.mjs angew"
   },
   "dependencies": {
     "playwright-core": "^1.54.2"

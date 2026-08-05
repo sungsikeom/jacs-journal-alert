@@ -7,7 +7,7 @@ JACS, Science Research Articles, Nature Communications, Journal of Computational
 ## 동작 방식
 
 1. GitHub Actions가 매일 Asia/Seoul 오전 9시 17분에 실행됩니다.
-2. GitHub Actions는 Crossref의 5개 저널 메타데이터와 로컬 Chrome에서 검증한 ACS·Science 목록을 병합합니다.
+2. 각 출판사의 공식 검색·Research Articles 페이지에서 제목, DOI, 발행일을 수집합니다.
 3. 목록은 출간일 내림차순으로 정렬하여 최신 논문을 맨 위에 표시합니다.
 4. `data/seen_dois.json`에 없는 DOI를 신규 논문으로 판정합니다.
 5. 연도별 첫 실행에서는 해당 연도의 전체 결과를 기준선으로만 저장하고 알림을 만들지 않습니다.
@@ -50,6 +50,19 @@ npm run collect:science
 py -3 scripts\update_journals.py --acs-file data\acs_articles.json --science-file data\science_articles.json
 ```
 
+## 공식 출판사 목록 수집
+
+Chrome 확장 프로그램을 새로고침한 뒤 아래 명령을 한 번에 하나씩 실행합니다. 각 명령은 일반 Chrome에서 공식 결과 페이지를 열고 2026년 1월 1일까지 순회합니다.
+
+```powershell
+npm run collect:nature
+npm run collect:jctc
+npm run collect:jcc
+npm run collect:angew
+```
+
+네 파일이 모두 준비되면 사이트 생성기는 Crossref을 사용하지 않는 `publisher-only` 모드로 자동 전환합니다. 인벤토리가 일부만 준비된 동안에는 기존 사이트 데이터가 유지됩니다.
+
 ## 로컬 점검
 
 ```bash
@@ -66,4 +79,4 @@ Crossref 기반 저널은 `scripts/update_journals.py`의 `JOURNALS` 목록에 �
 
 ## 데이터 출처와 고지
 
-Article inclusion can be verified from ACS JACS search results and Science tables of contents collected in a user's local Chrome, while JACS metadata are supplemented from Crossref. This is an independent literature alert service and is not affiliated with or endorsed by the American Chemical Society or AAAS. Journal names and article titles belong to their respective owners.
+Article inclusion and displayed metadata are collected from official publisher result pages in a user's local Chrome. This is an independent literature alert service and is not affiliated with or endorsed by the monitored publishers. Journal names and article titles belong to their respective owners.
