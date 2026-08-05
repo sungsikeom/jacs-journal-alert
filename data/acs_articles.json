@@ -1,8 +1,8 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-08-04T13:44:58.626Z",
+  "collected_at": "2026-08-05T00:30:18.669Z",
   "scope_start": "2026-01-01",
-  "article_count": 2758,
+  "article_count": 2776,
   "articles": [
     {
       "doi": "10.1021/jacs.6c12975",
@@ -11,10 +11,28 @@
       "url": "https://doi.org/10.1021/jacs.6c12975"
     },
     {
+      "doi": "10.1021/jacs.6c12291",
+      "title": "Expanding the Repertoire of Lysosomal Degradation of Membrane Proteins: A Generalizable Strategy Using Multivalent Antibody−Polymer Chimeras",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/jacs.6c12291"
+    },
+    {
       "doi": "10.1021/jacs.6c12051",
       "title": "Tuning and Characterizing the Structure of Peptide Core-Shell Multiphasic Condensates by the Blue Fluorescent Amino Acid 4-Cyanotryptophan",
       "published_date": "2026-08-04",
       "url": "https://doi.org/10.1021/jacs.6c12051"
+    },
+    {
+      "doi": "10.1021/jacs.6c11639",
+      "title": "Electrocatalytic Hydrogenation with Nanoparticles Derived from a Cobalt Metal–Organic Framework",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/jacs.6c11639"
+    },
+    {
+      "doi": "10.1021/jacs.6c11488",
+      "title": "Exceptionally High Proton Conductivity in Cucurbituril-Based Metal–Organic Frameworks with Subnanometer Scale Channels",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/jacs.6c11488"
     },
     {
       "doi": "10.1021/jacs.6c11452",
@@ -23,10 +41,46 @@
       "url": "https://doi.org/10.1021/jacs.6c11452"
     },
     {
+      "doi": "10.1021/jacs.6c11308",
+      "title": "Unveiling Dual-Interface Coordination Orchestration for Durable Aqueous Zinc–Iodine Pouch Cells with Four-Electron Chemistry",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/jacs.6c11308"
+    },
+    {
+      "doi": "10.1021/jacs.6c11060",
+      "title": "Data-Guided Discovery of Cu-Host Single-Atom Alloys for Selective Electrohydrogenation via Intermediate Hydrogen Binding",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/jacs.6c11060"
+    },
+    {
+      "doi": "10.1021/jacs.6c10939",
+      "title": "Photocatalytic Activation of Fluoroform for Radical Trifluoromethylation",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/jacs.6c10939"
+    },
+    {
+      "doi": "10.1021/jacs.6c10688",
+      "title": "Spatial Deconstruction of the Plasma Membrane",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/jacs.6c10688"
+    },
+    {
+      "doi": "10.1021/jacs.6c10566",
+      "title": "Identification of Metal–Organic Frameworks for CO2 Capture from Humid Flue Gas: Integrating Molecular Simulation, Machine Learning, and Experimental Synthesis",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/jacs.6c10566"
+    },
+    {
       "doi": "10.1021/jacs.6c10367",
       "title": "Polarized Metal Nitride Solid Solutions as Electrocatalysts Enabling Ampere-Level Selective Formic Acid Synthesis",
       "published_date": "2026-08-04",
       "url": "https://doi.org/10.1021/jacs.6c10367"
+    },
+    {
+      "doi": "10.1021/jacs.6c10243",
+      "title": "Activation of Inorganic Ligands by Interfacial Charge Transfer from a Complexation-Generated Valence Band at the Surface of a Metal Oxide Nanocrystal",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/jacs.6c10243"
     },
     {
       "doi": "10.1021/jacs.6c10141",
@@ -35,10 +89,58 @@
       "url": "https://doi.org/10.1021/jacs.6c10141"
     },
     {
+      "doi": "10.1021/jacs.6c10111",
+      "title": "Gem-Dimethyl Selenoketal: Suppressing Sulfur–Selenium Exchange with Antioxidant and Anti-Inflammatory Activities",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/jacs.6c10111"
+    },
+    {
+      "doi": "10.1021/jacs.6c09915",
+      "title": "Trifluoromethylthio Engineering Enables a Balanced Electrostatic Potential for Organic Solar Cells with over 20% Efficiency and Low Energy Loss",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/jacs.6c09915"
+    },
+    {
+      "doi": "10.1021/jacs.6c08975",
+      "title": "Node-Assisted Photoredox Reactivity Enables MOF-Catalyzed Hydrogen/Deuterium Exchange in Aromatic Aldehydes",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/jacs.6c08975"
+    },
+    {
+      "doi": "10.1021/jacs.6c08946",
+      "title": "A Quantitative Examination of Catalyst Component Impacts on Hydrogen Adsorption and Spillover",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/jacs.6c08946"
+    },
+    {
       "doi": "10.1021/jacs.6c08312",
       "title": "An Adaptable Porous Metal–Organic Framework for Structural Visualization of Beyond Rule of 5 Molecules on the Microgram Scale",
       "published_date": "2026-08-04",
       "url": "https://doi.org/10.1021/jacs.6c08312"
+    },
+    {
+      "doi": "10.1021/jacs.6c07895",
+      "title": "Lipid Bilayer-Confined J-Aggregation Transduces Cell Membrane Mechanics into Photoacoustic Signals",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/jacs.6c07895"
+    },
+    {
+      "doi": "10.1021/jacs.6c07493",
+      "title": "Traversing the Regioselectivity of Intermolecular Pericyclic Aryne Reactions: Total Syntheses of Laetevirenol A and Isoampelopsin D",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/jacs.6c07493"
+    },
+    {
+      "doi": "10.1021/jacs.6c07430",
+      "title": "Viscosity and Pore Accessibility Control of Type I Porous Liquids by Modifying Surface Functionality of Metal–Organic Polyhedra",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/jacs.6c07430"
+    },
+    {
+      "doi": "10.1021/jacs.6c07185",
+      "title": "Unveiling Temperature-Dependent Ligand Gating in Atomically Precise Pd4S Catalysts for Selective Alkyne Hydrogenation",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/jacs.6c07185"
     },
     {
       "doi": "10.1021/jacs.6c05512",
@@ -51,6 +153,12 @@
       "title": "Spin-State Engineering of Manganese Boosts the Electrochemical Performance of LiFe0.2Mn0.8PO4 Cathodes",
       "published_date": "2026-08-04",
       "url": "https://doi.org/10.1021/jacs.6c05295"
+    },
+    {
+      "doi": "10.1021/jacs.6c04854",
+      "title": "Chiral N-Heterocyclic Carbene On-Surface Induced Electronic Spin Filtration",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1021/jacs.6c04854"
     },
     {
       "doi": "10.1021/jacs.6c13627",
