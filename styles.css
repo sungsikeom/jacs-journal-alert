@@ -40,7 +40,7 @@ main { width: min(1120px, calc(100% - 40px)); margin: auto; }
 .filter-group { display: grid; grid-template-columns: 38px auto; align-items: center; gap: 8px; }
 .filter-label { color: #59665f; font-size: .67rem; font-weight: 800; letter-spacing: .08em; }
 .filters { display: flex; padding: 3px; background: #e2e4de; border: 1px solid #d7dad2; border-radius: 10px; }
-.filter { min-height: 34px; padding: 7px 12px; border: 0; border-radius: 7px; background: transparent; color: #59665f; font-weight: 650; cursor: pointer; transition: background .16s, color .16s, box-shadow .16s, transform .16s; }
+.filter { min-height: 34px; padding: 7px 12px; border: 0; border-radius: 7px; background: transparent; color: #59665f; font-weight: 650; white-space: nowrap; cursor: pointer; transition: background .16s, color .16s, box-shadow .16s, transform .16s; }
 .filter:hover { color: var(--ink); background: #ffffffa8; }
 .journal-filter.is-active { background: var(--green); color: #fff; box-shadow: 0 3px 9px #214e3e30; }
 .scope-filter.is-active { background: var(--accent); color: #fff; box-shadow: 0 3px 9px #bc4d2d2b; }
