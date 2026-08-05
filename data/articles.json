@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-05T19:04:54+09:00",
+  "checked_at": "2026-08-05T19:06:17+09:00",
   "journal_count": 6,
-  "new_count": 1,
+  "new_count": 0,
   "total_count": 15259,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
@@ -186439,7 +186439,5 @@
       ]
     }
   ],
-  "new_dois": [
-    "10.1021/jacs.6c09364"
-  ]
+  "new_dois": []
 }
