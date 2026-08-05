@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-08-05T13:13:36+09:00",
+  "checked_at": "2026-08-05T13:22:55+09:00",
   "journal_count": 6,
   "new_count": 0,
   "total_count": 15701,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "scope_end": "2026-08-05",
-  "source_mode": "acs+crossref+science",
+  "source_mode": "crossref-transition",
   "articles": [
     {
       "doi": "10.1038/s41467-026-76445-z",
