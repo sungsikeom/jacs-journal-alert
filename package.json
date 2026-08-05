@@ -3,7 +3,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "collect:acs": "node scripts/collect_acs.mjs"
+    "collect:acs": "node scripts/receive_acs_collection.mjs",
+    "collect:acs:legacy": "node scripts/collect_acs.mjs",
+    "collect:science": "node scripts/receive_science_collection.mjs"
   },
   "dependencies": {
     "playwright-core": "^1.54.2"

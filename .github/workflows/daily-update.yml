@@ -46,7 +46,9 @@ jobs:
         env:
           CROSSREF_MAILTO: ${{ vars.CROSSREF_MAILTO }}
         run: |
-          if [ -f data/acs_articles.json ]; then
+          if [ -f data/acs_articles.json ] && [ -f data/science_articles.json ]; then
+            python scripts/update_journals.py --acs-file data/acs_articles.json --science-file data/science_articles.json
+          elif [ -f data/acs_articles.json ]; then
             python scripts/update_journals.py --acs-file data/acs_articles.json
           else
             python scripts/update_journals.py
@@ -58,6 +60,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/articles.json data/seen_dois.json
           if [ -f data/acs_articles.json ]; then git add data/acs_articles.json; fi
+          if [ -f data/science_articles.json ]; then git add data/science_articles.json; fi
           if git diff --cached --quiet; then
             echo "No metadata changes"
           else
@@ -71,7 +74,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           NEW_COUNT: ${{ steps.update.outputs.new_count }}
           CHECKED_DATE: ${{ steps.update.outputs.checked_date }}
-        run: gh issue create --title "JACS 신규 논문 ${NEW_COUNT}편 · ${CHECKED_DATE}" --body-file data/new_articles.md
+        run: gh issue create --title "신규 논문 ${NEW_COUNT}편 · ${CHECKED_DATE}" --body-file data/new_articles.md
 
       - name: Prepare static site
         run: |

@@ -21,8 +21,10 @@ main { width: min(1120px, calc(100% - 40px)); margin: auto; }
 .status-card small { margin-top: 3px; color: var(--muted); font-size: .72rem; }
 .status-dot { width: 9px; height: 9px; border-radius: 50%; background: #62a477; box-shadow: 0 0 0 5px #62a47718; }
 .journal-bar { display: flex; align-items: center; justify-content: space-between; padding: 25px 0; }
-.journal-bar > div:first-child { display: flex; align-items: center; gap: 14px; }
+.journal-list { display: flex; align-items: center; gap: 28px; }
+.journal-list > div { display: flex; align-items: center; gap: 14px; }
 .journal-mark { display: grid; place-items: center; width: 44px; height: 44px; background: var(--green); border-radius: 10px; color: white; font: 700 1.55rem Georgia, serif; }
+.science-mark { background: var(--accent); }
 .journal-bar strong, .journal-bar small { display: block; }
 .journal-bar small { margin-top: 4px; color: var(--muted); }
 .journal-stats { display: flex; gap: 24px; }
@@ -57,6 +59,7 @@ footer { padding: 34px 20px; text-align: center; color: var(--muted); font-size:
   .hero { display: block; padding-top: 44px; }
   .status-card { margin-top: 28px; width: max-content; }
   .journal-bar { align-items: flex-start; }
+  .journal-list { display: grid; gap: 12px; }
   .journal-stats { display: none; }
   .content { padding: 20px 14px; }
   .section-heading { display: block; }

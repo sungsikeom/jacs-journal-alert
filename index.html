@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="JACS에 새로 등록된 논문 제목과 DOI를 매일 확인합니다.">
-  <title>Journal Pulse · JACS</title>
+  <meta name="description" content="JACS와 Science Research Articles의 논문 제목과 DOI를 매일 확인합니다.">
+  <title>Journal Pulse · JACS &amp; Science</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -13,7 +13,7 @@
       <div>
         <p class="eyebrow">DAILY JOURNAL MONITOR</p>
         <h1>Journal <span>Pulse</span></h1>
-        <p class="lede">JACS에 새로 등록된 논문을 하루 한 번 확인합니다.</p>
+        <p class="lede">JACS와 Science Research Articles를 하루 한 번 확인합니다.</p>
       </div>
       <div class="status-card" aria-live="polite">
         <span class="status-dot"></span>
@@ -22,7 +22,10 @@
     </header>
 
     <section class="journal-bar" aria-label="모니터링 저널">
-      <div><span class="journal-mark">J</span><div><strong>Journal of the American Chemical Society</strong><small>ISSN 0002-7863</small></div></div>
+      <div class="journal-list">
+        <div><span class="journal-mark">J</span><div><strong>Journal of the American Chemical Society</strong><small>ISSN 0002-7863</small></div></div>
+        <div><span class="journal-mark science-mark">S</span><div><strong>Science</strong><small>Research Articles</small></div></div>
+      </div>
       <div class="journal-stats">
         <p><strong id="new-count">0</strong><span>신규 논문</span></p>
         <p><strong id="total-count">0</strong><span>전체 논문</span></p>
@@ -45,7 +48,7 @@
       <button id="load-more" class="load-more" type="button" hidden>논문 더 보기</button>
     </section>
   </main>
-  <footer>Independent literature alert · Metadata from Crossref · Not affiliated with ACS</footer>
+  <footer>Independent literature alert · Metadata from publisher pages and Crossref · Not affiliated with ACS or AAAS</footer>
   <script src="app.js"></script>
 </body>
 </html>

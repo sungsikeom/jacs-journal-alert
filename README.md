@@ -1,13 +1,13 @@
-# JACS Journal Alert
+# JACS & Science Journal Alert
 
-Journal of the American Chemical Society에 새로 등록된 논문을 DOI 기준으로 확인하는 정적 웹사이트입니다. 논문 제목과 DOI, 공식 DOI 링크만 표시하며 초록과 본문은 수집하지 않습니다.
+Journal of the American Chemical Society와 Science Research Articles를 DOI 기준으로 확인하는 정적 웹사이트입니다. 논문 제목과 DOI, 공식 DOI 링크만 표시하며 초록과 본문은 수집하지 않습니다.
 
 사이트에서는 전체 논문과 이번 실행에서 새로 발견된 논문을 구분해 볼 수 있고, 제목·DOI 검색과 50편 단위 더 보기를 지원합니다.
 
 ## 동작 방식
 
 1. GitHub Actions가 매일 Asia/Seoul 오전 9시 17분에 실행됩니다.
-2. 기본 GitHub Actions는 Crossref에서 2026년 1월 1일부터 실행 당일까지의 JACS 메타데이터를 모두 조회합니다.
+2. GitHub Actions는 Crossref의 JACS 메타데이터와 로컬 Chrome에서 검증한 ACS·Science 목록을 병합합니다.
 3. 목록은 출간일 내림차순으로 정렬하여 최신 논문을 맨 위에 표시합니다.
 4. `data/seen_dois.json`에 없는 DOI를 신규 논문으로 판정합니다.
 5. 연도별 첫 실행에서는 해당 연도의 전체 결과를 기준선으로만 저장하고 알림을 만들지 않습니다.
@@ -36,6 +36,20 @@ Set-ExecutionPolicy -Scope Process Bypass
 
 첫 수동 실행이 성공하면 Windows 작업 스케줄러의 `JACS Journal Alert ACS Update`가 매일 오전 9시 30분 실행됩니다. PC가 꺼져 있었으면 다음 시작 시 실행됩니다. Chrome에 CAPTCHA나 접근 차단이 나타나거나 2026년 1월 1일까지 도달하지 못하면 데이터 파일과 GitHub 저장소를 변경하지 않습니다. 실패 화면과 HTML은 로컬 `diagnostics` 폴더에만 저장됩니다.
 
+## Science Research Articles 수집
+
+`extension` 폴더를 Chrome 확장 프로그램으로 한 번 로드한 뒤 다음 명령을 실행하면 Science 목차를 순회하고 `data/science_articles.json`을 갱신합니다.
+
+```powershell
+npm run collect:science
+```
+
+사이트 데이터는 다음 명령으로 JACS와 Science 목록을 함께 생성합니다.
+
+```powershell
+py -3 scripts\update_journals.py --acs-file data\acs_articles.json --science-file data\science_articles.json
+```
+
 ## 로컬 점검
 
 ```bash
@@ -48,8 +62,8 @@ python -m http.server 8000
 
 ## 저널 추가 위치
 
-나중에 다른 저널을 추가할 때는 `scripts/update_journals.py`의 `JOURNALS` 목록에 저널명, 약칭, ISSN을 추가합니다. 현재는 JACS만 등록되어 있습니다.
+Crossref 기반 저널은 `scripts/update_journals.py`의 `JOURNALS` 목록에 저널명, 약칭, ISSN을 추가합니다. 출판사 페이지로 검증하는 저널은 해당 로더와 수집기를 함께 추가합니다.
 
 ## 데이터 출처와 고지
 
-Article inclusion can be verified from ACS JACS search results collected in a user's local Chrome, while metadata are supplemented from Crossref. The GitHub hosted fallback uses Crossref only. This is an independent literature alert service and is not affiliated with or endorsed by the American Chemical Society. Journal names and article titles belong to their respective owners.
+Article inclusion can be verified from ACS JACS search results and Science tables of contents collected in a user's local Chrome, while JACS metadata are supplemented from Crossref. This is an independent literature alert service and is not affiliated with or endorsed by the American Chemical Society or AAAS. Journal names and article titles belong to their respective owners.

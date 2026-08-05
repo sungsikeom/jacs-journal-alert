@@ -1,0 +1,102 @@
+import fs from "node:fs/promises";
+import http from "node:http";
+import path from "node:path";
+import process from "node:process";
+import { spawn } from "node:child_process";
+import { fileURLToPath } from "node:url";
+
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
+const OUTPUT = path.join(ROOT, "data", "acs_articles.json");
+const CUTOFF = "2026-01-01";
+const PORT = 47821;
+const PROFILE_DIR = process.env.ACS_CHROME_PROFILE_DIR || "Profile 1";
+const URL = "https://pubs.acs.org/jacsat/search-results?sort=Date+-+Newest+First&f_JournalID=1000059&fl_SiteID=1000113&qb={%22q%22:%22%22}&page=1#jacs-auto";
+
+function normalizeDoi(value) {
+  const match = String(value || "").toLowerCase().match(/10\.1021\/jacs\.[^?#/]+/);
+  return match ? match[0].replace(/[).,;]+$/, "") : "";
+}
+
+async function loadExisting() {
+  try {
+    const payload = JSON.parse(await fs.readFile(OUTPUT, "utf8"));
+    return Array.isArray(payload.articles) ? payload.articles : [];
+  } catch (error) {
+    if (error.code === "ENOENT") return [];
+    throw error;
+  }
+}
+
+function json(response, status, payload) {
+  response.writeHead(status, { "Content-Type": "application/json; charset=utf-8", "Access-Control-Allow-Origin": "*" });
+  response.end(JSON.stringify(payload));
+}
+
+async function readBody(request) {
+  const chunks = [];
+  let size = 0;
+  for await (const chunk of request) {
+    size += chunk.length;
+    if (size > 10_000_000) throw new Error("Collection payload is too large");
+    chunks.push(chunk);
+  }
+  return JSON.parse(Buffer.concat(chunks).toString("utf8"));
+}
+
+const server = http.createServer(async (request, response) => {
+  try {
+    if (request.method === "OPTIONS") {
+      response.writeHead(204, {
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
+        "Access-Control-Allow-Headers": "Content-Type",
+      });
+      response.end();
+      return;
+    }
+    if (request.method === "GET" && request.url === "/baseline") {
+      const existing = await loadExisting();
+      json(response, 200, { known_dois: existing.map((item) => normalizeDoi(item.doi)).filter(Boolean) });
+      return;
+    }
+    if (request.method === "POST" && request.url === "/complete") {
+      const body = await readBody(request);
+      const incoming = Array.isArray(body.articles) ? body.articles : [];
+      const existing = body.mode === "incremental" ? await loadExisting() : [];
+      const byDoi = new Map();
+      for (const item of [...existing, ...incoming]) {
+        const doi = normalizeDoi(item.doi);
+        const publishedDate = String(item.published_date || "");
+        if (!doi || publishedDate < CUTOFF) continue;
+        byDoi.set(doi, { doi, title: String(item.title || doi).trim(), published_date: publishedDate, url: `https://doi.org/${doi}` });
+      }
+      const articles = [...byDoi.values()].sort((a, b) => b.published_date.localeCompare(a.published_date) || b.doi.localeCompare(a.doi));
+      if (body.mode === "baseline" && body.reason !== "last-page" && articles.length < 1000) throw new Error(`Only ${articles.length} articles were collected; refusing an incomplete baseline`);
+      const payload = { source: "ACS JACS search results collected by the local Chrome extension", collected_at: new Date().toISOString(), scope_start: CUTOFF, article_count: articles.length, articles };
+      const temporary = `${OUTPUT}.tmp`;
+      await fs.writeFile(temporary, `${JSON.stringify(payload, null, 2)}\n`, "utf8");
+      await fs.rename(temporary, OUTPUT);
+      json(response, 200, { article_count: articles.length });
+      setTimeout(() => server.close(), 1000);
+      return;
+    }
+    json(response, 404, { error: "Not found" });
+  } catch (error) {
+    json(response, 400, { error: error.message });
+  }
+});
+
+server.listen(PORT, "127.0.0.1", () => {
+  console.log(`JACS local receiver is listening on http://127.0.0.1:${PORT}`);
+  console.log("Open chrome://extensions, enable Developer mode, and load the repository's extension folder once.");
+  console.log("Then click 'JACS 수집 시작' on the ACS search page.");
+  const chrome = path.join(process.env.ProgramFiles || "C:\\Program Files", "Google", "Chrome", "Application", "chrome.exe");
+  console.log(`Opening Chrome profile: ${PROFILE_DIR}`);
+  const child = spawn(chrome, [`--profile-directory=${PROFILE_DIR}`, "--new-window", URL], { detached: true, stdio: "ignore" });
+  child.unref();
+});
+
+server.on("error", (error) => {
+  console.error(error.message);
+  process.exitCode = 1;
+});

@@ -25,7 +25,7 @@ STATE_PATH = DATA_DIR / "seen_dois.json"
 ISSUE_BODY_PATH = DATA_DIR / "new_articles.md"
 SEOUL = timezone(timedelta(hours=9))
 SCOPE_START = "2026-01-01"
-SCOPE_VERSION = 4
+SCOPE_VERSION = 5
 
 JOURNALS = [
     {
@@ -170,7 +170,7 @@ def deduplicate(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
 
 
 def issue_markdown(new_articles: list[dict[str, Any]], checked_at: str) -> str:
-    lines = [f"## JACS 신규 논문 {len(new_articles)}편", "", f"확인 시각: {checked_at}", ""]
+    lines = [f"## 신규 논문 {len(new_articles)}편", "", f"확인 시각: {checked_at}", ""]
     for article in new_articles:
         lines.extend(
             [
@@ -213,6 +213,35 @@ def load_acs_articles(path: Path) -> dict[str, dict[str, Any]]:
     return by_doi
 
 
+def load_science_articles(path: Path) -> dict[str, dict[str, Any]]:
+    payload = load_json(path, {})
+    if payload.get("scope_start") != SCOPE_START:
+        raise ValueError(f"Science scope_start must be {SCOPE_START}")
+    articles = payload.get("articles")
+    if not isinstance(articles, list) or len(articles) < 50:
+        raise ValueError("Science file is missing or contains implausibly few articles")
+    by_doi: dict[str, dict[str, Any]] = {}
+    for item in articles:
+        doi = normalize_doi(str(item.get("doi", "")))
+        published_date = item.get("published_date")
+        if not doi.startswith("10.1126/science.") or not published_date or published_date < SCOPE_START:
+            continue
+        by_doi[doi] = {
+            "doi": doi,
+            "title": normalize_title(str(item.get("title") or doi)),
+            "journal": "Science",
+            "journal_short": "Science",
+            "published_date": published_date,
+            "indexed_at": None,
+            "url": f"https://doi.org/{urllib.parse.quote(doi, safe='/()')}",
+            "article_type": "Research Article",
+            "sources": ["science"],
+        }
+    if len(by_doi) < 50:
+        raise ValueError("Science DOI validation left implausibly few articles")
+    return by_doi
+
+
 def merge_acs_and_crossref(
     acs_by_doi: dict[str, dict[str, Any]], crossref_articles: list[dict[str, Any]]
 ) -> list[dict[str, Any]]:
@@ -237,7 +266,7 @@ def merge_acs_and_crossref(
     return deduplicate(merged)
 
 
-def update(fixture: Path | None, rows: int, acs_file: Path | None) -> int:
+def update(fixture: Path | None, rows: int, acs_file: Path | None, science_file: Path | None) -> int:
     checked_at = datetime.now(SEOUL).isoformat(timespec="seconds")
     today = datetime.now(SEOUL).date()
     scope_start = SCOPE_START
@@ -268,12 +297,15 @@ def update(fixture: Path | None, rows: int, acs_file: Path | None) -> int:
     if acs_file:
         fetched = merge_acs_and_crossref(load_acs_articles(acs_file), fetched)
         source_mode = "acs+crossref"
+    if science_file:
+        fetched = deduplicate([*fetched, *load_science_articles(science_file).values()])
+        source_mode += "+science"
     new_articles = [article for article in fetched if article["doi"] not in seen] if initialized else []
     new_dois = {article["doi"] for article in fetched}
     combined_seen = sorted((seen | new_dois) if initialized else new_dois)
     output = {
         "checked_at": checked_at,
-        "journal_count": len(JOURNALS),
+        "journal_count": len({article["journal"] for article in fetched}),
         "new_count": len(new_articles),
         "total_count": len(fetched),
         "baseline_initialized": not initialized,
@@ -312,9 +344,10 @@ def main() -> int:
     parser.add_argument("--fixture", type=Path, help="Use a local Crossref response for testing")
     parser.add_argument("--rows", type=int, default=1000)
     parser.add_argument("--acs-file", type=Path, help="Use an ACS DOI inventory as the inclusion authority")
+    parser.add_argument("--science-file", type=Path, help="Include a verified Science Research Article inventory")
     args = parser.parse_args()
     try:
-        return update(args.fixture, args.rows, args.acs_file)
+        return update(args.fixture, args.rows, args.acs_file, args.science_file)
     except (urllib.error.URLError, TimeoutError, OSError, ValueError) as exc:
         print(f"Update failed: {exc}", file=sys.stderr)
         return 1

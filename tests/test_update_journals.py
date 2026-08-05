@@ -27,6 +27,14 @@ class MetadataNormalizationTests(unittest.TestCase):
         article = UPDATE.article_from_item(item, UPDATE.JOURNALS[0])
         self.assertEqual(article["title"], "A clean title")
 
+    def test_load_science_articles_normalizes_site_fields(self):
+        science_path = Path(__file__).resolve().parents[1] / "data" / "science_articles.json"
+        articles = UPDATE.load_science_articles(science_path)
+        self.assertEqual(len(articles), 553)
+        article = next(iter(articles.values()))
+        self.assertEqual(article["journal_short"], "Science")
+        self.assertEqual(article["article_type"], "Research Article")
+
 
 if __name__ == "__main__":
     unittest.main()

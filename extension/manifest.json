@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Journal Alert Collector",
+  "version": "1.1.0",
+  "description": "Collect journal results from normal user-opened publisher pages.",
+  "permissions": ["storage"],
+  "host_permissions": [
+    "https://pubs.acs.org/*",
+    "https://www.science.org/*",
+    "http://127.0.0.1:47821/*",
+    "http://127.0.0.1:47822/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://pubs.acs.org/jacsat/search-results*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": ["https://www.science.org/toc/science/*"],
+      "js": ["science.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
