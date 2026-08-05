@@ -1,0 +1,758 @@
+{
+  "source": "Wiley Journal of Computational Chemistry search results",
+  "collected_at": "2026-08-05T10:04:34.545Z",
+  "scope_start": "2026-01-01",
+  "article_count": 125,
+  "articles": [
+    {
+      "doi": "10.1002/jcc.70466",
+      "title": "Lithium Surface Restructuring and Dendrite-Like Protrusion Formation in Li-S Electrolytes From Reactive Molecular Simulations With Machine-Learned Potentials",
+      "published_date": "2026-07-09",
+      "url": "https://doi.org/10.1002/jcc.70466"
+    },
+    {
+      "doi": "10.1002/jcc.70463",
+      "title": "The Chemical Smiler: CHEMICal Abstraction Leading to SMILEs of Reference",
+      "published_date": "2026-07-08",
+      "url": "https://doi.org/10.1002/jcc.70463"
+    },
+    {
+      "doi": "10.1002/jcc.70460",
+      "title": "OpenCafeMol With 3SPN.2 DNA Model: GPU Acceleration for Long-Time Coarse-Grained Chromatin Simulations",
+      "published_date": "2026-07-07",
+      "url": "https://doi.org/10.1002/jcc.70460"
+    },
+    {
+      "doi": "10.1002/jcc.70462",
+      "title": "Reaction Enumeration Based on NBO-Informed Molecular Graphs",
+      "published_date": "2026-07-06",
+      "url": "https://doi.org/10.1002/jcc.70462"
+    },
+    {
+      "doi": "10.1002/jcc.70458",
+      "title": "Nuclear Quantum Effects on the Organic Bifurcation Reaction in Microsolvated Water Clusters: Ring-Polymer Molecular Dynamics Calculations Using an Explicit Solvation Model",
+      "published_date": "2026-07-06",
+      "url": "https://doi.org/10.1002/jcc.70458"
+    },
+    {
+      "doi": "10.1002/jcc.70412",
+      "title": "Computational Analysis of the (4+3) Cycloaddition Reaction of a Sulfoximine-Stabilized Oxyallylic Cation With Furan",
+      "published_date": "2026-07-06",
+      "url": "https://doi.org/10.1002/jcc.70412"
+    },
+    {
+      "doi": "10.1002/jcc.70454",
+      "title": "From SMILES Codes for Reactants and Products to Transition States With VeloxChem",
+      "published_date": "2026-07-03",
+      "url": "https://doi.org/10.1002/jcc.70454"
+    },
+    {
+      "doi": "10.1002/jcc.70449",
+      "title": "Quadruple Bonding of Alkaline Earth Atoms in AeCLi4 (Ae = Be − Ba) Complexes",
+      "published_date": "2026-07-03",
+      "url": "https://doi.org/10.1002/jcc.70449"
+    },
+    {
+      "doi": "10.1002/jcc.70446",
+      "title": "How Do DICER1 Syndrome Mutations Disrupt Catalysis? Unveiling Dicer Metal Binding Architecture and Mechanism of Action Using MD Simulations and QM/MM Calculations",
+      "published_date": "2026-07-03",
+      "url": "https://doi.org/10.1002/jcc.70446"
+    },
+    {
+      "doi": "10.1002/jcc.70455",
+      "title": "Electric-Field Effects on Structure and Conductance in a Cytochrome b562 Junction",
+      "published_date": "2026-07-02",
+      "url": "https://doi.org/10.1002/jcc.70455"
+    },
+    {
+      "doi": "10.1002/jcc.70452",
+      "title": "Quantum Chemistry Study of Luminescence Quenching in the Eu3+@UiO-67 Sensor Induced by Ag+ Ions",
+      "published_date": "2026-07-02",
+      "url": "https://doi.org/10.1002/jcc.70452"
+    },
+    {
+      "doi": "10.1002/jcc.70450",
+      "title": "Projection-Modified Direct Inversion in the Iterative Subspace: A Memory-Efficient Convergence Method for the Extended Molecular Ornstein–Zernike Theory",
+      "published_date": "2026-07-02",
+      "url": "https://doi.org/10.1002/jcc.70450"
+    },
+    {
+      "doi": "10.1002/jcc.70439",
+      "title": "PES2MP: A Python Application for Automating Collisional Dynamics of Linear Rigid-Rotors",
+      "published_date": "2026-07-02",
+      "url": "https://doi.org/10.1002/jcc.70439"
+    },
+    {
+      "doi": "10.1002/jcc.70406",
+      "title": "The Anionic States of Ubiquinone Characterized by Second-Order Approximate Coupled-Cluster Theory",
+      "published_date": "2026-06-25",
+      "url": "https://doi.org/10.1002/jcc.70406"
+    },
+    {
+      "doi": "10.1002/jcc.70448",
+      "title": "The Intricate Mechanism of Nitric Oxide Synthase",
+      "published_date": "2026-06-23",
+      "url": "https://doi.org/10.1002/jcc.70448"
+    },
+    {
+      "doi": "10.1002/jcc.70443",
+      "title": "Hydrogen Bond Energy Estimation in Large Molecular Clusters via the Method of Synergistic Cyclic Cooperativity: A Software Update H-BEE 2.0",
+      "published_date": "2026-06-23",
+      "url": "https://doi.org/10.1002/jcc.70443"
+    },
+    {
+      "doi": "10.1002/jcc.70442",
+      "title": "Insights to Orientation Dependence of Molecular Conduction Modeled by High-Level Quantum Embedding",
+      "published_date": "2026-06-23",
+      "url": "https://doi.org/10.1002/jcc.70442"
+    },
+    {
+      "doi": "10.1002/jcc.70436",
+      "title": "A Molecular “Thermometer” for Measuring Effective Non-Local Exchange",
+      "published_date": "2026-06-23",
+      "url": "https://doi.org/10.1002/jcc.70436"
+    },
+    {
+      "doi": "10.1002/jcc.70447",
+      "title": "AutoSTOP-RT-TDDFT: Adaptive and Selected Real-Time Time-Dependent Density Functional Theory for Simulation of X-Ray Absorptions",
+      "published_date": "2026-06-21",
+      "url": "https://doi.org/10.1002/jcc.70447"
+    },
+    {
+      "doi": "10.1002/jcc.70444",
+      "title": "PrimaDORAC: An improved Web Interface for Rapid GAFF2 Parameter Assignment with ABCG2 Charge Models for Drug Design Applications",
+      "published_date": "2026-06-18",
+      "url": "https://doi.org/10.1002/jcc.70444"
+    },
+    {
+      "doi": "10.1002/jcc.70431",
+      "title": "An Energy-Corrected Fast Post-SCF Local-Hybrid Scheme for Highly Accurate Energy Differences of Large Main-Group Systems",
+      "published_date": "2026-06-16",
+      "url": "https://doi.org/10.1002/jcc.70431"
+    },
+    {
+      "doi": "10.1002/jcc.70438",
+      "title": "Transferable Semiempirical Models for Judd–Ofelt Parameters and Multiphonon Relaxation in Eu3+ Complexes: Toward an Experiment-Free Luminescence Design",
+      "published_date": "2026-06-14",
+      "url": "https://doi.org/10.1002/jcc.70438"
+    },
+    {
+      "doi": "10.1002/jcc.70435",
+      "title": "Correction to “Origin-Dependence of Dipole Moments of Charged Proteins: Theoretical Foundations and Implications, Revisited”",
+      "published_date": "2026-06-14",
+      "url": "https://doi.org/10.1002/jcc.70435"
+    },
+    {
+      "doi": "10.1002/jcc.70441",
+      "title": "Quantitative Assessment of Metal–Ligand Bonding in Halide-Containing Terpyridine Pincer Complexes of Group 10 Metals",
+      "published_date": "2026-06-12",
+      "url": "https://doi.org/10.1002/jcc.70441"
+    },
+    {
+      "doi": "10.1002/jcc.70391",
+      "title": "Development and Validation of CHARMM Force Field Parameters for Major Phytochemicals of Phyllanthus emblica",
+      "published_date": "2026-06-12",
+      "url": "https://doi.org/10.1002/jcc.70391"
+    },
+    {
+      "doi": "10.1002/jcc.70445",
+      "title": "Synergistic Heavy-Atom and Vibronic-Coupling Effects for High-Performance Ionic TADF Emitters: A Theoretical Study",
+      "published_date": "2026-06-11",
+      "url": "https://doi.org/10.1002/jcc.70445"
+    },
+    {
+      "doi": "10.1002/jcc.70411",
+      "title": "Structure-Based Design of Isoxazolidine RIPK1 Inhibitors for Neuroinflammation",
+      "published_date": "2026-06-11",
+      "url": "https://doi.org/10.1002/jcc.70411"
+    },
+    {
+      "doi": "10.1002/jcc.70437",
+      "title": "Computational Insights Into g-C3N4-Based Heterojunctions for Photocatalytic Water Splitting Reaction",
+      "published_date": "2026-06-10",
+      "url": "https://doi.org/10.1002/jcc.70437"
+    },
+    {
+      "doi": "10.1002/jcc.70434",
+      "title": "Computational Investigation of GNMT-Catalyzed Methyl Transfer Reaction: Integrating MD, QM, and ML Approaches",
+      "published_date": "2026-06-07",
+      "url": "https://doi.org/10.1002/jcc.70434"
+    },
+    {
+      "doi": "10.1002/jcc.70432",
+      "title": "Generalized Turnstile Rotation: Formulation, Visualization, Workflow Implementation, and Application for Modeling Polytopal Rearrangements",
+      "published_date": "2026-06-06",
+      "url": "https://doi.org/10.1002/jcc.70432"
+    },
+    {
+      "doi": "10.1002/jcc.70399",
+      "title": "Jahn–Teller Distortions in Pseudo-Octahedral Low-Spin Ni(III) Complexes With O,O or N,N Bidentate Ligands: A DFT Study",
+      "published_date": "2026-06-06",
+      "url": "https://doi.org/10.1002/jcc.70399"
+    },
+    {
+      "doi": "10.1002/jcc.70409",
+      "title": "Seeking a Direct Optimization Method Using Distance Geometry Space for Molecular Orientation",
+      "published_date": "2026-06-03",
+      "url": "https://doi.org/10.1002/jcc.70409"
+    },
+    {
+      "doi": "10.1002/jcc.70433",
+      "title": "Cover Image",
+      "published_date": "2026-05-30",
+      "url": "https://doi.org/10.1002/jcc.70433"
+    },
+    {
+      "doi": "10.1002/jcc.70410",
+      "title": "The Myth of “Anti-Electrostatic” Bonds",
+      "published_date": "2026-05-29",
+      "url": "https://doi.org/10.1002/jcc.70410"
+    },
+    {
+      "doi": "10.1002/jcc.70407",
+      "title": "A Nonlinear Multi-Objective Prediction Strategy for Small-Sample Datasets in Homogeneous Catalysis",
+      "published_date": "2026-05-29",
+      "url": "https://doi.org/10.1002/jcc.70407"
+    },
+    {
+      "doi": "10.1002/jcc.70408",
+      "title": "Collective Interactions in Ion Pairs",
+      "published_date": "2026-05-27",
+      "url": "https://doi.org/10.1002/jcc.70408"
+    },
+    {
+      "doi": "10.1002/jcc.70394",
+      "title": "Predicting the Host–Guest Binding Gibbs Free Energy for Anion Guests",
+      "published_date": "2026-05-25",
+      "url": "https://doi.org/10.1002/jcc.70394"
+    },
+    {
+      "doi": "10.1002/jcc.70404",
+      "title": "Computational Design of Zinc Single-Atom Catalysts in Lantern Organic Framework",
+      "published_date": "2026-05-24",
+      "url": "https://doi.org/10.1002/jcc.70404"
+    },
+    {
+      "doi": "10.1002/jcc.70402",
+      "title": "Toy Models Reveal Intrinsic Biases in NICS: Insights to Verify NICS Interpretations",
+      "published_date": "2026-05-24",
+      "url": "https://doi.org/10.1002/jcc.70402"
+    },
+    {
+      "doi": "10.1002/jcc.70400",
+      "title": "Correction Scheme for Molecular Total Energies From Quantum Phase Estimation Under Limited Qubit Resources",
+      "published_date": "2026-05-24",
+      "url": "https://doi.org/10.1002/jcc.70400"
+    },
+    {
+      "doi": "10.1002/jcc.70397",
+      "title": "PES-trotter: A Cross-Platform Open-Source Application for the Analysis of Molecular Processes on 3D Potential-Energy Landscapes",
+      "published_date": "2026-05-24",
+      "url": "https://doi.org/10.1002/jcc.70397"
+    },
+    {
+      "doi": "10.1002/jcc.70405",
+      "title": "Modifying def2-TZVPP: A Minimal Diffuse Addition for Reliable ΔE Versus ρ(BCP) Relationships in H-Bonded Systems",
+      "published_date": "2026-05-22",
+      "url": "https://doi.org/10.1002/jcc.70405"
+    },
+    {
+      "doi": "10.1002/jcc.70396",
+      "title": "A Virtual Model for Describing Organophosphorus Reactivity: Validation and Application to Virtual Molecule-Assisted Optimization",
+      "published_date": "2026-05-22",
+      "url": "https://doi.org/10.1002/jcc.70396"
+    },
+    {
+      "doi": "10.1002/jcc.70386",
+      "title": "Assessment of Solvation Models for Quantum Chemistry Calculations through A-Value Determination and Conformational Equilibrium Analysis of Difluorocyclohexanes as Benchmark Systems",
+      "published_date": "2026-05-22",
+      "url": "https://doi.org/10.1002/jcc.70386"
+    },
+    {
+      "doi": "10.1002/jcc.70401",
+      "title": "Quantifying the Uncertainty of Molecular Dynamics Simulations: Good–Turing Statistics Revisited",
+      "published_date": "2026-05-21",
+      "url": "https://doi.org/10.1002/jcc.70401"
+    },
+    {
+      "doi": "10.1002/jcc.70398",
+      "title": "Pair-Density Functional Theory Based on Spin-Projected Unrestricted Hartree-Fock Method: A Density-Corrected Version",
+      "published_date": "2026-05-19",
+      "url": "https://doi.org/10.1002/jcc.70398"
+    },
+    {
+      "doi": "10.1002/jcc.70393",
+      "title": "Local Quadrupole Ellipticity as Predictor of Anion-Affinity in Nanographenes",
+      "published_date": "2026-05-12",
+      "url": "https://doi.org/10.1002/jcc.70393"
+    },
+    {
+      "doi": "10.1002/jcc.70389",
+      "title": "GMMLP: An Efficient Software for Searching the Global-Minimum of Clusters Accelerated by Using the Machine Learning Potentials",
+      "published_date": "2026-05-07",
+      "url": "https://doi.org/10.1002/jcc.70389"
+    },
+    {
+      "doi": "10.1002/jcc.70390",
+      "title": "Ca2B18—A Bicapped Double-Ring Boron Tube Retaining a Toroidal B18 Cluster Template",
+      "published_date": "2026-05-06",
+      "url": "https://doi.org/10.1002/jcc.70390"
+    },
+    {
+      "doi": "10.1002/jcc.70387",
+      "title": "Entanglement transmitted Through-Space",
+      "published_date": "2026-05-06",
+      "url": "https://doi.org/10.1002/jcc.70387"
+    },
+    {
+      "doi": "10.1002/jcc.70384",
+      "title": "CRISP: Enhancing ASE Workflows With Advanced Molecular Simulation Post-Processing",
+      "published_date": "2026-05-06",
+      "url": "https://doi.org/10.1002/jcc.70384"
+    },
+    {
+      "doi": "10.1002/jcc.70378",
+      "title": "dmf-g16: A Gaussian Wrapper for Reliable Double-Ended Transition-State Searches With Native Input Formats",
+      "published_date": "2026-05-04",
+      "url": "https://doi.org/10.1002/jcc.70378"
+    },
+    {
+      "doi": "10.1002/jcc.70388",
+      "title": "Insights Into Density Functional Performance From a Main-Group and Transition-Metal Molecular Benchmark",
+      "published_date": "2026-05-02",
+      "url": "https://doi.org/10.1002/jcc.70388"
+    },
+    {
+      "doi": "10.1002/jcc.70373",
+      "title": "Partial Sigma Covalent Bonding in Transition Metals",
+      "published_date": "2026-04-29",
+      "url": "https://doi.org/10.1002/jcc.70373"
+    },
+    {
+      "doi": "10.1002/jcc.70385",
+      "title": "GMHEA: A New Software for the Multi-Variable Optimization of High-Entropy Alloy by the Improved Genetic Algorithm and Effective Medium Theory",
+      "published_date": "2026-04-28",
+      "url": "https://doi.org/10.1002/jcc.70385"
+    },
+    {
+      "doi": "10.1002/jcc.70377",
+      "title": "Characterization and Computational Engineering of Structural Elements Controlling Gas Permeability in PIP2;1 Aquaporins",
+      "published_date": "2026-04-25",
+      "url": "https://doi.org/10.1002/jcc.70377"
+    },
+    {
+      "doi": "10.1002/jcc.70382",
+      "title": "Statistical Protein–Protein Interaction Analysis of HER2-Pertuzumab Complex by the Fragment Molecular Orbital Method",
+      "published_date": "2026-04-23",
+      "url": "https://doi.org/10.1002/jcc.70382"
+    },
+    {
+      "doi": "10.1002/jcc.70379",
+      "title": "Resource Estimation for VQE on Small Molecules: Impact of Fermion Mappings and Hamiltonian Reductions",
+      "published_date": "2026-04-22",
+      "url": "https://doi.org/10.1002/jcc.70379"
+    },
+    {
+      "doi": "10.1002/jcc.70369",
+      "title": "The Reactivity of Bispidine Ligand Based Iron(IV) and Iron(V) Oxido Species for the Demethylation of Acetic Acid",
+      "published_date": "2026-04-22",
+      "url": "https://doi.org/10.1002/jcc.70369"
+    },
+    {
+      "doi": "10.1002/jcc.70383",
+      "title": "Computational Strategies for Design and Optimization of Polymer-Supported Heterogenized Nanocatalysts",
+      "published_date": "2026-04-21",
+      "url": "https://doi.org/10.1002/jcc.70383"
+    },
+    {
+      "doi": "10.1002/jcc.70380",
+      "title": "Comprehensive Modeling of Acetone Clusters: QTAIM Analysis and QCE Study",
+      "published_date": "2026-04-20",
+      "url": "https://doi.org/10.1002/jcc.70380"
+    },
+    {
+      "doi": "10.1002/jcc.70375",
+      "title": "From Kinetic Gateways to Thermodynamic Locking: Unveiling the Dynamic Adsorption Landscape of CO on Pt(111)",
+      "published_date": "2026-04-20",
+      "url": "https://doi.org/10.1002/jcc.70375"
+    },
+    {
+      "doi": "10.1002/jcc.70372",
+      "title": "A Computational Modeling of ADLumin Chemiluminescence: Oxygenation and Dioxetanone Formation",
+      "published_date": "2026-04-17",
+      "url": "https://doi.org/10.1002/jcc.70372"
+    },
+    {
+      "doi": "10.1002/jcc.70337",
+      "title": "Does Aromaticity Drive Metal Cation Binding to Nanographenes? Insights Into Regioselectivity and Cation-𝜋π$$ \\pi $$ Bonding",
+      "published_date": "2026-04-13",
+      "url": "https://doi.org/10.1002/jcc.70337"
+    },
+    {
+      "doi": "10.1002/jcc.70374",
+      "title": "Inconsistencies of Gaussian's “NBO 3.1” Module With Authentic Natural Population Analysis",
+      "published_date": "2026-04-12",
+      "url": "https://doi.org/10.1002/jcc.70374"
+    },
+    {
+      "doi": "10.1002/jcc.70371",
+      "title": "Quantum Interference and Aromaticity Control in Triazine-Based Molecular Junctions: A Combined Green's Function and Density Functional Theory Study",
+      "published_date": "2026-04-12",
+      "url": "https://doi.org/10.1002/jcc.70371"
+    },
+    {
+      "doi": "10.1002/jcc.70368",
+      "title": "Efficient Machine Learning Prediction of Solvent-Dependent 1H1H$$ {}^1\\mathrm{H} $$ NMR Chemical Shifts in Zinc Complexes",
+      "published_date": "2026-04-12",
+      "url": "https://doi.org/10.1002/jcc.70368"
+    },
+    {
+      "doi": "10.1002/jcc.70366",
+      "title": "Aromaticity-Induced Spin State Switching and High-Spin States in Non-Alternant Polyradicals",
+      "published_date": "2026-04-12",
+      "url": "https://doi.org/10.1002/jcc.70366"
+    },
+    {
+      "doi": "10.1002/jcc.70355",
+      "title": "Direct Energy Gap Calculations in Heisenberg Spin Systems Using Superconducting Quantum Devices",
+      "published_date": "2026-04-11",
+      "url": "https://doi.org/10.1002/jcc.70355"
+    },
+    {
+      "doi": "10.1002/jcc.70365",
+      "title": "Revisiting the Maximum Hardness Principle: A Quantitative Analysis on Reaction Datasets",
+      "published_date": "2026-04-08",
+      "url": "https://doi.org/10.1002/jcc.70365"
+    },
+    {
+      "doi": "10.1002/jcc.70343",
+      "title": "Spectroscopic Investigation of Thioacrolein by Variational and Perturbational Approaches",
+      "published_date": "2026-04-08",
+      "url": "https://doi.org/10.1002/jcc.70343"
+    },
+    {
+      "doi": "10.1002/jcc.70367",
+      "title": "A Theoretical Investigation of Substituent Effects on the Electronic Spectra of Antimony(III) Corrolates",
+      "published_date": "2026-04-03",
+      "url": "https://doi.org/10.1002/jcc.70367"
+    },
+    {
+      "doi": "10.1002/jcc.70358",
+      "title": "Modulating Carbon Dioxide Hydrate With Ammonium and Phosphonium-Based Deep Eutectic Solvent: A Molecular Dynamics Study of Cage-Specific Dissociation Mechanism",
+      "published_date": "2026-04-03",
+      "url": "https://doi.org/10.1002/jcc.70358"
+    },
+    {
+      "doi": "10.1002/jcc.70363",
+      "title": "New High-Pressure Polymorphs of Rb2CO3 and Cs2CO3: Crystal Structure Prediction and P–T Phase Diagrams",
+      "published_date": "2026-04-02",
+      "url": "https://doi.org/10.1002/jcc.70363"
+    },
+    {
+      "doi": "10.1002/jcc.70349",
+      "title": "Tackling Orientational Isomerism in Metal–Organic Frameworks Comprising Low-Symmetry Linker Molecules via Simulated Annealing Featuring a Neural Network Potential",
+      "published_date": "2026-04-02",
+      "url": "https://doi.org/10.1002/jcc.70349"
+    },
+    {
+      "doi": "10.1002/jcc.70364",
+      "title": "Simulon: An AI-Assisted, PyTorch-Native Framework of Molecular Dynamics and Modeling",
+      "published_date": "2026-03-29",
+      "url": "https://doi.org/10.1002/jcc.70364"
+    },
+    {
+      "doi": "10.1002/jcc.70361",
+      "title": "A Comparative DFT Study of Pd- and Ni-Based Catalysts in the Narasaka–Heck/C(sp3)–H Activation Reaction",
+      "published_date": "2026-03-29",
+      "url": "https://doi.org/10.1002/jcc.70361"
+    },
+    {
+      "doi": "10.1002/jcc.70360",
+      "title": "σ-Resonance Stabilization of Aminomethylene by N-Halogenation",
+      "published_date": "2026-03-29",
+      "url": "https://doi.org/10.1002/jcc.70360"
+    },
+    {
+      "doi": "10.1002/jcc.70359",
+      "title": "ASH: A Multi-Scale, Multi-Theory Modeling Program",
+      "published_date": "2026-03-29",
+      "url": "https://doi.org/10.1002/jcc.70359"
+    },
+    {
+      "doi": "10.1002/jcc.70350",
+      "title": "FastMDAnalysis: Software for Automated Analysis of Molecular Dynamics Trajectories",
+      "published_date": "2026-03-29",
+      "url": "https://doi.org/10.1002/jcc.70350"
+    },
+    {
+      "doi": "10.1002/jcc.70362",
+      "title": "Thermal Decomposition Simulations of Hydroxylamine Pentazolate With Deep Neural Network Potential",
+      "published_date": "2026-03-27",
+      "url": "https://doi.org/10.1002/jcc.70362"
+    },
+    {
+      "doi": "10.1002/jcc.70347",
+      "title": "Analysis of the Cooperativity of Intramolecular Hydrogen Bonds in 1,4-Polyols",
+      "published_date": "2026-03-24",
+      "url": "https://doi.org/10.1002/jcc.70347"
+    },
+    {
+      "doi": "10.1002/jcc.70356",
+      "title": "Counting Active Sites for Nanocatalysis",
+      "published_date": "2026-03-23",
+      "url": "https://doi.org/10.1002/jcc.70356"
+    },
+    {
+      "doi": "10.1002/jcc.70351",
+      "title": "CHARMM Force Field for Curcuma longa Phytochemicals: Towards Reliable Modeling of Curcuminoids and Turmerones in Biological Systems",
+      "published_date": "2026-03-19",
+      "url": "https://doi.org/10.1002/jcc.70351"
+    },
+    {
+      "doi": "10.1002/jcc.70354",
+      "title": "Tensor Hypercontraction Error Correction Using Regression",
+      "published_date": "2026-03-17",
+      "url": "https://doi.org/10.1002/jcc.70354"
+    },
+    {
+      "doi": "10.1002/jcc.70342",
+      "title": "DFTB Parametrization at the Example of Platinum—Implementation, Validation and Practical Considerations",
+      "published_date": "2026-03-11",
+      "url": "https://doi.org/10.1002/jcc.70342"
+    },
+    {
+      "doi": "10.1002/jcc.70346",
+      "title": "Extensions to Extended Tight-Binding Methods for Transition-Metal Containing Systems",
+      "published_date": "2026-03-10",
+      "url": "https://doi.org/10.1002/jcc.70346"
+    },
+    {
+      "doi": "10.1002/jcc.70348",
+      "title": "A Theoretical Investigation on the Hydrogen Bond Based on the GLED Method of Bonding Analysis",
+      "published_date": "2026-03-09",
+      "url": "https://doi.org/10.1002/jcc.70348"
+    },
+    {
+      "doi": "10.1002/jcc.70345",
+      "title": "An Investigation of the Structural, Electronic, and Magnetic Properties of VMnGen (n = 3–18) Clusters: Insights From Theoretical Calculations",
+      "published_date": "2026-03-07",
+      "url": "https://doi.org/10.1002/jcc.70345"
+    },
+    {
+      "doi": "10.1002/jcc.70344",
+      "title": "Machine Learning Prediction of Laccase-Catalyzed Oxidation of Aromatic Compounds Using Curated Enzyme-Specific Datasets",
+      "published_date": "2026-03-06",
+      "url": "https://doi.org/10.1002/jcc.70344"
+    },
+    {
+      "doi": "10.1002/jcc.70341",
+      "title": "On the Bona Fide Sampling of Reaction Candidates in Red Moon Method by Replica-Exchange Molecular Dynamics Method: REMD-RM Method and Its Efficacy in Polymerization and Cross-Linking Reactions of Polypropylene",
+      "published_date": "2026-03-06",
+      "url": "https://doi.org/10.1002/jcc.70341"
+    },
+    {
+      "doi": "10.1002/jcc.70338",
+      "title": "Photophysical Properties of a Mn(I) Tricarbonyl PhotoCORM With 8-Aminoquinoline Ligand: Insights From Theory",
+      "published_date": "2026-02-24",
+      "url": "https://doi.org/10.1002/jcc.70338"
+    },
+    {
+      "doi": "10.1002/jcc.70317",
+      "title": "First Principles Rovibronic Absorption Spectra of HF Molecule",
+      "published_date": "2026-02-24",
+      "url": "https://doi.org/10.1002/jcc.70317"
+    },
+    {
+      "doi": "10.1002/jcc.70339",
+      "title": "Correlating EPR Parameters With Structural Anisotropy in Cu(II) Complexes",
+      "published_date": "2026-02-23",
+      "url": "https://doi.org/10.1002/jcc.70339"
+    },
+    {
+      "doi": "10.1002/jcc.70336",
+      "title": "Simplified Time-Dependent DFT for all-Atom Simulations of Second Harmonic Generation Responses: A Case Study on Photoswitchable Azobenzene Monolayers",
+      "published_date": "2026-02-22",
+      "url": "https://doi.org/10.1002/jcc.70336"
+    },
+    {
+      "doi": "10.1002/jcc.70335",
+      "title": "A Study of Applicability of Density Functional Tight Binding—Molecular Mechanics Approach for the Calculation of Optical Properties",
+      "published_date": "2026-02-17",
+      "url": "https://doi.org/10.1002/jcc.70335"
+    },
+    {
+      "doi": "10.1002/jcc.70332",
+      "title": "Machine Learning Accelerated Global Search for Adsorption Geometries of Merocyanine Molecule on Hexagonal Boron Nitride",
+      "published_date": "2026-02-17",
+      "url": "https://doi.org/10.1002/jcc.70332"
+    },
+    {
+      "doi": "10.1002/jcc.70334",
+      "title": "Cover Image",
+      "published_date": "2026-02-16",
+      "url": "https://doi.org/10.1002/jcc.70334"
+    },
+    {
+      "doi": "10.1002/jcc.70329",
+      "title": "Construction of Potential Energy Surfaces for Reactions With Post-Transition State Bifurcations Using Principal Component Analysis",
+      "published_date": "2026-02-15",
+      "url": "https://doi.org/10.1002/jcc.70329"
+    },
+    {
+      "doi": "10.1002/jcc.70331",
+      "title": "Chemical Information From the Ehrenfest Force Field Based on Reduced Density Matrix Functional Theory",
+      "published_date": "2026-02-13",
+      "url": "https://doi.org/10.1002/jcc.70331"
+    },
+    {
+      "doi": "10.1002/jcc.70328",
+      "title": "A Review of Current Computational Tools for Peptide–Protein Docking",
+      "published_date": "2026-02-13",
+      "url": "https://doi.org/10.1002/jcc.70328"
+    },
+    {
+      "doi": "10.1002/jcc.70325",
+      "title": "Cyclacene Stability: The Interplay of Strain, Aromaticity and Force Coupling",
+      "published_date": "2026-02-13",
+      "url": "https://doi.org/10.1002/jcc.70325"
+    },
+    {
+      "doi": "10.1002/jcc.70319",
+      "title": "Electron Upconversion Enables CP and CS Bond Formation Under Mild Oxidative Conditions: A Theoretical Study",
+      "published_date": "2026-02-11",
+      "url": "https://doi.org/10.1002/jcc.70319"
+    },
+    {
+      "doi": "10.1002/jcc.70326",
+      "title": "A Thorough Systematic Conformational Study of an Experimentally Known Lantern-Like Superphane",
+      "published_date": "2026-02-09",
+      "url": "https://doi.org/10.1002/jcc.70326"
+    },
+    {
+      "doi": "10.1002/jcc.70327",
+      "title": "An Approximate Method for Exploring Nonradiative Decay Pathways From Highly Excited States of Lanthanide Complexes: Application to Luminescent Cerium Complexes",
+      "published_date": "2026-02-07",
+      "url": "https://doi.org/10.1002/jcc.70327"
+    },
+    {
+      "doi": "10.1002/jcc.70320",
+      "title": "Performance of Relativistic Effective Core Potentials for Closed-Shell Superheavy Element Halides in DFT and TDDFT Calculations",
+      "published_date": "2026-02-07",
+      "url": "https://doi.org/10.1002/jcc.70320"
+    },
+    {
+      "doi": "10.1002/jcc.70321",
+      "title": "New Optimized Parameters of Extended Tight-Binding Method Ln-xTB (Ln = La-Lu) to Explore Lanthanide Molecular Chemistry",
+      "published_date": "2026-02-03",
+      "url": "https://doi.org/10.1002/jcc.70321"
+    },
+    {
+      "doi": "10.1002/jcc.70256",
+      "title": "Conformal Coordinates for Molecular Geometry: From 3D to 5D",
+      "published_date": "2026-02-03",
+      "url": "https://doi.org/10.1002/jcc.70256"
+    },
+    {
+      "doi": "10.1002/jcc.70322",
+      "title": "The Hydration Blueprint of Polylactic Acid: Computational Decoding of Noncovalent Interactions for Predictive Biodegradation",
+      "published_date": "2026-02-02",
+      "url": "https://doi.org/10.1002/jcc.70322"
+    },
+    {
+      "doi": "10.1002/jcc.70324",
+      "title": "A Fast and Accurate Semi-Empirical Approach for Hydrogen-Exchange Kinetic Isotope Effect Evaluation",
+      "published_date": "2026-01-31",
+      "url": "https://doi.org/10.1002/jcc.70324"
+    },
+    {
+      "doi": "10.1002/jcc.70323",
+      "title": "Cover Image",
+      "published_date": "2026-01-27",
+      "url": "https://doi.org/10.1002/jcc.70323"
+    },
+    {
+      "doi": "10.1002/jcc.70311",
+      "title": "Ab Initio Molecular Dynamics Study of Quadrupolar Spin Relaxation in an Ionic Liquid",
+      "published_date": "2026-01-24",
+      "url": "https://doi.org/10.1002/jcc.70311"
+    },
+    {
+      "doi": "10.1002/jcc.70295",
+      "title": "REG–CCSD(T): A New Efficient CCSD(T) Approach Accelerated by the Regularized Fock and Intermediate Excitation Matrix",
+      "published_date": "2026-01-24",
+      "url": "https://doi.org/10.1002/jcc.70295"
+    },
+    {
+      "doi": "10.1002/jcc.70294",
+      "title": "Local-Hybrid Functional With a Composite Local Mixing Function Built From a Neural Network and a Strong-Correlation Model",
+      "published_date": "2026-01-24",
+      "url": "https://doi.org/10.1002/jcc.70294"
+    },
+    {
+      "doi": "10.1002/jcc.70316",
+      "title": "A Computational Model in Excel (With ScienSolar) for Simulating Classical Electric Fields of Periodic Table Elements",
+      "published_date": "2026-01-19",
+      "url": "https://doi.org/10.1002/jcc.70316"
+    },
+    {
+      "doi": "10.1002/jcc.70306",
+      "title": "pyHRMC: Hybrid Reverse Monte Carlo for Electron Total Scattering",
+      "published_date": "2026-01-19",
+      "url": "https://doi.org/10.1002/jcc.70306"
+    },
+    {
+      "doi": "10.1002/jcc.70310",
+      "title": "Atomic Charges via Gradient Boosting: Development and Application for Solvation Energies in Organic Solvents",
+      "published_date": "2026-01-15",
+      "url": "https://doi.org/10.1002/jcc.70310"
+    },
+    {
+      "doi": "10.1002/jcc.70308",
+      "title": "Evaluating In-Context Learning in Large Language Models for Molecular Property Regression",
+      "published_date": "2026-01-15",
+      "url": "https://doi.org/10.1002/jcc.70308"
+    },
+    {
+      "doi": "10.1002/jcc.70315",
+      "title": "GMSAC: A New Software for Searching the Global-Minimum Structures of Solids and Alloys by the Improved Genetic Algorithm and Embedded Atom Method",
+      "published_date": "2026-01-13",
+      "url": "https://doi.org/10.1002/jcc.70315"
+    },
+    {
+      "doi": "10.1002/jcc.70312",
+      "title": "Expanding the Palette of Molecular Fragments for Small Molecule De Novo Design Through Isosteric Swapping",
+      "published_date": "2026-01-13",
+      "url": "https://doi.org/10.1002/jcc.70312"
+    },
+    {
+      "doi": "10.1002/jcc.70313",
+      "title": "The Long and Short Radii for Hydrogen in Hydrogen Bonded Complexes",
+      "published_date": "2026-01-09",
+      "url": "https://doi.org/10.1002/jcc.70313"
+    },
+    {
+      "doi": "10.1002/jcc.70296",
+      "title": "Benchmarking Isomerization Energies for C5C5$$ {\\mathrm{C}}_5 $$–C7C7$$ {\\mathrm{C}}_7 $$ Hydrocarbons: The ISOC7 Database",
+      "published_date": "2026-01-09",
+      "url": "https://doi.org/10.1002/jcc.70296"
+    },
+    {
+      "doi": "10.1002/jcc.70291",
+      "title": "Numerical Integration of Slater Basis Functions Over Prolate Spheroidal Grids",
+      "published_date": "2026-01-05",
+      "url": "https://doi.org/10.1002/jcc.70291"
+    },
+    {
+      "doi": "10.1002/jcc.70289",
+      "title": "Improving Energy and Molecular Properties by Convergence of the One-Particle Reduced Density Matrix in Variational Quantum Eigensolvers (VQE)",
+      "published_date": "2026-01-05",
+      "url": "https://doi.org/10.1002/jcc.70289"
+    },
+    {
+      "doi": "10.1002/jcc.70309",
+      "title": "Photolytic Ring Expansion of Phenylphosphinidene and Its Hydrogen-Bonded Complexes",
+      "published_date": "2026-01-02",
+      "url": "https://doi.org/10.1002/jcc.70309"
+    }
+  ]
+}
