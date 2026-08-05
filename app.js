@@ -2,11 +2,13 @@ const container = document.querySelector('#articles');
 const empty = document.querySelector('#empty');
 const search = document.querySelector('#search');
 const loadMore = document.querySelector('#load-more');
-const filterButtons = [...document.querySelectorAll('.filter')];
+const scopeFilterButtons = [...document.querySelectorAll('.scope-filter')];
+const journalFilterButtons = [...document.querySelectorAll('.journal-filter')];
 const publicationCutoff = '2026-01-01';
 const pageSize = 50;
 let payload = { articles: [], new_dois: [] };
 let activeFilter = 'all';
+let activeJournal = 'all';
 let visibleCount = pageSize;
 
 const escapeHtml = value => String(value ?? '').replace(/[&<>'"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
@@ -15,6 +17,7 @@ function render(query = '') {
   const needle = query.trim().toLowerCase();
   const matchingRows = [...payload.articles]
     .filter(article => String(article.published_date || '') >= publicationCutoff)
+    .filter(article => activeJournal === 'all' || article.journal_short === activeJournal)
     .filter(article => activeFilter !== 'new' || payload.new_dois.includes(article.doi))
     .filter(article => `${article.title} ${article.doi}`.toLowerCase().includes(needle))
     .sort((a, b) => {
@@ -22,6 +25,9 @@ function render(query = '') {
       return byDate || String(b.doi || '').localeCompare(String(a.doi || ''));
     });
   const rows = matchingRows.slice(0, visibleCount);
+  const journalLabel = activeJournal === 'all' ? '모든 저널' : activeJournal;
+  document.querySelector('#list-title').textContent = activeJournal === 'all' ? '최근 확인된 논문' : `${activeJournal} 최근 논문`;
+  document.querySelector('#result-summary').textContent = `${journalLabel} · ${matchingRows.length.toLocaleString('ko-KR')}편`;
   container.innerHTML = rows.map((article, index) => {
     const isNew = payload.new_dois.includes(article.doi);
     return `<a class="article" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer">
@@ -40,7 +46,12 @@ fetch('./data/articles.json', { cache: 'no-store' })
   .then(response => { if (!response.ok) throw new Error('Data unavailable'); return response.json(); })
   .then(data => {
     payload = data;
-    document.querySelector('#new-count').textContent = data.new_count ?? 0;
+    const journalCounts = data.articles.reduce((counts, article) => {
+      counts[article.journal_short] = (counts[article.journal_short] || 0) + 1;
+      return counts;
+    }, {});
+    document.querySelector('#jacs-count').textContent = (journalCounts.JACS || 0).toLocaleString('ko-KR');
+    document.querySelector('#science-count').textContent = (journalCounts.Science || 0).toLocaleString('ko-KR');
     document.querySelector('#total-count').textContent = data.total_count ?? data.articles.length;
     document.querySelector('#status-label').textContent = '마지막 확인 완료';
     document.querySelector('#checked-at').textContent = data.checked_at ? new Date(data.checked_at).toLocaleString('ko-KR') : '첫 업데이트 전';
@@ -57,10 +68,17 @@ search.addEventListener('input', event => {
   render(event.target.value);
 });
 
-filterButtons.forEach(button => button.addEventListener('click', () => {
+scopeFilterButtons.forEach(button => button.addEventListener('click', () => {
   activeFilter = button.dataset.filter;
   visibleCount = pageSize;
-  filterButtons.forEach(item => item.classList.toggle('is-active', item === button));
+  scopeFilterButtons.forEach(item => item.classList.toggle('is-active', item === button));
+  render(search.value);
+}));
+
+journalFilterButtons.forEach(button => button.addEventListener('click', () => {
+  activeJournal = button.dataset.journal;
+  visibleCount = pageSize;
+  journalFilterButtons.forEach(item => item.classList.toggle('is-active', item === button));
   render(search.value);
 }));
 

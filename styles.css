@@ -34,7 +34,9 @@ main { width: min(1120px, calc(100% - 40px)); margin: auto; }
 .content { padding: 34px; background: #eceae3; border-radius: 22px; }
 .section-heading { display: flex; justify-content: space-between; align-items: end; margin-bottom: 24px; }
 .section-heading h2 { margin: 0; font: 500 2rem Georgia, serif; }
+.result-summary { margin: 7px 0 0; color: var(--muted); font-size: .78rem; }
 .controls { display: flex; align-items: center; gap: 10px; }
+.filter-groups { display: grid; gap: 7px; justify-items: end; }
 .filters { display: flex; padding: 3px; background: #dedfd8; border-radius: 10px; }
 .filter { padding: 7px 11px; border: 0; border-radius: 7px; background: transparent; color: var(--muted); cursor: pointer; }
 .filter.is-active { background: var(--card); color: var(--ink); box-shadow: 0 1px 5px #15221d12; }
@@ -64,6 +66,7 @@ footer { padding: 34px 20px; text-align: center; color: var(--muted); font-size:
   .content { padding: 20px 14px; }
   .section-heading { display: block; }
   .controls { display: block; margin-top: 18px; }
+  .filter-groups { justify-items: start; }
   .filters { width: max-content; margin-bottom: 10px; }
   .search { width: 100%; }
   .article { grid-template-columns: 34px 1fr; padding: 18px 14px; }

@@ -27,18 +27,26 @@
         <div><span class="journal-mark science-mark">S</span><div><strong>Science</strong><small>Research Articles</small></div></div>
       </div>
       <div class="journal-stats">
-        <p><strong id="new-count">0</strong><span>신규 논문</span></p>
+        <p><strong id="jacs-count">0</strong><span>JACS</span></p>
+        <p><strong id="science-count">0</strong><span>Science</span></p>
         <p><strong id="total-count">0</strong><span>전체 논문</span></p>
       </div>
     </section>
 
     <section class="content">
       <div class="section-heading">
-        <div><p class="eyebrow">LATEST RECORDS</p><h2>최근 확인된 논문</h2></div>
+        <div><p class="eyebrow">LATEST RECORDS</p><h2 id="list-title">최근 확인된 논문</h2><p id="result-summary" class="result-summary" aria-live="polite"></p></div>
         <div class="controls">
-          <div class="filters" role="group" aria-label="논문 범위">
-            <button class="filter is-active" type="button" data-filter="all">전체</button>
-            <button class="filter" type="button" data-filter="new">신규</button>
+          <div class="filter-groups">
+            <div class="filters" role="group" aria-label="저널 선택">
+              <button class="filter journal-filter is-active" type="button" data-journal="all">모든 저널</button>
+              <button class="filter journal-filter" type="button" data-journal="JACS">JACS</button>
+              <button class="filter journal-filter" type="button" data-journal="Science">Science</button>
+            </div>
+            <div class="filters" role="group" aria-label="논문 범위">
+              <button class="filter scope-filter is-active" type="button" data-filter="all">전체</button>
+              <button class="filter scope-filter" type="button" data-filter="new">신규</button>
+            </div>
           </div>
           <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="제목 또는 DOI 검색" aria-label="논문 검색"></label>
         </div>
