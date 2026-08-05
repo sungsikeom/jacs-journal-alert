@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-08-05T12:49:14+09:00",
+  "checked_at": "2026-08-05T12:49:43+09:00",
   "journal_count": 2,
   "new_count": 0,
   "total_count": 3714,
-  "baseline_initialized": true,
+  "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "scope_end": "2026-08-05",
   "source_mode": "acs+crossref+science",
