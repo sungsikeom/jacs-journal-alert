@@ -25,7 +25,7 @@ STATE_PATH = DATA_DIR / "seen_dois.json"
 ISSUE_BODY_PATH = DATA_DIR / "new_articles.md"
 SEOUL = timezone(timedelta(hours=9))
 SCOPE_START = "2026-01-01"
-SCOPE_VERSION = 5
+SCOPE_VERSION = 6
 
 JOURNALS = [
     {
@@ -33,7 +33,11 @@ JOURNALS = [
         "name": "Journal of the American Chemical Society",
         "short_name": "JACS",
         "issn": "0002-7863",
-    }
+    },
+    {"key": "nature-communications", "name": "Nature Communications", "short_name": "Nat Commun", "issn": "2041-1723"},
+    {"key": "journal-of-computational-chemistry", "name": "Journal of Computational Chemistry", "short_name": "J. Comput. Chem.", "issn": "1096-987X"},
+    {"key": "jctc", "name": "Journal of Chemical Theory and Computation", "short_name": "JCTC", "issn": "1549-9626"},
+    {"key": "angewandte", "name": "Angewandte Chemie International Edition", "short_name": "Angew. Chem. Int. Ed.", "issn": "1521-3773"},
 ]
 
 

@@ -1,13 +1,13 @@
-# JACS & Science Journal Alert
+# Chemistry & Science Journal Alert
 
-Journal of the American Chemical Society와 Science Research Articles를 DOI 기준으로 확인하는 정적 웹사이트입니다. 논문 제목과 DOI, 공식 DOI 링크만 표시하며 초록과 본문은 수집하지 않습니다.
+JACS, Science Research Articles, Nature Communications, Journal of Computational Chemistry, JCTC, Angewandte Chemie International Edition을 DOI 기준으로 확인하는 정적 웹사이트입니다. 논문 제목과 DOI, 공식 DOI 링크만 표시하며 초록과 본문은 수집하지 않습니다.
 
 사이트에서는 전체 논문과 이번 실행에서 새로 발견된 논문을 구분해 볼 수 있고, 제목·DOI 검색과 50편 단위 더 보기를 지원합니다.
 
 ## 동작 방식
 
 1. GitHub Actions가 매일 Asia/Seoul 오전 9시 17분에 실행됩니다.
-2. GitHub Actions는 Crossref의 JACS 메타데이터와 로컬 Chrome에서 검증한 ACS·Science 목록을 병합합니다.
+2. GitHub Actions는 Crossref의 5개 저널 메타데이터와 로컬 Chrome에서 검증한 ACS·Science 목록을 병합합니다.
 3. 목록은 출간일 내림차순으로 정렬하여 최신 논문을 맨 위에 표시합니다.
 4. `data/seen_dois.json`에 없는 DOI를 신규 논문으로 판정합니다.
 5. 연도별 첫 실행에서는 해당 연도의 전체 결과를 기준선으로만 저장하고 알림을 만들지 않습니다.
@@ -17,7 +17,7 @@ Journal of the American Chemical Society와 Science Research Articles를 DOI 기
 
 1. 이 폴더의 파일을 새 GitHub 저장소에 올립니다.
 2. 저장소의 `Settings → Pages → Build and deployment → Source`를 `GitHub Actions`로 설정합니다.
-3. `Actions → Daily JACS update → Run workflow`를 한 번 실행합니다. 이 실행은 기준선 생성용입니다.
+3. `Actions → Daily journal update → Run workflow`를 한 번 실행합니다. 이 실행은 기준선 생성용입니다.
 4. GitHub 알림을 받으려면 저장소의 `Watch → Custom → Issues`를 활성화합니다.
 
 Crossref의 polite pool 사용을 위해 저장소의 `Settings → Secrets and variables → Actions → Variables`에 `CROSSREF_MAILTO`를 만들고 본인의 이메일 주소를 입력하는 것을 권장합니다. 입력하지 않아도 실행은 가능하지만 연락 가능한 이메일을 제공하는 것이 Crossref 권장 방식입니다.

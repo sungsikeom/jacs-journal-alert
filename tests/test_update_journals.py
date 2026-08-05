@@ -27,6 +27,13 @@ class MetadataNormalizationTests(unittest.TestCase):
         article = UPDATE.article_from_item(item, UPDATE.JOURNALS[0])
         self.assertEqual(article["title"], "A clean title")
 
+    def test_monitored_crossref_journals(self):
+        journals = {journal["short_name"]: journal["issn"] for journal in UPDATE.JOURNALS}
+        self.assertEqual(journals["Nat Commun"], "2041-1723")
+        self.assertEqual(journals["J. Comput. Chem."], "1096-987X")
+        self.assertEqual(journals["JCTC"], "1549-9626")
+        self.assertEqual(journals["Angew. Chem. Int. Ed."], "1521-3773")
+
     def test_load_science_articles_normalizes_site_fields(self):
         science_path = Path(__file__).resolve().parents[1] / "data" / "science_articles.json"
         articles = UPDATE.load_science_articles(science_path)

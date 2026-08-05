@@ -1,4 +1,4 @@
-name: Daily JACS update
+name: Daily journal update
 
 on:
   push:
@@ -41,7 +41,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Fetch recent JACS records
+      - name: Fetch monitored journal records
         id: update
         env:
           CROSSREF_MAILTO: ${{ vars.CROSSREF_MAILTO }}
@@ -64,7 +64,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No metadata changes"
           else
-            git commit -m "Update JACS metadata"
+            git commit -m "Update journal metadata"
             git push
           fi
 

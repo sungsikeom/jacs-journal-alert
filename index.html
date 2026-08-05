@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="JACS와 Science Research Articles의 논문 제목과 DOI를 매일 확인합니다.">
-  <title>Journal Pulse · JACS &amp; Science</title>
-  <link rel="stylesheet" href="styles.css?v=20260805-3">
+  <meta name="description" content="주요 화학·과학 저널의 논문 제목과 DOI를 매일 확인합니다.">
+  <title>Journal Pulse · Chemistry &amp; Science</title>
+  <link rel="stylesheet" href="styles.css?v=20260805-4">
 </head>
 <body>
   <main>
@@ -13,7 +13,7 @@
       <div>
         <p class="eyebrow">DAILY JOURNAL MONITOR</p>
         <h1>Journal <span>Pulse</span></h1>
-        <p class="lede">JACS와 Science Research Articles를 하루 한 번 확인합니다.</p>
+        <p class="lede">주요 화학·과학 저널의 새 논문을 하루 한 번 확인합니다.</p>
       </div>
       <div class="status-card" aria-live="polite">
         <span class="status-dot"></span>
@@ -25,10 +25,13 @@
       <div class="journal-list">
         <div><span class="journal-mark">J</span><div><strong>Journal of the American Chemical Society</strong><small>ISSN 0002-7863</small></div></div>
         <div><span class="journal-mark science-mark">S</span><div><strong>Science</strong><small>Research Articles</small></div></div>
+        <div><span class="journal-mark nature-mark">N</span><div><strong>Nature Communications</strong><small>Nat Commun</small></div></div>
+        <div><span class="journal-mark computational-mark">C</span><div><strong>Journal of Computational Chemistry</strong><small>J. Comput. Chem.</small></div></div>
+        <div><span class="journal-mark jctc-mark">T</span><div><strong>Journal of Chemical Theory and Computation</strong><small>JCTC</small></div></div>
+        <div><span class="journal-mark angew-mark">A</span><div><strong>Angewandte Chemie International Edition</strong><small>Angew. Chem. Int. Ed.</small></div></div>
       </div>
       <div class="journal-stats">
-        <p><strong id="jacs-count">0</strong><span>JACS</span></p>
-        <p><strong id="science-count">0</strong><span>Science</span></p>
+        <p><strong id="journal-count">0</strong><span>모니터링 저널</span></p>
         <p><strong id="total-count">0</strong><span>전체 논문</span></p>
       </div>
     </section>
@@ -40,10 +43,14 @@
           <div class="filter-groups">
             <div class="filter-group">
               <span class="filter-label">저널</span>
-              <div class="filters" role="group" aria-label="저널 선택">
+              <div class="filters journal-filters" role="group" aria-label="저널 선택">
                 <button class="filter journal-filter is-active" type="button" data-journal="all">모든 저널</button>
                 <button class="filter journal-filter" type="button" data-journal="JACS">JACS</button>
                 <button class="filter journal-filter" type="button" data-journal="Science">Science</button>
+                <button class="filter journal-filter" type="button" data-journal="Nat Commun">Nat Commun</button>
+                <button class="filter journal-filter" type="button" data-journal="J. Comput. Chem.">J. Comput. Chem.</button>
+                <button class="filter journal-filter" type="button" data-journal="JCTC">JCTC</button>
+                <button class="filter journal-filter" type="button" data-journal="Angew. Chem. Int. Ed.">Angewandte</button>
               </div>
             </div>
             <div class="filter-group">
@@ -62,7 +69,7 @@
       <button id="load-more" class="load-more" type="button" hidden>논문 더 보기</button>
     </section>
   </main>
-  <footer>Independent literature alert · Metadata from publisher pages and Crossref · Not affiliated with ACS or AAAS</footer>
+  <footer>Independent literature alert · Metadata from publisher pages and Crossref · Not affiliated with the monitored publishers</footer>
   <script src="app.js?v=20260805-1"></script>
 </body>
 </html>

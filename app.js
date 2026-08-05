@@ -50,9 +50,8 @@ fetch('./data/articles.json', { cache: 'no-store' })
       counts[article.journal_short] = (counts[article.journal_short] || 0) + 1;
       return counts;
     }, {});
-    document.querySelector('#jacs-count').textContent = (journalCounts.JACS || 0).toLocaleString('ko-KR');
-    document.querySelector('#science-count').textContent = (journalCounts.Science || 0).toLocaleString('ko-KR');
-    document.querySelector('#total-count').textContent = data.total_count ?? data.articles.length;
+    document.querySelector('#journal-count').textContent = Object.keys(journalCounts).length.toLocaleString('ko-KR');
+    document.querySelector('#total-count').textContent = (data.total_count ?? data.articles.length).toLocaleString('ko-KR');
     document.querySelector('#status-label').textContent = '마지막 확인 완료';
     document.querySelector('#checked-at').textContent = data.checked_at ? new Date(data.checked_at).toLocaleString('ko-KR') : '첫 업데이트 전';
     render();
