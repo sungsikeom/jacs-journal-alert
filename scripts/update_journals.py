@@ -313,14 +313,17 @@ def merge_publisher_baseline(
     return deduplicate([*articles, *inventory.values()])
 
 
-def carry_same_day_new_articles(
-    fetched: list[dict[str, Any]], old_output: dict[str, Any], today: date
+def recent_publication_articles(
+    fetched: list[dict[str, Any]], today: date
 ) -> list[dict[str, Any]]:
-    """Keep today's NEW list stable when the updater runs more than once."""
-    if str(old_output.get("checked_at", ""))[:10] != today.isoformat():
-        return []
-    previous_new = {normalize_doi(value) for value in old_output.get("new_dois", [])}
-    return [article for article in fetched if article["doi"] in previous_new]
+    """Show papers published yesterday or today in the site's NEW view."""
+    yesterday = (today - timedelta(days=1)).isoformat()
+    today_text = today.isoformat()
+    return [
+        article
+        for article in fetched
+        if yesterday <= str(article.get("published_date") or "") <= today_text
+    ]
 
 
 def update(
@@ -335,7 +338,6 @@ def update(
     scope_start = SCOPE_START
     scope_end = today.isoformat()
     old_state = load_json(STATE_PATH, {})
-    old_output = load_json(ARTICLES_PATH, {})
     initialized = (
         bool(old_state.get("initialized"))
         and old_state.get("scope_start") == scope_start
@@ -366,9 +368,7 @@ def update(
             fetched, load_publisher_articles(inventory_path, journals_by_key[key])
         )
     detected_new_articles = [article for article in fetched if article["doi"] not in seen] if initialized else []
-    display_new_articles = detected_new_articles
-    if initialized and not display_new_articles:
-        display_new_articles = carry_same_day_new_articles(fetched, old_output, today)
+    display_new_articles = recent_publication_articles(fetched, today)
     new_dois = {article["doi"] for article in fetched}
     combined_seen = sorted((seen | new_dois) if initialized else new_dois)
     output = {
