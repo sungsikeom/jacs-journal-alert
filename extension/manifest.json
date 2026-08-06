@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Journal Alert Collector",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "Collect journal results from normal user-opened publisher pages.",
   "permissions": ["storage", "tabs", "alarms"],
   "host_permissions": [
@@ -18,7 +18,10 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://pubs.acs.org/jacsat/search-results*"],
+      "matches": [
+        "https://pubs.acs.org/jacsat/search-results*",
+        "https://pubs.acs.org/toc/jacsat/*"
+      ],
       "js": ["content.js"],
       "run_at": "document_idle"
     },

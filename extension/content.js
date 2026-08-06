@@ -1,5 +1,6 @@
 const STATE_KEY = "jacsCollectorState";
 const CUTOFF = "2025-01-01";
+const COLLECTOR_BUILD = "1.4.4";
 const ARTICLE_FILTER = 'input.chkSelect[data-redirect-url*="f_ContentType=Journal+Articles"]';
 const ARTICLE_ITEMS = ".sr-list.content-type-journal-articles";
 
@@ -12,9 +13,11 @@ function isoDate(value) {
   const text = String(value || "").replace(/\s+/g, " ").trim();
   const iso = text.match(/\b20\d{2}-\d{2}-\d{2}\b/);
   if (iso) return iso[0];
+  const monthFirst = text.match(/\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{1,2}),\s*(20\d{2})\b/i);
   const dayFirst = text.match(/\b(\d{1,2})\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+(20\d{2})\b/i);
-  if (!dayFirst) return null;
   const months = { january: 1, february: 2, march: 3, april: 4, may: 5, june: 6, july: 7, august: 8, september: 9, october: 10, november: 11, december: 12 };
+  if (monthFirst) return `${monthFirst[3]}-${String(months[monthFirst[1].toLowerCase()]).padStart(2, "0")}-${String(monthFirst[2]).padStart(2, "0")}`;
+  if (!dayFirst) return null;
   return `${dayFirst[3]}-${String(months[dayFirst[2].toLowerCase()]).padStart(2, "0")}-${String(dayFirst[1]).padStart(2, "0")}`;
 }
 
@@ -39,6 +42,50 @@ function readPage() {
     });
   }
   return [...byDoi.values()];
+}
+
+function readIssuePage() {
+  const byDoi = new Map();
+  const anchors = [...document.querySelectorAll('a[href*="/doi/"], a[href*="doi.org/"]')];
+  for (const anchor of anchors) {
+    const doi = normalizeDoi(anchor.href);
+    if (!doi || byDoi.has(doi)) continue;
+    const item = anchor.closest('.issue-item, [class*="issue-item"], .articleEntry, article, li') || anchor.parentElement;
+    if (!item) continue;
+    const titleNode = item.querySelector('.issue-item_title a, [class*="title"] a, h2 a, h3 a, h4 a, h5 a') || anchor;
+    const publishedDate = isoDate(item.textContent || "");
+    if (!publishedDate) continue;
+    byDoi.set(doi, {
+      doi,
+      title: String(titleNode.textContent || doi).replace(/\s+/g, " ").trim(),
+      published_date: publishedDate,
+      url: `https://doi.org/${doi}`,
+    });
+  }
+  return [...byDoi.values()];
+}
+
+async function waitForIssueRows() {
+  let previousCount = -1;
+  let stableReads = 0;
+  let bestRows = [];
+  for (let attempt = 0; attempt < 30; attempt += 1) {
+    window.scrollTo(0, document.body.scrollHeight);
+    await new Promise((resolve) => setTimeout(resolve, 1000));
+    const rows = readIssuePage();
+    if (rows.length > bestRows.length) bestRows = rows;
+    if (rows.length > 0 && rows.length === previousCount) stableReads += 1;
+    else stableReads = 0;
+    if (rows.length > 0 && stableReads >= 3) {
+      window.scrollTo(0, 0);
+      return rows;
+    }
+    previousCount = rows.length;
+    await new Promise((resolve) => setTimeout(resolve, 1000));
+  }
+  window.scrollTo(0, 0);
+  if (bestRows.length > 0) return bestRows;
+  throw new Error("JACS 호별 목차에서 논문을 읽지 못했습니다.");
 }
 
 async function waitForRows() {
@@ -69,8 +116,14 @@ function sendMessage(message) {
   });
 }
 
-function loadState() {
-  return chrome.storage.local.get(STATE_KEY).then((result) => result[STATE_KEY] || null);
+async function loadState() {
+  const result = await chrome.storage.local.get(STATE_KEY);
+  const state = result[STATE_KEY] || null;
+  if (state && state.collector_build !== COLLECTOR_BUILD) {
+    await chrome.storage.local.remove(STATE_KEY);
+    return null;
+  }
+  return state;
 }
 
 function saveState(state) {
@@ -89,6 +142,43 @@ function makeMonthlyRanges() {
     ranges.push({ from, to });
   }
   return ranges;
+}
+
+function makeIssueBackfill() {
+  return [
+    { volume: 148, issue: 1 },
+    ...Array.from({ length: 52 }, (_, index) => ({ volume: 147, issue: 52 - index })),
+  ];
+}
+
+async function processIssuePage(state) {
+  const target = state.issues?.[state.issueIndex];
+  if (!target) {
+    await finish(state, "all-issues");
+    return;
+  }
+  setPanel(`JACS ${target.volume}권 ${target.issue}호 읽는 중 · 누적 ${state.articles.length}편`, true);
+  const rows = await waitForIssueRows();
+  const collected = new Set(state.articles.map((article) => article.doi));
+  for (const row of rows) {
+    if (row.published_date < CUTOFF || collected.has(row.doi)) continue;
+    state.articles.push(row);
+    collected.add(row.doi);
+  }
+  state.pages += 1;
+  state.issueIndex += 1;
+  await saveState(state);
+  await sendMessage({ type: "progress" });
+  setPanel(`${target.volume}권 ${target.issue}호 · 이번 호 ${rows.length}편 · 누적 ${state.articles.length}편`, true);
+  const nextTarget = state.issues[state.issueIndex];
+  if (!nextTarget) {
+    await finish(state, "all-issues");
+    return;
+  }
+  const delay = 4000 + Math.floor(Math.random() * 3000);
+  setTimeout(() => {
+    location.href = `https://pubs.acs.org/toc/jacsat/${nextTarget.volume}/${nextTarget.issue}#jacs-auto`;
+  }, delay);
 }
 
 async function finishRangeOrCollection(state, reason) {
@@ -170,6 +260,10 @@ async function finish(state, reason) {
 async function processCurrentPage() {
   const state = await loadState();
   if (!state?.running) return;
+  if (location.pathname.startsWith("/toc/jacsat/")) {
+    await processIssuePage(state);
+    return;
+  }
   const pageNumber = new URL(location.href).searchParams.get("page") || "?";
   setPanel(`진단: ${pageNumber}페이지 진입 · 누적 ${state.articles.length}편`, true);
 
@@ -182,11 +276,6 @@ async function processCurrentPage() {
     setPanel(`진단: ${pageNumber}페이지 · 필터 클릭`, true);
     filter.click();
     setTimeout(() => processCurrentPage().catch((error) => setPanel(`오류: ${error.message}`, false)), 4000);
-    return;
-  }
-
-  if (state.mode === "baseline" && state.ranges?.length && !state.rangeApplied) {
-    await applyMonthlyRange(state);
     return;
   }
 
@@ -271,15 +360,23 @@ async function startCollection() {
   const baseline = await sendMessage({ type: "baseline" });
   const state = {
     running: true,
+    collector_build: COLLECTOR_BUILD,
     mode: baseline.force_baseline || !baseline.known_dois.length ? "baseline" : "incremental",
     known_dois: baseline.known_dois,
     articles: [],
     pages: 0,
-    ranges: baseline.force_baseline || !baseline.known_dois.length ? makeMonthlyRanges() : [],
+    ranges: [],
     rangeIndex: 0,
     rangeApplied: false,
+    issues: baseline.force_baseline || !baseline.known_dois.length ? makeIssueBackfill() : [],
+    issueIndex: 0,
   };
   await saveState(state);
+  if (state.mode === "baseline") {
+    const firstIssue = state.issues[0];
+    location.href = `https://pubs.acs.org/toc/jacsat/${firstIssue.volume}/${firstIssue.issue}#jacs-auto`;
+    return;
+  }
   const startUrl = new URL(location.href);
   let cleaned = false;
   for (const key of [...startUrl.searchParams.keys()]) {
