@@ -66,7 +66,7 @@ const server = http.createServer(async (request, response) => {
       const existing = Array.isArray(existingPayload.articles) ? existingPayload.articles : [];
       json(response, 200, {
         known_dois: existing.map((item) => normalizeDoi(item.doi)).filter(Boolean),
-        force_baseline: existingPayload.scope_start !== CUTOFF,
+        force_baseline: existingPayload.scope_start !== CUTOFF || existingPayload.backfill_complete !== true,
       });
       return;
     }
@@ -86,12 +86,14 @@ const server = http.createServer(async (request, response) => {
         byDoi.set(doi, { doi, title: String(item.title || doi).trim(), published_date: publishedDate, url: `https://doi.org/${doi}` });
       }
       const articles = [...byDoi.values()].sort((a, b) => b.published_date.localeCompare(a.published_date) || b.doi.localeCompare(a.doi));
-      if (body.mode === "baseline" && body.reason !== "last-page" && articles.length < 1000) throw new Error(`Only ${articles.length} articles were collected; refusing an incomplete baseline`);
-      const payload = { source: "ACS JACS search results collected by the local Chrome extension", collected_at: new Date().toISOString(), scope_start: CUTOFF, article_count: articles.length, articles };
+      const incoming2025Count = incoming.filter((item) => String(item.published_date || "").startsWith("2025-")).length;
+      if (body.mode === "baseline" && incoming2025Count < 1000) throw new Error(`Only ${incoming2025Count} JACS 2025 articles were collected; refusing an incomplete backfill`);
+      const payload = { source: "ACS JACS search results collected by the local Chrome extension", collected_at: new Date().toISOString(), scope_start: CUTOFF, backfill_complete: true, article_count: articles.length, articles };
       const temporary = `${OUTPUT}.tmp`;
       await fs.writeFile(temporary, `${JSON.stringify(payload, null, 2)}\n`, "utf8");
       await fs.rename(temporary, OUTPUT);
       json(response, 200, { article_count: articles.length });
+      clearInterval(idleTimer);
       setTimeout(() => server.close(), 1000);
       return;
     }

@@ -1,6 +1,6 @@
 const STATE_KEY = "jacsCollectorState";
 const CUTOFF = "2025-01-01";
-const COLLECTOR_BUILD = "1.4.5";
+const COLLECTOR_BUILD = "1.4.6";
 const BACKFILL_URL = "https://pubs.acs.org/jacsat/search-results?sort=Date+-+Newest+First&f_JournalID=1000059&f_ContentType=Journal+Articles&fl_SiteID=1000113&qb=%7B%22q%22%3A%22%22%7D&rg_PublicationDate=2025-01-01%20TO%202026-01-01&page=1#jacs-auto";
 const ARTICLE_FILTER = 'input.chkSelect[data-redirect-url*="f_ContentType=Journal+Articles"]';
 const ARTICLE_ITEMS = ".sr-list.content-type-journal-articles";
@@ -98,8 +98,8 @@ async function waitForRows() {
     if (rows.length > bestRows.length) bestRows = rows;
     if (rows.length > 0 && rows.length === previousCount) stableReads += 1;
     else stableReads = 0;
-    if (rows.length > 0 && stableReads >= 2) return rows;
-    if (bestRows.length > 0 && attempt >= 7) return bestRows;
+    if (rows.length >= 20 && stableReads >= 2) return rows;
+    if (bestRows.length > 0 && attempt >= 20) return bestRows;
     previousCount = rows.length;
     await new Promise((resolve) => setTimeout(resolve, 2000));
   }
@@ -333,15 +333,13 @@ async function processCurrentPage() {
     return;
   }
 
-  if (rows.length < 20) {
-    await finishRangeOrCollection(state, "short-page");
-    return;
-  }
-
   const next = document.querySelector("button.sr-nav-next, a.sr-nav-next");
   if (!next) {
     await finishRangeOrCollection(state, "last-page");
     return;
+  }
+  if (rows.length < 20) {
+    throw new Error(`페이지가 완전히 로드되지 않았습니다: ${rows.length}/20편`);
   }
   const delay = 5000 + Math.floor(Math.random() * 3000);
   setPanel(`진단: ${pageNumber}페이지 · 논문 ${rows.length}편 · Next 있음 · ${Math.round(delay / 1000)}초 후 클릭`, true);
