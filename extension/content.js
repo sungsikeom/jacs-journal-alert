@@ -1,6 +1,7 @@
 const STATE_KEY = "jacsCollectorState";
 const CUTOFF = "2025-01-01";
-const COLLECTOR_BUILD = "1.4.4";
+const COLLECTOR_BUILD = "1.4.5";
+const BACKFILL_URL = "https://pubs.acs.org/jacsat/search-results?sort=Date+-+Newest+First&f_JournalID=1000059&f_ContentType=Journal+Articles&fl_SiteID=1000113&qb=%7B%22q%22%3A%22%22%7D&rg_PublicationDate=2025-01-01%20TO%202026-01-01&page=1#jacs-auto";
 const ARTICLE_FILTER = 'input.chkSelect[data-redirect-url*="f_ContentType=Journal+Articles"]';
 const ARTICLE_ITEMS = ".sr-list.content-type-journal-articles";
 
@@ -260,10 +261,6 @@ async function finish(state, reason) {
 async function processCurrentPage() {
   const state = await loadState();
   if (!state?.running) return;
-  if (location.pathname.startsWith("/toc/jacsat/")) {
-    await processIssuePage(state);
-    return;
-  }
   const pageNumber = new URL(location.href).searchParams.get("page") || "?";
   setPanel(`진단: ${pageNumber}페이지 진입 · 누적 ${state.articles.length}편`, true);
 
@@ -368,13 +365,12 @@ async function startCollection() {
     ranges: [],
     rangeIndex: 0,
     rangeApplied: false,
-    issues: baseline.force_baseline || !baseline.known_dois.length ? makeIssueBackfill() : [],
+    issues: [],
     issueIndex: 0,
   };
   await saveState(state);
   if (state.mode === "baseline") {
-    const firstIssue = state.issues[0];
-    location.href = `https://pubs.acs.org/toc/jacsat/${firstIssue.volume}/${firstIssue.issue}#jacs-auto`;
+    location.href = BACKFILL_URL;
     return;
   }
   const startUrl = new URL(location.href);
