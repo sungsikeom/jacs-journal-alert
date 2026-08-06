@@ -1,9 +1,111 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-08-05T00:30:18.669Z",
+  "collected_at": "2026-08-06T00:30:18.366Z",
   "scope_start": "2026-01-01",
-  "article_count": 2776,
+  "article_count": 2793,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c11377",
+      "title": "Overriding Intrinsic Site-Selectivity in Nickel(II)-Catalyzed Enantioselective Methylene C(sp3)–H Alkynylation",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1021/jacs.6c11377"
+    },
+    {
+      "doi": "10.1021/jacs.6c10840",
+      "title": "Iron-Catalyzed Dealkenylative Borylation of Alkenes via Ozonolysis",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1021/jacs.6c10840"
+    },
+    {
+      "doi": "10.1021/jacs.6c10817",
+      "title": "An Ortho-B−π–B-Fused All-Six-Membered BN[7]Helicene for Narrowband Circularly Polarized Luminescence with Robust Configurational Stability",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1021/jacs.6c10817"
+    },
+    {
+      "doi": "10.1021/jacs.6c09712",
+      "title": "Synergistic Copper-Organoboron Activation of Aspartic Acid Enabled Peptide Cyclization and Conjugation",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1021/jacs.6c09712"
+    },
+    {
+      "doi": "10.1021/jacs.6c09548",
+      "title": "A Bioorthogonal Desilylation System Potentiates mRNA Therapeutics in Tumors",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1021/jacs.6c09548"
+    },
+    {
+      "doi": "10.1021/jacs.6c09417",
+      "title": "Nickel(I) in an All-Ferric NiFeS Cluster",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1021/jacs.6c09417"
+    },
+    {
+      "doi": "10.1021/jacs.6c09364",
+      "title": "Universal Metal-Free Deborylation–Deuteration via Redox-Decoupled Tandem Flow Electrosynthesis",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1021/jacs.6c09364"
+    },
+    {
+      "doi": "10.1021/jacs.6c09131",
+      "title": "Stereoselectivity of Galactosylation Reactions In Vacuo",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1021/jacs.6c09131"
+    },
+    {
+      "doi": "10.1021/jacs.6c08907",
+      "title": "Water Oxidation by Molecular Catalyst Bilayers Self-Assembled on Bismuth Vanadium Oxide (BVO) Photoelectrodes",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1021/jacs.6c08907"
+    },
+    {
+      "doi": "10.1021/jacs.6c08430",
+      "title": "Harnessing Reaction-Driven Structural Evolution of Zeolite-Supported Gold Catalyst for Selective Oxidation Reactions",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1021/jacs.6c08430"
+    },
+    {
+      "doi": "10.1021/jacs.6c08320",
+      "title": "Dynamic Covalent Functionalization of DNA Origami via Iminoboronate Chemistry",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1021/jacs.6c08320"
+    },
+    {
+      "doi": "10.1021/jacs.6c08313",
+      "title": "Tunable Chiral D4-Symmetric Phthalocyanines with Rationally Designed Aggregation for Near-Infrared Circularly Polarized Luminescence",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1021/jacs.6c08313"
+    },
+    {
+      "doi": "10.1021/jacs.6c08298",
+      "title": "Endowing Centrosymmetric Oxides with Effective Piezoelectricity via Oxygen Vacancy Engineering and Single-Atom Anchoring for Multicatalytic Sono-Immunotherapy",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1021/jacs.6c08298"
+    },
+    {
+      "doi": "10.1021/jacs.6c07797",
+      "title": "Alternating Copolymerization of Cyclobutenes and Norbornenes by a Dual-Site Grubbs Catalyst",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1021/jacs.6c07797"
+    },
+    {
+      "doi": "10.1021/jacs.6c07593",
+      "title": "De Novo-Designed Bifunctional Proteins for Targeted Protein Degradation",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1021/jacs.6c07593"
+    },
+    {
+      "doi": "10.1021/jacs.6c07266",
+      "title": "Hexaphenylbenzene Nodes Reshape Hydroxide Transport Energetics in Rigid Microporous Membranes",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1021/jacs.6c07266"
+    },
+    {
+      "doi": "10.1021/jacs.6c05693",
+      "title": "Spectroscopic Tracking of Size Selectivity in Crown Ethers: A Unified Molecular Picture of Encapsulation",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1021/jacs.6c05693"
+    },
     {
       "doi": "10.1021/jacs.6c12975",
       "title": "Lowering the δ-to-α Phase-Transition Barrier via a Transient Vapor Mediator in Perovskite Formation",
