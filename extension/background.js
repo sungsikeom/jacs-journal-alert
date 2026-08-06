@@ -83,6 +83,20 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
     return true;
   }
 
+  if (message?.type === "cancel") {
+    fetch(`${RECEIVER}/cancel`, { method: "POST" })
+      .then((response) => {
+        if (!response.ok) throw new Error(`Local receiver returned HTTP ${response.status}`);
+        return response.json();
+      })
+      .then((payload) => {
+        sendResponse({ ok: true, payload });
+        closeCollectorTab(sender);
+      })
+      .catch((error) => sendResponse({ ok: false, error: error.message }));
+    return true;
+  }
+
   if (message?.type === "science-baseline") {
     armCollectorCleanup(sender);
     fetch(`${SCIENCE_RECEIVER}/baseline`)

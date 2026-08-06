@@ -74,6 +74,12 @@ const server = http.createServer(async (request, response) => {
       json(response, 200, { ok: true });
       return;
     }
+    if (request.method === "POST" && request.url === "/cancel") {
+      json(response, 200, { cancelled: true });
+      clearInterval(idleTimer);
+      setTimeout(() => server.close(), 250);
+      return;
+    }
     if (request.method === "POST" && request.url === "/complete") {
       const body = await readBody(request);
       const incoming = Array.isArray(body.articles) ? body.articles : [];

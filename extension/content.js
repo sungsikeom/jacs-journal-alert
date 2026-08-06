@@ -1,6 +1,6 @@
 const STATE_KEY = "jacsCollectorState";
 const CUTOFF = "2025-01-01";
-const COLLECTOR_BUILD = "1.4.8";
+const COLLECTOR_BUILD = "1.4.9";
 const BACKFILL_URL = "https://pubs.acs.org/jacsat/search-results?sort=Date+-+Newest+First&f_JournalID=1000059&f_ContentType=Journal+Articles&fl_SiteID=1000113&qb=%7B%22q%22%3A%22%22%7D&rg_PublicationDate=2025-01-01%20TO%202026-01-01&page=1#jacs-auto";
 const ARTICLE_FILTER = 'input.chkSelect[data-redirect-url*="f_ContentType=Journal+Articles"]';
 const ARTICLE_ITEMS = ".sr-list.content-type-journal-articles";
@@ -235,6 +235,7 @@ function setPanel(message, running = false) {
   const status = document.querySelector("#jacs-collector-status");
   const history = document.querySelector("#jacs-collector-history");
   const button = document.querySelector("#jacs-collector-start");
+  const stopButton = document.querySelector("#jacs-collector-stop");
   if (status) status.textContent = message;
   if (history) {
     const entries = JSON.parse(history.dataset.entries || "[]");
@@ -245,6 +246,17 @@ function setPanel(message, running = false) {
   if (button) {
     button.textContent = running ? "새 수집으로 초기화" : "JACS 수집 시작";
     button.disabled = false;
+  }
+  if (stopButton) stopButton.disabled = !running;
+}
+
+async function stopCollection() {
+  await chrome.storage.local.remove(STATE_KEY);
+  setPanel("중단 중", false);
+  try {
+    await sendMessage({ type: "cancel" });
+  } catch (error) {
+    setPanel(`중단됨 · ${error.message}`, false);
   }
 }
 
@@ -390,9 +402,10 @@ function installPanel() {
   const panel = document.createElement("div");
   panel.id = "jacs-collector-panel";
   panel.style.cssText = "position:fixed;right:16px;bottom:16px;z-index:2147483647;background:#fff;border:1px solid #1f4e79;border-radius:8px;padding:12px;box-shadow:0 2px 12px #0003;font:14px Arial;color:#111";
-  panel.innerHTML = '<div id="jacs-collector-status" style="margin-bottom:8px">준비됨</div><div id="jacs-collector-history" data-entries="[]" style="margin-bottom:8px;max-width:360px;max-height:120px;overflow:auto;font-size:11px;color:#444"></div><button id="jacs-collector-start" type="button" style="padding:7px 10px;cursor:pointer">JACS 수집 시작</button>';
+  panel.innerHTML = '<div id="jacs-collector-status" style="margin-bottom:8px">준비됨</div><div id="jacs-collector-history" data-entries="[]" style="margin-bottom:8px;max-width:360px;max-height:120px;overflow:auto;font-size:11px;color:#444"></div><div style="display:flex;gap:8px"><button id="jacs-collector-start" type="button" style="padding:7px 10px;cursor:pointer">JACS 수집 시작</button><button id="jacs-collector-stop" type="button" style="padding:7px 10px;cursor:pointer" disabled>중단</button></div>';
   document.body.appendChild(panel);
-  panel.querySelector("button").addEventListener("click", () => startCollection().catch((error) => setPanel(`오류: ${error.message}`, false)));
+  panel.querySelector("#jacs-collector-start").addEventListener("click", () => startCollection().catch((error) => setPanel(`오류: ${error.message}`, false)));
+  panel.querySelector("#jacs-collector-stop").addEventListener("click", () => stopCollection());
 }
 
 installPanel();
