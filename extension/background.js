@@ -3,6 +3,7 @@ const SCIENCE_RECEIVER = "http://127.0.0.1:47822";
 const PUBLISHER_RECEIVER = "http://127.0.0.1:47823";
 const COLLECTOR_ALARM_PREFIX = "collector-tab:";
 const COLLECTOR_TIMEOUT_MINUTES = 10;
+const JACS_ACTIVE_TAB_KEY = "jacsActiveCollectorTabId";
 
 // Extension reloads can leave alarms associated with tab IDs that Chrome later reuses.
 // Clear those stale alarms before tracking a new collector run.
@@ -18,6 +19,23 @@ function automatedCollectorTabId(sender) {
 
 function collectorAlarmName(tabId) {
   return `${COLLECTOR_ALARM_PREFIX}${tabId}`;
+}
+
+async function claimJacsCollector(sender) {
+  const tabId = automatedCollectorTabId(sender);
+  if (tabId === null) throw new Error("자동 JACS 수집 탭을 확인하지 못했습니다.");
+  const stored = await chrome.storage.session.get(JACS_ACTIVE_TAB_KEY);
+  const activeTabId = stored[JACS_ACTIVE_TAB_KEY];
+  if (Number.isInteger(activeTabId) && activeTabId !== tabId) {
+    const activeTabExists = await chrome.tabs.get(activeTabId).then(() => true).catch(() => false);
+    if (activeTabExists) throw new Error("다른 JACS 수집 탭이 이미 실행 중입니다.");
+  }
+  await chrome.storage.session.set({ [JACS_ACTIVE_TAB_KEY]: tabId });
+}
+
+async function releaseJacsCollector(tabId) {
+  const stored = await chrome.storage.session.get(JACS_ACTIVE_TAB_KEY);
+  if (stored[JACS_ACTIVE_TAB_KEY] === tabId) await chrome.storage.session.remove(JACS_ACTIVE_TAB_KEY);
 }
 
 function armCollectorCleanup(sender) {
@@ -44,12 +62,14 @@ chrome.alarms.onAlarm.addListener((alarm) => {
 
 chrome.tabs.onRemoved.addListener((tabId) => {
   chrome.alarms.clear(collectorAlarmName(tabId));
+  releaseJacsCollector(tabId);
 });
 
 chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
   if (message?.type === "baseline") {
     armCollectorCleanup(sender);
-    fetch(`${RECEIVER}/baseline`)
+    claimJacsCollector(sender)
+      .then(() => fetch(`${RECEIVER}/baseline`))
       .then((response) => {
         if (!response.ok) throw new Error(`Local receiver returned HTTP ${response.status}`);
         return response.json();

@@ -11,8 +11,9 @@ const PAGE_STATS_OUTPUT = path.join(ROOT, "diagnostics", "jacs-page-stats.json")
 const CUTOFF = "2025-01-01";
 const PORT = 47821;
 const PROFILE_DIR = process.env.ACS_CHROME_PROFILE_DIR || "Profile 1";
+const START_PAGE = Math.max(1, Number(process.env.JACS_START_PAGE || 1));
 const IDLE_TIMEOUT_MS = Number(process.env.PUBLISHER_IDLE_TIMEOUT_MS || 180_000);
-const URL = "https://pubs.acs.org/jacsat/search-results?sort=Date+-+Newest+First&f_JournalID=1000059&fl_SiteID=1000113&qb={%22q%22:%22%22}&page=1#jacs-auto";
+const URL = `https://pubs.acs.org/jacsat/search-results?sort=Date+-+Newest+First&f_JournalID=1000059&f_ContentType=Journal+Articles&fl_SiteID=1000113&qb=%7B%22q%22%3A%22%22%7D&rg_PublicationDate=2025-01-01%20TO%202026-01-01&page=${START_PAGE}#jacs-auto`;
 let lastActivityAt = Date.now();
 
 function normalizeDoi(value) {
