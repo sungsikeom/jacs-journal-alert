@@ -13,7 +13,7 @@ let visibleCount = pageSize;
 
 const escapeHtml = value => String(value ?? '').replace(/[&<>'"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
 const journalDisplayName = value => ({
-  'Nat Commun': '넷컴',
+  'Nat Commun': 'Nat Commun',
   'J. Comput. Chem.': 'JCC',
   'Angew. Chem. Int. Ed.': 'Angew.',
 }[value] || value);
