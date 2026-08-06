@@ -1,9 +1,9 @@
 const STATE_KEY = "jacsCollectorState";
 const CUTOFF = "2025-01-01";
-const COLLECTOR_BUILD = "1.4.9";
+const COLLECTOR_BUILD = "1.5.0";
 const BACKFILL_URL = "https://pubs.acs.org/jacsat/search-results?sort=Date+-+Newest+First&f_JournalID=1000059&f_ContentType=Journal+Articles&fl_SiteID=1000113&qb=%7B%22q%22%3A%22%22%7D&rg_PublicationDate=2025-01-01%20TO%202026-01-01&page=1#jacs-auto";
 const ARTICLE_FILTER = 'input.chkSelect[data-redirect-url*="f_ContentType=Journal+Articles"]';
-const ARTICLE_ITEMS = ".sr-list.content-type-journal-articles";
+const ARTICLE_ITEMS = ".sr-list";
 
 function normalizeDoi(value) {
   const match = String(value || "").match(/10\.1021\/jacs\.[^?#/]+/i);
@@ -24,21 +24,25 @@ function isoDate(value) {
 
 function readPage() {
   const byDoi = new Map();
-  const articleItems = [...document.querySelectorAll(ARTICLE_ITEMS)]
+  const resultItems = [...document.querySelectorAll(ARTICLE_ITEMS)]
     .filter((item) => item.querySelector('a[href*="/doi/"], a[href*="doi.org/"], [data-doi]'));
-  const items = articleItems.length ? articleItems : [...document.querySelectorAll('a[href*="/doi/"], a[href*="doi.org/"], [data-doi]')]
+  const items = resultItems.length ? resultItems : [...document.querySelectorAll('a[href*="/doi/"], a[href*="doi.org/"], [data-doi]')]
     .map((anchor) => anchor.closest(".item-container, .sr-list, article, li") || anchor.parentElement)
     .filter(Boolean);
   for (const item of items) {
     const anchors = [...item.querySelectorAll('a[href*="/doi/"], a[href*="doi.org/"]')];
-    const doi = normalizeDoi(anchors.map((anchor) => anchor.href).find((href) => normalizeDoi(href)));
+    const dataDoiNodes = [item, ...item.querySelectorAll("[data-doi]")];
+    const doi = normalizeDoi([
+      ...anchors.map((anchor) => anchor.href),
+      ...dataDoiNodes.map((node) => node.getAttribute("data-doi")),
+    ].find((value) => normalizeDoi(value)));
     if (!doi || byDoi.has(doi)) continue;
-    const titleNode = item.querySelector(".sri-title h4 a, .sri-title a, h4 a");
+    const titleNode = item.querySelector(".sri-title h4 a, .sri-title a, [class*='title'] a, h2 a, h3 a, h4 a, h5 a");
     const dateNode = item.querySelector(".sri-date.al-pub-date, .sri-date");
     byDoi.set(doi, {
       doi,
       title: String(titleNode?.textContent || doi).replace(/\s+/g, " ").trim(),
-      published_date: isoDate(dateNode?.textContent || ""),
+      published_date: isoDate(dateNode?.textContent || item.textContent || ""),
       url: `https://doi.org/${doi}`,
     });
   }
