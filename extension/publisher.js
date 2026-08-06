@@ -1,6 +1,6 @@
 const PUBLISHER_STATE_KEY = "publisherCollectorState";
 const PUBLISHER_CUTOFF = "2026-01-01";
-const PUBLISHER_BUILD = "1.3.10";
+const PUBLISHER_BUILD = "1.3.11";
 
 const publisherConfig = (() => {
   if (location.hostname === "www.nature.com") return { key: "nature", label: "Nature Communications", prefix: "10.1038/s41467-", source: "Nature Communications Research Articles" };
@@ -158,7 +158,8 @@ function openNextPublisherPage() {
       nextUrl.searchParams.set("searchType", "journalSearch");
       nextUrl.searchParams.set("sort", "PubDate");
     } else {
-      nextUrl.searchParams.set("f_ArticleTypeDisplayName", "ARTICLE");
+      nextUrl.searchParams.set("f_ContentType", "Journal Articles");
+      nextUrl.searchParams.delete("f_ArticleTypeDisplayName");
       nextUrl.searchParams.set("sort", "Date - Newest First");
     }
     nextUrl.hash = "publisher-auto";
@@ -262,8 +263,8 @@ async function processPublisherPage() {
 }
 
 async function startPublisherCollection() {
-  if (publisherConfig.key === "jctc" && new URL(location.href).searchParams.get("f_ArticleTypeDisplayName") !== "ARTICLE") {
-    throw new Error("JCTC Article Type 필터가 없습니다. ARTICLE 필터 주소에서 시작하세요.");
+  if (publisherConfig.key === "jctc" && new URL(location.href).searchParams.get("f_ContentType") !== "Journal Articles") {
+    throw new Error("JCTC Content Type 필터가 없습니다. Journal Articles 필터 주소에서 시작하세요.");
   }
   const baseline = await publisherMessage({ type: "publisher-baseline", reset: true });
   const state = {

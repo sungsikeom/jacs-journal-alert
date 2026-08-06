@@ -13,7 +13,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
-from datetime import datetime, timedelta, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 
@@ -313,6 +313,16 @@ def merge_publisher_baseline(
     return deduplicate([*articles, *inventory.values()])
 
 
+def carry_same_day_new_articles(
+    fetched: list[dict[str, Any]], old_output: dict[str, Any], today: date
+) -> list[dict[str, Any]]:
+    """Keep today's NEW list stable when the updater runs more than once."""
+    if str(old_output.get("checked_at", ""))[:10] != today.isoformat():
+        return []
+    previous_new = {normalize_doi(value) for value in old_output.get("new_dois", [])}
+    return [article for article in fetched if article["doi"] in previous_new]
+
+
 def update(
     fixture: Path | None,
     rows: int,
@@ -325,6 +335,7 @@ def update(
     scope_start = SCOPE_START
     scope_end = today.isoformat()
     old_state = load_json(STATE_PATH, {})
+    old_output = load_json(ARTICLES_PATH, {})
     initialized = (
         bool(old_state.get("initialized"))
         and old_state.get("scope_start") == scope_start
@@ -354,20 +365,23 @@ def update(
         fetched = merge_publisher_baseline(
             fetched, load_publisher_articles(inventory_path, journals_by_key[key])
         )
-    new_articles = [article for article in fetched if article["doi"] not in seen] if initialized else []
+    detected_new_articles = [article for article in fetched if article["doi"] not in seen] if initialized else []
+    display_new_articles = detected_new_articles
+    if initialized and not display_new_articles:
+        display_new_articles = carry_same_day_new_articles(fetched, old_output, today)
     new_dois = {article["doi"] for article in fetched}
     combined_seen = sorted((seen | new_dois) if initialized else new_dois)
     output = {
         "checked_at": checked_at,
         "journal_count": len({article["journal"] for article in fetched}),
-        "new_count": len(new_articles),
+        "new_count": len(display_new_articles),
         "total_count": len(fetched),
         "baseline_initialized": not initialized,
         "scope_start": scope_start,
         "scope_end": scope_end,
         "source_mode": source_mode,
         "articles": fetched,
-        "new_dois": [article["doi"] for article in new_articles],
+        "new_dois": [article["doi"] for article in display_new_articles],
     }
     state = {
         "initialized": True,
@@ -379,16 +393,19 @@ def update(
 
     atomic_write(ARTICLES_PATH, json.dumps(output, ensure_ascii=False, indent=2) + "\n")
     atomic_write(STATE_PATH, json.dumps(state, ensure_ascii=False, indent=2) + "\n")
-    atomic_write(ISSUE_BODY_PATH, issue_markdown(new_articles, checked_at) if new_articles else "")
+    atomic_write(
+        ISSUE_BODY_PATH,
+        issue_markdown(detected_new_articles, checked_at) if detected_new_articles else "",
+    )
 
     github_output = os.environ.get("GITHUB_OUTPUT")
     if github_output:
         with open(github_output, "a", encoding="utf-8") as handle:
-            handle.write(f"new_count={len(new_articles)}\n")
+            handle.write(f"new_count={len(detected_new_articles)}\n")
             handle.write(f"checked_date={datetime.now(SEOUL).date().isoformat()}\n")
     print(
         f"Checked {len(fetched)} records published from {scope_start} through {scope_end}; "
-        f"found {len(new_articles)} new DOI(s)."
+        f"found {len(detected_new_articles)} new DOI(s)."
     )
     return 0
 

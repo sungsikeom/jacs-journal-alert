@@ -11,7 +11,7 @@ const PORT = 47823;
 const PROFILE_DIR = process.env.PUBLISHER_CHROME_PROFILE_DIR || "Profile 1";
 const configs = {
   nature: { output: "nature_communications_articles.json", minimum: 5000, url: "https://www.nature.com/ncomms/research-articles#publisher-auto" },
-  jctc: { output: "jctc_articles.json", minimum: 300, url: "https://pubs.acs.org/jctcce/search-results?sort=Date+-+Newest+First&f_JournalID=1000064&f_ArticleTypeDisplayName=ARTICLE&fl_SiteID=1000123&qb=%7B%22q%22%3A%22%22%7D&page=1#publisher-auto" },
+  jctc: { output: "jctc_articles.json", minimum: 300, url: "https://pubs.acs.org/jctcce/search-results?sort=Date+-+Newest+First&f_JournalID=1000064&f_ContentType=Journal+Articles&fl_SiteID=1000123&qb=%7B%22q%22%3A%22%22%7D&page=1#publisher-auto" },
   jcc: { output: "jcc_articles.json", minimum: 100, excludedTitles: [/^issue information$/i], url: "https://onlinelibrary.wiley.com/action/doSearch?SeriesKey=1096987x&startPage=0&sortBy=Earliest#publisher-auto" },
   angew: { output: "angew_articles.json", minimum: 1000, excludedTitles: [/^issue information$/i, /^(?:inside |outside )?(?:front |back )?cover:/i, /^frontispiece:/i], url: "https://onlinelibrary.wiley.com/action/doSearch?SeriesKey=15213773&startPage=0&sortBy=Earliest#publisher-auto" },
 };
@@ -21,6 +21,13 @@ const config = configs[key];
 if (!config) {
   console.error(`Usage: node scripts/receive_publisher_collection.mjs ${Object.keys(configs).join("|")}`);
   process.exit(2);
+}
+const requestedStartPage = Number.parseInt(process.argv[3] || "", 10);
+const forceBaseline = process.argv.includes("--fresh");
+if (key === "jctc" && Number.isInteger(requestedStartPage) && requestedStartPage > 0) {
+  const startUrl = new URL(config.url);
+  startUrl.searchParams.set("page", String(requestedStartPage));
+  config.url = startUrl.toString();
 }
 const output = path.join(ROOT, "data", config.output);
 const sessionPath = path.join(ROOT, "diagnostics", `${key}-publisher-session.json`);
@@ -94,7 +101,7 @@ const server = http.createServer(async (request, response) => {
     }
     const requestUrl = new URL(request.url, `http://127.0.0.1:${PORT}`);
     if (request.method === "GET" && requestUrl.pathname === "/baseline") {
-      const existing = await existingArticles();
+      const existing = forceBaseline ? [] : await existingArticles();
       if (requestUrl.searchParams.get("reset") === "1") {
         sessionByDoi.clear();
         sessionMode = existing.length ? "incremental" : "baseline";

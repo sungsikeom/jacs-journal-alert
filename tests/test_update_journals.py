@@ -1,5 +1,6 @@
 import importlib.util
 import unittest
+from datetime import date
 from pathlib import Path
 
 
@@ -62,6 +63,18 @@ class MetadataNormalizationTests(unittest.TestCase):
             {item["doi"] for item in result},
             {"10.1002/anie.202600001", "10.1002/anie.202500001"},
         )
+
+    def test_same_day_new_articles_survive_a_second_update(self):
+        fetched = [
+            {"doi": "10.1002/anie.202600001", "title": "new"},
+            {"doi": "10.1002/anie.202600002", "title": "old"},
+        ]
+        old_output = {
+            "checked_at": "2026-08-06T09:17:00+09:00",
+            "new_dois": ["10.1002/anie.202600001"],
+        }
+        carried = UPDATE.carry_same_day_new_articles(fetched, old_output, date(2026, 8, 6))
+        self.assertEqual([item["doi"] for item in carried], ["10.1002/anie.202600001"])
 
     def test_load_science_articles_normalizes_site_fields(self):
         science_path = Path(__file__).resolve().parents[1] / "data" / "science_articles.json"
