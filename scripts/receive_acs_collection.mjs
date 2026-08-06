@@ -77,7 +77,7 @@ const server = http.createServer(async (request, response) => {
     if (request.method === "POST" && request.url === "/complete") {
       const body = await readBody(request);
       const incoming = Array.isArray(body.articles) ? body.articles : [];
-      const existing = body.mode === "incremental" ? await loadExisting() : [];
+      const existing = await loadExisting();
       const byDoi = new Map();
       for (const item of [...existing, ...incoming]) {
         const doi = normalizeDoi(item.doi);

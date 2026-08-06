@@ -79,9 +79,8 @@ function saveState(state) {
 
 function makeMonthlyRanges() {
   const ranges = [];
-  const now = new Date();
   const cutoff = new Date(`${CUTOFF}T00:00:00Z`);
-  for (let cursor = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), 1)); cursor >= cutoff; cursor.setUTCMonth(cursor.getUTCMonth() - 1)) {
+  for (let cursor = new Date(Date.UTC(2026, 0, 1)); cursor >= cutoff; cursor.setUTCMonth(cursor.getUTCMonth() - 1)) {
     const year = cursor.getUTCFullYear();
     const month = cursor.getUTCMonth();
     const from = `${year}-${String(month + 1).padStart(2, "0")}-01`;
