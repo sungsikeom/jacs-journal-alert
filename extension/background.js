@@ -4,6 +4,10 @@ const PUBLISHER_RECEIVER = "http://127.0.0.1:47823";
 const COLLECTOR_ALARM_PREFIX = "collector-tab:";
 const COLLECTOR_TIMEOUT_MINUTES = 10;
 
+// Extension reloads can leave alarms associated with tab IDs that Chrome later reuses.
+// Clear those stale alarms before tracking a new collector run.
+chrome.alarms.clearAll();
+
 function automatedCollectorTabId(sender) {
   const tabId = sender?.tab?.id;
   const url = sender?.tab?.url || sender?.url || "";
