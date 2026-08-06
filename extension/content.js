@@ -1,6 +1,6 @@
 const STATE_KEY = "jacsCollectorState";
 const CUTOFF = "2025-01-01";
-const COLLECTOR_BUILD = "1.5.0";
+const COLLECTOR_BUILD = "1.5.1";
 const BACKFILL_URL = "https://pubs.acs.org/jacsat/search-results?sort=Date+-+Newest+First&f_JournalID=1000059&f_ContentType=Journal+Articles&fl_SiteID=1000113&qb=%7B%22q%22%3A%22%22%7D&rg_PublicationDate=2025-01-01%20TO%202026-01-01&page=1#jacs-auto";
 const ARTICLE_FILTER = 'input.chkSelect[data-redirect-url*="f_ContentType=Journal+Articles"]';
 const ARTICLE_ITEMS = ".sr-list";
@@ -24,7 +24,8 @@ function isoDate(value) {
 
 function readPage() {
   const byDoi = new Map();
-  const resultItems = [...document.querySelectorAll(ARTICLE_ITEMS)]
+  const visibleItems = [...document.querySelectorAll(ARTICLE_ITEMS)];
+  const resultItems = visibleItems
     .filter((item) => item.querySelector('a[href*="/doi/"], a[href*="doi.org/"], [data-doi]'));
   const items = resultItems.length ? resultItems : [...document.querySelectorAll('a[href*="/doi/"], a[href*="doi.org/"], [data-doi]')]
     .map((anchor) => anchor.closest(".item-container, .sr-list, article, li") || anchor.parentElement)
@@ -46,7 +47,13 @@ function readPage() {
       url: `https://doi.org/${doi}`,
     });
   }
-  return [...byDoi.values()];
+  const rows = [...byDoi.values()];
+  rows.read_stats = {
+    visible_cards: visibleItems.length,
+    doi_cards: resultItems.length,
+    unique_dois: rows.length,
+  };
+  return rows;
 }
 
 function readIssuePage() {
@@ -323,6 +330,17 @@ async function processCurrentPage() {
 
   const known = new Set(state.known_dois);
   const collected = new Set(state.articles.map((article) => article.doi));
+  const newRows = rows.filter((row) => !collected.has(row.doi));
+  const duplicateRows = rows.filter((row) => collected.has(row.doi));
+  const pageStat = {
+    page: pageNumber,
+    visible_cards: rows.read_stats?.visible_cards ?? rows.length,
+    doi_cards: rows.read_stats?.doi_cards ?? rows.length,
+    unique_dois: rows.length,
+    new_dois: newRows.length,
+    duplicate_dois: duplicateRows.length,
+    total_after_page: state.articles.length + newRows.length,
+  };
   let stopReason = null;
   for (const row of rows) {
     if (!row.published_date) throw new Error(`날짜를 읽지 못했습니다: ${row.doi}`);
@@ -341,9 +359,10 @@ async function processCurrentPage() {
   }
 
   state.pages += 1;
+  state.page_stats = [...(state.page_stats || []), pageStat];
   await saveState(state);
-  await sendMessage({ type: "progress" });
-  setPanel(`${state.pages}페이지 · ${state.articles.length}편`, true);
+  await sendMessage({ type: "progress", payload: pageStat });
+  setPanel(`${pageNumber}페이지 · 카드 ${pageStat.visible_cards} · DOI ${pageStat.unique_dois} · 신규 ${pageStat.new_dois} · 중복 ${pageStat.duplicate_dois} · 누적 ${state.articles.length}편`, true);
   if (stopReason) {
     await finish(state, stopReason);
     return;
@@ -378,6 +397,7 @@ async function startCollection() {
     rangeApplied: false,
     issues: [],
     issueIndex: 0,
+    page_stats: [],
   };
   await saveState(state);
   if (state.mode === "baseline") {

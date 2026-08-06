@@ -7,6 +7,7 @@ import { fileURLToPath } from "node:url";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const OUTPUT = path.join(ROOT, "data", "acs_articles.json");
+const PAGE_STATS_OUTPUT = path.join(ROOT, "diagnostics", "jacs-page-stats.json");
 const CUTOFF = "2025-01-01";
 const PORT = 47821;
 const PROFILE_DIR = process.env.ACS_CHROME_PROFILE_DIR || "Profile 1";
@@ -64,13 +65,27 @@ const server = http.createServer(async (request, response) => {
     if (request.method === "GET" && request.url === "/baseline") {
       const existingPayload = await loadExistingPayload();
       const existing = Array.isArray(existingPayload.articles) ? existingPayload.articles : [];
+      await fs.mkdir(path.dirname(PAGE_STATS_OUTPUT), { recursive: true });
+      await fs.writeFile(PAGE_STATS_OUTPUT, "[]\n", "utf8");
       json(response, 200, {
         known_dois: existing.map((item) => normalizeDoi(item.doi)).filter(Boolean),
         force_baseline: existingPayload.scope_start !== CUTOFF || existingPayload.backfill_complete !== true,
       });
       return;
     }
-    if (request.method === "GET" && request.url === "/heartbeat") {
+    if (request.method === "POST" && request.url === "/heartbeat") {
+      const pageStat = await readBody(request);
+      let pageStats = [];
+      try {
+        pageStats = JSON.parse(await fs.readFile(PAGE_STATS_OUTPUT, "utf8"));
+      } catch (error) {
+        if (error.code !== "ENOENT") throw error;
+      }
+      pageStats = pageStats.filter((item) => String(item.page) !== String(pageStat.page));
+      pageStats.push(pageStat);
+      await fs.mkdir(path.dirname(PAGE_STATS_OUTPUT), { recursive: true });
+      await fs.writeFile(PAGE_STATS_OUTPUT, `${JSON.stringify(pageStats, null, 2)}\n`, "utf8");
+      console.log(`JACS page ${pageStat.page}: cards ${pageStat.visible_cards}, unique DOI ${pageStat.unique_dois}, new ${pageStat.new_dois}, duplicates ${pageStat.duplicate_dois}, total ${pageStat.total_after_page}`);
       json(response, 200, { ok: true });
       return;
     }

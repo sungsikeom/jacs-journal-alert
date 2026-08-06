@@ -73,7 +73,11 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
 
   if (message?.type === "progress") {
     armCollectorCleanup(sender);
-    fetch(`${RECEIVER}/heartbeat`)
+    fetch(`${RECEIVER}/heartbeat`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(message.payload || {}),
+    })
       .then((response) => {
         if (!response.ok) throw new Error(`Local receiver returned HTTP ${response.status}`);
         return response.json();
