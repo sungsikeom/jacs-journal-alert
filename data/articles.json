@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-06T11:03:27+09:00",
+  "checked_at": "2026-08-06T11:05:24+09:00",
   "journal_count": 6,
   "new_count": 167,
   "total_count": 15862,
@@ -109802,6 +109802,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c21810",
+      "title": "Polydopamine Nanocages Orchestrate Multi-Site Networks on the Ni 4 Mo Electrocatalyst for Efficient and Ultrastable Hydrogen Evolution",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-04-10",
+      "indexed_at": "2026-08-06T02:03:45Z",
+      "url": "https://doi.org/10.1021/jacs.5c21810",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c02024",
       "title": "Hydrogen Bonding Enhanced Molecular Assembly of Hole-Selective Contact for Thermally Stable Perovskite Solar Cells",
       "journal": "Journal of the American Chemical Society",
@@ -110037,19 +110050,6 @@
       "published_date": "2026-04-10",
       "indexed_at": "2026-04-22T09:48:17Z",
       "url": "https://doi.org/10.1021/jacs.5c23398",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c21810",
-      "title": "Polydopamine Nanocages Orchestrate Multi-Site Networks on the Ni 4 Mo Electrocatalyst for Efficient and Ultrastable Hydrogen Evolution",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-04-10",
-      "indexed_at": "2026-04-22T09:48:16Z",
-      "url": "https://doi.org/10.1021/jacs.5c21810",
       "sources": [
         "acs",
         "crossref"
@@ -122702,6 +122702,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c01107",
+      "title": "Deciphering Proton Tunneling in Single-Molecule Chemical Reactions",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-03-26",
+      "indexed_at": "2026-08-06T02:05:16Z",
+      "url": "https://doi.org/10.1021/jacs.6c01107",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c02094",
       "title": "Spin Alignment in Cr–W–Cr Motif Promotes N , N -Dimethylformamide Electrosynthesis from Dimethylamine Self-Coupling",
       "journal": "Journal of the American Chemical Society",
@@ -122863,19 +122876,6 @@
       "published_date": "2026-03-26",
       "indexed_at": "2026-06-02T07:02:08Z",
       "url": "https://doi.org/10.1021/jacs.5c14354",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.6c01107",
-      "title": "Deciphering Proton Tunneling in Single-Molecule Chemical Reactions",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-03-26",
-      "indexed_at": "2026-05-08T04:46:06Z",
-      "url": "https://doi.org/10.1021/jacs.6c01107",
       "sources": [
         "acs",
         "crossref"
@@ -140996,6 +140996,18 @@
       ]
     },
     {
+      "doi": "10.1002/anie.7288776",
+      "title": "Dynamic Decoupling of Pt─H Intermediates Formation From Water Dissociation for Efficient Alkaline Hydrogen Evolution",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-03-05",
+      "indexed_at": "2026-08-06T02:04:20Z",
+      "url": "https://doi.org/10.1002/anie.7288776",
+      "sources": [
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.5c20436",
       "title": "Spatiotemporal Matching of Intermediates Governs Selective Electrochemical C–N Coupling",
       "journal": "Journal of the American Chemical Society",
@@ -141092,18 +141104,6 @@
       "published_date": "2026-03-05",
       "indexed_at": "2026-07-30T19:26:00Z",
       "url": "https://doi.org/10.1002/anie.8834948",
-      "sources": [
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1002/anie.7288776",
-      "title": "Dynamic Decoupling of Pt─H Intermediates Formation From Water Dissociation for Efficient Alkaline Hydrogen Evolution",
-      "journal": "Angewandte Chemie International Edition",
-      "journal_short": "Angew. Chem. Int. Ed.",
-      "published_date": "2026-03-05",
-      "indexed_at": "2026-07-30T17:30:38Z",
-      "url": "https://doi.org/10.1002/anie.7288776",
       "sources": [
         "crossref"
       ]
@@ -161273,6 +161273,19 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.5c19857",
+      "title": "Unconventional-Phase 1T′-Transition Metal Dichalcogenide Monolayers Grown on Amorphous Templates for Highly Efficient Hydrogen Evolution",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-02-10",
+      "indexed_at": "2026-08-06T02:04:20Z",
+      "url": "https://doi.org/10.1021/jacs.5c19857",
+      "sources": [
+        "acs",
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1002/anie.202524218",
       "title": "Switching N‐N Versus N‐H Couplings in Nitrate Electroreduction With CuPd Surface Atomic Motifs",
       "journal": "Angewandte Chemie International Edition",
@@ -161380,19 +161393,6 @@
       "published_date": "2026-02-10",
       "indexed_at": "2026-07-23T20:43:04Z",
       "url": "https://doi.org/10.1021/jacs.5c20694",
-      "sources": [
-        "acs",
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1021/jacs.5c19857",
-      "title": "Unconventional-Phase 1T′-Transition Metal Dichalcogenide Monolayers Grown on Amorphous Templates for Highly Efficient Hydrogen Evolution",
-      "journal": "Journal of the American Chemical Society",
-      "journal_short": "JACS",
-      "published_date": "2026-02-10",
-      "indexed_at": "2026-07-22T21:41:17Z",
-      "url": "https://doi.org/10.1021/jacs.5c19857",
       "sources": [
         "acs",
         "crossref"
