@@ -54,6 +54,15 @@ class MetadataNormalizationTests(unittest.TestCase):
         kept = next(item for item in result if item["doi"] == "10.1021/acs.jctc.6c00001")
         self.assertEqual(kept["title"], "publisher")
 
+    def test_publisher_baseline_keeps_inventory_and_new_indexed_records(self):
+        indexed = [{"doi": "10.1002/anie.202600001", "title": "new"}]
+        inventory = {"10.1002/anie.202500001": {"doi": "10.1002/anie.202500001", "title": "saved"}}
+        result = UPDATE.merge_publisher_baseline(indexed, inventory)
+        self.assertEqual(
+            {item["doi"] for item in result},
+            {"10.1002/anie.202600001", "10.1002/anie.202500001"},
+        )
+
     def test_load_science_articles_normalizes_site_fields(self):
         science_path = Path(__file__).resolve().parents[1] / "data" / "science_articles.json"
         articles = UPDATE.load_science_articles(science_path)

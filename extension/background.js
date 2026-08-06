@@ -56,7 +56,7 @@ chrome.runtime.onMessage.addListener((message, _sender, sendResponse) => {
   }
 
   if (message?.type === "publisher-baseline") {
-    fetch(`${PUBLISHER_RECEIVER}/baseline`)
+    fetch(`${PUBLISHER_RECEIVER}/baseline${message.reset ? "?reset=1" : ""}`)
       .then((response) => {
         if (!response.ok) throw new Error(`Local receiver returned HTTP ${response.status}`);
         return response.json();
@@ -68,6 +68,21 @@ chrome.runtime.onMessage.addListener((message, _sender, sendResponse) => {
 
   if (message?.type === "publisher-complete") {
     fetch(`${PUBLISHER_RECEIVER}/complete`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(message.payload),
+    })
+      .then((response) => response.json().then((payload) => ({ response, payload })))
+      .then(({ response, payload }) => {
+        if (!response.ok) throw new Error(payload.error || `Local receiver returned HTTP ${response.status}`);
+        sendResponse({ ok: true, payload });
+      })
+      .catch((error) => sendResponse({ ok: false, error: error.message }));
+    return true;
+  }
+
+  if (message?.type === "publisher-batch") {
+    fetch(`${PUBLISHER_RECEIVER}/batch`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(message.payload),
