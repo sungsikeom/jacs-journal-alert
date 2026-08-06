@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-06T10:56:25+09:00",
+  "checked_at": "2026-08-06T10:58:14+09:00",
   "journal_count": 6,
   "new_count": 1,
   "total_count": 15862,
@@ -163738,6 +163738,18 @@
       ]
     },
     {
+      "doi": "10.1002/anie.202524960",
+      "title": "Hydrogen‐Bond Network‐Directed Controllable Assembly of Stable Cyanine J‐Aggregates for Long‐Term and High‐Contrast In Vivo Imaging",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-02-08",
+      "indexed_at": "2026-08-06T01:57:22Z",
+      "url": "https://doi.org/10.1002/anie.202524960",
+      "sources": [
+        "crossref"
+      ]
+    },
+    {
       "doi": "10.1002/anie.202523473",
       "title": "Methyl Asymmetric Interference‐Enhanced Dipole–Dipole Interaction for High‐Performance Potassium–Graphite Battery Electrolyte Design",
       "journal": "Angewandte Chemie International Edition",
@@ -163793,18 +163805,6 @@
       "published_date": "2026-02-08",
       "indexed_at": "2026-07-28T14:09:58Z",
       "url": "https://doi.org/10.1002/anie.202526042",
-      "sources": [
-        "crossref"
-      ]
-    },
-    {
-      "doi": "10.1002/anie.202524960",
-      "title": "Hydrogen‐Bond Network‐Directed Controllable Assembly of Stable Cyanine J‐Aggregates for Long‐Term and High‐Contrast In Vivo Imaging",
-      "journal": "Angewandte Chemie International Edition",
-      "journal_short": "Angew. Chem. Int. Ed.",
-      "published_date": "2026-02-08",
-      "indexed_at": "2026-07-23T00:06:41Z",
-      "url": "https://doi.org/10.1002/anie.202524960",
       "sources": [
         "crossref"
       ]
