@@ -345,28 +345,36 @@ def update(
     )
     seen = {normalize_doi(value) for value in old_state.get("seen_dois", [])}
     journals_by_key = {journal["key"]: journal for journal in JOURNALS}
-    fetched = []
-    fixture_payload = load_json(fixture, {}) if fixture else None
-    for journal in JOURNALS:
-        items = (
-            fixture_payload.get("message", {}).get("items", [])
-            if fixture_payload is not None
-            else fetch_all_pages(journal["issn"], scope_start, scope_end, rows)
-        )
-        for item in items:
-            article = article_from_item(item, journal)
-            if article and article["published_date"] and scope_start <= article["published_date"] <= scope_end:
-                fetched.append(article)
-    fetched = deduplicate(fetched)
-    source_mode = "publisher-baseline+crossref" if acs_file or science_file or publisher_files else "crossref"
-    if acs_file:
-        fetched = merge_acs_and_crossref(load_acs_articles(acs_file), fetched)
-    if science_file:
-        fetched = deduplicate([*fetched, *load_science_articles(science_file).values()])
-    for key, inventory_path in publisher_files.items():
-        fetched = merge_publisher_baseline(
-            fetched, load_publisher_articles(inventory_path, journals_by_key[key])
-        )
+    official_only = bool(acs_file and science_file and len(publisher_files) == 4)
+    if official_only:
+        fetched = [*load_acs_articles(acs_file).values(), *load_science_articles(science_file).values()]
+        for key, inventory_path in publisher_files.items():
+            fetched.extend(load_publisher_articles(inventory_path, journals_by_key[key]).values())
+        fetched = deduplicate(fetched)
+        source_mode = "publisher-only"
+    else:
+        fetched = []
+        fixture_payload = load_json(fixture, {}) if fixture else None
+        for journal in JOURNALS:
+            items = (
+                fixture_payload.get("message", {}).get("items", [])
+                if fixture_payload is not None
+                else fetch_all_pages(journal["issn"], scope_start, scope_end, rows)
+            )
+            for item in items:
+                article = article_from_item(item, journal)
+                if article and article["published_date"] and scope_start <= article["published_date"] <= scope_end:
+                    fetched.append(article)
+        fetched = deduplicate(fetched)
+        source_mode = "crossref-transition"
+        if acs_file:
+            fetched = merge_acs_and_crossref(load_acs_articles(acs_file), fetched)
+        if science_file:
+            fetched = deduplicate([*fetched, *load_science_articles(science_file).values()])
+        for key, inventory_path in publisher_files.items():
+            fetched = apply_publisher_authority(
+                fetched, load_publisher_articles(inventory_path, journals_by_key[key]), journals_by_key[key]
+            )
     detected_new_articles = [article for article in fetched if article["doi"] not in seen] if initialized else []
     display_new_articles = recent_publication_articles(fetched, today)
     new_dois = {article["doi"] for article in fetched}

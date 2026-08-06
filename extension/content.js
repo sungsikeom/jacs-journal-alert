@@ -223,6 +223,11 @@ async function processCurrentPage() {
     return;
   }
 
+  if (rows.length < 20) {
+    await finish(state, "short-page");
+    return;
+  }
+
   const next = document.querySelector("button.sr-nav-next, a.sr-nav-next");
   if (!next) {
     await finish(state, "last-page");

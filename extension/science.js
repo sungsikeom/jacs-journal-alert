@@ -157,6 +157,10 @@ async function processScienceIssue() {
     await finishScience(state, "known-doi");
     return;
   }
+  if (rows.length < 20) {
+    await finishScience(state, "short-page");
+    return;
+  }
   if (issueDate < SCIENCE_CUTOFF || !previous) {
     await finishScience(state, issueDate < SCIENCE_CUTOFF ? "cutoff" : "last-issue");
     return;

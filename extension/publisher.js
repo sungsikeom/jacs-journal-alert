@@ -1,6 +1,6 @@
 const PUBLISHER_STATE_KEY = "publisherCollectorState";
 const PUBLISHER_CUTOFF = "2026-01-01";
-const PUBLISHER_BUILD = "1.3.11";
+const PUBLISHER_BUILD = "1.4.0";
 
 const publisherConfig = (() => {
   if (location.hostname === "www.nature.com") return { key: "nature", label: "Nature Communications", prefix: "10.1038/s41467-", source: "Nature Communications Research Articles" };
@@ -122,7 +122,7 @@ async function waitPublisherRows() {
     const rows = readPublisherPage();
     if (rows.length > best.length) best = rows;
     if (publisherConfig.key === "nature") {
-      const complete = rows.length === 20 && rows.every((row) => row.title && row.title !== row.doi && row.published_date);
+      const complete = rows.length > 0 && rows.length <= 20 && rows.every((row) => row.title && row.title !== row.doi && row.published_date);
       const signature = complete
         ? rows.map((row) => `${row.doi}|${row.title}|${row.published_date}`).sort().join("\n")
         : "";
@@ -137,9 +137,6 @@ async function waitPublisherRows() {
     if (stable >= 2) return rows;
     previous = rows.length;
     await new Promise((resolve) => setTimeout(resolve, 1000));
-  }
-  if (publisherConfig.key === "nature" && best.length < 20) {
-    throw new Error(`Nature 페이지가 불완전합니다: 20편 중 ${best.length}편만 로드됨`);
   }
   if (best.length) return best;
   throw new Error("공식 검색 결과를 읽지 못했습니다.");
@@ -225,12 +222,12 @@ async function processPublisherPage() {
     if (state.mode === "incremental" && known.has(row.doi)) { reason = "known-doi"; break; }
     pageRows.push(row);
   }
-  if (!reason && publisherConfig.key === "nature" && pageRows.length !== 20) {
-    throw new Error(`Nature 페이지 검증 실패: 전송 직전 ${pageRows.length}편`);
+  if (!reason && publisherConfig.key === "nature" && pageRows.length !== rows.length) {
+    throw new Error(`Nature 페이지 검증 실패: 감지 ${rows.length}편, 전송 ${pageRows.length}편`);
   }
   const batch = await publisherMessage({ type: "publisher-batch", payload: { articles: pageRows } });
-  if (!reason && publisherConfig.key === "nature" && batch.received_count !== 20) {
-    throw new Error(`Nature 전송 검증 실패: 20편 대신 ${batch.received_count}편 전송`);
+  if (!reason && publisherConfig.key === "nature" && batch.received_count !== rows.length) {
+    throw new Error(`Nature 전송 검증 실패: ${rows.length}편 대신 ${batch.received_count}편 전송`);
   }
   if (!reason && publisherConfig.key === "nature" && batch.added_count === 0) {
     throw new Error("Nature 페이지의 20편이 모두 이전 페이지와 중복됩니다. 페이지 이동을 확인하세요.");
@@ -249,10 +246,11 @@ async function processPublisherPage() {
       ? String(Number(new URL(location.href).searchParams.get("startPage") || "0") + 1)
       : state.pages;
   const pageBreakdown = publisherConfig.key === "nature"
-    ? ` · 이번 20편 · 신규 고유 ${batch.added_count}편`
+    ? ` · 이번 ${rows.length}편 · 신규 고유 ${batch.added_count}편`
     : "";
   publisherPanel(`${visiblePage}페이지${pageBreakdown} · 누적 ${state.article_count}편`, true);
   if (reason) return finishPublisher(state, reason);
+  if (rows.length < 20) return finishPublisher(state, "short-page");
   if (publisherConfig.key !== "nature" && !nextPublisherPage()) return finishPublisher(state, "last-page");
   setTimeout(() => {
     loadPublisherState().then((latest) => {
