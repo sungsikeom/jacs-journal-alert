@@ -1,9 +1,111 @@
 {
   "source": "Wiley Journal of Computational Chemistry search results",
-  "collected_at": "2026-08-05T10:04:34.545Z",
+  "collected_at": "2026-08-06T03:26:42.833Z",
   "scope_start": "2026-01-01",
-  "article_count": 125,
+  "article_count": 142,
   "articles": [
+    {
+      "doi": "10.1002/jcc.70456",
+      "title": "Non-Bivariational Time-Dependent Orbital-Quasi-Optimized Coupled-Cluster Methods Family for Fermion-Mixtures Dynamics",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1002/jcc.70456"
+    },
+    {
+      "doi": "10.1002/jcc.70475",
+      "title": "Integrating Coupled-Cluster Theory Within AI Workflows for Accurate Molecular Geometries",
+      "published_date": "2026-08-03",
+      "url": "https://doi.org/10.1002/jcc.70475"
+    },
+    {
+      "doi": "10.1002/jcc.70474",
+      "title": "Molecular Interactions of Pyridine With Water: A Combined DFT Benchmarking and QTAIM Analysis",
+      "published_date": "2026-07-31",
+      "url": "https://doi.org/10.1002/jcc.70474"
+    },
+    {
+      "doi": "10.1002/jcc.70473",
+      "title": "Accelerated “On-the-Fly” Coupled-Cluster Path-Integral Molecular Dynamics: Impact of Nuclear Quantum Effects on An Asymmetric Proton",
+      "published_date": "2026-07-31",
+      "url": "https://doi.org/10.1002/jcc.70473"
+    },
+    {
+      "doi": "10.1002/jcc.70477",
+      "title": "Umpolung Character of Styrenes: Mechanism and Stereoselective Studies of α, β-Substituted Amino Acids Using Chiral Ir-Phosphine Complexes",
+      "published_date": "2026-07-30",
+      "url": "https://doi.org/10.1002/jcc.70477"
+    },
+    {
+      "doi": "10.1002/jcc.70468",
+      "title": "Mapping Trofinetide Polypharmacology in Rett Syndrome: A Multi-Stage Computational Analysis",
+      "published_date": "2026-07-30",
+      "url": "https://doi.org/10.1002/jcc.70468"
+    },
+    {
+      "doi": "10.1002/jcc.70476",
+      "title": "WFX Molecular Fragment References for Hirshfeld Charge-Transfer Analysis in Non-Covalent Complexes",
+      "published_date": "2026-07-29",
+      "url": "https://doi.org/10.1002/jcc.70476"
+    },
+    {
+      "doi": "10.1002/jcc.70472",
+      "title": "Fast and Accurate GPU-Accelerated Computation of Two-Electron Four-Center Coulomb Repulsion Integrals",
+      "published_date": "2026-07-29",
+      "url": "https://doi.org/10.1002/jcc.70472"
+    },
+    {
+      "doi": "10.1002/jcc.70464",
+      "title": "Beyond Born Oppenheimer (BBO)-Based Multi-Electronic State Diabatic Hamiltonians: Reactive Scattering Processes",
+      "published_date": "2026-07-29",
+      "url": "https://doi.org/10.1002/jcc.70464"
+    },
+    {
+      "doi": "10.1002/jcc.70465",
+      "title": "Exploration of Minimum Energy Paths Through Feature-Vector Force-Driven Reaction Coordinate Exploration Approach",
+      "published_date": "2026-07-24",
+      "url": "https://doi.org/10.1002/jcc.70465"
+    },
+    {
+      "doi": "10.1002/jcc.70471",
+      "title": "Reexamining Al2H2: Evidence That the Unidentified Butterfly Ground-State Isomer Was Previously Observed",
+      "published_date": "2026-07-23",
+      "url": "https://doi.org/10.1002/jcc.70471"
+    },
+    {
+      "doi": "10.1002/jcc.70467",
+      "title": "On the Role of Hydrogen Bond Strength and Charge Transfer in an On-Water Diels–Alder Reaction: Semiempirical and Free Energy Calculations",
+      "published_date": "2026-07-20",
+      "url": "https://doi.org/10.1002/jcc.70467"
+    },
+    {
+      "doi": "10.1002/jcc.70453",
+      "title": "How Structural Subtleties Modulate Excited-State Lifetimes in Cyclometalated Cobalt(III) Complexes: Nonadiabatic Molecular Dynamics Study",
+      "published_date": "2026-07-20",
+      "url": "https://doi.org/10.1002/jcc.70453"
+    },
+    {
+      "doi": "10.1002/jcc.70469",
+      "title": "Electron Affinity of Actinide (IV) Carboxylate Complexes From MN12-L Density-Functional Calculations and Explainable Machine Learning",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1002/jcc.70469"
+    },
+    {
+      "doi": "10.1002/jcc.70451",
+      "title": "Solution-Phase Energy Decomposition Analysis (SP-EDA): Theory and Applications",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1002/jcc.70451"
+    },
+    {
+      "doi": "10.1002/jcc.70470",
+      "title": "Can Cavity Prediction Algorithms Help in Docking Experiments?",
+      "published_date": "2026-07-15",
+      "url": "https://doi.org/10.1002/jcc.70470"
+    },
+    {
+      "doi": "10.1002/jcc.70457",
+      "title": "In Honor of Prof. Peter R. Schreiner",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1002/jcc.70457"
+    },
     {
       "doi": "10.1002/jcc.70466",
       "title": "Lithium Surface Restructuring and Dendrite-Like Protrusion Formation in Li-S Electrolytes From Reactive Molecular Simulations With Machine-Learned Potentials",

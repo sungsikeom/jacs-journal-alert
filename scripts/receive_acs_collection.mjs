@@ -10,7 +10,9 @@ const OUTPUT = path.join(ROOT, "data", "acs_articles.json");
 const CUTOFF = "2026-01-01";
 const PORT = 47821;
 const PROFILE_DIR = process.env.ACS_CHROME_PROFILE_DIR || "Profile 1";
+const IDLE_TIMEOUT_MS = Number(process.env.PUBLISHER_IDLE_TIMEOUT_MS || 180_000);
 const URL = "https://pubs.acs.org/jacsat/search-results?sort=Date+-+Newest+First&f_JournalID=1000059&fl_SiteID=1000113&qb={%22q%22:%22%22}&page=1#jacs-auto";
+let lastActivityAt = Date.now();
 
 function normalizeDoi(value) {
   const match = String(value || "").toLowerCase().match(/10\.1021\/jacs\.[^?#/]+/);
@@ -45,6 +47,7 @@ async function readBody(request) {
 
 const server = http.createServer(async (request, response) => {
   try {
+    lastActivityAt = Date.now();
     if (request.method === "OPTIONS") {
       response.writeHead(204, {
         "Access-Control-Allow-Origin": "*",
@@ -95,6 +98,15 @@ server.listen(PORT, "127.0.0.1", () => {
   const child = spawn(chrome, [`--profile-directory=${PROFILE_DIR}`, "--new-window", URL], { detached: true, stdio: "ignore" });
   child.unref();
 });
+
+const idleTimer = setInterval(() => {
+  if (Date.now() - lastActivityAt < IDLE_TIMEOUT_MS) return;
+  console.warn(`JACS collector received no data for ${Math.round(IDLE_TIMEOUT_MS / 1000)} seconds; preserving the existing inventory and continuing.`);
+  clearInterval(idleTimer);
+  server.close();
+  server.closeAllConnections?.();
+  setTimeout(() => process.exit(0), 1000);
+}, 15_000);
 
 server.on("error", (error) => {
   console.error(error.message);

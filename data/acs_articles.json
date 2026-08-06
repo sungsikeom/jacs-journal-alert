@@ -1,9 +1,21 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-08-06T00:30:18.366Z",
+  "collected_at": "2026-08-06T03:23:57.370Z",
   "scope_start": "2026-01-01",
-  "article_count": 2793,
+  "article_count": 2795,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c09592",
+      "title": "Palladium-Catalyzed Asymmetric Remote Hydroamination of Internal Alkenes",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1021/jacs.6c09592"
+    },
+    {
+      "doi": "10.1021/jacs.6c08547",
+      "title": "Electron Push–Pull Effect Drives Reversible Six-Electron Redox Reaction in Aqueous Zinc–Dual Halogen Batteries",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1021/jacs.6c08547"
+    },
     {
       "doi": "10.1021/jacs.6c11377",
       "title": "Overriding Intrinsic Site-Selectivity in Nickel(II)-Catalyzed Enantioselective Methylene C(sp3)–H Alkynylation",

@@ -1,13 +1,49 @@
 {
-  "checked_at": "2026-08-06T11:36:30+09:00",
+  "checked_at": "2026-08-06T12:40:28+09:00",
   "journal_count": 6,
-  "new_count": 33,
-  "total_count": 14010,
+  "new_count": 37,
+  "total_count": 14030,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "scope_end": "2026-08-06",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-76363-0",
+      "title": "Anionic solvation reconstruction stabilizes interfacial chemistry for high-temperature and high-voltage Li metal batteries",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-08-06",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-76363-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c09592",
+      "title": "Palladium-Catalyzed Asymmetric Remote Hydroamination of Internal Alkenes",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-08-06",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c09592",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c08547",
+      "title": "Electron Push–Pull Effect Drives Reversible Six-Electron Redox Reaction in Aqueous Zinc–Dual Halogen Batteries",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-08-06",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c08547",
+      "sources": [
+        "acs"
+      ]
+    },
     {
       "doi": "10.1038/s41467-026-76449-9",
       "title": "In situ NIR-IIb imaging of endogenous H2S signaling for high-resolution abiotic stress visualization in plants",
@@ -400,6 +436,18 @@
       "published_date": "2026-08-05",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jctc.6c00542",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70456",
+      "title": "Non-Bivariational Time-Dependent Orbital-Quasi-Optimized Coupled-Cluster Methods Family for Fermion-Mixtures Dynamics",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-08-05",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70456",
       "sources": [
         "publisher"
       ]
@@ -1989,6 +2037,18 @@
       ]
     },
     {
+      "doi": "10.1002/jcc.70475",
+      "title": "Integrating Coupled-Cluster Theory Within AI Workflows for Accurate Molecular Geometries",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-08-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70475",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c11128",
       "title": "Tetrazine-Regulated Synthesis of Azine-Linked Covalent Organic Frameworks for Photocatalytic Cofactor Regeneration and Photoenzymatic Catalysis",
       "journal": "Journal of the American Chemical Society",
@@ -3040,6 +3100,30 @@
       "published_date": "2026-07-31",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jctc.6c00930",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70474",
+      "title": "Molecular Interactions of Pyridine With Water: A Combined DFT Benchmarking and QTAIM Analysis",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-07-31",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70474",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70473",
+      "title": "Accelerated “On-the-Fly” Coupled-Cluster Path-Integral Molecular Dynamics: Impact of Nuclear Quantum Effects on An Asymmetric Proton",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-07-31",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70473",
       "sources": [
         "publisher"
       ]
@@ -4186,6 +4270,30 @@
       "published_date": "2026-07-30",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jctc.6c00537",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70477",
+      "title": "Umpolung Character of Styrenes: Mechanism and Stereoselective Studies of α, β-Substituted Amino Acids Using Chiral Ir-Phosphine Complexes",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-07-30",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70477",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70468",
+      "title": "Mapping Trofinetide Polypharmacology in Rett Syndrome: A Multi-Stage Computational Analysis",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-07-30",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70468",
       "sources": [
         "publisher"
       ]
@@ -5686,6 +5794,42 @@
       "published_date": "2026-07-29",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jctc.6c00500",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70476",
+      "title": "WFX Molecular Fragment References for Hirshfeld Charge-Transfer Analysis in Non-Covalent Complexes",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-07-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70476",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70472",
+      "title": "Fast and Accurate GPU-Accelerated Computation of Two-Electron Four-Center Coulomb Repulsion Integrals",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-07-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70472",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70464",
+      "title": "Beyond Born Oppenheimer (BBO)-Based Multi-Electronic State Diabatic Hamiltonians: Reactive Scattering Processes",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-07-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70464",
       "sources": [
         "publisher"
       ]
@@ -9471,6 +9615,18 @@
       ]
     },
     {
+      "doi": "10.1002/jcc.70465",
+      "title": "Exploration of Minimum Energy Paths Through Feature-Vector Force-Driven Reaction Coordinate Exploration Approach",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-07-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70465",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1002/anie.9905607",
       "title": "Unperturbed π-Methyl Electrostatic Interactions Enable Efficient Toluene Adsorption on Graphdiyne Under High Humidity",
       "journal": "Angewandte Chemie International Edition",
@@ -11083,6 +11239,18 @@
       "published_date": "2026-07-23",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jctc.6c00413",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70471",
+      "title": "Reexamining Al2H2: Evidence That the Unidentified Butterfly Ground-State Isomer Was Previously Observed",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-07-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70471",
       "sources": [
         "publisher"
       ]
@@ -14676,6 +14844,30 @@
       ]
     },
     {
+      "doi": "10.1002/jcc.70467",
+      "title": "On the Role of Hydrogen Bond Strength and Charge Transfer in an On-Water Diels–Alder Reaction: Semiempirical and Free Energy Calculations",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-07-20",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70467",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70453",
+      "title": "How Structural Subtleties Modulate Excited-State Lifetimes in Cyclometalated Cobalt(III) Complexes: Nonadiabatic Molecular Dynamics Study",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-07-20",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70453",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1002/anie.6973257",
       "title": "Steering CO2 Electroreduction to Methane and Deuterated Methane via Hydrogen-Bond Engineering on Copper–Phenolic Networks",
       "journal": "Angewandte Chemie International Edition",
@@ -15943,6 +16135,30 @@
       "published_date": "2026-07-17",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jctc.6c00631",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70469",
+      "title": "Electron Affinity of Actinide (IV) Carboxylate Complexes From MN12-L Density-Functional Calculations and Explainable Machine Learning",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-07-17",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70469",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70451",
+      "title": "Solution-Phase Energy Decomposition Analysis (SP-EDA): Theory and Applications",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-07-17",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70451",
       "sources": [
         "publisher"
       ]
@@ -18211,6 +18427,18 @@
       ]
     },
     {
+      "doi": "10.1002/jcc.70470",
+      "title": "Can Cavity Prediction Algorithms Help in Docking Experiments?",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-07-15",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70470",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1002/anie.8884248",
       "title": "Polymer of Intrinsic Microporosity-Derived Artificial SEI With Electronegative Sub-1-nm Channels for Robust Li-Metal Anodes",
       "journal": "Angewandte Chemie International Edition",
@@ -19358,6 +19586,18 @@
       "published_date": "2026-07-14",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jctc.6c00164",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70457",
+      "title": "In Honor of Prof. Peter R. Schreiner",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-07-14",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70457",
       "sources": [
         "publisher"
       ]
@@ -168683,6 +168923,9 @@
     }
   ],
   "new_dois": [
+    "10.1038/s41467-026-76363-0",
+    "10.1021/jacs.6c09592",
+    "10.1021/jacs.6c08547",
     "10.1038/s41467-026-76449-9",
     "10.1038/s41467-026-76447-x",
     "10.1038/s41467-026-76445-z",
@@ -168715,6 +168958,7 @@
     "10.1021/acs.jctc.6c00983",
     "10.1021/acs.jctc.6c00761",
     "10.1021/acs.jctc.6c00748",
-    "10.1021/acs.jctc.6c00542"
+    "10.1021/acs.jctc.6c00542",
+    "10.1002/jcc.70456"
   ]
 }

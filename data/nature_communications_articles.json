@@ -1,9 +1,15 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-08-05T08:00:12.256Z",
+  "collected_at": "2026-08-06T03:24:14.460Z",
   "scope_start": "2026-01-01",
-  "article_count": 7965,
+  "article_count": 7966,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-76363-0",
+      "title": "Anionic solvation reconstruction stabilizes interfacial chemistry for high-temperature and high-voltage Li metal batteries",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1038/s41467-026-76363-0"
+    },
     {
       "doi": "10.1038/s41467-026-76449-9",
       "title": "In situ NIR-IIb imaging of endogenous H2S signaling for high-resolution abiotic stress visualization in plants",

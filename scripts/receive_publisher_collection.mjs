@@ -9,6 +9,7 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const CUTOFF = "2026-01-01";
 const PORT = 47823;
 const PROFILE_DIR = process.env.PUBLISHER_CHROME_PROFILE_DIR || "Profile 1";
+const IDLE_TIMEOUT_MS = Number(process.env.PUBLISHER_IDLE_TIMEOUT_MS || 180_000);
 const configs = {
   nature: { output: "nature_communications_articles.json", minimum: 5000, url: "https://www.nature.com/ncomms/research-articles#publisher-auto" },
   jctc: { output: "jctc_articles.json", minimum: 300, url: "https://pubs.acs.org/jctcce/search-results?sort=Date+-+Newest+First&f_JournalID=1000064&f_ContentType=Journal+Articles&fl_SiteID=1000123&qb=%7B%22q%22%3A%22%22%7D&page=1#publisher-auto" },
@@ -33,6 +34,7 @@ const output = path.join(ROOT, "data", config.output);
 const sessionPath = path.join(ROOT, "diagnostics", `${key}-publisher-session.json`);
 const sessionByDoi = new Map();
 let sessionMode = "baseline";
+let lastActivityAt = Date.now();
 
 function normalizeDoi(value) {
   const match = String(value || "").toLowerCase().match(/10\.\d{4,9}\/[^?#\s]+/);
@@ -94,6 +96,7 @@ async function requestJson(request) {
 
 const server = http.createServer(async (request, response) => {
   try {
+    lastActivityAt = Date.now();
     if (request.method === "OPTIONS") {
       response.writeHead(204, { "Access-Control-Allow-Origin": "*", "Access-Control-Allow-Methods": "GET, POST, OPTIONS", "Access-Control-Allow-Headers": "Content-Type" });
       response.end();
@@ -161,6 +164,15 @@ server.listen(PORT, "127.0.0.1", () => {
   const child = spawn(chrome, [`--profile-directory=${PROFILE_DIR}`, "--new-window", config.url], { detached: true, stdio: "ignore" });
   child.unref();
 });
+
+const idleTimer = setInterval(() => {
+  if (Date.now() - lastActivityAt < IDLE_TIMEOUT_MS) return;
+  console.warn(`${key} collector received no data for ${Math.round(IDLE_TIMEOUT_MS / 1000)} seconds; preserving the existing inventory and continuing.`);
+  clearInterval(idleTimer);
+  server.close();
+  server.closeAllConnections?.();
+  setTimeout(() => process.exit(0), 1000);
+}, 15_000);
 
 server.on("error", (error) => {
   console.error(error.message);
