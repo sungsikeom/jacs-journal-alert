@@ -12,6 +12,7 @@ const CUTOFF = "2025-01-01";
 const PORT = 47821;
 const PROFILE_DIR = process.env.ACS_CHROME_PROFILE_DIR || "Profile 1";
 const START_PAGE = Math.max(1, Number(process.env.JACS_START_PAGE || 1));
+const OPEN_BROWSER = process.env.JACS_OPEN_BROWSER !== "0";
 const IDLE_TIMEOUT_MS = Number(process.env.PUBLISHER_IDLE_TIMEOUT_MS || 180_000);
 const URL = `https://pubs.acs.org/jacsat/search-results?sort=Date+-+Newest+First&f_JournalID=1000059&f_ContentType=Journal+Articles&fl_SiteID=1000113&qb=%7B%22q%22%3A%22%22%7D&rg_PublicationDate=2025-01-01%20TO%202026-01-01&page=${START_PAGE}#jacs-auto`;
 let lastActivityAt = Date.now();
@@ -66,11 +67,12 @@ const server = http.createServer(async (request, response) => {
     if (request.method === "GET" && request.url === "/baseline") {
       const existingPayload = await loadExistingPayload();
       const existing = Array.isArray(existingPayload.articles) ? existingPayload.articles : [];
+      const forceBaseline = existingPayload.scope_start !== CUTOFF || existingPayload.backfill_complete !== true;
       await fs.mkdir(path.dirname(PAGE_STATS_OUTPUT), { recursive: true });
       await fs.writeFile(PAGE_STATS_OUTPUT, "[]\n", "utf8");
       json(response, 200, {
-        known_dois: existing.map((item) => normalizeDoi(item.doi)).filter(Boolean),
-        force_baseline: existingPayload.scope_start !== CUTOFF || existingPayload.backfill_complete !== true,
+        known_dois: forceBaseline ? [] : existing.map((item) => normalizeDoi(item.doi)).filter(Boolean),
+        force_baseline: forceBaseline,
       });
       return;
     }
@@ -144,10 +146,14 @@ server.listen(PORT, "127.0.0.1", () => {
   console.log(`JACS local receiver is listening on http://127.0.0.1:${PORT}`);
   console.log("Open chrome://extensions, enable Developer mode, and load the repository's extension folder once.");
   console.log("Then click 'JACS 수집 시작' on the ACS search page.");
-  const chrome = path.join(process.env.ProgramFiles || "C:\\Program Files", "Google", "Chrome", "Application", "chrome.exe");
-  console.log(`Opening Chrome profile: ${PROFILE_DIR}`);
-  const child = spawn(chrome, [`--profile-directory=${PROFILE_DIR}`, "--new-window", URL], { detached: true, stdio: "ignore" });
-  child.unref();
+  if (OPEN_BROWSER) {
+    const chrome = path.join(process.env.ProgramFiles || "C:\\Program Files", "Google", "Chrome", "Application", "chrome.exe");
+    console.log(`Opening Chrome profile: ${PROFILE_DIR}`);
+    const child = spawn(chrome, [`--profile-directory=${PROFILE_DIR}`, "--new-window", URL], { detached: true, stdio: "ignore" });
+    child.unref();
+  } else {
+    console.log("Waiting for the existing JACS Chrome tab.");
+  }
 });
 
 const idleTimer = setInterval(() => {
