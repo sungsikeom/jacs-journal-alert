@@ -30,7 +30,7 @@ main { width: min(1120px, calc(100% - 40px)); margin: auto; }
 .computational-mark { background: #2f6f8f; }
 .jctc-mark { background: #9b6a22; }
 .angew-mark { background: #7b3341; }
-.journal-stats { display: flex; gap: 24px; }
+.journal-stats { display: flex; gap: 24px; white-space: nowrap; }
 .journal-stats p { margin: 0; text-align: right; color: var(--muted); font-size: .72rem; }
 .journal-stats strong, .journal-stats span { display: block; }
 .journal-stats strong { color: var(--accent); font-size: 1.15rem; }
@@ -60,6 +60,7 @@ main { width: min(1120px, calc(100% - 40px)); margin: auto; }
 .number { color: #a0a79f; font: italic 1.1rem Georgia, serif; }
 .article h3 { margin: 0; font: 500 1.08rem/1.42 Georgia, serif; }
 .meta { display: flex; gap: 14px; margin-top: 9px; color: var(--muted); font-size: .78rem; }
+.article-journal { flex: 0 0 auto; white-space: nowrap; font-size: .78rem; line-height: 1.25; font-weight: 700; }
 .doi { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
 .arrow { color: var(--accent); font-size: 1.4rem; }
 .new-badge { display: inline-block; margin-left: 8px; padding: 3px 6px; border-radius: 5px; background: #f8e1d8; color: #9d381d; font: 700 .62rem sans-serif; vertical-align: middle; }

@@ -12,6 +12,11 @@ let activeJournal = 'all';
 let visibleCount = pageSize;
 
 const escapeHtml = value => String(value ?? '').replace(/[&<>'"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
+const journalDisplayName = value => ({
+  'Nat Commun': '넷컴',
+  'J. Comput. Chem.': 'JCC',
+  'Angew. Chem. Int. Ed.': 'Angew.',
+}[value] || value);
 
 function render(query = '') {
   const needle = query.trim().toLowerCase();
@@ -25,15 +30,15 @@ function render(query = '') {
       return byDate || String(b.doi || '').localeCompare(String(a.doi || ''));
     });
   const rows = matchingRows.slice(0, visibleCount);
-  const journalLabel = activeJournal === 'all' ? '모든 저널' : activeJournal;
-  document.querySelector('#list-title').textContent = activeJournal === 'all' ? '최근 확인된 논문' : `${activeJournal} 최근 논문`;
+  const journalLabel = activeJournal === 'all' ? '모든 저널' : journalDisplayName(activeJournal);
+  document.querySelector('#list-title').textContent = activeJournal === 'all' ? '최근 확인된 논문' : `${journalLabel} 최근 논문`;
   document.querySelector('#result-summary').textContent = `${journalLabel} · ${matchingRows.length.toLocaleString('ko-KR')}편`;
   container.innerHTML = rows.map((article, index) => {
     const isNew = payload.new_dois.includes(article.doi);
     return `<a class="article" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer">
       <span class="number">${String(index + 1).padStart(2, '0')}</span>
       <div><h3>${escapeHtml(article.title)}${isNew ? '<span class="new-badge">NEW</span>' : ''}</h3>
-      <div class="meta"><span>${escapeHtml(article.journal_short)}</span><span>${escapeHtml(article.published_date || 'Publication date pending')}</span><span class="doi">${escapeHtml(article.doi)}</span></div></div>
+      <div class="meta"><span class="article-journal">${escapeHtml(journalDisplayName(article.journal_short))}</span><span>${escapeHtml(article.published_date || 'Publication date pending')}</span><span class="doi">${escapeHtml(article.doi)}</span></div></div>
       <span class="arrow" aria-hidden="true">↗</span></a>`;
   }).join('');
   container.hidden = rows.length === 0;
@@ -52,6 +57,7 @@ fetch('./data/articles.json', { cache: 'no-store' })
     }, {});
     document.querySelector('#journal-count').textContent = Object.keys(journalCounts).length.toLocaleString('ko-KR');
     document.querySelector('#total-count').textContent = (data.total_count ?? data.articles.length).toLocaleString('ko-KR');
+    document.querySelector('#new-count').textContent = (data.new_count ?? data.new_dois?.length ?? 0).toLocaleString('ko-KR');
     document.querySelector('#status-label').textContent = '마지막 확인 완료';
     document.querySelector('#checked-at').textContent = data.checked_at ? new Date(data.checked_at).toLocaleString('ko-KR') : '첫 업데이트 전';
     render();
