@@ -84,6 +84,9 @@ class MetadataNormalizationTests(unittest.TestCase):
         self.assertEqual(article["journal_short"], "Science")
         self.assertEqual(article["article_type"], "Research Article")
 
+    def test_jacs_accepts_2025_backfill_scope(self):
+        self.assertEqual(UPDATE.JACS_SCOPE_START, "2025-01-01")
+
 
 if __name__ == "__main__":
     unittest.main()

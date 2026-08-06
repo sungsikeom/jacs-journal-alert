@@ -25,6 +25,7 @@ STATE_PATH = DATA_DIR / "seen_dois.json"
 ISSUE_BODY_PATH = DATA_DIR / "new_articles.md"
 SEOUL = timezone(timedelta(hours=9))
 SCOPE_START = "2026-01-01"
+JACS_SCOPE_START = "2025-01-01"
 SCOPE_VERSION = 6
 
 JOURNALS = [
@@ -189,8 +190,9 @@ def issue_markdown(new_articles: list[dict[str, Any]], checked_at: str) -> str:
 
 def load_acs_articles(path: Path) -> dict[str, dict[str, Any]]:
     payload = load_json(path, {})
-    if payload.get("scope_start") != SCOPE_START:
-        raise ValueError(f"ACS scope_start must be {SCOPE_START}")
+    acs_scope_start = payload.get("scope_start")
+    if acs_scope_start not in {SCOPE_START, JACS_SCOPE_START}:
+        raise ValueError(f"ACS scope_start must be {JACS_SCOPE_START} (or {SCOPE_START} during migration)")
     articles = payload.get("articles")
     if not isinstance(articles, list) or len(articles) < 1000:
         raise ValueError("ACS file is missing or contains implausibly few articles")
@@ -200,7 +202,7 @@ def load_acs_articles(path: Path) -> dict[str, dict[str, Any]]:
         if not doi.startswith("10.1021/jacs."):
             continue
         published_date = item.get("published_date")
-        if published_date and published_date < SCOPE_START:
+        if published_date and published_date < acs_scope_start:
             continue
         by_doi[doi] = {
             "doi": doi,
@@ -386,6 +388,7 @@ def update(
         "total_count": len(fetched),
         "baseline_initialized": not initialized,
         "scope_start": scope_start,
+        "journal_scope_starts": {"JACS": JACS_SCOPE_START},
         "scope_end": scope_end,
         "source_mode": source_mode,
         "articles": fetched,

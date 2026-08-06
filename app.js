@@ -4,7 +4,7 @@ const search = document.querySelector('#search');
 const loadMore = document.querySelector('#load-more');
 const scopeFilterButtons = [...document.querySelectorAll('.scope-filter')];
 const journalFilterButtons = [...document.querySelectorAll('.journal-filter')];
-const publicationCutoff = '2026-01-01';
+const publicationCutoff = article => article.journal_short === 'JACS' ? '2025-01-01' : '2026-01-01';
 const pageSize = 50;
 let payload = { articles: [], new_dois: [] };
 let activeFilter = 'all';
@@ -21,7 +21,7 @@ const journalDisplayName = value => ({
 function render(query = '') {
   const needle = query.trim().toLowerCase();
   const matchingRows = [...payload.articles]
-    .filter(article => String(article.published_date || '') >= publicationCutoff)
+    .filter(article => String(article.published_date || '') >= publicationCutoff(article))
     .filter(article => activeJournal === 'all' || article.journal_short === activeJournal)
     .filter(article => activeFilter !== 'new' || payload.new_dois.includes(article.doi))
     .filter(article => `${article.title} ${article.doi}`.toLowerCase().includes(needle))

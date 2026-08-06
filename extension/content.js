@@ -1,5 +1,5 @@
 const STATE_KEY = "jacsCollectorState";
-const CUTOFF = "2026-01-01";
+const CUTOFF = "2025-01-01";
 const ARTICLE_FILTER = 'input.chkSelect[data-redirect-url*="f_ContentType=Journal+Articles"]';
 const ARTICLE_ITEMS = ".sr-list.content-type-journal-articles";
 
@@ -80,14 +80,33 @@ function saveState(state) {
 function makeMonthlyRanges() {
   const ranges = [];
   const now = new Date();
-  for (let month = now.getUTCMonth(); month >= 0; month -= 1) {
-    const year = now.getUTCFullYear();
+  const cutoff = new Date(`${CUTOFF}T00:00:00Z`);
+  for (let cursor = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), 1)); cursor >= cutoff; cursor.setUTCMonth(cursor.getUTCMonth() - 1)) {
+    const year = cursor.getUTCFullYear();
+    const month = cursor.getUTCMonth();
     const from = `${year}-${String(month + 1).padStart(2, "0")}-01`;
     const lastDay = new Date(Date.UTC(year, month + 1, 0)).getUTCDate();
     const to = `${year}-${String(month + 1).padStart(2, "0")}-${String(lastDay).padStart(2, "0")}`;
     ranges.push({ from, to });
   }
   return ranges;
+}
+
+async function finishRangeOrCollection(state, reason) {
+  if (state.mode === "baseline" && state.ranges && state.rangeIndex < state.ranges.length - 1) {
+    state.rangeIndex += 1;
+    state.rangeApplied = false;
+    state.lastRangeTransition = Date.now();
+    await saveState(state);
+    const nextRange = state.ranges[state.rangeIndex];
+    setPanel(`날짜 범위 완료 · 다음 ${nextRange.from}~${nextRange.to}`, true);
+    const startUrl = new URL(location.href);
+    startUrl.searchParams.set("page", "1");
+    startUrl.hash = "jacs-auto";
+    location.href = startUrl.toString();
+    return;
+  }
+  await finish(state, reason);
 }
 
 async function applyMonthlyRange(state) {
@@ -167,6 +186,11 @@ async function processCurrentPage() {
     return;
   }
 
+  if (state.mode === "baseline" && state.ranges?.length && !state.rangeApplied) {
+    await applyMonthlyRange(state);
+    return;
+  }
+
   let rows;
   setPanel(`진단: ${pageNumber}페이지 · 논문 결과 블록 대기`, true);
   try {
@@ -217,6 +241,7 @@ async function processCurrentPage() {
 
   state.pages += 1;
   await saveState(state);
+  await sendMessage({ type: "progress" });
   setPanel(`${state.pages}페이지 · ${state.articles.length}편`, true);
   if (stopReason) {
     await finish(state, stopReason);
@@ -224,13 +249,13 @@ async function processCurrentPage() {
   }
 
   if (rows.length < 20) {
-    await finish(state, "short-page");
+    await finishRangeOrCollection(state, "short-page");
     return;
   }
 
   const next = document.querySelector("button.sr-nav-next, a.sr-nav-next");
   if (!next) {
-    await finish(state, "last-page");
+    await finishRangeOrCollection(state, "last-page");
     return;
   }
   const delay = 5000 + Math.floor(Math.random() * 3000);
@@ -247,11 +272,11 @@ async function startCollection() {
   const baseline = await sendMessage({ type: "baseline" });
   const state = {
     running: true,
-    mode: baseline.known_dois.length ? "incremental" : "baseline",
+    mode: baseline.force_baseline || !baseline.known_dois.length ? "baseline" : "incremental",
     known_dois: baseline.known_dois,
     articles: [],
     pages: 0,
-    ranges: [],
+    ranges: baseline.force_baseline || !baseline.known_dois.length ? makeMonthlyRanges() : [],
     rangeIndex: 0,
     rangeApplied: false,
   };

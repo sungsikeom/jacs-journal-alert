@@ -7,7 +7,7 @@ import { fileURLToPath } from "node:url";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const OUTPUT = path.join(ROOT, "data", "acs_articles.json");
-const CUTOFF = "2026-01-01";
+const CUTOFF = "2025-01-01";
 const PORT = 47821;
 const PROFILE_DIR = process.env.ACS_CHROME_PROFILE_DIR || "Profile 1";
 const IDLE_TIMEOUT_MS = Number(process.env.PUBLISHER_IDLE_TIMEOUT_MS || 180_000);
@@ -19,14 +19,18 @@ function normalizeDoi(value) {
   return match ? match[0].replace(/[).,;]+$/, "") : "";
 }
 
-async function loadExisting() {
+async function loadExistingPayload() {
   try {
-    const payload = JSON.parse(await fs.readFile(OUTPUT, "utf8"));
-    return Array.isArray(payload.articles) ? payload.articles : [];
+    return JSON.parse(await fs.readFile(OUTPUT, "utf8"));
   } catch (error) {
-    if (error.code === "ENOENT") return [];
+    if (error.code === "ENOENT") return {};
     throw error;
   }
+}
+
+async function loadExisting() {
+  const payload = await loadExistingPayload();
+  return Array.isArray(payload.articles) ? payload.articles : [];
 }
 
 function json(response, status, payload) {
@@ -58,8 +62,16 @@ const server = http.createServer(async (request, response) => {
       return;
     }
     if (request.method === "GET" && request.url === "/baseline") {
-      const existing = await loadExisting();
-      json(response, 200, { known_dois: existing.map((item) => normalizeDoi(item.doi)).filter(Boolean) });
+      const existingPayload = await loadExistingPayload();
+      const existing = Array.isArray(existingPayload.articles) ? existingPayload.articles : [];
+      json(response, 200, {
+        known_dois: existing.map((item) => normalizeDoi(item.doi)).filter(Boolean),
+        force_baseline: existingPayload.scope_start !== CUTOFF,
+      });
+      return;
+    }
+    if (request.method === "GET" && request.url === "/heartbeat") {
+      json(response, 200, { ok: true });
       return;
     }
     if (request.method === "POST" && request.url === "/complete") {

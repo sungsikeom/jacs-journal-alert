@@ -71,6 +71,18 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
     return true;
   }
 
+  if (message?.type === "progress") {
+    armCollectorCleanup(sender);
+    fetch(`${RECEIVER}/heartbeat`)
+      .then((response) => {
+        if (!response.ok) throw new Error(`Local receiver returned HTTP ${response.status}`);
+        return response.json();
+      })
+      .then((payload) => sendResponse({ ok: true, payload }))
+      .catch((error) => sendResponse({ ok: false, error: error.message }));
+    return true;
+  }
+
   if (message?.type === "science-baseline") {
     armCollectorCleanup(sender);
     fetch(`${SCIENCE_RECEIVER}/baseline`)
