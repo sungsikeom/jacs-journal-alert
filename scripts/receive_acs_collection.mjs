@@ -86,9 +86,24 @@ const server = http.createServer(async (request, response) => {
         byDoi.set(doi, { doi, title: String(item.title || doi).trim(), published_date: publishedDate, url: `https://doi.org/${doi}` });
       }
       const articles = [...byDoi.values()].sort((a, b) => b.published_date.localeCompare(a.published_date) || b.doi.localeCompare(a.doi));
-      const incoming2025Count = incoming.filter((item) => String(item.published_date || "").startsWith("2025-")).length;
-      if (body.mode === "baseline" && incoming2025Count < 1000) throw new Error(`Only ${incoming2025Count} JACS 2025 articles were collected; refusing an incomplete backfill`);
-      const payload = { source: "ACS JACS search results collected by the local Chrome extension", collected_at: new Date().toISOString(), scope_start: CUTOFF, backfill_complete: true, article_count: articles.length, articles };
+      const incoming2025Dates = incoming
+        .map((item) => String(item.published_date || ""))
+        .filter((publishedDate) => publishedDate.startsWith("2025-"))
+        .sort();
+      const earliest2025 = incoming2025Dates[0] || "";
+      const latest2025 = incoming2025Dates.at(-1) || "";
+      if (body.mode === "baseline" && (body.reason !== "last-page" || earliest2025 > "2025-01-31" || latest2025 < "2025-12-01")) {
+        throw new Error(`JACS 2025 date coverage is incomplete: ${earliest2025 || "missing"} through ${latest2025 || "missing"}`);
+      }
+      const payload = {
+        source: "ACS JACS search results collected by the local Chrome extension",
+        collected_at: new Date().toISOString(),
+        scope_start: CUTOFF,
+        scope_end: "2026-01-01",
+        backfill_complete: true,
+        article_count: articles.length,
+        articles,
+      };
       const temporary = `${OUTPUT}.tmp`;
       await fs.writeFile(temporary, `${JSON.stringify(payload, null, 2)}\n`, "utf8");
       await fs.rename(temporary, OUTPUT);
