@@ -1,6 +1,6 @@
 const STATE_KEY = "jacsCollectorState";
 const CUTOFF = "2025-01-01";
-const COLLECTOR_BUILD = "1.5.3";
+const COLLECTOR_BUILD = "1.5.4";
 const BACKFILL_URL = "https://pubs.acs.org/jacsat/search-results?sort=Date+-+Newest+First&f_JournalID=1000059&f_ContentType=Journal+Articles&fl_SiteID=1000113&qb=%7B%22q%22%3A%22%22%7D&rg_PublicationDate=2025-01-01%20TO%202026-01-01&page=1#jacs-auto";
 const ARTICLE_FILTER = 'input.chkSelect[data-redirect-url*="f_ContentType=Journal+Articles"]';
 const ARTICLE_ITEMS = ".sr-list";
