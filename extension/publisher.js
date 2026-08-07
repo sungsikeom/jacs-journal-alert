@@ -1,11 +1,11 @@
 const PUBLISHER_STATE_KEY = "publisherCollectorState";
 const PUBLISHER_CUTOFF = "2026-01-01";
-const PUBLISHER_BUILD = "1.6.2";
+const PUBLISHER_BUILD = "1.6.3";
 
 const publisherConfig = (() => {
   if (location.hostname === "www.nature.com") return { key: "nature", label: "Nature Communications", prefix: "10.1038/s41467-", source: "Nature Communications Research Articles" };
   if (location.hostname === "pubs.acs.org") return { key: "jctc", label: "JCTC", prefix: "10.1021/acs.jctc.", source: "ACS JCTC Article search results" };
-  if (location.hostname === "pubs.rsc.org" && /^\/sc\/issue\//i.test(location.pathname)) return { key: "chemical-science", label: "Chemical Science", prefix: "10.1039/", source: "RSC Chemical Science volume issues" };
+  if (location.hostname === "pubs.rsc.org" && (/\/sc\/issue\//i.test(location.pathname) || /latest-articles/i.test(location.href))) return { key: "chemical-science", label: "Chemical Science", prefix: "10.1039/", source: "RSC Chemical Science latest articles" };
   const series = new URL(location.href).searchParams.get("SeriesKey")?.toLowerCase();
   if (series === "1096987x") return { key: "jcc", label: "Journal of Computational Chemistry", prefix: "10.1002/jcc.", source: "Wiley Journal of Computational Chemistry search results" };
   if (series === "15213773") return { key: "angew", label: "Angewandte", prefix: "10.1002/anie.", source: "Wiley Angewandte search results" };
