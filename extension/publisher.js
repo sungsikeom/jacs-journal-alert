@@ -1,6 +1,6 @@
 const PUBLISHER_STATE_KEY = "publisherCollectorState";
 const PUBLISHER_CUTOFF = "2026-01-01";
-const PUBLISHER_BUILD = "1.5.9";
+const PUBLISHER_BUILD = "1.6.0";
 
 const publisherConfig = (() => {
   if (location.hostname === "www.nature.com") return { key: "nature", label: "Nature Communications", prefix: "10.1038/s41467-", source: "Nature Communications Research Articles" };
@@ -81,17 +81,21 @@ function readPublisherPage() {
     const anchors = [...document.querySelectorAll('a[href*="/content/articlelanding/"], a[href*="/articlelanding/"], a[href*="/sc/d"], a[href*="doi.org/10.1039/"]')];
     for (const anchor of anchors) {
       const doi = publisherDoi(anchor.href);
-      if (!doi || byDoi.has(doi)) continue;
+      if (!doi) continue;
       const item = chemicalScienceItem(anchor);
       const text = String(item?.textContent || anchor.textContent || "").replace(/\s+/g, " ").trim();
       const year = text.match(/\b(20\d{2})\b/)?.[1] || new URL(anchor.href).pathname.match(/\/articlelanding\/(20\d{2})\//)?.[1];
       if (!year) continue;
-      byDoi.set(doi, {
+      const candidate = {
         doi,
         title: chemicalScienceTitle(item, anchor, doi),
         published_date: publisherDate(text) || `${year}-01-01`,
         url: `https://doi.org/${doi}`,
-      });
+      };
+      const existing = byDoi.get(doi);
+      const isArticleLanding = /articlelanding|\/sc\/d/i.test(anchor.href || "");
+      const existingIsCitation = existing && /^Chem\. Sci\./i.test(existing.title);
+      if (!existing || (existingIsCitation && isArticleLanding)) byDoi.set(doi, candidate);
     }
     return [...byDoi.values()];
   }
