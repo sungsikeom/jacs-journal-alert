@@ -1,11 +1,11 @@
 const PUBLISHER_STATE_KEY = "publisherCollectorState";
 const PUBLISHER_CUTOFF = "2026-01-01";
-const PUBLISHER_BUILD = "1.6.3";
+const PUBLISHER_BUILD = "1.6.4";
 
 const publisherConfig = (() => {
   if (location.hostname === "www.nature.com") return { key: "nature", label: "Nature Communications", prefix: "10.1038/s41467-", source: "Nature Communications Research Articles" };
   if (location.hostname === "pubs.acs.org") return { key: "jctc", label: "JCTC", prefix: "10.1021/acs.jctc.", source: "ACS JCTC Article search results" };
-  if (location.hostname === "pubs.rsc.org" && (/\/sc\/issue\//i.test(location.pathname) || /latest-articles/i.test(location.href))) return { key: "chemical-science", label: "Chemical Science", prefix: "10.1039/", source: "RSC Chemical Science latest articles" };
+  if (location.hostname === "pubs.rsc.org" && (/\/sc\/issue\//i.test(location.pathname) || /latest-articles|advance-articles/i.test(location.href))) return { key: "chemical-science", label: "Chemical Science", prefix: "10.1039/", source: "RSC Chemical Science latest articles" };
   const series = new URL(location.href).searchParams.get("SeriesKey")?.toLowerCase();
   if (series === "1096987x") return { key: "jcc", label: "Journal of Computational Chemistry", prefix: "10.1002/jcc.", source: "Wiley Journal of Computational Chemistry search results" };
   if (series === "15213773") return { key: "angew", label: "Angewandte", prefix: "10.1002/anie.", source: "Wiley Angewandte search results" };
@@ -199,19 +199,18 @@ async function waitPublisherRows() {
 }
 
 function nextPublisherPage() {
+  if (publisherConfig.key === "chemical-science" && /latest-articles|advance-articles/i.test(location.pathname)) {
+    return [...document.querySelectorAll("a, button")].find((element) => /advance articles/i.test(String(element.textContent || "").replace(/\s+/g, " ").trim())) || null;
+  }
   return document.querySelector('a[rel="next"], a.c-pagination__link[data-page="next"], a.pagination__btn--next, button.sr-nav-next, a.sr-nav-next');
 }
 
 function openNextPublisherPage() {
   if (publisherConfig.key === "chemical-science") {
-    if (/^\/sc\/latest-articles\/?$/i.test(location.pathname)) {
+    if (/latest-articles|advance-articles/i.test(location.pathname)) {
       const next = nextPublisherPage();
-      if (next) { next.click(); return true; }
-      const nextUrl = new URL(location.href);
-      const currentPage = Number(nextUrl.searchParams.get("page") || "1");
-      nextUrl.searchParams.set("page", String(currentPage + 1));
-      nextUrl.hash = "publisher-auto";
-      location.replace(nextUrl.toString());
+      if (!next) return false;
+      next.click();
       return true;
     }
     const match = location.pathname.match(/^\/sc\/issue\/(\d+)\/(\d+)/i);
@@ -331,7 +330,7 @@ async function processPublisherPage() {
   publisherPanel(`${visiblePage}페이지${pageBreakdown} · 누적 ${state.article_count}편`, true);
   if (reason) return finishPublisher(state, reason);
   if (publisherConfig.key === "chemical-science") {
-    if (/^\/sc\/latest-articles\/?$/i.test(location.pathname)) {
+    if (/latest-articles|advance-articles/i.test(location.pathname)) {
       // Latest-articles can paginate without a conventional next link; navigation handles both cases.
       if (rows.length < 20) return finishPublisher(state, "latest-short-page");
     } else {
@@ -352,7 +351,7 @@ async function startPublisherCollection() {
   if (publisherConfig.key === "jctc" && new URL(location.href).searchParams.get("f_ContentType") !== "Journal Articles") {
     throw new Error("JCTC Content Type 필터가 없습니다. Journal Articles 필터 주소에서 시작하세요.");
   }
-  if (publisherConfig.key === "chemical-science" && !(/^\/sc\/issue\/\d+\/\d+/i.test(location.pathname) || /^\/sc\/latest-articles\/?$/i.test(location.pathname))) {
+  if (publisherConfig.key === "chemical-science" && !(/^\/sc\/issue\/\d+\/\d+/i.test(location.pathname) || /latest-articles|advance-articles/i.test(location.pathname))) {
     throw new Error("Chemical Science 최신 논문 또는 Volume/Issue 주소에서 시작하세요.");
   }
   const baseline = await publisherMessage({ type: "publisher-baseline", reset: true });
