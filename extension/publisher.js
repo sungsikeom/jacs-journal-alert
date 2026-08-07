@@ -1,6 +1,6 @@
 const PUBLISHER_STATE_KEY = "publisherCollectorState";
 const PUBLISHER_CUTOFF = "2026-01-01";
-const PUBLISHER_BUILD = "1.5.7";
+const PUBLISHER_BUILD = "1.5.8";
 
 const publisherConfig = (() => {
   if (location.hostname === "www.nature.com") return { key: "nature", label: "Nature Communications", prefix: "10.1038/s41467-", source: "Nature Communications Research Articles" };
@@ -38,6 +38,17 @@ function publisherDate(value) {
   return `${monthFirst[3]}-${String(months[monthFirst[1].slice(0, 3).toLowerCase()]).padStart(2, "0")}-${String(monthFirst[2]).padStart(2, "0")}`;
 }
 
+function chemicalScienceTitle(item, anchor, doi) {
+  const candidates = [...(item?.querySelectorAll("h1, h2, h3, h4, h5, [class*='title'], [id*='title']") || [])]
+    .map((node) => String(node.textContent || "").replace(/\s+/g, " ").trim())
+    .filter((text) => text && text !== doi && !/^abstracts?$|^view article|^open access$/i.test(text));
+  if (candidates.length) return candidates.sort((a, b) => b.length - a.length)[0];
+  const text = String(item?.innerText || item?.textContent || anchor?.textContent || "").replace(/\s+/g, " ").trim();
+  const beforeAccess = text.split(/\bOpen Access\b/i)[0].trim();
+  const cleaned = beforeAccess.replace(/^(?:Covers|Front\/Back Matter|Perspectives|Review Articles|Edge Articles|Corrections)\s+/i, "").trim();
+  return cleaned && !/^10\.1039\//i.test(cleaned) ? cleaned : doi;
+}
+
 function readPublisherPage() {
   if (publisherConfig.key === "nature") {
     const byDoi = new Map();
@@ -63,13 +74,12 @@ function readPublisherPage() {
       const doi = publisherDoi(anchor.href);
       if (!doi || byDoi.has(doi)) continue;
       const item = anchor.closest("article, li, .issue-item, .result, div") || anchor.parentElement;
-      const titleNode = item?.querySelector("h2 a, h3 a, h4 a, .title a, .article-title a") || anchor;
       const text = String(item?.textContent || anchor.textContent || "").replace(/\s+/g, " ").trim();
       const year = text.match(/\b(20\d{2})\b/)?.[1] || new URL(anchor.href).pathname.match(/\/articlelanding\/(20\d{2})\//)?.[1];
       if (!year) continue;
       byDoi.set(doi, {
         doi,
-        title: String(titleNode.textContent || doi).replace(/\s+/g, " ").trim(),
+        title: chemicalScienceTitle(item, anchor, doi),
         published_date: publisherDate(text) || `${year}-01-01`,
         url: `https://doi.org/${doi}`,
       });
