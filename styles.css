@@ -27,6 +27,7 @@ main { width: min(1120px, calc(100% - 40px)); margin: auto; }
 .journal-mark { display: grid; place-items: center; width: 21px; height: 21px; background: var(--green); border-radius: 50%; color: white; font: 700 .68rem Georgia, serif; }
 .science-mark { background: var(--accent); }
 .nature-mark { background: #73537a; }
+.chemical-mark { background: #2f6f8f; }
 .computational-mark { background: #2f6f8f; }
 .jctc-mark { background: #9b6a22; }
 .angew-mark { background: #7b3341; }
@@ -48,6 +49,7 @@ main { width: min(1120px, calc(100% - 40px)); margin: auto; }
 .filter { min-height: 34px; padding: 7px 12px; border: 0; border-radius: 7px; background: transparent; color: #59665f; font-weight: 650; white-space: nowrap; cursor: pointer; transition: background .16s, color .16s, box-shadow .16s, transform .16s; }
 .filter:hover { color: var(--ink); background: #ffffffa8; }
 .journal-filter.is-active { background: var(--green); color: #fff; box-shadow: 0 3px 9px #214e3e30; }
+.year-filter { min-width: 112px; border: 1px solid #cfd8d3; border-radius: 8px; padding: 8px 10px; background: #fff; color: var(--ink); font: inherit; }
 .scope-filter.is-active { background: var(--accent); color: #fff; box-shadow: 0 3px 9px #bc4d2d2b; }
 .filter:focus-visible { outline: 3px solid #d89a35; outline-offset: 2px; }
 .filter:active { transform: translateY(1px); }

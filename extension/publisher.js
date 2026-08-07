@@ -1,10 +1,11 @@
 const PUBLISHER_STATE_KEY = "publisherCollectorState";
 const PUBLISHER_CUTOFF = "2026-01-01";
-const PUBLISHER_BUILD = "1.4.1";
+const PUBLISHER_BUILD = "1.5.5";
 
 const publisherConfig = (() => {
   if (location.hostname === "www.nature.com") return { key: "nature", label: "Nature Communications", prefix: "10.1038/s41467-", source: "Nature Communications Research Articles" };
   if (location.hostname === "pubs.acs.org") return { key: "jctc", label: "JCTC", prefix: "10.1021/acs.jctc.", source: "ACS JCTC Article search results" };
+  if (location.hostname === "pubs.rsc.org" && /^\/sc\/issue\//i.test(location.pathname)) return { key: "chemical-science", label: "Chemical Science", prefix: "10.1039/", source: "RSC Chemical Science volume issues" };
   const series = new URL(location.href).searchParams.get("SeriesKey")?.toLowerCase();
   if (series === "1096987x") return { key: "jcc", label: "Journal of Computational Chemistry", prefix: "10.1002/jcc.", source: "Wiley Journal of Computational Chemistry search results" };
   if (series === "15213773") return { key: "angew", label: "Angewandte", prefix: "10.1002/anie.", source: "Wiley Angewandte search results" };
@@ -17,6 +18,8 @@ function publisherDoi(value) {
   if (nature) return `10.1038/${nature[1].toLowerCase()}`;
   const jctc = text.match(/10\.1021\/acs\.jctc\.[a-z0-9]+/i);
   if (jctc) return jctc[0].toLowerCase();
+  const rsc = text.match(/\/content\/articlelanding\/20\d{2}\/sc\/([a-z0-9]+)/i);
+  if (rsc) return `10.1039/${rsc[1].toLowerCase()}`;
   const match = text.match(/10\.\d{4,9}\/[^?#\s]+/i);
   return match ? match[0].toLowerCase().replace(/[).,;]+$/, "") : "";
 }
@@ -46,6 +49,26 @@ function readPublisherPage() {
         doi,
         title: String(titleNode?.textContent || doi).replace(/\s+/g, " ").trim(),
         published_date: publisherDate(dateNode?.getAttribute("datetime") || dateNode?.textContent || item?.textContent),
+        url: `https://doi.org/${doi}`,
+      });
+    }
+    return [...byDoi.values()];
+  }
+  if (publisherConfig.key === "chemical-science") {
+    const byDoi = new Map();
+    const anchors = [...document.querySelectorAll('a[href*="/content/articlelanding/"]')];
+    for (const anchor of anchors) {
+      const doi = publisherDoi(anchor.href);
+      if (!doi || byDoi.has(doi)) continue;
+      const item = anchor.closest("article, li, .issue-item, .result, div") || anchor.parentElement;
+      const titleNode = item?.querySelector("h2 a, h3 a, h4 a, .title a, .article-title a") || anchor;
+      const text = String(item?.textContent || anchor.textContent || "").replace(/\s+/g, " ").trim();
+      const year = text.match(/\b(20\d{2})\b/)?.[1] || new URL(anchor.href).pathname.match(/\/articlelanding\/(20\d{2})\//)?.[1];
+      if (!year) continue;
+      byDoi.set(doi, {
+        doi,
+        title: String(titleNode.textContent || doi).replace(/\s+/g, " ").trim(),
+        published_date: publisherDate(text) || `${year}-01-01`,
         url: `https://doi.org/${doi}`,
       });
     }
@@ -147,6 +170,18 @@ function nextPublisherPage() {
 }
 
 function openNextPublisherPage() {
+  if (publisherConfig.key === "chemical-science") {
+    const match = location.pathname.match(/^\/sc\/issue\/(\d+)\/(\d+)/i);
+    if (!match) return false;
+    const volume = Number(match[1]);
+    const issue = Number(match[2]);
+    if (issue <= 1) return false;
+    const nextUrl = new URL(location.href);
+    nextUrl.pathname = `/sc/issue/${volume}/${issue - 1}`;
+    nextUrl.hash = "publisher-auto";
+    location.replace(nextUrl.toString());
+    return true;
+  }
   if (publisherConfig.key === "nature" || publisherConfig.key === "jctc") {
     const nextUrl = new URL(location.href);
     const currentPage = Number(nextUrl.searchParams.get("page") || "1");
@@ -242,6 +277,8 @@ async function processPublisherPage() {
   await savePublisherState(state);
   const visiblePage = publisherConfig.key === "nature" || publisherConfig.key === "jctc"
     ? new URL(location.href).searchParams.get("page") || "1"
+    : publisherConfig.key === "chemical-science"
+      ? (location.pathname.match(/^\/sc\/issue\/(\d+)\/(\d+)/i)?.slice(1).join("권 · ") || "현재")
     : publisherConfig.key === "jcc" || publisherConfig.key === "angew"
       ? String(Number(new URL(location.href).searchParams.get("startPage") || "0") + 1)
       : state.pages;
@@ -250,7 +287,10 @@ async function processPublisherPage() {
     : "";
   publisherPanel(`${visiblePage}페이지${pageBreakdown} · 누적 ${state.article_count}편`, true);
   if (reason) return finishPublisher(state, reason);
-  if (rows.length < 20) return finishPublisher(state, "short-page");
+  if (publisherConfig.key === "chemical-science") {
+    const issue = Number(location.pathname.match(/^\/sc\/issue\/\d+\/(\d+)/i)?.[1] || 0);
+    if (issue <= 1) return finishPublisher(state, "last-issue");
+  } else if (rows.length < 20) return finishPublisher(state, "short-page");
   if (publisherConfig.key !== "nature" && !nextPublisherPage()) return finishPublisher(state, "last-page");
   setTimeout(() => {
     loadPublisherState().then((latest) => {
@@ -263,6 +303,9 @@ async function processPublisherPage() {
 async function startPublisherCollection() {
   if (publisherConfig.key === "jctc" && new URL(location.href).searchParams.get("f_ContentType") !== "Journal Articles") {
     throw new Error("JCTC Content Type 필터가 없습니다. Journal Articles 필터 주소에서 시작하세요.");
+  }
+  if (publisherConfig.key === "chemical-science" && !/^\/sc\/issue\/\d+\/\d+/i.test(location.pathname)) {
+    throw new Error("Chemical Science Volume/Issue 주소에서 시작하세요.");
   }
   const baseline = await publisherMessage({ type: "publisher-baseline", reset: true });
   const state = {

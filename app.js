@@ -4,11 +4,13 @@ const search = document.querySelector('#search');
 const loadMore = document.querySelector('#load-more');
 const scopeFilterButtons = [...document.querySelectorAll('.scope-filter')];
 const journalFilterButtons = [...document.querySelectorAll('.journal-filter')];
+const yearFilter = document.querySelector('#year-filter');
 const publicationCutoff = article => article.journal_short === 'JACS' ? '2025-01-01' : '2026-01-01';
 const pageSize = 50;
 let payload = { articles: [], new_dois: [] };
 let activeFilter = 'all';
 let activeJournal = 'all';
+let activeYear = 'all';
 let visibleCount = pageSize;
 
 const escapeHtml = value => String(value ?? '').replace(/[&<>'"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
@@ -23,6 +25,7 @@ function render(query = '') {
   const matchingRows = [...payload.articles]
     .filter(article => String(article.published_date || '') >= publicationCutoff(article))
     .filter(article => activeJournal === 'all' || article.journal_short === activeJournal)
+    .filter(article => activeYear === 'all' || String(article.published_date || '').slice(0, 4) === activeYear)
     .filter(article => activeFilter !== 'new' || payload.new_dois.includes(article.doi))
     .filter(article => `${article.title} ${article.doi}`.toLowerCase().includes(needle))
     .sort((a, b) => {
@@ -51,6 +54,8 @@ fetch('./data/articles.json', { cache: 'no-store' })
   .then(response => { if (!response.ok) throw new Error('Data unavailable'); return response.json(); })
   .then(data => {
     payload = data;
+    const years = [...new Set(data.articles.map(article => String(article.published_date || '').slice(0, 4)).filter(year => /^20\d{2}$/.test(year)))].sort().reverse();
+    yearFilter.innerHTML = '<option value="all">모든 연도</option>' + years.map(year => `<option value="${year}">${year}년</option>`).join('');
     const journalCounts = data.articles.reduce((counts, article) => {
       counts[article.journal_short] = (counts[article.journal_short] || 0) + 1;
       return counts;
@@ -86,6 +91,12 @@ journalFilterButtons.forEach(button => button.addEventListener('click', () => {
   journalFilterButtons.forEach(item => item.classList.toggle('is-active', item === button));
   render(search.value);
 }));
+
+yearFilter.addEventListener('change', event => {
+  activeYear = event.target.value;
+  visibleCount = pageSize;
+  render(search.value);
+});
 
 loadMore.addEventListener('click', () => {
   visibleCount += pageSize;

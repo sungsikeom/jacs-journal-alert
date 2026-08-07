@@ -29,6 +29,7 @@
         <div><span class="journal-mark computational-mark">C</span><strong>JCC</strong></div>
         <div><span class="journal-mark jctc-mark">T</span><strong>JCTC</strong></div>
         <div><span class="journal-mark angew-mark">A</span><strong>Angewandte</strong></div>
+        <div><span class="journal-mark chemical-mark">C</span><strong>Chem. Sci.</strong></div>
       </div>
       <div class="journal-stats">
         <p><strong id="journal-count">0</strong><span>모니터링 저널</span></p>
@@ -52,6 +53,7 @@
                 <button class="filter journal-filter" type="button" data-journal="J. Comput. Chem.">JCC</button>
                 <button class="filter journal-filter" type="button" data-journal="JCTC">JCTC</button>
                 <button class="filter journal-filter" type="button" data-journal="Angew. Chem. Int. Ed.">Angewandte</button>
+                <button class="filter journal-filter" type="button" data-journal="Chem. Sci.">Chem. Sci.</button>
               </div>
             </div>
             <div class="filter-group">
@@ -60,6 +62,12 @@
                 <button class="filter scope-filter is-active" type="button" data-filter="all">전체</button>
                 <button class="filter scope-filter" type="button" data-filter="new">신규</button>
               </div>
+            </div>
+            <div class="filter-group">
+              <label class="filter-label" for="year-filter">연도</label>
+              <select id="year-filter" class="year-filter" aria-label="발행 연도 선택">
+                <option value="all">모든 연도</option>
+              </select>
             </div>
           </div>
           <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="제목 또는 DOI 검색" aria-label="논문 검색"></label>

@@ -39,6 +39,7 @@ JOURNALS = [
     {"key": "journal-of-computational-chemistry", "name": "Journal of Computational Chemistry", "short_name": "J. Comput. Chem.", "issn": "1096-987X"},
     {"key": "jctc", "name": "Journal of Chemical Theory and Computation", "short_name": "JCTC", "issn": "1549-9626"},
     {"key": "angewandte", "name": "Angewandte Chemie International Edition", "short_name": "Angew. Chem. Int. Ed.", "issn": "1521-3773"},
+    {"key": "chemical-science", "name": "Chemical Science", "short_name": "Chem. Sci.", "issn": "2041-6520"},
 ]
 
 
@@ -347,7 +348,7 @@ def update(
     )
     seen = {normalize_doi(value) for value in old_state.get("seen_dois", [])}
     journals_by_key = {journal["key"]: journal for journal in JOURNALS}
-    official_only = bool(acs_file and science_file and len(publisher_files) == 4)
+    official_only = bool(acs_file and science_file and len(publisher_files) >= 4)
     if official_only:
         fetched = [*load_acs_articles(acs_file).values(), *load_science_articles(science_file).values()]
         for key, inventory_path in publisher_files.items():
@@ -431,6 +432,7 @@ def main() -> int:
     parser.add_argument("--jctc-file", type=Path, help="Use the ACS JCTC search inventory")
     parser.add_argument("--jcc-file", type=Path, help="Use the Wiley Journal of Computational Chemistry inventory")
     parser.add_argument("--angew-file", type=Path, help="Use the Wiley Angewandte inventory")
+    parser.add_argument("--chemical-science-file", type=Path, help="Use the RSC Chemical Science inventory")
     args = parser.parse_args()
     try:
         publisher_files = {
@@ -440,6 +442,7 @@ def main() -> int:
                 "jctc": args.jctc_file,
                 "journal-of-computational-chemistry": args.jcc_file,
                 "angewandte": args.angew_file,
+                "chemical-science": args.chemical_science_file,
             }.items()
             if path is not None
         }

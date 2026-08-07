@@ -25,40 +25,44 @@ function Invoke-Collector {
 New-Item -ItemType Directory -Force (Split-Path $LogPath) | Out-Null
 Start-Transcript -Path $LogPath -Append
 try {
-    Write-Host "[1/9] Updating the local repository"
+    Write-Host "[1/10] Updating the local repository"
     git pull --ff-only
 
-    Write-Host "[2/9] JACS"
+    Write-Host "[2/10] JACS"
     Invoke-Collector -Label "JACS" -Script "scripts/receive_acs_collection.mjs"
 
-    Write-Host "[3/9] Science"
+    Write-Host "[3/10] Science"
     Invoke-Collector -Label "Science Research Articles" -Script "scripts/receive_science_collection.mjs"
 
-    Write-Host "[4/9] Nature Communications"
+    Write-Host "[4/10] Nature Communications"
     Invoke-Collector -Label "Nature Communications" -Script "scripts/receive_publisher_collection.mjs" -CollectorArgs @("nature")
 
-    Write-Host "[5/9] JCTC"
+    Write-Host "[5/10] JCTC"
     Invoke-Collector -Label "JCTC" -Script "scripts/receive_publisher_collection.mjs" -CollectorArgs @("jctc")
 
-    Write-Host "[6/9] Journal of Computational Chemistry"
+    Write-Host "[6/10] Journal of Computational Chemistry"
     Invoke-Collector -Label "Journal of Computational Chemistry" -Script "scripts/receive_publisher_collection.mjs" -CollectorArgs @("jcc")
 
-    Write-Host "[7/9] Angewandte"
+    Write-Host "[7/10] Angewandte"
     Invoke-Collector -Label "Angewandte" -Script "scripts/receive_publisher_collection.mjs" -CollectorArgs @("angew")
 
-    Write-Host "[8/9] Building publisher-only site data"
+    Write-Host "[8/10] Chemical Science"
+    Invoke-Collector -Label "Chemical Science" -Script "scripts/receive_publisher_collection.mjs" -CollectorArgs @("chemical-science")
+
+    Write-Host "[9/10] Building publisher-only site data"
     & py -3 scripts/update_journals.py `
         --acs-file data/acs_articles.json `
         --science-file data/science_articles.json `
         --nature-file data/nature_communications_articles.json `
         --jctc-file data/jctc_articles.json `
         --jcc-file data/jcc_articles.json `
-        --angew-file data/angew_articles.json
+        --angew-file data/angew_articles.json `
+        --chemical-science-file data/chemical_science_articles.json
     if ($LASTEXITCODE -ne 0) { throw "Publisher inventory merge failed." }
 
-    Write-Host "[9/9] Publishing changed inventories"
+    Write-Host "[10/10] Publishing changed inventories"
     git add data/acs_articles.json data/science_articles.json data/nature_communications_articles.json `
-        data/jctc_articles.json data/jcc_articles.json data/angew_articles.json `
+        data/jctc_articles.json data/jcc_articles.json data/angew_articles.json data/chemical_science_articles.json `
         data/articles.json data/seen_dois.json
     if (git diff --cached --quiet) {
         Write-Host "No publisher metadata changes were found."
