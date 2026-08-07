@@ -15,7 +15,7 @@ const configs = {
   jctc: { output: "jctc_articles.json", minimum: 300, url: "https://pubs.acs.org/jctcce/search-results?sort=Date+-+Newest+First&f_JournalID=1000064&f_ContentType=Journal+Articles&fl_SiteID=1000123&qb=%7B%22q%22%3A%22%22%7D&page=1#publisher-auto" },
   jcc: { output: "jcc_articles.json", minimum: 100, excludedTitles: [/^issue information$/i], url: "https://onlinelibrary.wiley.com/action/doSearch?SeriesKey=1096987x&startPage=0&sortBy=Earliest#publisher-auto" },
   angew: { output: "angew_articles.json", minimum: 1000, excludedTitles: [/^issue information$/i, /^(?:inside |outside )?(?:front |back )?cover:/i, /^frontispiece:/i], url: "https://onlinelibrary.wiley.com/action/doSearch?SeriesKey=15213773&startPage=0&sortBy=Earliest#publisher-auto" },
-  "chemical-science": { output: "chemical_science_articles.json", minimum: 100, url: "https://pubs.rsc.org/sc/issue/17/30#publisher-auto" },
+  "chemical-science": { output: "chemical_science_articles.json", minimum: 100, url: "https://pubs.rsc.org/sc/latest-articles#publisher-auto" },
 };
 
 const key = process.argv[2];
