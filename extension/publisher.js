@@ -1,6 +1,6 @@
 const PUBLISHER_STATE_KEY = "publisherCollectorState";
 const PUBLISHER_CUTOFF = "2026-01-01";
-const PUBLISHER_BUILD = "1.5.6";
+const PUBLISHER_BUILD = "1.5.7";
 
 const publisherConfig = (() => {
   if (location.hostname === "www.nature.com") return { key: "nature", label: "Nature Communications", prefix: "10.1038/s41467-", source: "Nature Communications Research Articles" };
@@ -301,7 +301,7 @@ async function processPublisherPage() {
     const issue = Number(location.pathname.match(/^\/sc\/issue\/\d+\/(\d+)/i)?.[1] || 0);
     if (issue <= 1) return finishPublisher(state, "last-issue");
   } else if (rows.length < 20) return finishPublisher(state, "short-page");
-  if (publisherConfig.key !== "nature" && !nextPublisherPage()) return finishPublisher(state, "last-page");
+  if (publisherConfig.key !== "nature" && publisherConfig.key !== "chemical-science" && !nextPublisherPage()) return finishPublisher(state, "last-page");
   setTimeout(() => {
     loadPublisherState().then((latest) => {
       if (!latest?.running || latest.run_id !== state.run_id) return;
