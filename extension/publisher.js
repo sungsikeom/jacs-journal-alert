@@ -124,6 +124,12 @@ function publisherPanel(message, running = false) {
   panel.querySelector("#publisher-stop").disabled = !running;
 }
 
+function publisherSecurityChallenge() {
+  if (publisherConfig.key !== "chemical-science") return false;
+  const text = String(document.body?.innerText || "").toLowerCase();
+  return text.includes("security check") || text.includes("cloudflare") || text.includes("보안 확인") || text.includes("잠시만 기다리십시오");
+}
+
 async function stopPublisherCollection() {
   const state = await loadPublisherState();
   if (state) {
@@ -141,7 +147,8 @@ async function waitPublisherRows() {
   let stable = 0;
   let previousSignature = "";
   let stableSignatures = 0;
-  for (let attempt = 0; attempt < 60; attempt += 1) {
+  for (let attempt = 0; attempt < (publisherConfig.key === "chemical-science" ? 180 : 60); attempt += 1) {
+    if (publisherSecurityChallenge()) publisherPanel("RSC 보안 확인 대기 중 · 브라우저에서 확인을 완료해 주세요", true);
     const rows = readPublisherPage();
     if (rows.length > best.length) best = rows;
     if (publisherConfig.key === "nature") {
