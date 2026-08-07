@@ -1,6 +1,6 @@
 const PUBLISHER_STATE_KEY = "publisherCollectorState";
 const PUBLISHER_CUTOFF = "2026-01-01";
-const PUBLISHER_BUILD = "1.5.8";
+const PUBLISHER_BUILD = "1.5.9";
 
 const publisherConfig = (() => {
   if (location.hostname === "www.nature.com") return { key: "nature", label: "Nature Communications", prefix: "10.1038/s41467-", source: "Nature Communications Research Articles" };
@@ -49,6 +49,15 @@ function chemicalScienceTitle(item, anchor, doi) {
   return cleaned && !/^10\.1039\//i.test(cleaned) ? cleaned : doi;
 }
 
+function chemicalScienceItem(anchor) {
+  let node = anchor?.parentElement || null;
+  for (let depth = 0; node && depth < 8; depth += 1, node = node.parentElement) {
+    const text = String(node.innerText || node.textContent || "").replace(/\s+/g, " ").trim();
+    if (/\bOpen Access\b/i.test(text) && text.length < 6000) return node;
+  }
+  return anchor?.parentElement || null;
+}
+
 function readPublisherPage() {
   if (publisherConfig.key === "nature") {
     const byDoi = new Map();
@@ -73,7 +82,7 @@ function readPublisherPage() {
     for (const anchor of anchors) {
       const doi = publisherDoi(anchor.href);
       if (!doi || byDoi.has(doi)) continue;
-      const item = anchor.closest("article, li, .issue-item, .result, div") || anchor.parentElement;
+      const item = chemicalScienceItem(anchor);
       const text = String(item?.textContent || anchor.textContent || "").replace(/\s+/g, " ").trim();
       const year = text.match(/\b(20\d{2})\b/)?.[1] || new URL(anchor.href).pathname.match(/\/articlelanding\/(20\d{2})\//)?.[1];
       if (!year) continue;
