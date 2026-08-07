@@ -1,6 +1,6 @@
 const PUBLISHER_STATE_KEY = "publisherCollectorState";
 const PUBLISHER_CUTOFF = "2026-01-01";
-const PUBLISHER_BUILD = "1.5.5";
+const PUBLISHER_BUILD = "1.5.6";
 
 const publisherConfig = (() => {
   if (location.hostname === "www.nature.com") return { key: "nature", label: "Nature Communications", prefix: "10.1038/s41467-", source: "Nature Communications Research Articles" };
@@ -58,7 +58,7 @@ function readPublisherPage() {
   }
   if (publisherConfig.key === "chemical-science") {
     const byDoi = new Map();
-    const anchors = [...document.querySelectorAll('a[href*="/content/articlelanding/"], a[href*="/articlelanding/"], a[href*="/sc/d"]')];
+    const anchors = [...document.querySelectorAll('a[href*="/content/articlelanding/"], a[href*="/articlelanding/"], a[href*="/sc/d"], a[href*="doi.org/10.1039/"]')];
     for (const anchor of anchors) {
       const doi = publisherDoi(anchor.href);
       if (!doi || byDoi.has(doi)) continue;
