@@ -1,9 +1,33 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-08-06T03:24:27.121Z",
+  "collected_at": "2026-08-07T00:07:20.807Z",
   "scope_start": "2026-01-01",
-  "article_count": 574,
+  "article_count": 578,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c00899",
+      "title": "Selecting Optimal Unrestricted Hartree–Fock Trial Wave Functions for Phaseless Auxiliary-Field Quantum Monte Carlo: Accuracy and Limitations in Modeling Three Iron–Sulfur Clusters",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00899"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00887",
+      "title": "Dynamically Corrected Bethe–Salpeter Equation Solver for Self-Consistent GW Reference on the Matsubara Frequency Axis",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00887"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00850",
+      "title": "Simple Model for Challenging Excited States: Low-Lying, Core-Level and Conical-Intersection Regimes",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00850"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00702",
+      "title": "Comprehensive Approach to Atomistic Simulations of Discharging Batteries",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00702"
+    },
     {
       "doi": "10.1021/acs.jctc.6c00983",
       "title": "Potential-Averaged ΔSCF Methods: Underlying Formalism and Evaluation of Accuracy of Excitation Energies",

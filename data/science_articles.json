@@ -1,10 +1,122 @@
 {
   "source": "Science tables of contents collected by the local Chrome extension",
-  "collected_at": "2026-08-06T03:24:04.353Z",
+  "collected_at": "2026-08-07T00:00:44.858Z",
   "scope_start": "2026-01-01",
   "article_type": "Research Article",
-  "article_count": 553,
+  "article_count": 569,
   "articles": [
+    {
+      "doi": "10.1126/science.ael1781",
+      "title": "In Other Journals",
+      "published_date": "2026-08-06",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ael1781"
+    },
+    {
+      "doi": "10.1126/science.ael1780",
+      "title": "In Science Journals",
+      "published_date": "2026-08-06",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ael1780"
+    },
+    {
+      "doi": "10.1126/science.aeh1475",
+      "title": "A molecular switch for coordinating kinesin and dynein transport of mitochondrial cargo",
+      "published_date": "2026-08-06",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeh1475"
+    },
+    {
+      "doi": "10.1126/science.aef9458",
+      "title": "Heavily doped, highly compensated epitaxial ScN thin films exceed Boltzmann thermopower limits",
+      "published_date": "2026-08-06",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aef9458"
+    },
+    {
+      "doi": "10.1126/science.aef4184",
+      "title": "Adaptive modulation of theta sweeps in the brain’s navigation circuit",
+      "published_date": "2026-08-06",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aef4184"
+    },
+    {
+      "doi": "10.1126/science.aef0766",
+      "title": "Vicinal disubstitution of alkyl C–X synthons via alkene radical cation generation",
+      "published_date": "2026-08-06",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aef0766"
+    },
+    {
+      "doi": "10.1126/science.aee4205",
+      "title": "Paleogenomic insight into the collapse, recovery, and management of American bison",
+      "published_date": "2026-08-06",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aee4205"
+    },
+    {
+      "doi": "10.1126/science.aee3541",
+      "title": "Fossil evidence favors a role for vision in the modular evolution of the primate neocortex",
+      "published_date": "2026-08-06",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aee3541"
+    },
+    {
+      "doi": "10.1126/science.aec2657",
+      "title": "Generative design of bacteriophages with genome language models",
+      "published_date": "2026-08-06",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aec2657"
+    },
+    {
+      "doi": "10.1126/science.aea5828",
+      "title": "Decadal doubling of Siberian methane emissions due to warming-induced fires and methanogenesis",
+      "published_date": "2026-08-06",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aea5828"
+    },
+    {
+      "doi": "10.1126/science.adx7367",
+      "title": "Calcium tunes snail mucus–based materials to multiple functions",
+      "published_date": "2026-08-06",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adx7367"
+    },
+    {
+      "doi": "10.1126/science.adx1707",
+      "title": "Levitated sensor for magnetometry in ambient environment",
+      "published_date": "2026-08-06",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adx1707"
+    },
+    {
+      "doi": "10.1126/science.adv8291",
+      "title": "Chemically induced skin tumors arise from long-lived stem cells of the upper hair follicle",
+      "published_date": "2026-08-06",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adv8291"
+    },
+    {
+      "doi": "10.1126/science.adv5441",
+      "title": "The climate benefits of retiring a fully operational internal combustion engine vehicle",
+      "published_date": "2026-08-06",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adv5441"
+    },
+    {
+      "doi": "10.1126/science.adu6688",
+      "title": "The fungal pathogen Candida auris exposes chitin to trigger IFNγ and persist in hair follicles",
+      "published_date": "2026-08-06",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adu6688"
+    },
+    {
+      "doi": "10.1126/science.adt7323",
+      "title": "Turbulent seismoacoustic imprints during a hurricane landfall",
+      "published_date": "2026-08-06",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adt7323"
+    },
     {
       "doi": "10.1126/science.aek9789",
       "title": "In Other Journals",

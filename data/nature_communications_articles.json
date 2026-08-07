@@ -1,14 +1,68 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-08-06T03:24:14.460Z",
+  "collected_at": "2026-08-07T00:04:06.197Z",
   "scope_start": "2026-01-01",
-  "article_count": 7966,
+  "article_count": 7975,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-76485-5",
+      "title": "Ultrafast electron acceleration by space chorus",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1038/s41467-026-76485-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-76046-w",
+      "title": "Nuclear localization of the glutaminyl-tRNA synthetase QARS reveals its role in DNA damage response in ovarian cancer",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1038/s41467-026-76046-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76458-8",
+      "title": "Decomposition and separation of vibration waves from blasting demolition of tall buildings and their component characteristics",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1038/s41467-026-76458-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-76424-4",
+      "title": "Strategic timing for the decarbonization contributions by China’s photovoltaic manufacturers in global energy transition",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1038/s41467-026-76424-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76421-7",
+      "title": "Phosphorene dominated integrative dual-electric field guiding charge flow for vapor-fed photocatalytic hydrogen evolution",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1038/s41467-026-76421-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-76374-x",
+      "title": "Surfaceome CRISPR activation screening uncovers ligands regulating tumor sensitivity to NK cell killing",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1038/s41467-026-76374-x"
+    },
     {
       "doi": "10.1038/s41467-026-76363-0",
       "title": "Anionic solvation reconstruction stabilizes interfacial chemistry for high-temperature and high-voltage Li metal batteries",
       "published_date": "2026-08-06",
       "url": "https://doi.org/10.1038/s41467-026-76363-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76318-5",
+      "title": "Chrono-atlas of cell-type specific daily gene expression rhythms in the regenerating colon",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1038/s41467-026-76318-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-75942-5",
+      "title": "Exopeptidase-assisted nanopore peptide sequence identification",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1038/s41467-026-75942-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-75770-7",
+      "title": "PPARα activation overcomes fibroinflammatory liver microenvironment-associated anti-PD-1 resistance in hepatocellular carcinoma by mediating GSDME-dependent pyroptosis",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1038/s41467-026-75770-7"
     },
     {
       "doi": "10.1038/s41467-026-76449-9",

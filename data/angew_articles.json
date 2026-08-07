@@ -1,9 +1,225 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-08-05T10:26:30.116Z",
+  "collected_at": "2026-08-07T00:14:05.003Z",
   "scope_start": "2026-01-01",
-  "article_count": 2000,
+  "article_count": 1960,
   "articles": [
+    {
+      "doi": "10.1002/anie.9633257",
+      "title": "Unraveling A4GALT Mechanism and Its Modulation With Adamantyl-Galactosylceramide Analogues: Advancing Fabry Disease Therapeutic Strategies",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.9633257"
+    },
+    {
+      "doi": "10.1002/anie.9417552",
+      "title": "Recycling 99Tc From Nuclear Wastewater by Coupling Photocatalysis and In Situ Ion-Exchange on Bifunctional K-SnS/TiO2 Heterojunction",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.9417552"
+    },
+    {
+      "doi": "10.1002/anie.9302519",
+      "title": "Adaptive Hydrogenation of Alkynes Using CO as a Molecular Trigger to Selectively Produce Alkanes or Z-Alkenes",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.9302519"
+    },
+    {
+      "doi": "10.1002/anie.8233387",
+      "title": "Inner Helmholtz Plane Reconstruction Enables High‑Voltage Sodium‑Ion Batteries",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.8233387"
+    },
+    {
+      "doi": "10.1002/anie.7989553",
+      "title": "Unsaturated Copper Sites for Selective Electroreduction of CO to Alcohol",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.7989553"
+    },
+    {
+      "doi": "10.1002/anie.7825637",
+      "title": "Biomimetic Synthesis of Multinuclear Metal-Oxo Bridges Under Mild Aqueous Conditions for Catalytic Cancer Therapy",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.7825637"
+    },
+    {
+      "doi": "10.1002/anie.7796630",
+      "title": "Interfacial Charge-Transfer Kinetics Regulate Na2S Deposition by Recycled V Single-Atom Catalysts for Durable Na–S Batteries",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.7796630"
+    },
+    {
+      "doi": "10.1002/anie.7119524",
+      "title": "A General Design of Compact “Zero-On” NIR-II Photoacoustic Dyes for High-Fidelity Imaging",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.7119524"
+    },
+    {
+      "doi": "10.1002/anie.7096050",
+      "title": "Interfacial Raft-Like Structures From Bottlebrush Polymers",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.7096050"
+    },
+    {
+      "doi": "10.1002/anie.6855232",
+      "title": "On-Demand Deconstructable Thermosets Through Cleavable Comonomer and Thermolatent Base Synergy",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.6855232"
+    },
+    {
+      "doi": "10.1002/anie.6256371",
+      "title": "Multidimensional Exploration of Platinum Complexes for Cancer Therapy",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.6256371"
+    },
+    {
+      "doi": "10.1002/anie.6106605",
+      "title": "Decoupling TM–O Antibonding via Targeted Orbital Engineering Enables High-Voltage and Long-Life Sodium Polyanionic Cathodes",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.6106605"
+    },
+    {
+      "doi": "10.1002/anie.6088506",
+      "title": "Single-Atom Control of Aromaticity and Excited-State Dynamics in Endohedral Zirconium–Antimony Zintl Clusters",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.6088506"
+    },
+    {
+      "doi": "10.1002/anie.5508153",
+      "title": "Halogen Bonding as a Molecular Recognition Strategy for Genetic Code Expansion",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.5508153"
+    },
+    {
+      "doi": "10.1002/anie.5312516",
+      "title": "Adsorbate-Induced Reversible Changes in Zeolite ZEO-5 Attributed to Its Triple-Four-Silicate-Rings",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.5312516"
+    },
+    {
+      "doi": "10.1002/anie.5303924",
+      "title": "Dynamic Disulfide-Linked Dimeric Acceptors for High-Efficiency and Mechanically Robust Organic Solar Cells",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.5303924"
+    },
+    {
+      "doi": "10.1002/anie.5051663",
+      "title": "Single-Crystal Covalent Organic Frameworks for Anhydrous Proton Conduction Above 200°C",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.5051663"
+    },
+    {
+      "doi": "10.1002/anie.4221605",
+      "title": "Decoupling Bidirectional Photochemical Degradation via Radical Scavenging for Stable Inverted Perovskite Solar Cells",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.4221605"
+    },
+    {
+      "doi": "10.1002/anie.3948218",
+      "title": "Backbone Steric Constraints Underlie High Passive Membrane Permeability of N-Alkyl Peptides",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.3948218"
+    },
+    {
+      "doi": "10.1002/anie.3917462",
+      "title": "Efficient Utilization of Solar Energy Mediated by Singlet Fission Passage to Boost Photocatalytic Hydrogen Production",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.3917462"
+    },
+    {
+      "doi": "10.1002/anie.3726508",
+      "title": "Phase-Inversion Engineering of Covalent Organic Framework Microspheres for Advanced Water Purification",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.3726508"
+    },
+    {
+      "doi": "10.1002/anie.3493135",
+      "title": "Electrocatalytic C–C Coupled Oligomerization From Biomass Molecules Through Pd Single-Atom Interfacial Regulation",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.3493135"
+    },
+    {
+      "doi": "10.1002/anie.2977415",
+      "title": "Topological Densification-Reinforced Robust and Durable Protein Adhesive at Dynamic Interfaces",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.2977415"
+    },
+    {
+      "doi": "10.1002/anie.2924489",
+      "title": "Conformation-Guided Disulfide Pairing Enables Efficient Folding of Disulfide-Rich Peptides",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.2924489"
+    },
+    {
+      "doi": "10.1002/anie.1866870",
+      "title": "Bioorthogonal Tools for Ethanolamine Lipids and Protein Conjugates",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.1866870"
+    },
+    {
+      "doi": "10.1002/anie.1507031",
+      "title": "Nitrogen Speciation Dictates Industrial-Current Oxygen Reduction in Metal-Free Macrocycles for H2O2 Synthesis",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1002/anie.1507031"
+    },
+    {
+      "doi": "10.1002/anie.202526115",
+      "title": "Enhancing the Versatility of Polyethylene Terephthalate (PET) Through Strategic Biomolecular Functionalization",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1002/anie.202526115"
+    },
+    {
+      "doi": "10.1002/anie.1974825",
+      "title": "Synthesis of Chiral Bowl-Shaped N-Heterocycles via Pd-Catalyzed Enantioselective Intramolecular C–H Arylation",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1002/anie.1974825"
+    },
+    {
+      "doi": "10.1002/anie.1884534",
+      "title": "Monitoring the Microwave Synthesis of d0-Free Disordered Rocksalt Cathodes Using In Situ Infrared Pyrometry",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1002/anie.1884534"
+    },
+    {
+      "doi": "10.1002/anie.1880625",
+      "title": "Axial N Disrupt d–π Conjugation of Asymmetric Fe─Cu Dual-Atom Enhances CO2 Electroreduction",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1002/anie.1880625"
+    },
+    {
+      "doi": "10.1002/anie.1653347",
+      "title": "Ferromagnetic Coupling in Dual-Atom Nanozymes Enables Spin-Favorable Catalase-Like Catalysis for Rheumatoid Arthritis Therapy",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1002/anie.1653347"
+    },
+    {
+      "doi": "10.1002/anie.1623834",
+      "title": "A Highly General Potential-Gating Strategy for Electrocatalytic Upcycling of Waste Polyester Plastics",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1002/anie.1623834"
+    },
+    {
+      "doi": "10.1002/anie.1547062",
+      "title": "Supramolecular Protection–Deprotection for Switching Pore-Surface Functionality in a Crystalline Porous Organic Salt",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1002/anie.1547062"
+    },
+    {
+      "doi": "10.1002/anie.1534079",
+      "title": "Narrowband Hydrocarbon Emitters Enabled by Stereo-Locked Through-Space Interactions",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1002/anie.1534079"
+    },
+    {
+      "doi": "10.1002/anie.1425075",
+      "title": "Silver-Catalyzed Vinylogous C(sp3)–C(sp3) Coupling of Bicyclo[1.1.0]Butanes With Vinylcarbenes",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1002/anie.1425075"
+    },
+    {
+      "doi": "10.1002/anie.1082242",
+      "title": "Stability-Enhanced Therapeutic Artificial Cells Based on a Lipid–Polymer Integrated Architecture",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1002/anie.1082242"
+    },
     {
       "doi": "10.1002/anie.9595705",
       "title": "Revisiting Coulombic Efficiency Paradigm: Electrolyte Additive Design for Lithium Metal Batteries",
@@ -455,60 +671,6 @@
       "url": "https://doi.org/10.1002/anie.2260330"
     },
     {
-      "doi": "10.1002/anie.2026-m2707095200",
-      "title": "Inside Back Cover: A Cholesterol Analogue for Cell-Surface Enzyme Display",
-      "published_date": "2026-07-29",
-      "url": "https://doi.org/10.1002/anie.2026-m2707095200"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2707094800",
-      "title": "Outside Back Cover: A Multi-Stimuli Transformational Network of Benzil-Based Pd(II) Assemblies",
-      "published_date": "2026-07-29",
-      "url": "https://doi.org/10.1002/anie.2026-m2707094800"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2707094600",
-      "title": "Inside Back Cover: High-Entropy Catalyst Activated Molecular Oxygen for Oxidative Coupling Under Ambient Conditions",
-      "published_date": "2026-07-29",
-      "url": "https://doi.org/10.1002/anie.2026-m2707094600"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2607101300",
-      "title": "Inside Front Cover: Bimetallic Node Occupied MOF With Glycoside Hydrolase Activity for Efficient Bacterial Biofilm Hydrolysis",
-      "published_date": "2026-07-29",
-      "url": "https://doi.org/10.1002/anie.2026-m2607101300"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2607095800",
-      "title": "Inside Front Cover: Metal–Organic Framework-Gated Biocatalysis Enables Triggered Depolymerization of Melt-Processed Polyesters",
-      "published_date": "2026-07-29",
-      "url": "https://doi.org/10.1002/anie.2026-m2607095800"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2607095700",
-      "title": "Outside Back Cover: Bifluorinated Motif-Tailored Hybrid Membranes for Ultra-Permeable CO2 Separation From Air Under High Humidity",
-      "published_date": "2026-07-29",
-      "url": "https://doi.org/10.1002/anie.2026-m2607095700"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2607094700",
-      "title": "Inside Back Cover: Recyclable Pt-Catalyzed Biphase Hydrosilylation on Water: From Functionalized Monomers to Polymer Materials",
-      "published_date": "2026-07-29",
-      "url": "https://doi.org/10.1002/anie.2026-m2607094700"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2607094400",
-      "title": "Outside Front Cover: Catalytic C–F Bond Activation at Room Temperature: Enolate Cross-Couplings Enabled by [Pd(1-MeNAP)TFA]2 and LiHMDS",
-      "published_date": "2026-07-29",
-      "url": "https://doi.org/10.1002/anie.2026-m2607094400"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2607093500",
-      "title": "Outside Back Cover: Rhodium(III)-Catalyzed Asymmetric Synthesis of Silanes and Cyclopropanes From Diazo Compounds Using Chiral α-Pinene-Derived Indenyl Ligands",
-      "published_date": "2026-07-29",
-      "url": "https://doi.org/10.1002/anie.2026-m2607093500"
-    },
-    {
       "doi": "10.1002/anie.1030078",
       "title": "Vicinal-Diboron Reinforced [9]Helicene Enables Narrowband Blue Circularly Polarized Emitter With Large Dissymmetry Factor and High Device Efficiency",
       "published_date": "2026-07-29",
@@ -555,12 +717,6 @@
       "title": "Regulating Electrolyte Microstructure via Anion-Solvent Coordination Enables Fast Interfacial Kinetics Toward Practical Zinc Pouch Cells",
       "published_date": "2026-07-28",
       "url": "https://doi.org/10.1002/anie.2482042"
-    },
-    {
-      "doi": "10.1002/anie.2026-m1007033700",
-      "title": "Frontispiece: Artificial Transmembrane Channels for Selective Ascorbic Acid Transport and Bioorthogonal Signal Transduction",
-      "published_date": "2026-07-28",
-      "url": "https://doi.org/10.1002/anie.2026-m1007033700"
     },
     {
       "doi": "10.1002/anie.2017853",
@@ -1421,12 +1577,6 @@
       "url": "https://doi.org/10.1002/anie.3135016"
     },
     {
-      "doi": "10.1002/anie.2026-m1906014800",
-      "title": "Frontispiece: Stepwise Conformational Restriction of Acylhydrazone-Based Molecules for High Signal-to-Noise Fluorescent Recognition of Synthetic Cannabinoid FUB-INACA",
-      "published_date": "2026-07-20",
-      "url": "https://doi.org/10.1002/anie.2026-m1906014800"
-    },
-    {
       "doi": "10.1002/anie.4295699",
       "title": "Cyclic P3O93– Trimer: A Network Former for Amorphous Superionic Conductors in Sodium Solid-State Batteries",
       "published_date": "2026-07-19",
@@ -1569,18 +1719,6 @@
       "title": "Solar-Driven CO2-Mediated Upcycling of Waste Plastics Into Value-Added Syngas and Carbon Nanotubes",
       "published_date": "2026-07-17",
       "url": "https://doi.org/10.1002/anie.2880918"
-    },
-    {
-      "doi": "10.1002/anie.2026-m1507014300",
-      "title": "Inside Back Cover: Structure-Informed Design of Distinct Parallel G-Quadruplex Stabilizers for KRAS-Driven Cancer Therapy (Angew. Chem. Int. Ed. 32/2026)",
-      "published_date": "2026-07-17",
-      "url": "https://doi.org/10.1002/anie.2026-m1507014300"
-    },
-    {
-      "doi": "10.1002/anie.2026-m1507012900",
-      "title": "Outside Front Cover: 3D-Printable Nanoporous Thermosets Via Disulfide-Based Polymerization-Induced Microphase Separation",
-      "published_date": "2026-07-17",
-      "url": "https://doi.org/10.1002/anie.2026-m1507012900"
     },
     {
       "doi": "10.1002/anie.1978756",
@@ -1787,42 +1925,6 @@
       "url": "https://doi.org/10.1002/anie.2175887"
     },
     {
-      "doi": "10.1002/anie.2026-m1007040200",
-      "title": "Outside Front Cover: The Missing Link in Ferrocenophane Chemistry: Isolation of a Carba[1]Ferrocenophane",
-      "published_date": "2026-07-15",
-      "url": "https://doi.org/10.1002/anie.2026-m1007040200"
-    },
-    {
-      "doi": "10.1002/anie.2026-m1007035600",
-      "title": "Outside Back Cover: Selective Synthesis of [2]Rotaxane Orientational Isomers With Precisely Arranged Luminogens: Toward Orientation-Dependent Emissions for Information Storage and Encryption",
-      "published_date": "2026-07-15",
-      "url": "https://doi.org/10.1002/anie.2026-m1007035600"
-    },
-    {
-      "doi": "10.1002/anie.2026-m1007035200",
-      "title": "Inside Front Cover: Design Guidelines for Anode Modifications to Eliminate Soft Short Circuits in Anode-Free Na Batteries Under High Current Density With Large-Capacity Plating, Demonstrated via Initiated Chemical Vapor Deposition (iCVD)",
-      "published_date": "2026-07-15",
-      "url": "https://doi.org/10.1002/anie.2026-m1007035200"
-    },
-    {
-      "doi": "10.1002/anie.2026-m1007034500",
-      "title": "Outside Front Cover: Nucleophilic Gallyl Anions Enable Ga–Au Bimetallic Ammonia Activation",
-      "published_date": "2026-07-15",
-      "url": "https://doi.org/10.1002/anie.2026-m1007034500"
-    },
-    {
-      "doi": "10.1002/anie.2026-m1007034000",
-      "title": "Inside Front Cover: Side-Chain Symmetry Breaking in Naphthalene Diimides Decouples High Concentration From Cycling Stability in Neutral Aqueous Organic Redox Flow Batteries (Angew. Chem. Int. Ed. 32/2026)",
-      "published_date": "2026-07-15",
-      "url": "https://doi.org/10.1002/anie.2026-m1007034000"
-    },
-    {
-      "doi": "10.1002/anie.2026-m1007033200",
-      "title": "Inside Front Cover: Organic Intercalation Enables Controllable Single-Atom Coordination for Efficient H2O2 Electrosynthesis (Angew. Chem. Int. Ed. 31/2026)",
-      "published_date": "2026-07-15",
-      "url": "https://doi.org/10.1002/anie.2026-m1007033200"
-    },
-    {
       "doi": "10.1002/anie.1716945",
       "title": "The Bidentate Adsorption Mode of Re-Ni Atomic Pairs Inducing the Ultralow Overpotential in CO2 Electroreduction",
       "published_date": "2026-07-15",
@@ -1983,12 +2085,6 @@
       "title": "Selective Sequential Depolymerization of Mixed Plastics Mediated by Photothermal Conversion",
       "published_date": "2026-07-13",
       "url": "https://doi.org/10.1002/anie.2075380"
-    },
-    {
-      "doi": "10.1002/anie.2026-m1906015100",
-      "title": "Frontispiece: Allosteric Regulation of Photophysics and Binding in Oxazine-macrocycle Complexes at Single-molecule Resolution",
-      "published_date": "2026-07-13",
-      "url": "https://doi.org/10.1002/anie.2026-m1906015100"
     },
     {
       "doi": "10.1002/anie.1864800",
@@ -2753,12 +2849,6 @@
       "url": "https://doi.org/10.1002/anie.6881077"
     },
     {
-      "doi": "10.1002/anie.2026-m2506053000",
-      "title": "Outside Front Cover: π-Enlargement in Porphyrin Macrocycles at Interfaces (Angew. Chem. Int. Ed. 30/2026)",
-      "published_date": "2026-07-04",
-      "url": "https://doi.org/10.1002/anie.2026-m2506053000"
-    },
-    {
       "doi": "10.1002/anie.9966547",
       "title": "Reprogramming Photosensitization Mechanisms for Hypoxic Tumor Therapy via Organic Photovoltaic-Inspired Heterojunctions",
       "published_date": "2026-07-03",
@@ -2909,36 +2999,6 @@
       "url": "https://doi.org/10.1002/anie.2378897"
     },
     {
-      "doi": "10.1002/anie.2026-m2506061400",
-      "title": "Inside Back Cover: Nature-Inspired Organic–Inorganic Hybridization Enables High-Temperature and Multicolor Organic Phosphorescence (Angew. Chem. Int. Ed. 31/2026)",
-      "published_date": "2026-07-03",
-      "url": "https://doi.org/10.1002/anie.2026-m2506061400"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2506060000",
-      "title": "Inside Back Cover: Dynamic Anion Space Gradient Distribution Drives Wide-Temperature-Range All-Solid-State Lithium-Ion Batteries (Angew. Chem. Int. Ed. 30/2026)",
-      "published_date": "2026-07-03",
-      "url": "https://doi.org/10.1002/anie.2026-m2506060000"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2506054000",
-      "title": "Outside Back Cover: Piezoelectric Nanozymes With Acoustically Rejuvenated Catalytic Activities Rewire Lipid Metabolism for Two-Pronged Ferroptotic Therapy (Angew. Chem. Int. Ed. 30/2026)",
-      "published_date": "2026-07-03",
-      "url": "https://doi.org/10.1002/anie.2026-m2506054000"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2506053600",
-      "title": "Outside Front Cover: Rediscovering Sodium Ionophores as Selective Agents for Lithium Recognition and Extraction (Angew. Chem. Int. Ed. 32/2026)",
-      "published_date": "2026-07-03",
-      "url": "https://doi.org/10.1002/anie.2026-m2506053600"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2506052600",
-      "title": "Inside Front Cover: Enzyme-Guided Assembly Enables Precision Delivery of a Singlet Oxygen Battery for Membrane Lipid Peroxidation Therapy (Angew. Chem. Int. Ed. 30/2026)",
-      "published_date": "2026-07-03",
-      "url": "https://doi.org/10.1002/anie.2026-m2506052600"
-    },
-    {
       "doi": "10.1002/anie.9885697",
       "title": "Bond Length as a Unified Descriptor for Stable Iodine Battery",
       "published_date": "2026-07-02",
@@ -3069,36 +3129,6 @@
       "title": "Recent Advances in Two-Photon-Activatable Metal Complexes for Photodynamic Therapy",
       "published_date": "2026-07-02",
       "url": "https://doi.org/10.1002/anie.2556404"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2506061700",
-      "title": "Inside Front Cover: Covalently Hydrophobic Nanocarbon Supported Ni Single-Atom Catalysts for Highly Selective CO2 Electroreduction (Angew. Chem. Int. Ed. 29/2026)",
-      "published_date": "2026-07-02",
-      "url": "https://doi.org/10.1002/anie.2026-m2506061700"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2506054600",
-      "title": "Outside Back Cover: Upcycling Water Pollutants Into Long-Chain Polymers via Synergistic Interfacial Dechlorination and Organic Radical Stabilization (Angew. Chem. Int. Ed. 32/2026)",
-      "published_date": "2026-07-02",
-      "url": "https://doi.org/10.1002/anie.2026-m2506054600"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2506054200",
-      "title": "Outside Back Cover: Tissue Heterogeneity-Driven Parallel Acquisition for High-Coverage MS/MS Imaging of Lipids (Angew. Chem. Int. Ed. 31/2026)",
-      "published_date": "2026-07-02",
-      "url": "https://doi.org/10.1002/anie.2026-m2506054200"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2506053300",
-      "title": "Outside Front Cover: Meso-Strap Engineering of Aromaticity Redistribution in Porphyrinoids (Angew. Chem. Int. Ed. 31/2026)",
-      "published_date": "2026-07-02",
-      "url": "https://doi.org/10.1002/anie.2026-m2506053300"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2506052100",
-      "title": "Outside Front Cover: Triplet–Triplet Annihilation Upconversion Circularly Polarized Luminescence That Originates From Achiral and Racemic Luminophores Encapsulated in Chiral Silica (Angew. Chem. Int. Ed. 29/2026)",
-      "published_date": "2026-07-02",
-      "url": "https://doi.org/10.1002/anie.2026-m2506052100"
     },
     {
       "doi": "10.1002/anie.202522129",
@@ -3605,18 +3635,6 @@
       "url": "https://doi.org/10.1002/anie.3303191"
     },
     {
-      "doi": "10.1002/anie.2026-m1906020000",
-      "title": "Inside Back Cover: Large-Diameter DNA-Scaffolded Nanopores Enabled by Loosely Packed Peptides for Single-Molecule Sensing (Angew. Chem. Int. Ed. 29/2026)",
-      "published_date": "2026-06-24",
-      "url": "https://doi.org/10.1002/anie.2026-m1906020000"
-    },
-    {
-      "doi": "10.1002/anie.2026-m1906014500",
-      "title": "Outside Back Cover: Facet-Dependent Water Inhibition of Alkanol Dehydration on TiO2 via Distinct Water–Alkanol Complexes (Angew. Chem. Int. Ed. 29/2026)",
-      "published_date": "2026-06-24",
-      "url": "https://doi.org/10.1002/anie.2026-m1906014500"
-    },
-    {
       "doi": "10.1002/anie.1695429",
       "title": "Interstitial Copper Doping and Thermally Activated Rattling in La3-xTe4 for Enhanced Thermoelectric Performance",
       "published_date": "2026-06-24",
@@ -3971,24 +3989,6 @@
       "url": "https://doi.org/10.1002/anie.2477373"
     },
     {
-      "doi": "10.1002/anie.2026-m1906015400",
-      "title": "Outside Back Cover: Electroenzymatic CO2 Fixation (Angew. Chem. Int. Ed. 28/2026)",
-      "published_date": "2026-06-21",
-      "url": "https://doi.org/10.1002/anie.2026-m1906015400"
-    },
-    {
-      "doi": "10.1002/anie.2026-m1906013800",
-      "title": "Inside Front Cover: Biocompatible Interface for Organic Electrochemical Transistors Enables Bioadhesion and Over-Swelling Suppression (Angew. Chem. Int. Ed. 28/2026)",
-      "published_date": "2026-06-21",
-      "url": "https://doi.org/10.1002/anie.2026-m1906013800"
-    },
-    {
-      "doi": "10.1002/anie.2026-m1406102200",
-      "title": "Outside Front Cover: Synergistic Tuning of Structure and Active Phases in Zn─Mn Loaded Carbon Nanofiber Aerogel for High-Efficiency Desulfurization (Angew. Chem. Int. Ed. 28/2026)",
-      "published_date": "2026-06-21",
-      "url": "https://doi.org/10.1002/anie.2026-m1406102200"
-    },
-    {
       "doi": "10.1002/anie.1625296",
       "title": "Iron-Catalyzed Asymmetric NH2-Amination of Sulfenamides",
       "published_date": "2026-06-21",
@@ -4059,12 +4059,6 @@
       "title": "Leveraging Photothermal Effect in 1D Covalent Organic Frameworks for Efficient, Rapid, and Selective Gold Recovery",
       "published_date": "2026-06-20",
       "url": "https://doi.org/10.1002/anie.2904281"
-    },
-    {
-      "doi": "10.1002/anie.2026-m1406102500",
-      "title": "Inside Back Cover: Neutral X-Site ABX3-Type Perovskites (Angew. Chem. Int. Ed. 28/2026)",
-      "published_date": "2026-06-20",
-      "url": "https://doi.org/10.1002/anie.2026-m1406102500"
     },
     {
       "doi": "10.1002/anie.1226201",
@@ -4247,12 +4241,6 @@
       "url": "https://doi.org/10.1002/anie.2026858"
     },
     {
-      "doi": "10.1002/anie.2026-m1406102900",
-      "title": "Outside Front Cover: Toward Multi(radio)Metalated DNA: Enzymatic Polymerization of Metal-Chelate-Modified Deoxyribonucleoside Triphosphates (Angew. Chem. Int. Ed. 27/2026)",
-      "published_date": "2026-06-18",
-      "url": "https://doi.org/10.1002/anie.2026-m1406102900"
-    },
-    {
       "doi": "10.1002/anie.1818551",
       "title": "Electrothermal Oxidation of Ethylene Glycol Over Co3O4",
       "published_date": "2026-06-18",
@@ -4347,12 +4335,6 @@
       "title": "Defining Rational Photoelectron Routing for Targeted Intracellular Energy Transfer",
       "published_date": "2026-06-16",
       "url": "https://doi.org/10.1002/anie.2408585"
-    },
-    {
-      "doi": "10.1002/anie.2026-m0506065800",
-      "title": "Inside Back Cover: The Role of Shape Commensurability in Chirality Transfer: Gold Nanoshape Solutes in a Discotic Nematic Liquid Crystal Solvent (Angew. Chem. Int. Ed. 27/2026)",
-      "published_date": "2026-06-16",
-      "url": "https://doi.org/10.1002/anie.2026-m0506065800"
     },
     {
       "doi": "10.1002/anie.1852444",
@@ -4775,12 +4757,6 @@
       "url": "https://doi.org/10.1002/anie.3215238"
     },
     {
-      "doi": "10.1002/anie.2026-m0506072700",
-      "title": "Outside Back Cover: Unlocking Efficient Spontaneous Deracemization: A MOF-Mediated Heterogeneous System Overcomes Catalytic Incompatibility in Cocrystallization (Angew. Chem. Int. Ed. 27/2026)",
-      "published_date": "2026-06-11",
-      "url": "https://doi.org/10.1002/anie.2026-m0506072700"
-    },
-    {
       "doi": "10.1002/anie.9678457",
       "title": "From P-Type to Bipolar: A Quinone-Core Engineering Strategy in D-A-D Organic Cathodes for Ultra-Stable and High-Energy Organic Lithium-Ion Batteries",
       "published_date": "2026-06-10",
@@ -4893,12 +4869,6 @@
       "title": "Atomic Coordination Engineering of MOF Nanostructures for CO2 Electroreduction to High-Value Multi-Carbon Products at Industrial-Level Current Density",
       "published_date": "2026-06-10",
       "url": "https://doi.org/10.1002/anie.2590405"
-    },
-    {
-      "doi": "10.1002/anie.2026-m0506073000",
-      "title": "Inside Front Cover: Specific Ion Effects of Chaotropic and Superchaotropic Anions Probed by Raman Hydration-Shell Spectroscopy (Angew. Chem. Int. Ed. 27/2026)",
-      "published_date": "2026-06-10",
-      "url": "https://doi.org/10.1002/anie.2026-m0506073000"
     },
     {
       "doi": "10.1002/anie.202526148",
@@ -5025,24 +4995,6 @@
       "title": "Photocatalytic Lignin Depolymerization and Cross-Coupling With Alcohols to Produce Unsymmetric Aromatic Diols",
       "published_date": "2026-06-09",
       "url": "https://doi.org/10.1002/anie.2045478"
-    },
-    {
-      "doi": "10.1002/anie.2026-m0306041500",
-      "title": "Inside Front Cover: Enhancing Interfacial Charge Transport in Gold Nanoparticle@Polyaniline Hybrids via N-Heterocyclic Carbene Linkers (Angew. Chem. Int. Ed. 26/2026)",
-      "published_date": "2026-06-09",
-      "url": "https://doi.org/10.1002/anie.2026-m0306041500"
-    },
-    {
-      "doi": "10.1002/anie.2026-m0306040100",
-      "title": "Inside Back Cover: Differential Adsorption of Functional Groups by Ru/Co Driving Tandem Catalysis: Converting Furanic Molecules into Linear Alcohols (Angew. Chem. Int. Ed. 26/2026)",
-      "published_date": "2026-06-09",
-      "url": "https://doi.org/10.1002/anie.2026-m0306040100"
-    },
-    {
-      "doi": "10.1002/anie.2026-m0306035100",
-      "title": "Outside Back Cover: Terminal Hydroxylated Side-Chains Enhance Ionic-Electronic Coupling Efficiency in Small-Molecule Semiconductors (Angew. Chem. Int. Ed. 26/2026)",
-      "published_date": "2026-06-09",
-      "url": "https://doi.org/10.1002/anie.2026-m0306035100"
     },
     {
       "doi": "10.1002/anie.1326350",
@@ -6035,12 +5987,6 @@
       "url": "https://doi.org/10.1002/anie.2280142"
     },
     {
-      "doi": "10.1002/anie.2026-m2305094200",
-      "title": "Inside Front Cover: Stable Synapse-Like Memory Switching in N-Heterocyclic Carbene Monolayers (Angew. Chem. Int. Ed. 25/2026)",
-      "published_date": "2026-05-28",
-      "url": "https://doi.org/10.1002/anie.2026-m2305094200"
-    },
-    {
       "doi": "10.1002/anie.202525040",
       "title": "Synthesis of Cyclopropene-Modified Fatty Acids Allows Single-Cell Quantification of Uptake by Immune Cells",
       "published_date": "2026-05-28",
@@ -6407,12 +6353,6 @@
       "url": "https://doi.org/10.1002/anie.2111490"
     },
     {
-      "doi": "10.1002/anie.2026-m1905104500",
-      "title": "Outside Back Cover: Let There be Light! Light as an Engine and Regulator in Synthetic Cells (Angew. Chem. Int. Ed. 24/2026)",
-      "published_date": "2026-05-25",
-      "url": "https://doi.org/10.1002/anie.2026-m1905104500"
-    },
-    {
       "doi": "10.1002/anie.202522125",
       "title": "Electroenzymatic CO2 Fixation",
       "published_date": "2026-05-25",
@@ -6693,18 +6633,6 @@
       "title": "Engineering Multiple Hydrogen-Bond Sites With D-π-A Motifs for Strong Optical Nonlinearity and Giant Birefringence in Organic-Inorganic Halides",
       "published_date": "2026-05-22",
       "url": "https://doi.org/10.1002/anie.2193506"
-    },
-    {
-      "doi": "10.1002/anie.2026-m1905104000",
-      "title": "Outside Back Cover: Fused-Ring Acceptor–π–Acceptor Architecture Enables Near-Infrared-Absorbing Mesoporous Covalent Organic Frameworks for Enhanced H2O2 Photosynthesis (Angew. Chem. Int. Ed. 25/2026)",
-      "published_date": "2026-05-22",
-      "url": "https://doi.org/10.1002/anie.2026-m1905104000"
-    },
-    {
-      "doi": "10.1002/anie.2026-m1905103700",
-      "title": "Outside Front Cover: Predicting and Rationalizing Piezoelectricity in Racemic Bioorganic Molecular Crystals (Angew. Chem. Int. Ed. 26/2026)",
-      "published_date": "2026-05-22",
-      "url": "https://doi.org/10.1002/anie.2026-m1905103700"
     },
     {
       "doi": "10.1002/anie.202525715",
@@ -7535,18 +7463,6 @@
       "url": "https://doi.org/10.1002/anie.2388449"
     },
     {
-      "doi": "10.1002/anie.2026-m1105081600",
-      "title": "Inside Front Cover: Proximity-Induced Transfer of a Mass Tag Enables Direct Profiling of Active Matrix Metalloproteases (Angew. Chem. Int. Ed. 24/2026)",
-      "published_date": "2026-05-15",
-      "url": "https://doi.org/10.1002/anie.2026-m1105081600"
-    },
-    {
-      "doi": "10.1002/anie.2026-m1105080700",
-      "title": "Outside Front Cover: Subsurface Stabilization of Interstitial Pt Atoms on CeO2(111): Rethinking Single-Atom Catalyst Architectures (Angew. Chem. Int. Ed. 25/2026)",
-      "published_date": "2026-05-15",
-      "url": "https://doi.org/10.1002/anie.2026-m1105080700"
-    },
-    {
       "doi": "10.1002/anie.1236285",
       "title": "Cation Modulation of Layered Self-Assembled Polyoxometalates Enables Efficient and Robust Hydrogen Evolution",
       "published_date": "2026-05-15",
@@ -8135,42 +8051,6 @@
       "url": "https://doi.org/10.1002/anie.2455429"
     },
     {
-      "doi": "10.1002/anie.2026-m0505040000",
-      "title": "Inside Front Cover: Enhancing Superlubricity and Wear Resistance in Mechanically Robust Hydrogel via Microliter-Scale Subsurface-Initiated Polymer Brush Grafting (Angew. Chem. Int. Ed. 23/2026)",
-      "published_date": "2026-05-08",
-      "url": "https://doi.org/10.1002/anie.2026-m0505040000"
-    },
-    {
-      "doi": "10.1002/anie.2026-m0405084100",
-      "title": "Outside Back Cover: Domino Polymerization for the Synthesis of Reductively Degradable Poly(disulfide)s With Arbitrary Side-Chain Structures (Angew. Chem. Int. Ed. 23/2026)",
-      "published_date": "2026-05-08",
-      "url": "https://doi.org/10.1002/anie.2026-m0405084100"
-    },
-    {
-      "doi": "10.1002/anie.2026-m0405083400",
-      "title": "Outside Front Cover: Oxidation State Determines Solvent Structure Around a Manganese–Vanadium Polyoxometalate Water-Oxidation Catalyst (Angew. Chem. Int. Ed. 24/2026)",
-      "published_date": "2026-05-08",
-      "url": "https://doi.org/10.1002/anie.2026-m0405083400"
-    },
-    {
-      "doi": "10.1002/anie.2026-m0405081100",
-      "title": "Inside Back Cover: Mapping the Reactivity of the C═C Bond of Cyclic Enol Ether Derivatives of Sugars: Nucleophilicity Parameters of Glycals (Angew. Chem. Int. Ed. 23/2026)",
-      "published_date": "2026-05-08",
-      "url": "https://doi.org/10.1002/anie.2026-m0405081100"
-    },
-    {
-      "doi": "10.1002/anie.2026-m0405080500",
-      "title": "Outside Front Cover: Polyfluoroalkyl-Tagged Cell-Penetrating Peptide-Additives Enhance Intracellular Protein Delivery via Sustained Monomeric Lipid Interaction (Angew. Chem. Int. Ed. 23/2026)",
-      "published_date": "2026-05-08",
-      "url": "https://doi.org/10.1002/anie.2026-m0405080500"
-    },
-    {
-      "doi": "10.1002/anie.2026-m0405080100",
-      "title": "Outside Front Cover: A Synergistic Inhibitor Development Strategy Against Human UDP-Galactose-4-Epimerase (Angew. Chem. Int. Ed. 22/2026)",
-      "published_date": "2026-05-08",
-      "url": "https://doi.org/10.1002/anie.2026-m0405080100"
-    },
-    {
       "doi": "10.1002/anie.202522476",
       "title": "Selective Hydrogenation of Formamide to Methanol Over Supported Platinum Catalysts",
       "published_date": "2026-05-08",
@@ -8301,18 +8181,6 @@
       "title": "Programmable In Vivo Synthesis of Quantum Dots",
       "published_date": "2026-05-07",
       "url": "https://doi.org/10.1002/anie.2157547"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2904060300",
-      "title": "Outside Back Cover: Millisecond Aliphatic Iodonium-Claisen Rearrangement Enabling Dual Functionalization of Alkenyl Iodanes (Angew. Chem. Int. Ed. 22/2026)",
-      "published_date": "2026-05-07",
-      "url": "https://doi.org/10.1002/anie.2026-m2904060300"
-    },
-    {
-      "doi": "10.1002/anie.2026-m0505035100",
-      "title": "Inside Back Cover: o-Terphenyl-Based Family of Conjugated Macrocycles: Selective Recognition of Phenylalanine in Water and Interaction With Insulin (Angew. Chem. Int. Ed. 24/2026)",
-      "published_date": "2026-05-07",
-      "url": "https://doi.org/10.1002/anie.2026-m0505035100"
     },
     {
       "doi": "10.1002/anie.202522127",
@@ -9611,24 +9479,6 @@
       "url": "https://doi.org/10.1002/anie.2048229"
     },
     {
-      "doi": "10.1002/anie.2026-m1704060700",
-      "title": "Inside Front Cover: Multicyclic D-Stereospecific Hydrolase Dimer With High Sustained Activity (Angew. Chem. Int. Ed. 22/2026)",
-      "published_date": "2026-04-21",
-      "url": "https://doi.org/10.1002/anie.2026-m1704060700"
-    },
-    {
-      "doi": "10.1002/anie.2026-m1704055400",
-      "title": "Inside Back Cover: Catalysis AI Agent Guides Discovering the Universal Design Principle of Cu-Based Single-Atom Alloy Catalysts for CO2 Electroreduction (Angew. Chem. Int. Ed. 21/2026)",
-      "published_date": "2026-04-21",
-      "url": "https://doi.org/10.1002/anie.2026-m1704055400"
-    },
-    {
-      "doi": "10.1002/anie.2026-m1704054900",
-      "title": "Inside Back Cover: Giant Magnetostriction in Ferrimagnetic SmFe5As3 (Angew. Chem. Int. Ed. 20/2026)",
-      "published_date": "2026-04-21",
-      "url": "https://doi.org/10.1002/anie.2026-m1704054900"
-    },
-    {
       "doi": "10.1002/anie.1777088",
       "title": "Solar-Driven Photocatalytic C─S Coupling for Organosulfur Synthesis Via Upcycling SO2 and Plastic Waste",
       "published_date": "2026-04-21",
@@ -10601,12 +10451,6 @@
       "url": "https://doi.org/10.1002/anie.2153127"
     },
     {
-      "doi": "10.1002/anie.2026-m0704040600",
-      "title": "Inside Back Cover: Molecular Mimics of Intermetallic Phases: Selective Alkylamide-Ligand Deprotection Drives Co/Ga Cluster Formation (Angew. Chem. Int. Ed. 19/2026)",
-      "published_date": "2026-04-11",
-      "url": "https://doi.org/10.1002/anie.2026-m0704040600"
-    },
-    {
       "doi": "10.1002/anie.1396057",
       "title": "Highly Reversible Aqueous Anode-Free Cadmium–Bromine Batteries",
       "published_date": "2026-04-11",
@@ -10671,12 +10515,6 @@
       "title": "Two-Dimensional Infrared Spectroscopy Reveals the Presence of a Bridging CO Ligand in Two Catalytic Intermediates of [FeFe] Hydrogenase",
       "published_date": "2026-04-10",
       "url": "https://doi.org/10.1002/anie.2628759"
-    },
-    {
-      "doi": "10.1002/anie.2026-m0704032900",
-      "title": "Inside Back Cover: Meltable Semiconductive Lead–Thiolate Coordination Polymers With Long Alkyl Chains (Angew. Chem. Int. Ed. 18/2026)",
-      "published_date": "2026-04-10",
-      "url": "https://doi.org/10.1002/anie.2026-m0704032900"
     },
     {
       "doi": "10.1002/anie.202525787",
@@ -11231,18 +11069,6 @@
       "url": "https://doi.org/10.1002/anie.2299555"
     },
     {
-      "doi": "10.1002/anie.2026-m2803101900",
-      "title": "Outside Back Cover: Controlling Heterogeneous Catalysis With Subsurface Oxygen (Angew. Chem. Int. Ed. 19/2026)",
-      "published_date": "2026-04-02",
-      "url": "https://doi.org/10.1002/anie.2026-m2803101900"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2803101000",
-      "title": "Outside Front Cover: Out-of-Equilibrium Supramolecular Assembly Sustained by Photocatalysis (Angew. Chem. Int. Ed. 20/2026)",
-      "published_date": "2026-04-02",
-      "url": "https://doi.org/10.1002/anie.2026-m2803101000"
-    },
-    {
       "doi": "10.1002/anie.202525897",
       "title": "Neutral-Condition Hydrogen Peroxide Electrosynthesis at Industrial-Level Current Density Over Bipyridine-Bridged Cobalt-Based Conductive Metal-Organic Frameworks",
       "published_date": "2026-04-02",
@@ -11343,54 +11169,6 @@
       "title": "Nanomedicine and Biomaterial Platforms for Photoimmunotherapy",
       "published_date": "2026-04-01",
       "url": "https://doi.org/10.1002/anie.2667102"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2603125700",
-      "title": "Outside Back Cover: One Atom Makes a Big Difference in NHC-Ligated Alloy Nanoclusters: From Structure and Properties to Catalysis (Angew. Chem. Int. Ed. 21/2026)",
-      "published_date": "2026-04-01",
-      "url": "https://doi.org/10.1002/anie.2026-m2603125700"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2603124900",
-      "title": "Outside Front Cover: Enzyme-Mediated Dissipative Hybridization Chain Reaction (HCR) (Angew. Chem. Int. Ed. 19/2026)",
-      "published_date": "2026-04-01",
-      "url": "https://doi.org/10.1002/anie.2026-m2603124900"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2603124200",
-      "title": "Inside Back Cover: Synthesis of Conjugated Linear and Cyclic Polyynes by Selective Alkyne Metathesis (Angew. Chem. Int. Ed. 17/2026)",
-      "published_date": "2026-04-01",
-      "url": "https://doi.org/10.1002/anie.2026-m2603124200"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2603032700",
-      "title": "Inside Front Cover: Band-Gap Engineering of Isoreticular Hydrogen-Bonded Organic Frameworks for Boosting Photocatalytic Hydrogen Evolution (Angew. Chem. Int. Ed. 19/2026)",
-      "published_date": "2026-04-01",
-      "url": "https://doi.org/10.1002/anie.2026-m2603032700"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2603032100",
-      "title": "Outside Back Cover: Precise Synthesis of Donor–Acceptor [17]Helicenes Exhibiting Circularly Polarized Emission (Angew. Chem. Int. Ed. 20/2026)",
-      "published_date": "2026-04-01",
-      "url": "https://doi.org/10.1002/anie.2026-m2603032100"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2603031200",
-      "title": "Outside Front Cover: Lipid Modified with Pyridinium Betaine Manipulates Liposomal Membrane Fusion Behavior for Spatially Confined Cytoplasmic Delivery (Angew. Chem. Int. Ed. 21/2026)",
-      "published_date": "2026-04-01",
-      "url": "https://doi.org/10.1002/anie.2026-m2603031200"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2603023100",
-      "title": "Inside Front Cover: A Novel Acetylcholine Nanosensor for Single Vesicle Storage and Sub-Quantal Exocytosis in Living Neurons and Organoids (Angew. Chem. Int. Ed. 20/2026)",
-      "published_date": "2026-04-01",
-      "url": "https://doi.org/10.1002/anie.2026-m2603023100"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2603022100",
-      "title": "Inside Front Cover: Oxidative Damage Fine-Tunes G-Quadruplex Structures in Human Gene Promoters (Angew. Chem. Int. Ed. 21/2026)",
-      "published_date": "2026-04-01",
-      "url": "https://doi.org/10.1002/anie.2026-m2603022100"
     },
     {
       "doi": "10.1002/anie.2026-m1803062000",
@@ -11723,12 +11501,6 @@
       "url": "https://doi.org/10.1002/anie.2317803"
     },
     {
-      "doi": "10.1002/anie.2026-m0903111400",
-      "title": "Frontispiece: Facet-Selective Nucleation Control for Constructing Multi-Dimensional MOFs Heterostructures",
-      "published_date": "2026-03-27",
-      "url": "https://doi.org/10.1002/anie.2026-m0903111400"
-    },
-    {
       "doi": "10.1002/anie.202524733",
       "title": "Coordination Optimization of Co Active Sites by Sb-Induced Phase Transition for Enhanced Electrochemical Propylene Epoxidation at Low Cl− Concentration Conditions",
       "published_date": "2026-03-27",
@@ -11805,12 +11577,6 @@
       "title": "An Electron Acceptor With bis(Borondifluoride)-8-imidazodipyrromethene as the Core for Short-Wavelength Infrared Photoresponse",
       "published_date": "2026-03-25",
       "url": "https://doi.org/10.1002/anie.3239137"
-    },
-    {
-      "doi": "10.1002/anie.2026-m1803062800",
-      "title": "Inside Front Cover: Light-Driven Competitive Selection in a Protein-Catalyzed Dissipative Peptide Replication (Angew. Chem. Int. Ed. 18/2026)",
-      "published_date": "2026-03-25",
-      "url": "https://doi.org/10.1002/anie.2026-m1803062800"
     },
     {
       "doi": "10.1002/anie.202526128",
@@ -11955,12 +11721,6 @@
       "title": "Hydrogen Atom Transfer Induces Photodegradation in Carbonyl-Based Multi-Resonance TADF Emitters",
       "published_date": "2026-03-23",
       "url": "https://doi.org/10.1002/anie.2490607"
-    },
-    {
-      "doi": "10.1002/anie.2026-m2702061800",
-      "title": "Frontispiece: Bioinspired High-Performance Neuromorphic Devices Enabled by Thienoviologen-Based Electrochemical Ion Gating",
-      "published_date": "2026-03-23",
-      "url": "https://doi.org/10.1002/anie.2026-m2702061800"
     },
     {
       "doi": "10.1002/anie.202525681",
