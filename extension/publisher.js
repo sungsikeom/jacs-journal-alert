@@ -1,6 +1,6 @@
 const PUBLISHER_STATE_KEY = "publisherCollectorState";
 const PUBLISHER_CUTOFF = "2026-01-01";
-const PUBLISHER_BUILD = "1.6.5";
+const PUBLISHER_BUILD = "1.6.6";
 
 const publisherConfig = (() => {
   if (location.hostname === "www.nature.com") return { key: "nature", label: "Nature Communications", prefix: "10.1038/s41467-", source: "Nature Communications Research Articles" };
@@ -335,8 +335,7 @@ async function processPublisherPage() {
   if (reason) return finishPublisher(state, reason);
   if (publisherConfig.key === "chemical-science") {
     if (/latest-articles|advance-articles/i.test(location.pathname)) {
-      // Latest-articles can paginate without a conventional next link; navigation handles both cases.
-      if (rows.length < 20) return finishPublisher(state, "latest-short-page");
+      return finishPublisher(state, "latest-page");
     } else {
       const issue = Number(location.pathname.match(/^\/sc\/issue\/\d+\/(\d+)/i)?.[1] || 0);
       if (issue <= 1) return finishPublisher(state, "last-issue");
