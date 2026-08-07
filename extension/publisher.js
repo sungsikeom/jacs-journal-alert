@@ -1,6 +1,6 @@
 const PUBLISHER_STATE_KEY = "publisherCollectorState";
 const PUBLISHER_CUTOFF = "2026-01-01";
-const PUBLISHER_BUILD = "1.6.4";
+const PUBLISHER_BUILD = "1.6.5";
 
 const publisherConfig = (() => {
   if (location.hostname === "www.nature.com") return { key: "nature", label: "Nature Communications", prefix: "10.1038/s41467-", source: "Nature Communications Research Articles" };
@@ -210,7 +210,11 @@ function openNextPublisherPage() {
     if (/latest-articles|advance-articles/i.test(location.pathname)) {
       const next = nextPublisherPage();
       if (!next) return false;
-      next.click();
+      if (next.tagName === "A" && next.href) {
+        const nextUrl = new URL(next.href, location.href);
+        nextUrl.hash = "publisher-auto";
+        location.replace(nextUrl.toString());
+      } else next.click();
       return true;
     }
     const match = location.pathname.match(/^\/sc\/issue\/(\d+)\/(\d+)/i);
