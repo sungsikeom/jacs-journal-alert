@@ -20,6 +20,8 @@ function publisherDoi(value) {
   if (jctc) return jctc[0].toLowerCase();
   const rsc = text.match(/\/content\/articlelanding\/20\d{2}\/sc\/([a-z0-9]+)/i);
   if (rsc) return `10.1039/${rsc[1].toLowerCase()}`;
+  const rscPath = text.match(/\/sc\/(d\dsc\d+[a-z])/i);
+  if (rscPath) return `10.1039/${rscPath[1].toLowerCase()}`;
   const match = text.match(/10\.\d{4,9}\/[^?#\s]+/i);
   return match ? match[0].toLowerCase().replace(/[).,;]+$/, "") : "";
 }
@@ -56,7 +58,7 @@ function readPublisherPage() {
   }
   if (publisherConfig.key === "chemical-science") {
     const byDoi = new Map();
-    const anchors = [...document.querySelectorAll('a[href*="/content/articlelanding/"]')];
+    const anchors = [...document.querySelectorAll('a[href*="/content/articlelanding/"], a[href*="/articlelanding/"], a[href*="/sc/d"]')];
     for (const anchor of anchors) {
       const doi = publisherDoi(anchor.href);
       if (!doi || byDoi.has(doi)) continue;
@@ -150,6 +152,7 @@ async function waitPublisherRows() {
   for (let attempt = 0; attempt < (publisherConfig.key === "chemical-science" ? 180 : 60); attempt += 1) {
     if (publisherSecurityChallenge()) publisherPanel("RSC 보안 확인 대기 중 · 브라우저에서 확인을 완료해 주세요", true);
     const rows = readPublisherPage();
+    if (publisherConfig.key === "chemical-science" && !publisherSecurityChallenge() && attempt % 5 === 0) publisherPanel(`RSC 논문 링크 탐색 중 · ${rows.length}편 감지`, true);
     if (rows.length > best.length) best = rows;
     if (publisherConfig.key === "nature") {
       const complete = rows.length > 0 && rows.length <= 20 && rows.every((row) => row.title && row.title !== row.doi && row.published_date);
