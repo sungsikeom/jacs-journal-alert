@@ -1,9 +1,123 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-08-07T00:14:05.003Z",
+  "collected_at": "2026-08-08T00:13:46.828Z",
   "scope_start": "2026-01-01",
-  "article_count": 1960,
+  "article_count": 1979,
   "articles": [
+    {
+      "doi": "10.1002/anie.7564970",
+      "title": "Regioselective Migratory Ring Expansion of Heterole-Fused Norcaradienes for Modular Access to Azulene-Incorporated Thienoacenes",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1002/anie.7564970"
+    },
+    {
+      "doi": "10.1002/anie.7158452",
+      "title": "Modulated Structure-Electronic Coupling at Pt/CeOx–TiO2 Interfaces Boosts Low-Temperature Preferential CO Oxidation",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1002/anie.7158452"
+    },
+    {
+      "doi": "10.1002/anie.6995139",
+      "title": "Atypical Condensation Domains Guide Discovery and Illuminate Biosynthesis of Myxoglucamides Featuring Vinyl-Substituted, α-Oxidized γ-Amino Acids",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1002/anie.6995139"
+    },
+    {
+      "doi": "10.1002/anie.6963058",
+      "title": "Scalable ω-Substituted α-Olefins via Living Chain Transfer Telomerization: A Platform for Next Generation Polyolefins",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1002/anie.6963058"
+    },
+    {
+      "doi": "10.1002/anie.6932848",
+      "title": "Molecularly Templated Buried Interfaces for Inverted Perovskite Solar Cells",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1002/anie.6932848"
+    },
+    {
+      "doi": "10.1002/anie.6748265",
+      "title": "Photochemical Reaction Discovery Enabled by the Dynamic Speciation of Copper Complexes",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1002/anie.6748265"
+    },
+    {
+      "doi": "10.1002/anie.6334998",
+      "title": "Fluorescent cAMP Analogs: Enzymatic Synthesis, Unexpected Photophysical Behavior and Protein Kinase A Recognition",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1002/anie.6334998"
+    },
+    {
+      "doi": "10.1002/anie.6292528",
+      "title": "Crystal Void Fraction-Engineered Fe-S Catalysts for Self-Sustaining Li-CO2 Mars Batteries",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1002/anie.6292528"
+    },
+    {
+      "doi": "10.1002/anie.6030123",
+      "title": "Stereoelectronically Controlled Regioselective Allylation of Aldehyde Under Photoredox/Chromium Catalysis",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1002/anie.6030123"
+    },
+    {
+      "doi": "10.1002/anie.5917916",
+      "title": "Correction to “Control of Tetrazine Bioorthogonal Reactivity by Rotaxanation”",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1002/anie.5917916"
+    },
+    {
+      "doi": "10.1002/anie.5082047",
+      "title": "Hierarchical Chirality Memory Governs Dual Chiroptical Inversion in Mesoscopic Helical Covalent Organic Frameworks",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1002/anie.5082047"
+    },
+    {
+      "doi": "10.1002/anie.4052926",
+      "title": "Imide Cyclophane Assemblies Enable Aquaporin-Like Water Transport",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1002/anie.4052926"
+    },
+    {
+      "doi": "10.1002/anie.3999519",
+      "title": "Pd-Catalyzed Enantioselective Construction of Isoindolo[2,1-a]indoles",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1002/anie.3999519"
+    },
+    {
+      "doi": "10.1002/anie.3914874",
+      "title": "Surface Hydroxyl Steered Adsorption Configuration for Efficient Photocatalysis Coupling Hydrogen Evolution and 5-Hydroxymethylfurfural Selective Oxidation Toward 2,5-Furandicarboxylic Acid Production",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1002/anie.3914874"
+    },
+    {
+      "doi": "10.1002/anie.3474461",
+      "title": "Synergistic Bulk-Surface Modulation Stabilizing LiCoO2 at 4.65 V via Zr-Pillaring and In Situ Lattice-Matching Engineering",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1002/anie.3474461"
+    },
+    {
+      "doi": "10.1002/anie.2636151",
+      "title": "A Bimetallic Covalent Organic Framework Photonic Synaptic Electrocatalysts",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1002/anie.2636151"
+    },
+    {
+      "doi": "10.1002/anie.2408330",
+      "title": "Solvent-Driven Modulation of Covalent-Organic Framework Nano-Architectures for Photothermal-Catalytic Biomass Valorization and Hydrogen Peroxide Production",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1002/anie.2408330"
+    },
+    {
+      "doi": "10.1002/anie.1446100",
+      "title": "Rational Molecular Design to Improve Digital Polymer Readout in Aerolysin-Based Nanopore Sequencing",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1002/anie.1446100"
+    },
+    {
+      "doi": "10.1002/anie.1256471",
+      "title": "Tenfold Expansion Submicrometer MALDI Mass Spectrometry Imaging of Tissues and Cultured Cells",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1002/anie.1256471"
+    },
     {
       "doi": "10.1002/anie.9633257",
       "title": "Unraveling A4GALT Mechanism and Its Modulation With Adamantyl-Galactosylceramide Analogues: Advancing Fabry Disease Therapeutic Strategies",

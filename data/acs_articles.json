@@ -1,11 +1,101 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-08-07T00:00:38.897Z",
+  "collected_at": "2026-08-08T00:00:33.811Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 6998,
+  "article_count": 7013,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c11963",
+      "title": "Colloidal Synthesis Enables Indium Solubility Modulation in Liquid Gallium Nanoparticles for Temperature-Dependent Generation of CO2 Electrocatalytic Active Sites",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1021/jacs.6c11963"
+    },
+    {
+      "doi": "10.1021/jacs.6c11600",
+      "title": "Expanded Aza-Helicenes Featuring Inner Rim Metal Coordination",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1021/jacs.6c11600"
+    },
+    {
+      "doi": "10.1021/jacs.6c11351",
+      "title": "Hydration and Amination of Phosphorus Mononitride",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1021/jacs.6c11351"
+    },
+    {
+      "doi": "10.1021/jacs.6c11149",
+      "title": "Synthesis of Less-Substituted Borirenes Enabled by a Crystalline Arylhalohydroborane Reagent",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1021/jacs.6c11149"
+    },
+    {
+      "doi": "10.1021/jacs.6c10477",
+      "title": "Liquid-Dependent Structural Responses of a Metal–Organic Framework Revealed by Liquid-Phase Three-Dimensional Electron Diffraction",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1021/jacs.6c10477"
+    },
+    {
+      "doi": "10.1021/jacs.6c10375",
+      "title": "Enantiodivergent Carbon–Phosphorus Bond Formation via Enzymatic Carbene Insertion",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1021/jacs.6c10375"
+    },
+    {
+      "doi": "10.1021/jacs.6c10267",
+      "title": "Pressure-Selective Magnetic Switching via Spatially Separated Soft Interlayer and Rigid Charge-Transfer Intralayer",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1021/jacs.6c10267"
+    },
+    {
+      "doi": "10.1021/jacs.6c10148",
+      "title": "Prismatic Na-Ion Coordination in the Sulfide-Chloride Solid Electrolyte Enables Fast Na-Ion Transport",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1021/jacs.6c10148"
+    },
+    {
+      "doi": "10.1021/jacs.6c09703",
+      "title": "Electron-Deficient Species-Driven Interphase Transformation for Practical Lithium Batteries",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1021/jacs.6c09703"
+    },
+    {
+      "doi": "10.1021/jacs.6c08026",
+      "title": "High-Voltage Sodium–Metal Batteries with Asymmetric Fluoroalkoxylated Organoborate Anion Chemistry",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1021/jacs.6c08026"
+    },
+    {
+      "doi": "10.1021/jacs.6c07373",
+      "title": "Bioinspired Large-Area Polymeric Cucurbituril Monolayers with Ultrahigh-Density Nanopores Enabling Reversible Charge-Gating of Ion Transport via Host–Guest Recognition",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1021/jacs.6c07373"
+    },
+    {
+      "doi": "10.1021/jacs.6c07195",
+      "title": "Mussel-Inspired Membrane Encapsulation Strategy for Developing Long-Acting Glucose-Responsive Injectable Insulin Crystals",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1021/jacs.6c07195"
+    },
+    {
+      "doi": "10.1021/jacs.6c03518",
+      "title": "Essential Role of Ionic Surfactants in Nitrogen Fixation at the Interface of Microdroplets",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1021/jacs.6c03518"
+    },
+    {
+      "doi": "10.1021/jacs.6c02367",
+      "title": "Tandem Ring-Closing/Ring-Opening Chemistry for Linkage Reprogramming in Covalent Organic Frameworks",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1021/jacs.6c02367"
+    },
+    {
+      "doi": "10.1021/jacs.6c01996",
+      "title": "Activity–Stability Volcano in Supported Electrocatalysis: Single Entity Correlation of Au25 Nanoclusters Between Oxygen Reduction Activity and Metal–Support Interaction",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1021/jacs.6c01996"
+    },
     {
       "doi": "10.1021/jacs.6c14390",
       "title": "Copper-Catalyzed Enantioselective Vinylogous Hydroxylation with Nitrosobenzene",

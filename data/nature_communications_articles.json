@@ -1,9 +1,27 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-08-07T00:04:06.197Z",
+  "collected_at": "2026-08-08T00:04:01.001Z",
   "scope_start": "2026-01-01",
-  "article_count": 7975,
+  "article_count": 7984,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-76523-2",
+      "title": "Giant negative photomagnetism in an alterlattice",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1038/s41467-026-76523-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-76489-1",
+      "title": "Evaluating technology upgrades as a complement to traditional bill assistance programs",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1038/s41467-026-76489-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76488-2",
+      "title": "Lying mirror using structured surfaces",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1038/s41467-026-76488-2"
+    },
     {
       "doi": "10.1038/s41467-026-76485-5",
       "title": "Ultrafast electron acceleration by space chorus",
@@ -11,10 +29,46 @@
       "url": "https://doi.org/10.1038/s41467-026-76485-5"
     },
     {
+      "doi": "10.1038/s41467-026-76454-y",
+      "title": "Non-canonical pore architecture underlies constitutive gating of human retinal TRPM1",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1038/s41467-026-76454-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76426-2",
+      "title": "Atomic-scale engineering of Pt shells on chiral Au nanoparticles for enhanced oxygen reduction",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1038/s41467-026-76426-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-76402-w",
+      "title": "Selective and autonomous generation of singlet oxygen for synergistic heavy metal-organic removal without energy input",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1038/s41467-026-76402-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76301-0",
+      "title": "Molecular-level insight into water adsorption and projected atmospheric water harvesting performance in a hydrolytically stable MOF",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1038/s41467-026-76301-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76207-x",
+      "title": "Enabling molecular signaling with temperature and ionic-strength independence or programmable dependence",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1038/s41467-026-76207-x"
+    },
+    {
       "doi": "10.1038/s41467-026-76046-w",
       "title": "Nuclear localization of the glutaminyl-tRNA synthetase QARS reveals its role in DNA damage response in ovarian cancer",
       "published_date": "2026-08-07",
       "url": "https://doi.org/10.1038/s41467-026-76046-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-75365-2",
+      "title": "Low curvature combined with high amorphization improves SERS sensitivity of semiconducting Rh–Se mesoporous nanospheres toward non-adsorbing resistant pollutants",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1038/s41467-026-75365-2"
     },
     {
       "doi": "10.1038/s41467-026-76458-8",

@@ -1,9 +1,27 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-08-07T00:07:20.807Z",
+  "collected_at": "2026-08-08T00:07:15.152Z",
   "scope_start": "2026-01-01",
-  "article_count": 578,
+  "article_count": 581,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c00890",
+      "title": "Tau2: A Program for the Simulation of Magnetic Relaxation",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00890"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00674",
+      "title": "End-to-End Differentiable Learning of a Single Functional for DFT and Linear-Response TDDFT",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00674"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00589",
+      "title": "Explicit, Machine-Learned Two-Body Potentials for Molecular Simulations",
+      "published_date": "2026-08-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00589"
+    },
     {
       "doi": "10.1021/acs.jctc.6c00899",
       "title": "Selecting Optimal Unrestricted Hartree–Fock Trial Wave Functions for Phaseless Auxiliary-Field Quantum Monte Carlo: Accuracy and Limitations in Modeling Three Iron–Sulfur Clusters",

@@ -1,9 +1,573 @@
 {
-  "source": "RSC Chemical Science volume issues",
-  "collected_at": "2026-08-07T04:51:42.396Z",
+  "source": "RSC Chemical Science latest articles",
+  "collected_at": "2026-08-07T05:11:56.490Z",
   "scope_start": "2026-01-01",
-  "article_count": 1299,
+  "article_count": 1393,
   "articles": [
+    {
+      "doi": "10.1039/d6sc06118d",
+      "title": "A Series of Structurally Related hcp-Like Silver Clusters Suggests Faceted Lateral Cluster Growth Open Access",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1039/d6sc06118d"
+    },
+    {
+      "doi": "10.1039/d6sc05617b",
+      "title": "The Crystalline Radical Anion Salt of a free N-Heterocyclic Carbene Open Access",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1039/d6sc05617b"
+    },
+    {
+      "doi": "10.1039/d6sc05321a",
+      "title": "A Dianionic Allene Bound to Vanadium(III) Enables Interconversion Between Vanadatetrahedranes, Vanadacyclobutadienes and Deprotiovanadacyclobutadienes Open Access",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1039/d6sc05321a"
+    },
+    {
+      "doi": "10.1039/d6sc05310f",
+      "title": "Light-induced radical addition to oximes: a general route to branched primary amines Open Access",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1039/d6sc05310f"
+    },
+    {
+      "doi": "10.1039/d6sc04719j",
+      "title": "In-situ probing phase transition kinetics of single CsPbI3 perovskite quantum dots via nano-impact electrochemistry Open Access",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1039/d6sc04719j"
+    },
+    {
+      "doi": "10.1039/d6sc04671a",
+      "title": "Metal–organic B←N frameworks Open Access",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1039/d6sc04671a"
+    },
+    {
+      "doi": "10.1039/d6sc04645b",
+      "title": "Mechanistic Insights into Electrochemiluminescence: Fueling Advances in Bioanalysis and Imaging Open Access",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1039/d6sc04645b"
+    },
+    {
+      "doi": "10.1039/d6sc04421b",
+      "title": "Computational Prediction of Substrate Scope of a Homogeneous Catalyst: The Case of Metal-free C-H Borylation by a Frustrated Lewis Pair Catalyst Open Access",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1039/d6sc04421b"
+    },
+    {
+      "doi": "10.1039/d6sc04272d",
+      "title": "Nickel-Catalyzed Hydro- and Deuteroacylation of Acrylates using Water as Hydrogen Source Open Access",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1039/d6sc04272d"
+    },
+    {
+      "doi": "10.1039/d6sc03753d",
+      "title": "Chemically Triggered Bioorthogonal Activation of Antimicrobial Peptide Mimic Prodrug Open Access",
+      "published_date": "2026-08-06",
+      "url": "https://doi.org/10.1039/d6sc03753d"
+    },
+    {
+      "doi": "10.1039/d6sc05379c",
+      "title": "Interstitial Oxide-Ion Conduction with Unconventional Polyhedral Units in Bi2-xTe1+xO5+x/2 Open Access",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1039/d6sc05379c"
+    },
+    {
+      "doi": "10.1039/d6sc05207j",
+      "title": "Enantioselective Synthesis and Characterization of [m.n]Paracyclophanes Open Access",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1039/d6sc05207j"
+    },
+    {
+      "doi": "10.1039/d6sc05189h",
+      "title": "Protonation-Induced Local Electronic Structure Regulation Enables Confinement-Conversion Synergy for Long-Life Zinc-Iodine Batteries Open Access",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1039/d6sc05189h"
+    },
+    {
+      "doi": "10.1039/d6sc04505g",
+      "title": "N-Coordination-Driven Anchoring of M2 Dimers (M = Cu, Ag) on Au6 Cluster: Structural Evolution and Enhanced Photoluminescence Open Access",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1039/d6sc04505g"
+    },
+    {
+      "doi": "10.1039/d6sc04429h",
+      "title": "A Spontaneously Evolving Multifunctional Interphase Enables Durable Cycling in Solid-State Lithium Metal Batteries Open Access",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1039/d6sc04429h"
+    },
+    {
+      "doi": "10.1039/d6sc03982k",
+      "title": "Hydrogen Bonding Triggered Tunable High Temperature Phosphorescence Open Access",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1039/d6sc03982k"
+    },
+    {
+      "doi": "10.1039/d6sc02808j",
+      "title": "From C–C bond cleavage to fluorescence: cyclic (alkyl)(amino)carbene-driven activation of 1,2-diketones Open Access",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1039/d6sc02808j"
+    },
+    {
+      "doi": "10.1039/d6sc01721e",
+      "title": "Bioinspired peptide cyclisation enables exploration of cytochrome P450 catalysed sequential oxidation in rufomycin biosynthesis Open Access",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1039/d6sc01721e"
+    },
+    {
+      "doi": "10.1039/d6sc05480c",
+      "title": "Reverse barrier layer and interfacial M-O bond reinforcement in an S-scheme high-entropy oxide heterojunction for efficient photo-assisted lithium-oxygen batteries Open Access",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1039/d6sc05480c"
+    },
+    {
+      "doi": "10.1039/d6sc04560j",
+      "title": "Additive-Induced Kinetic Control and Chiral Amplification in Circularly Polarized Luminescence (CPL)-Emitting Secondary Supramolecular Polymers Open Access",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1039/d6sc04560j"
+    },
+    {
+      "doi": "10.1039/d6sc03964b",
+      "title": "Selenium-induced curvature control enables polymorphism in borabuckybowls Open Access",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1039/d6sc03964b"
+    },
+    {
+      "doi": "10.1039/d6sc03892a",
+      "title": "Multi-task scheduling of self-driving laboratories under scientific constraints Open Access",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1039/d6sc03892a"
+    },
+    {
+      "doi": "10.1039/d6sc03255a",
+      "title": "Ionic self-assembled supramolecular polymers: synthesis, properties and applications Open Access",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1039/d6sc03255a"
+    },
+    {
+      "doi": "10.1039/d6sc03132c",
+      "title": "Advancing Practical Quantum Embedding Simulations via Operator Commutativity Based State Preparation for Complex Chemical Systems Open Access",
+      "published_date": "2026-08-04",
+      "url": "https://doi.org/10.1039/d6sc03132c"
+    },
+    {
+      "doi": "10.1039/d6sc05173a",
+      "title": "Integrated Full-Color Emission and Near-Infrared Phosphorescence Enabled by Tunable Self-Assembly of a Single Chromophore Open Access",
+      "published_date": "2026-08-03",
+      "url": "https://doi.org/10.1039/d6sc05173a"
+    },
+    {
+      "doi": "10.1039/d6sc04960e",
+      "title": "Spatial Isomerism Regulates Host–Guest Distance for Highly Efficient Organic Room-Temperature Phosphorescence Open Access",
+      "published_date": "2026-08-03",
+      "url": "https://doi.org/10.1039/d6sc04960e"
+    },
+    {
+      "doi": "10.1039/d6sc04792k",
+      "title": "Balancing defect activation and framework stability: oxygen-vacancy-regulated MnO2 cathodes for aqueous zinc-ion batteries Open Access",
+      "published_date": "2026-08-03",
+      "url": "https://doi.org/10.1039/d6sc04792k"
+    },
+    {
+      "doi": "10.1039/d6sc04441g",
+      "title": "Visible light-driven benign synthesis of benzoxazine–sulfur copolymers: high-performance materials for electrochemical applications Open Access",
+      "published_date": "2026-08-03",
+      "url": "https://doi.org/10.1039/d6sc04441g"
+    },
+    {
+      "doi": "10.1039/d6sc04436k",
+      "title": "Homoleptic Teflate Coordination at Platinum(IV): Synthesis and Characterization of [Pt(OTeF5)6]2–, and Covalency Trends Revealed by the OSLO Method Open Access",
+      "published_date": "2026-08-03",
+      "url": "https://doi.org/10.1039/d6sc04436k"
+    },
+    {
+      "doi": "10.1039/d6sc03439j",
+      "title": "Dynamic Coordination and Reconstruction-Induced Chemiluminescence in Chiral Covalent Organic Frameworks for Enantioselective Sensing Open Access",
+      "published_date": "2026-08-03",
+      "url": "https://doi.org/10.1039/d6sc03439j"
+    },
+    {
+      "doi": "10.1039/d6sc03311c",
+      "title": "Triazatrinaphthylene-Based Metal-Free Polycyclic Aromatic Frameworks for Electrochemical Nitrate Reduction to Ammonia Open Access",
+      "published_date": "2026-08-03",
+      "url": "https://doi.org/10.1039/d6sc03311c"
+    },
+    {
+      "doi": "10.1039/d6sc02926d",
+      "title": "Developing efficient mechanochemical routes to porous metal-organic polyhedra, supported by 3D electron diffraction Open Access",
+      "published_date": "2026-08-03",
+      "url": "https://doi.org/10.1039/d6sc02926d"
+    },
+    {
+      "doi": "10.1039/d6sc02845d",
+      "title": "Oriented Synthesis of a Cationic Metal-Organic Framework with Al24 Units for Effective Cr(VI) Removal Open Access",
+      "published_date": "2026-08-03",
+      "url": "https://doi.org/10.1039/d6sc02845d"
+    },
+    {
+      "doi": "10.1039/d6sc02603f",
+      "title": "Excited-State Conformational Flexibility Enables Intrinsic Amplification of Circularly Polarized Luminescence Open Access",
+      "published_date": "2026-08-03",
+      "url": "https://doi.org/10.1039/d6sc02603f"
+    },
+    {
+      "doi": "10.1039/d6sc05555a",
+      "title": "Decoding circular polarization with biaxially chiral fluorescence reporters Open Access",
+      "published_date": "2026-07-31",
+      "url": "https://doi.org/10.1039/d6sc05555a"
+    },
+    {
+      "doi": "10.1039/d6sc05092a",
+      "title": "Regulating Lattice Oxygen Participation through Ta-Enabled High-Entropy Engineering for Durable Acidic Oxygen Evolution Open Access",
+      "published_date": "2026-07-31",
+      "url": "https://doi.org/10.1039/d6sc05092a"
+    },
+    {
+      "doi": "10.1039/d6sc04662b",
+      "title": "Lewis Base-Induced Formation of a Ga-Zn Cation from a Ga-Zn-Fe-Zn-Ga Heteropentanuclear Complex Open Access",
+      "published_date": "2026-07-31",
+      "url": "https://doi.org/10.1039/d6sc04662b"
+    },
+    {
+      "doi": "10.1039/d6sc03749f",
+      "title": "BN-embedded oligo- and poly(thiophene iminoborane)s: dipolealigned isosteres of poly(thiophene vinylene) with efficient room-temperature phosphorescence Open Access",
+      "published_date": "2026-07-31",
+      "url": "https://doi.org/10.1039/d6sc03749f"
+    },
+    {
+      "doi": "10.1039/d6sc02950g",
+      "title": "Photoinduced remote C–N/C bond formation via ring-opening 1,4-difunctionalization of methylenecyclobutanes Open Access",
+      "published_date": "2026-07-31",
+      "url": "https://doi.org/10.1039/d6sc02950g"
+    },
+    {
+      "doi": "10.1039/d6sc04795e",
+      "title": "Asymmetric atomic-level engineering of phosphorus-modified Cu single-atom coordination centers on carbon nitride for enhanced photocatalytic hydrogen evolution Open Access",
+      "published_date": "2026-07-30",
+      "url": "https://doi.org/10.1039/d6sc04795e"
+    },
+    {
+      "doi": "10.1039/d6sc04762a",
+      "title": "One-dimensional anionic radical chains based on M2P2 rings (M = Ti, Zr, Hf) Open Access",
+      "published_date": "2026-07-30",
+      "url": "https://doi.org/10.1039/d6sc04762a"
+    },
+    {
+      "doi": "10.1039/d6sc04724f",
+      "title": "Customizing stable Ni(ii)-based cubanes with bidirectional chelation-bridging ligands enables atomic manipulation of fully-exposed metal sites for efficient electrocatalytic UOR Open Access",
+      "published_date": "2026-07-30",
+      "url": "https://doi.org/10.1039/d6sc04724f"
+    },
+    {
+      "doi": "10.1039/d6sc04197c",
+      "title": "Single-visible-light-modulated photoswitches with aggregation-induced emission for super-resolution imaging Open Access",
+      "published_date": "2026-07-30",
+      "url": "https://doi.org/10.1039/d6sc04197c"
+    },
+    {
+      "doi": "10.1039/d6sc04185j",
+      "title": "Halide solid-state electrolytes: structures, properties, anodic interfacial challenges and modification strategies Open Access",
+      "published_date": "2026-07-30",
+      "url": "https://doi.org/10.1039/d6sc04185j"
+    },
+    {
+      "doi": "10.1039/d6sc04100k",
+      "title": "Organocatalytic Enantioconvergent α-Substitution of Sulfonium Salts by Nitrogen Nucleophiles Open Access",
+      "published_date": "2026-07-30",
+      "url": "https://doi.org/10.1039/d6sc04100k"
+    },
+    {
+      "doi": "10.1039/d6sc00536e",
+      "title": "Engineering adsorption selectivity in MFI zeolites through suppression of silanol-driven water competition for efficient acetone capture Open Access",
+      "published_date": "2026-07-30",
+      "url": "https://doi.org/10.1039/d6sc00536e"
+    },
+    {
+      "doi": "10.1039/d5sc08413j",
+      "title": "Synthesis and properties of N-(trifluoromethyl)amides Open Access",
+      "published_date": "2026-07-30",
+      "url": "https://doi.org/10.1039/d5sc08413j"
+    },
+    {
+      "doi": "10.1039/d6sc05680f",
+      "title": "Finding REMO: a sequencing method for recognition-encoded melamine oligomers Open Access",
+      "published_date": "2026-07-29",
+      "url": "https://doi.org/10.1039/d6sc05680f"
+    },
+    {
+      "doi": "10.1039/d6sc04711d",
+      "title": "A Water-Soluble Pyrene-based Diimidazolium Molecular Probe Enabling Chirality and Fluorescence Dual-Response toward G-quadruplex Open Access",
+      "published_date": "2026-07-29",
+      "url": "https://doi.org/10.1039/d6sc04711d"
+    },
+    {
+      "doi": "10.1039/d6sc04594d",
+      "title": "Red light-mediated stepwise nitric oxide release via tandem photocatalysis for tumor therapy Open Access",
+      "published_date": "2026-07-29",
+      "url": "https://doi.org/10.1039/d6sc04594d"
+    },
+    {
+      "doi": "10.1039/d6sc04339a",
+      "title": "Vanadium-Based Cathode Materials for Zn-, Al-, Mg-, and NH4+-Based Aqueous Rechargeable Batteries: Modification Strategies and Energy-Storage Mechanisms Open Access",
+      "published_date": "2026-07-29",
+      "url": "https://doi.org/10.1039/d6sc04339a"
+    },
+    {
+      "doi": "10.1039/d6sc03998g",
+      "title": "Enantioselective synthesis of silicon-stereogenic sulfur-containing silanes via organocatalytic remote C–H sulfenylation of arenes Open Access",
+      "published_date": "2026-07-29",
+      "url": "https://doi.org/10.1039/d6sc03998g"
+    },
+    {
+      "doi": "10.1039/d6sc03692a",
+      "title": "Supramolecular order controls the rotation frequency of artificial molecular motors Open Access",
+      "published_date": "2026-07-29",
+      "url": "https://doi.org/10.1039/d6sc03692a"
+    },
+    {
+      "doi": "10.1039/d6sc03656b",
+      "title": "High-throughput bead-based cytokine profiling reveals dynamic immune signatures and identifies candidate exploratory biomarkers in CAR-T therapy Open Access",
+      "published_date": "2026-07-29",
+      "url": "https://doi.org/10.1039/d6sc03656b"
+    },
+    {
+      "doi": "10.1039/d6sc03386e",
+      "title": "Bioinspired pore engineering in two-dimensional covalent organic frameworks Open Access",
+      "published_date": "2026-07-29",
+      "url": "https://doi.org/10.1039/d6sc03386e"
+    },
+    {
+      "doi": "10.1039/d6sc02822e",
+      "title": "Locking in stability: a biocompatible calcium–squarate framework for protein preservation under extreme stress Open Access",
+      "published_date": "2026-07-29",
+      "url": "https://doi.org/10.1039/d6sc02822e"
+    },
+    {
+      "doi": "10.1039/d6sc02621d",
+      "title": "NMR crystallography of the high-pressure form of a multi-component active pharmaceutical ingredient Open Access",
+      "published_date": "2026-07-29",
+      "url": "https://doi.org/10.1039/d6sc02621d"
+    },
+    {
+      "doi": "10.1039/d6sc05160j",
+      "title": "Aryne-mediated direct assembly of O-bridged seven-membered cyclic diaryliodoniums: access to oxaheteropines and cannabinols via skeletal modification Open Access",
+      "published_date": "2026-07-28",
+      "url": "https://doi.org/10.1039/d6sc05160j"
+    },
+    {
+      "doi": "10.1039/d6sc05127h",
+      "title": "A Multi-State Photoswitch Regulated by Higher Excited States Open Access",
+      "published_date": "2026-07-28",
+      "url": "https://doi.org/10.1039/d6sc05127h"
+    },
+    {
+      "doi": "10.1039/d6sc05017d",
+      "title": "Antibody-mediated recognition of chiral poly(2-oxazoline) nanorods driven by enantioselectivity Open Access",
+      "published_date": "2026-07-28",
+      "url": "https://doi.org/10.1039/d6sc05017d"
+    },
+    {
+      "doi": "10.1039/d6sc04923k",
+      "title": "Single-Atom Cu Catalyst in a Zirconium MOF for Highly Selective Hydrogenation of Unsaturated Aldehydes to Unsaturated Alcohols • Open Access",
+      "published_date": "2026-07-28",
+      "url": "https://doi.org/10.1039/d6sc04923k"
+    },
+    {
+      "doi": "10.1039/d6sc04763g",
+      "title": "Axial directional orbital buffering of intermediate-induced electronic perturbations enables catalase-coupled oxygen reduction Open Access",
+      "published_date": "2026-07-28",
+      "url": "https://doi.org/10.1039/d6sc04763g"
+    },
+    {
+      "doi": "10.1039/d6sc04535a",
+      "title": "Spin characteristics of organic radicals from a single-molecule junction perspective Open Access",
+      "published_date": "2026-07-28",
+      "url": "https://doi.org/10.1039/d6sc04535a"
+    },
+    {
+      "doi": "10.1039/d6sc04316j",
+      "title": "General method for generating functionalized arylsilyllithium species Open Access",
+      "published_date": "2026-07-28",
+      "url": "https://doi.org/10.1039/d6sc04316j"
+    },
+    {
+      "doi": "10.1039/d6sc03987a",
+      "title": "Enantiopure Synthesis of Uniform [n]Cycloparaphenylene-Pillar[5]arene Multi-Macrocycles and their Chiroptical Properties Open Access",
+      "published_date": "2026-07-28",
+      "url": "https://doi.org/10.1039/d6sc03987a"
+    },
+    {
+      "doi": "10.1039/d6sc03228a",
+      "title": "Unanticipated enhancement of phosphide nucleophilicity in dimethyl sulfoxide for advanced catalytic P–C bond formation reactions Open Access",
+      "published_date": "2026-07-28",
+      "url": "https://doi.org/10.1039/d6sc03228a"
+    },
+    {
+      "doi": "10.1039/d6sc03146c",
+      "title": "Light-mediated synergy boosts CO2 conversion and suppresses CH4 formation over Ni/Al2O3 in the photothermal RWGS reaction Open Access",
+      "published_date": "2026-07-28",
+      "url": "https://doi.org/10.1039/d6sc03146c"
+    },
+    {
+      "doi": "10.1039/d6sc02763f",
+      "title": "BODIPY-directed dynamic covalent templating of carbon nanohoop rotaxanes with near-unity Förster resonance energy transfer Open Access",
+      "published_date": "2026-07-28",
+      "url": "https://doi.org/10.1039/d6sc02763f"
+    },
+    {
+      "doi": "10.1039/d6sc05573g",
+      "title": "K 2 [Ir(OH) 6 ]: An isolable platform intermediate for the refining of complex chloroiridate mixtures to synthetically useful Ir(III) coordination complexes Open Access",
+      "published_date": "2026-07-27",
+      "url": "https://doi.org/10.1039/d6sc05573g"
+    },
+    {
+      "doi": "10.1039/d6sc04831e",
+      "title": "Diiron µ2-N2 complexes in bimetallic, four-fold bond activations of SiH4 to produce µ2-silicide complexes Open Access",
+      "published_date": "2026-07-27",
+      "url": "https://doi.org/10.1039/d6sc04831e"
+    },
+    {
+      "doi": "10.1039/d6sc04572c",
+      "title": "The concise bioinspired total synthesis of the 4-hydroxy-2-pyridone family of natural products Open Access",
+      "published_date": "2026-07-27",
+      "url": "https://doi.org/10.1039/d6sc04572c"
+    },
+    {
+      "doi": "10.1039/d6sc04146a",
+      "title": "Mo-doped NiO@TiO2 electrocatalyst for highly selective and durable hydrogenolysis of furfural to 2-methylfuran Open Access",
+      "published_date": "2026-07-27",
+      "url": "https://doi.org/10.1039/d6sc04146a"
+    },
+    {
+      "doi": "10.1039/d6sc03950b",
+      "title": "Identification of surface defects and in situ lattice reconstruction of upconversion nanoparticles Open Access",
+      "published_date": "2026-07-27",
+      "url": "https://doi.org/10.1039/d6sc03950b"
+    },
+    {
+      "doi": "10.1039/d6sc03567a",
+      "title": "Borane-assisted hydride addition and dihydrogen reductive elimination at iridium: a gateway to Ir(–i)/Ir(i) redox catalysis Open Access",
+      "published_date": "2026-07-27",
+      "url": "https://doi.org/10.1039/d6sc03567a"
+    },
+    {
+      "doi": "10.1039/d6sc04639h",
+      "title": "Anion–cation synergy enables the formation of ionic liquid-derived adaptive interphases for ultra-stable zinc–metal batteries Open Access",
+      "published_date": "2026-07-26",
+      "url": "https://doi.org/10.1039/d6sc04639h"
+    },
+    {
+      "doi": "10.1039/d6sc04834j",
+      "title": "Visible-light-driven indation of aryl halides: arylindium(iii) reagents bridging single- and two-electron reactivity Open Access",
+      "published_date": "2026-07-24",
+      "url": "https://doi.org/10.1039/d6sc04834j"
+    },
+    {
+      "doi": "10.1039/d6sc04532d",
+      "title": "Violet-light-induced ring expansion of 2-aryl-1,3-indandiones with chlorodiazirines toward 1,4-naphthoquinones Open Access",
+      "published_date": "2026-07-24",
+      "url": "https://doi.org/10.1039/d6sc04532d"
+    },
+    {
+      "doi": "10.1039/d6sc03738k",
+      "title": "Water-mediated interfacial modulation for enhanced selectivity in nitroarene hydrogenation over Pt/Fe2O3 catalysts Open Access",
+      "published_date": "2026-07-24",
+      "url": "https://doi.org/10.1039/d6sc03738k"
+    },
+    {
+      "doi": "10.1039/d6sc03725a",
+      "title": "Regioisomeric carbazole–dicyano–dioxin AIDF emitters for efficient triplet harvesting, two-photon absorption and bioimaging Open Access",
+      "published_date": "2026-07-24",
+      "url": "https://doi.org/10.1039/d6sc03725a"
+    },
+    {
+      "doi": "10.1039/d6sc03356c",
+      "title": "BN-embedded electron-deficient aromatics: from molecular engineering to multifunctional optoelectronic devices Open Access",
+      "published_date": "2026-07-24",
+      "url": "https://doi.org/10.1039/d6sc03356c"
+    },
+    {
+      "doi": "10.1039/d6sc04867f",
+      "title": "Solid-state spin dynamics of a molecular qubit of Ce3+ Open Access",
+      "published_date": "2026-07-23",
+      "url": "https://doi.org/10.1039/d6sc04867f"
+    },
+    {
+      "doi": "10.1039/d6sc04072a",
+      "title": "A dual-lock strategy for tumor-specific pyroptosis activation plus gas synergism Open Access",
+      "published_date": "2026-07-23",
+      "url": "https://doi.org/10.1039/d6sc04072a"
+    },
+    {
+      "doi": "10.1039/d6sc03899a",
+      "title": "Incorporating Neural Network in the AMOEBA Polarizable Force Field for Ligand Field Effects of Cu 2+ Ion Open Access",
+      "published_date": "2026-07-23",
+      "url": "https://doi.org/10.1039/d6sc03899a"
+    },
+    {
+      "doi": "10.1039/d6sc03498e",
+      "title": "Efficient lasing in size-tunable self-assembled organic microcavities Open Access",
+      "published_date": "2026-07-23",
+      "url": "https://doi.org/10.1039/d6sc03498e"
+    },
+    {
+      "doi": "10.1039/d6sc03428d",
+      "title": "Guiding blind signal separation in X-ray absorption spectroscopy using supervised machine learning Open Access",
+      "published_date": "2026-07-23",
+      "url": "https://doi.org/10.1039/d6sc03428d"
+    },
+    {
+      "doi": "10.1039/d6sc02229d",
+      "title": "Elucidating Norrish Type-I reactive pathways by ultrafast X-ray absorption spectroscopy Open Access",
+      "published_date": "2026-07-23",
+      "url": "https://doi.org/10.1039/d6sc02229d"
+    },
+    {
+      "doi": "10.1039/d6sc04281c",
+      "title": "Cucurbit[6]uril-monoazide: towards functional CB[6]-tethered DNA (pseudo)rotaxanes Open Access",
+      "published_date": "2026-07-22",
+      "url": "https://doi.org/10.1039/d6sc04281c"
+    },
+    {
+      "doi": "10.1039/d6sc02992b",
+      "title": "Inverted singlet–triplet gaps reduce radiative exciton processing times in TADF and hyperfluorescence applications Open Access",
+      "published_date": "2026-07-22",
+      "url": "https://doi.org/10.1039/d6sc02992b"
+    },
+    {
+      "doi": "10.1039/d6sc02180h",
+      "title": "Methods for the establishment of enzymatic mechanisms – from QM to ML Open Access",
+      "published_date": "2026-07-22",
+      "url": "https://doi.org/10.1039/d6sc02180h"
+    },
+    {
+      "doi": "10.1039/d6sc02081j",
+      "title": "Magnetic-field-dependent delayed fluorescence from thermally activated reverse charge separation of spin-correlated charge separated states Open Access",
+      "published_date": "2026-07-22",
+      "url": "https://doi.org/10.1039/d6sc02081j"
+    },
+    {
+      "doi": "10.1039/d6sc01974a",
+      "title": "Reprogramming FGFR isoform specificity in FGF2 by deep mutational scanning Open Access",
+      "published_date": "2026-07-22",
+      "url": "https://doi.org/10.1039/d6sc01974a"
+    },
+    {
+      "doi": "10.1039/d6sc01799a",
+      "title": "Auditing widely used biomolecular benchmarks reveals systematic data inconsistencies Open Access",
+      "published_date": "2026-07-22",
+      "url": "https://doi.org/10.1039/d6sc01799a"
+    },
+    {
+      "doi": "10.1039/d6sc05042e",
+      "title": "Electrochemical Oscillation Triggered by the Doped Mn Ions in Spinel Li 4 Ti 5 O 12 Open Access",
+      "published_date": "2026-07-21",
+      "url": "https://doi.org/10.1039/d6sc05042e"
+    },
+    {
+      "doi": "10.1039/d6sc03538h",
+      "title": "Breaking the denoising dilemma in NMR spectroscopy by blind source separation Open Access",
+      "published_date": "2026-07-21",
+      "url": "https://doi.org/10.1039/d6sc03538h"
+    },
     {
       "doi": "10.1039/d6sc90159j",
       "title": "Chem. Sci. (2026) 17 (30): 14821–14822. https://doi.org/10.1039/D6SC90159J",
