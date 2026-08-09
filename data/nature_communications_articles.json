@@ -1,9 +1,225 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-08-08T00:04:01.001Z",
+  "collected_at": "2026-08-09T00:04:12.240Z",
   "scope_start": "2026-01-01",
-  "article_count": 7984,
+  "article_count": 8020,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-76587-0",
+      "title": "Uncovering the signaling networks of disseminated glioblastoma cells in vivo with INSIGHT",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76587-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76568-3",
+      "title": "TiO2-facet-dependent reconstruction of Pt nanoparticles during CO oxidation",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76568-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76566-5",
+      "title": "Plasticity of extrachromosomal DNA segregation during drug adaptation",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76566-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-76539-8",
+      "title": "Cavity-Enabled Supramolecular Regulation of Capacitive–Redox Bromine Electrochemistry in Zinc–Bromine Batteries",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76539-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-76538-9",
+      "title": "Breathing ferroelectricity, flat-bands and multiple chiral phonons in van der Waals breathing kagome Nb3Cl8",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76538-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-76537-w",
+      "title": "Quantitative RNA modification mapping by mass spectrometry with isobaric tags and nucleobase fragment analysis",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76537-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76516-1",
+      "title": "Synthesis of adaptive 15N-nitrosyl-Co7 nanocluster for electrocatalytic C–H functionalization",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76516-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76515-2",
+      "title": "Discovery of a peripheral Myh11-expressing nucleus pulposus cell population demontrating therapeutic potential for disc degeneration",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76515-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-76506-3",
+      "title": "Allele-specific chromatin architecture shapes imprinted domains and coordinates a distal enhancer and antisense transcription at the mouse Mest-Copg2 domain",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76506-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76497-1",
+      "title": "Self-Assembled Multilayers Reduce Interfacial Energy Loss in Perovskite Solar Cells",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76497-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76486-4",
+      "title": "Atomically resolved wavefunction of integer and fractional quantum anomalous Hall states in twisted bilayer graphene",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76486-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76470-y",
+      "title": "Genome-wide annotation of human multi-nucleotide variants reveals widespread functional differences from single nucleotide variants",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76470-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76464-w",
+      "title": "Sustained ash emission during lava effusion is a hidden volcanic hazard of silicic eruptions",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76464-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76462-y",
+      "title": "Controlled flight of high-thrust ultralight ion-propelled microrobot with integrated sensing",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76462-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76461-z",
+      "title": "MRICombo: a deep-learning-based framework for universal volumetric segmentation grading-staging and malignancy detection across heterogeneous MRI",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76461-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-76444-0",
+      "title": "Macrophages tune NK cell IFNγ production through direct lipid transfer",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76444-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76431-5",
+      "title": "Elevation-structured viral ecological strategies along glacier-fed rivers on the Qinghai-Tibet Plateau",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76431-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-76417-3",
+      "title": "scAmp enables focal gene amplification analysis from single-cell data",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76417-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76383-w",
+      "title": "The RNA helicase domain of NAT10 promotes the biogenesis of hypomodified ribosomes to enhance cancer cell proliferation",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76383-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76381-y",
+      "title": "A catalytically polymerized solid electrolyte enables 450 Wh kg−1 lithium–metal batteries with thermal–mechanical abuse tolerance",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76381-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76380-z",
+      "title": "Benchmarking RNA-seq with the Quartet and MAQC reference materials to establish best practices for accurate alternative splicing analysis",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76380-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-76379-6",
+      "title": "Diet-responsive proteogenomic effects following short-term restriction of animal products in humans",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76379-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76356-z",
+      "title": "Systematic citywide analysis reveals ecological connectivity of antimicrobial resistance genes across urban water systems",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76356-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-76338-1",
+      "title": "Identification of a membrane transporter for dimethylsulfoniopropionate uptake in marine eukaryotic phytoplankton",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76338-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76312-x",
+      "title": "Healthy vaccinee effect in the evaluation of updated COVID-19 vaccines in elderly populations",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76312-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-76298-6",
+      "title": "Prenatal PM2.5 exposure drives epigenetic reprogramming of fetal macrophages linked to atopic dermatitis",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76298-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76281-1",
+      "title": "Spatially harnessing oxygenase enables paired and ultraselective electrooxidative waste depolymerization",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76281-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76265-1",
+      "title": "Cost competitiveness of alternative heavy-duty truck technologies under real-world utilisation profiles",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76265-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76247-3",
+      "title": "Human learning of probability distributions is biased toward moderate structural complexity",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76247-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76212-0",
+      "title": "Stochastic thermodynamics of social imitation beyond energetics",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76212-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76181-4",
+      "title": "Synthetic cargo adaptors reveal molecular features that enhance dynein activation",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76181-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76179-y",
+      "title": "Entropy plateaus, combinatorial degeneracy, local moments, and heavy-fermion mass renormalization in magic-angle graphene",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76179-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76157-4",
+      "title": "Multi-population GWAS meta-analysis identifies bladder cancer susceptibility loci and highlights genetic regulation of smoking-related risk",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76157-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76114-1",
+      "title": "Pan-Ebolavirus nanoparticle vaccine provides protection in rodents from lethal infection by Zaire and Sudan viruses",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-76114-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-75862-4",
+      "title": "Targeting m6A writer METTL3 with engineered nanovesicles reduces neuroinflammation in vitro and in vivo",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-75862-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-75786-z",
+      "title": "Stratospheric impacts on Eurasian soil moisture on subseasonal timescales",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1038/s41467-026-75786-z"
+    },
     {
       "doi": "10.1038/s41467-026-76523-2",
       "title": "Giant negative photomagnetism in an alterlattice",

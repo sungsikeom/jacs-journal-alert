@@ -1,11 +1,77 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-08-08T00:00:33.811Z",
+  "collected_at": "2026-08-09T00:00:32.743Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7013,
+  "article_count": 7024,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c13532",
+      "title": "Photocatalytic Golgi Proteomics Reveals Palmitoylation-Regulated Golgiphagy",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1021/jacs.6c13532"
+    },
+    {
+      "doi": "10.1021/jacs.6c11340",
+      "title": "A New Class of Bond-Length-Engineered Transition-Metal-Doped Nanocrystals with Tunable NIR-II Absorption and Emission",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1021/jacs.6c11340"
+    },
+    {
+      "doi": "10.1021/jacs.6c10775",
+      "title": "Total Synthesis of (+)-CC-1065",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1021/jacs.6c10775"
+    },
+    {
+      "doi": "10.1021/jacs.6c10676",
+      "title": "Correction to “Probing Valence Orbital Composition with Iron Kβ X-ray Emission Spectroscopy”",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1021/jacs.6c10676"
+    },
+    {
+      "doi": "10.1021/jacs.6c09740",
+      "title": "Photo-CIDNP-Enhanced 19F NMR for Rapid Protein Conformation and Ligand Binding Analysis",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1021/jacs.6c09740"
+    },
+    {
+      "doi": "10.1021/jacs.6c09101",
+      "title": "Methyl-Selective Radical Sorting for the Regio- and Stereoselective Dialkylation of Activated Alkenes",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1021/jacs.6c09101"
+    },
+    {
+      "doi": "10.1021/jacs.6c08355",
+      "title": "Identifying Quantum Tunneling at Ambient Temperature through Rate–Driving Force Responsiveness",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1021/jacs.6c08355"
+    },
+    {
+      "doi": "10.1021/jacs.6c08189",
+      "title": "An Explicit Interaction-Prompted Diffusion Framework for High-Fidelity 3D Molecular Generation",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1021/jacs.6c08189"
+    },
+    {
+      "doi": "10.1021/jacs.6c08126",
+      "title": "Simultaneously Strong Charge-Transfer Absorption and Efficient Triplet Formation in Organic Donor–Acceptor Molecules",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1021/jacs.6c08126"
+    },
+    {
+      "doi": "10.1021/jacs.6c08057",
+      "title": "An Electronically Coupled Interfacial Energy Descriptor for Predicting Coulombic Efficiency in Aqueous Zinc Batteries",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1021/jacs.6c08057"
+    },
+    {
+      "doi": "10.1021/jacs.6c07424",
+      "title": "A Heterogeneous Metal–Ligand Bifunctional Catalyst for Chemoselective Hydrogenation of α,β-Unsaturated Aldehydes",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1021/jacs.6c07424"
+    },
     {
       "doi": "10.1021/jacs.6c11963",
       "title": "Colloidal Synthesis Enables Indium Solubility Modulation in Liquid Gallium Nanoparticles for Temperature-Dependent Generation of CO2 Electrocatalytic Active Sites",

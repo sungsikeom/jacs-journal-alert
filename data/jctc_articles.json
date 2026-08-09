@@ -1,9 +1,15 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-08-08T00:07:15.152Z",
+  "collected_at": "2026-08-09T00:07:29.456Z",
   "scope_start": "2026-01-01",
-  "article_count": 581,
+  "article_count": 582,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01031",
+      "title": "Efficient Computation of Physical Charging Free Energies for Monatomic Ions at Any Charge along Alchemical Charging Pathways",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01031"
+    },
     {
       "doi": "10.1021/acs.jctc.6c00890",
       "title": "Tau2: A Program for the Simulation of Magnetic Relaxation",

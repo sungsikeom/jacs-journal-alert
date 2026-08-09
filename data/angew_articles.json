@@ -1,9 +1,147 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-08-08T00:13:46.828Z",
+  "collected_at": "2026-08-09T00:14:12.980Z",
   "scope_start": "2026-01-01",
-  "article_count": 1979,
+  "article_count": 2002,
   "articles": [
+    {
+      "doi": "10.1002/anie.9991550",
+      "title": "Cr-Leaching Induced Vacancy Engineering for High-Performance Anion Exchange Membrane Water Electrolysis",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.9991550"
+    },
+    {
+      "doi": "10.1002/anie.9666828",
+      "title": "Heterocyclic Nanographenes Doped with Boron and Phosphorus: Post-Phosphorization Synthesis, Excited-State Dynamics and Ion-Responsive Properties",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.9666828"
+    },
+    {
+      "doi": "10.1002/anie.9631813",
+      "title": "Ion Bridging Enables Dual-Interface Engineering for High Capacity and Long Cycling Aqueous Zinc–Sulfur Battery",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.9631813"
+    },
+    {
+      "doi": "10.1002/anie.9333885",
+      "title": "Allosterically Controlled Capture of Mutually Repulsive Guests With Positive Cooperativity and Ultrahigh Affinity",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.9333885"
+    },
+    {
+      "doi": "10.1002/anie.9216648",
+      "title": "Giant Compressed Mo Blue Wheel {Mo118}: A Molecular Photothermal Agent for High-Effective NIR-II Chemo-Photothermal Therapy",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.9216648"
+    },
+    {
+      "doi": "10.1002/anie.9135596",
+      "title": "Structural Water-Enabled Helicity Emergence From an Asymmetric Achiral Molecule",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.9135596"
+    },
+    {
+      "doi": "10.1002/anie.7946369",
+      "title": "Synthesis, Structure, and Photothermal Conversion of a Bowl-Shaped Nanographene Containing Fused 5-/7-Ring Pairs",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.7946369"
+    },
+    {
+      "doi": "10.1002/anie.7793957",
+      "title": "Ionic Liquid Electrolytes for Extreme Temperature Conditions: Challenges and Perspective",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.7793957"
+    },
+    {
+      "doi": "10.1002/anie.7649039",
+      "title": "Dyotropic Rearrangement of Hypervalent Iodine Species: Migrative Heterofunctionalization of Quaternary Carbons",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.7649039"
+    },
+    {
+      "doi": "10.1002/anie.7449383",
+      "title": "Bottlebrush Polyolefin Sulfones as Triggerable and Degradable Pressure-Sensitive Adhesives",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.7449383"
+    },
+    {
+      "doi": "10.1002/anie.7228967",
+      "title": "Degradable Alternating Copolymers With Strained Cyclobutane Backbones via Photocontrolled RAFT Polymerization",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.7228967"
+    },
+    {
+      "doi": "10.1002/anie.6657683",
+      "title": "Domino Effect in Epimer Self-Assembly Induces Diverse Hydrogel Properties for Biomedical Applications",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.6657683"
+    },
+    {
+      "doi": "10.1002/anie.6337773",
+      "title": "Stereoselective Synthesis of Aminals Through Enzyme-Catalyzed Intermolecular C(sp3)-H Amidation of Azacycles",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.6337773"
+    },
+    {
+      "doi": "10.1002/anie.5594041",
+      "title": "Room-Temperature Rapid Synthesis of Crystalline Ag─C Coordinated MOFs for Highly Efficient Acidic CO2 Electroreduction",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.5594041"
+    },
+    {
+      "doi": "10.1002/anie.5095501",
+      "title": "Pre-Crosslinking via MOFs With Coordinatively Unsaturated Metal Sites for Fabricating Macroporous Hydrogels Toward Efficient Atmospheric Water Harvesting",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.5095501"
+    },
+    {
+      "doi": "10.1002/anie.4329489",
+      "title": "A Universal Fenton-Like Strategy for Selective Generation of 1O2 in Mixed Industrial Wastewater Treatment and Green Chemical Synthesis",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.4329489"
+    },
+    {
+      "doi": "10.1002/anie.4035251",
+      "title": "Reflex Charging for Anion-Derived Solid Electrolyte Interphase Formation",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.4035251"
+    },
+    {
+      "doi": "10.1002/anie.3659056",
+      "title": "Unlocking the Distance Effect on CO2 Electroreduction to Multi-Carbon Products via Monolayer Model Catalysts",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.3659056"
+    },
+    {
+      "doi": "10.1002/anie.3568920",
+      "title": "Asymmetric Tellurium-Bonding Catalysis for Mannich Reaction",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.3568920"
+    },
+    {
+      "doi": "10.1002/anie.3048454",
+      "title": "Component Self-Initiated Photopolymerization for Gel Polymer Electrolytes in Zinc–Air Batteries",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.3048454"
+    },
+    {
+      "doi": "10.1002/anie.2761225",
+      "title": "Polymer Composites of Ultra-Small Nanoparticles: Coupled Dynamics for Synergistic Processability",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.2761225"
+    },
+    {
+      "doi": "10.1002/anie.2602693",
+      "title": "Regulating Solvation Chemistry via Strongly Coordinating Anion and Weakly Solvating Cosolvent for Low-Temperature Sodium Metal Batteries",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.2602693"
+    },
+    {
+      "doi": "10.1002/anie.2088096",
+      "title": "Sebastian Clementson",
+      "published_date": "2026-08-08",
+      "url": "https://doi.org/10.1002/anie.2088096"
+    },
     {
       "doi": "10.1002/anie.7564970",
       "title": "Regioselective Migratory Ring Expansion of Heterole-Fused Norcaradienes for Modular Access to Azulene-Incorporated Thienoacenes",
