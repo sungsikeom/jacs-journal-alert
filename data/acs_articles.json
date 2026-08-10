@@ -1,11 +1,23 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-08-09T00:00:32.743Z",
+  "collected_at": "2026-08-10T00:00:32.040Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7024,
+  "article_count": 7026,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c14984",
+      "title": "Correction to “Dynamic In Vivo Mapping of the Methylproteome Using a Chemoenzymatic Approach”",
+      "published_date": "2026-08-09",
+      "url": "https://doi.org/10.1021/jacs.6c14984"
+    },
+    {
+      "doi": "10.1021/jacs.6c11333",
+      "title": "Discovery of Sphaeriaurantins as Rapid-Acting Antiplasmodials with Dual Activity in Blood and Liver Stages",
+      "published_date": "2026-08-09",
+      "url": "https://doi.org/10.1021/jacs.6c11333"
+    },
     {
       "doi": "10.1021/jacs.6c13532",
       "title": "Photocatalytic Golgi Proteomics Reveals Palmitoylation-Regulated Golgiphagy",
