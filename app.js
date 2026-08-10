@@ -12,6 +12,7 @@ const publicationCutoff = article => article.journal_short === 'JACS' ? '2025-01
 const pageSize = 50;
 const PROFILE_KEY = 'journalPulseProfile:v1';
 const PROFILE_STATE_PREFIX = 'journalPulseState:v1:';
+const PROFILE_INDEX_KEY = 'journalPulseProfileIndex:v1';
 let payload = { articles: [], new_dois: [] };
 let activeFilter = 'all';
 let activeJournal = 'all';
@@ -37,6 +38,9 @@ function loadProfile() {
 function saveProfileState() {
   localStorage.setItem(PROFILE_KEY, JSON.stringify(activeProfile));
   localStorage.setItem(profileStateKey(activeProfile.id), JSON.stringify(profileState));
+  const index = JSON.parse(localStorage.getItem(PROFILE_INDEX_KEY) || '{}');
+  index[activeProfile.name.toLocaleLowerCase()] = activeProfile.id;
+  localStorage.setItem(PROFILE_INDEX_KEY, JSON.stringify(index));
 }
 
 function render(query = '') {
@@ -85,8 +89,13 @@ profileForm.addEventListener('submit', event => {
   event.preventDefault();
   const name = profileName.value.trim();
   if (!name) return;
-  activeProfile = { name, id: crypto.randomUUID() };
-  profileState = { read: {}, interesting: {} };
+  const index = JSON.parse(localStorage.getItem(PROFILE_INDEX_KEY) || '{}');
+  const normalizedName = name.toLocaleLowerCase();
+  const existingId = index[normalizedName];
+  activeProfile = { name, id: existingId || crypto.randomUUID() };
+  index[normalizedName] = activeProfile.id;
+  localStorage.setItem(PROFILE_INDEX_KEY, JSON.stringify(index));
+  profileState = JSON.parse(localStorage.getItem(profileStateKey(activeProfile.id)) || '{"read":{},"interesting":{}}');
   saveProfileState();
   profileGate.hidden = true;
   render(search.value);
