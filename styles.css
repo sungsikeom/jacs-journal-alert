@@ -68,6 +68,7 @@ main { width: min(1120px, calc(100% - 40px)); margin: auto; }
 .not-interest-toggle { border: 1px solid var(--line); border-radius: 8px; padding: 7px 9px; background: #fff; color: var(--muted); cursor: pointer; }
 .not-interest-toggle.is-active { border-color: #a96b6b; background: #f7e5e5; color: #8a3f3f; }
 .comment-form { grid-column: 1 / -1; display: flex; align-items: center; gap: 8px; margin-left: 82px; }
+.comment-form[hidden] { display: none; }
 .comment-toggle { justify-self: end; padding: 7px 10px; border: 1px solid var(--line); border-radius: 7px; background: #fff; color: var(--muted); cursor: pointer; }
 .comment-form span { color: var(--accent); font: 700 .72rem ui-monospace, monospace; }
 .comment-form input { min-width: 0; flex: 1; padding: 8px 10px; border: 1px solid var(--line); border-radius: 7px; font: inherit; }
