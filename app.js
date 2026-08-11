@@ -13,6 +13,7 @@ const pageSize = 50;
 const PROFILE_KEY = 'journalPulseProfile:v1';
 const PROFILE_STATE_PREFIX = 'journalPulseState:v1:';
 const PROFILE_INDEX_KEY = 'journalPulseProfileIndex:v1';
+const PROFILE_AUTHORS_KEY = 'journalPulseProfileAuthors:v1';
 let payload = { articles: [], new_dois: [] };
 let activeFilter = 'all';
 let activeJournal = 'all';
@@ -30,8 +31,10 @@ function loadProfile() {
     const profile = JSON.parse(localStorage.getItem(PROFILE_KEY) || 'null');
     if (!profile?.id || !profile.name) return false;
     activeProfile = profile;
+    if (!activeProfile.author) { activeProfile.author = `A${String(Math.floor(Math.random() * 1000000)).padStart(6, '0')}`; localStorage.setItem(PROFILE_KEY, JSON.stringify(activeProfile)); }
     profileState = JSON.parse(localStorage.getItem(profileStateKey(profile.id)) || '{"read":{},"interesting":{},"notInteresting":{}}');
     profileState.notInteresting ||= {};
+    profileState.comments ||= {};
     return true;
   } catch { return false; }
 }
@@ -55,7 +58,7 @@ function render(query = '') {
       || (activeFilter === 'read' && profileState.read[article.doi])
       || (activeFilter === 'interesting' && profileState.interesting[article.doi])
       || (activeFilter === 'notInteresting' && profileState.notInteresting?.[article.doi]))
-    .filter(article => `${article.title} ${article.doi}`.toLowerCase().includes(needle))
+    .filter(article => `${article.title} ${article.doi} ${profileState.comments?.[article.doi] || ''}`.toLowerCase().includes(needle))
     .sort((a, b) => String(b.published_date || '').localeCompare(String(a.published_date || '')) || String(b.doi || '').localeCompare(String(a.doi || '')));
   const rows = matchingRows.slice(0, visibleCount);
   const journalLabel = activeJournal === 'all' ? '모든 저널' : journalDisplayName(activeJournal);
@@ -66,9 +69,12 @@ function render(query = '') {
     const isRead = Boolean(profileState.read[article.doi]);
     const isInteresting = Boolean(profileState.interesting[article.doi]);
     const isNotInteresting = Boolean(profileState.notInteresting?.[article.doi]);
+    const comment = profileState.comments?.[article.doi] || '';
     return `<div class="article${isRead ? ' is-read' : ''}">
       <a class="article-link" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer"><span class="number">${String(index + 1).padStart(2, '0')}</span><div><h3>${escapeHtml(article.title)}${isNew ? '<span class="new-badge">NEW</span>' : ''}</h3><div class="meta"><span class="article-journal">${escapeHtml(journalDisplayName(article.journal_short))}</span><span>${escapeHtml(article.published_date || 'Publication date pending')}</span><span class="doi">${escapeHtml(article.doi)}</span></div></div><span class="arrow" aria-hidden="true">→</span></a>
       <div class="article-actions"><label><input type="checkbox" class="read-toggle" data-doi="${escapeHtml(article.doi)}"${isRead ? ' checked' : ''}> 읽음</label><button type="button" class="interest-toggle${isInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isInteresting}">★ 관심 있음</button><button type="button" class="not-interest-toggle${isNotInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isNotInteresting}">관심 없음</button></div>
+      <form class="comment-form" data-doi="${escapeHtml(article.doi)}"><span>${escapeHtml(activeProfile.author)}</span><input name="comment" maxlength="500" value="${escapeHtml(comment)}" placeholder="댓글을 남겨보세요"><button type="submit">저장</button></form>
+      ${comment ? `<p class="comment-text"><b>${escapeHtml(activeProfile.author)}</b> ${escapeHtml(comment)}</p>` : ''}
     </div>`;
   }).join('');
   container.hidden = rows.length === 0;
@@ -100,6 +106,14 @@ function render(query = '') {
     const opposite = container.querySelector(`.interest-toggle[data-doi="${CSS.escape(doi)}"]`);
     if (opposite) { opposite.classList.toggle('is-active', false); opposite.setAttribute('aria-pressed', 'false'); }
   }));
+  container.querySelectorAll('.comment-form').forEach(form => form.addEventListener('submit', event => {
+    event.preventDefault();
+    const doi = event.currentTarget.dataset.doi;
+    const value = String(new FormData(event.currentTarget).get('comment') || '').trim();
+    if (value) profileState.comments[doi] = value; else delete profileState.comments[doi];
+    saveProfileState();
+    render(search.value);
+  }));
 }
 
 if (loadProfile()) profileGate.hidden = true;
@@ -112,10 +126,15 @@ profileForm.addEventListener('submit', event => {
   const normalizedName = name.toLocaleLowerCase();
   const existingId = index[normalizedName];
   activeProfile = { name, id: existingId || crypto.randomUUID() };
+  const authors = JSON.parse(localStorage.getItem(PROFILE_AUTHORS_KEY) || '{}');
+  activeProfile.author = authors[normalizedName] || `A${String(Math.floor(Math.random() * 1000000)).padStart(6, '0')}`;
+  authors[normalizedName] = activeProfile.author;
+  localStorage.setItem(PROFILE_AUTHORS_KEY, JSON.stringify(authors));
   index[normalizedName] = activeProfile.id;
   localStorage.setItem(PROFILE_INDEX_KEY, JSON.stringify(index));
-  profileState = JSON.parse(localStorage.getItem(profileStateKey(activeProfile.id)) || '{"read":{},"interesting":{},"notInteresting":{}}');
+  profileState = JSON.parse(localStorage.getItem(profileStateKey(activeProfile.id)) || '{"read":{},"interesting":{},"notInteresting":{},"comments":{}}');
   profileState.notInteresting ||= {};
+  profileState.comments ||= {};
   saveProfileState();
   profileGate.hidden = true;
   render(search.value);
