@@ -73,7 +73,8 @@ function render(query = '') {
     return `<div class="article${isRead ? ' is-read' : ''}">
       <a class="article-link" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer"><span class="number">${String(index + 1).padStart(2, '0')}</span><div><h3>${escapeHtml(article.title)}${isNew ? '<span class="new-badge">NEW</span>' : ''}</h3><div class="meta"><span class="article-journal">${escapeHtml(journalDisplayName(article.journal_short))}</span><span>${escapeHtml(article.published_date || 'Publication date pending')}</span><span class="doi">${escapeHtml(article.doi)}</span></div></div><span class="arrow" aria-hidden="true">→</span></a>
       <div class="article-actions"><label><input type="checkbox" class="read-toggle" data-doi="${escapeHtml(article.doi)}"${isRead ? ' checked' : ''}> 읽음</label><button type="button" class="interest-toggle${isInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isInteresting}">★ 관심 있음</button><button type="button" class="not-interest-toggle${isNotInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isNotInteresting}">관심 없음</button></div>
-      <form class="comment-form" data-doi="${escapeHtml(article.doi)}"><span>${escapeHtml(activeProfile.author)}</span><input name="comment" maxlength="500" value="${escapeHtml(comment)}" placeholder="댓글을 남겨보세요"><button type="submit">저장</button></form>
+      <button type="button" class="comment-toggle" data-doi="${escapeHtml(article.doi)}">${comment ? '댓글 수정' : '댓글'}</button>
+      <form class="comment-form" data-doi="${escapeHtml(article.doi)}" hidden><span>${escapeHtml(activeProfile.author)}</span><input name="comment" maxlength="500" value="${escapeHtml(comment)}" placeholder="댓글을 남겨보세요"><button type="submit">저장</button></form>
       ${comment ? `<p class="comment-text"><b>${escapeHtml(activeProfile.author)}</b> ${escapeHtml(comment)}</p>` : ''}
     </div>`;
   }).join('');
@@ -113,6 +114,12 @@ function render(query = '') {
     if (value) profileState.comments[doi] = value; else delete profileState.comments[doi];
     saveProfileState();
     render(search.value);
+  }));
+  container.querySelectorAll('.comment-toggle').forEach(button => button.addEventListener('click', event => {
+    const form = container.querySelector(`.comment-form[data-doi="${CSS.escape(event.currentTarget.dataset.doi)}"]`);
+    if (!form) return;
+    form.hidden = !form.hidden;
+    if (!form.hidden) form.querySelector('input')?.focus();
   }));
 }
 
