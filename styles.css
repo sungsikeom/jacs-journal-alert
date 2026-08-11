@@ -57,7 +57,7 @@ main { width: min(1120px, calc(100% - 40px)); margin: auto; }
 .search:focus-within { border-color: var(--green); box-shadow: 0 0 0 3px #214e3e16; }
 .search input { width: 100%; border: 0; outline: 0; background: transparent; color: var(--ink); }
 .articles { display: grid; gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; }
-.article { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 14px; align-items: center; padding: 22px; background: var(--card); color: inherit; transition: background .18s; }
+.article { position: relative; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 14px; align-items: center; padding: 22px 22px 38px; background: var(--card); color: inherit; transition: background .18s; }
 .article:hover, .article:focus-within { background: #fbfaf6; }
 .article-link { display: grid; grid-template-columns: 62px 1fr auto; gap: 20px; align-items: center; text-decoration: none; color: inherit; min-width: 0; }
 .article.is-read { opacity: .62; }
@@ -70,7 +70,8 @@ main { width: min(1120px, calc(100% - 40px)); margin: auto; }
 .comment-form { grid-column: 1 / -1; display: flex; align-items: center; gap: 8px; margin-left: 82px; }
 .comment-form[hidden] { display: none; }
 .comment-form.is-collapsed { display: none; }
-.comment-toggle { justify-self: end; padding: 7px 10px; border: 1px solid var(--line); border-radius: 7px; background: #fff; color: var(--muted); cursor: pointer; }
+.comment-toggle { position: absolute; right: 22px; bottom: 12px; padding: 0; border: 0; background: transparent; color: var(--muted); font-size: .7rem; cursor: pointer; }
+.comment-toggle:hover { color: var(--accent); text-decoration: underline; }
 .comment-form span { color: var(--accent); font: 700 .72rem ui-monospace, monospace; }
 .comment-form input { min-width: 0; flex: 1; padding: 8px 10px; border: 1px solid var(--line); border-radius: 7px; font: inherit; }
 .comment-form button { padding: 8px 10px; border: 0; border-radius: 7px; background: var(--green); color: #fff; cursor: pointer; }
@@ -115,10 +116,11 @@ footer { padding: 34px 20px; text-align: center; color: var(--muted); font-size:
   .journal-filters { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .filter { flex: 1; padding-inline: 8px; }
   .search { width: 100%; }
-  .article { grid-template-columns: 1fr; padding: 18px 14px; }
+  .article { grid-template-columns: 1fr; padding: 18px 14px 38px; }
   .article-link { grid-template-columns: 34px 1fr; gap: 12px; }
   .article-actions { margin-left: 46px; }
   .comment-form, .comment-text { margin-left: 46px; }
+  .comment-toggle { right: 14px; }
   .arrow { display: none; }
   .meta { display: block; }
   .meta span { display: block; margin-top: 4px; }
