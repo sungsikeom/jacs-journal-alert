@@ -1,9 +1,39 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-08-10T00:07:13.888Z",
+  "collected_at": "2026-08-11T00:08:04.162Z",
   "scope_start": "2026-01-01",
-  "article_count": 582,
+  "article_count": 587,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01021",
+      "title": "DeGAT: A Dual-Expert Graph Attention Network for Partial Charge Prediction in Metal–Organic Frameworks",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01021"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00922",
+      "title": "Stochastic Resolution of Identity for Correlation Energy Prediction via Doubles Connected Moments Expansion",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00922"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00900",
+      "title": "Enhancing Machine-Learned Electrostatic Models with Linear Response Theory for Multiscale Simulations in Enzymes",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00900"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00829",
+      "title": "Prediction of Distal Mutation Effects in Enzymes via Integration of Molecular Dynamics Descriptors and Zero-Shot Model",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00829"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00585",
+      "title": "ChargeFlow: Flow-Matching Refinement of Charge-Conditioned Electron Densities",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00585"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01031",
       "title": "Efficient Computation of Physical Charging Free Energies for Monatomic Ions at Any Charge along Alchemical Charging Pathways",

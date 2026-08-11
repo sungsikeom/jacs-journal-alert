@@ -1,11 +1,149 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-08-10T00:00:32.040Z",
+  "collected_at": "2026-08-11T00:01:07.360Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7026,
+  "article_count": 7049,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c14322",
+      "title": "A Dual-Interlocked Electrocatalyst Design Principle for Durable AEM Water Electrolysis at Industrial Current Densities",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c14322"
+    },
+    {
+      "doi": "10.1021/jacs.6c13607",
+      "title": "Selenoxanthylium Salts─Organic Photocatalysts for Low-Energy Photoredox Catalysis",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c13607"
+    },
+    {
+      "doi": "10.1021/jacs.6c12900",
+      "title": "Achieving Organocatalytic Control of P(III)-Centered Chirality for the Construction of P(III)/(V) Stereogenic Compounds",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c12900"
+    },
+    {
+      "doi": "10.1021/jacs.6c12379",
+      "title": "One-Pot Sequential Alkaline-Acid Route to ZSM-5 Nanosheets with Low Framework Defects and Suppressed Aluminum Zoning",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c12379"
+    },
+    {
+      "doi": "10.1021/jacs.6c12217",
+      "title": "SuFEx-Enabled Acyl Fluoride Chemistry for High-Concentration Minimal-Oligomerization Peptide Macrocyclization",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c12217"
+    },
+    {
+      "doi": "10.1021/jacs.6c12132",
+      "title": "Four-Electron Reduction of O2 at a Single Metal Center: Redox Chemistry of a Uranium(II) Synthon",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c12132"
+    },
+    {
+      "doi": "10.1021/jacs.6c11164",
+      "title": "Photocatalytic Aminocarboxylation of Unactivated Alkenes and Heteroarenes with CO2 toward β-Amino Acid Derivatives",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c11164"
+    },
+    {
+      "doi": "10.1021/jacs.6c11091",
+      "title": "A Smart Biomimetic Supramolecular Adsorbent for Dynamic Radiocesium Capture from Contaminated Water",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c11091"
+    },
+    {
+      "doi": "10.1021/jacs.6c10565",
+      "title": "Unconventional Biocatalytic Strategies Orchestrate the Synthesis of the Nucleoside Analog Sinefungin",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c10565"
+    },
+    {
+      "doi": "10.1021/jacs.6c10549",
+      "title": "Counterion-Controlled Nanoscale Morphogenesis in Interfacial Polymerization via Decoupled Interfacial Transport and Reaction Kinetics",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c10549"
+    },
+    {
+      "doi": "10.1021/jacs.6c10524",
+      "title": "Storage and Retrieval of Electronic Spin Coherence Using Nuclear Spins in a Vanadyl Paddlewheel",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c10524"
+    },
+    {
+      "doi": "10.1021/jacs.6c10475",
+      "title": "Targeting Adaptive and Innate Immune Responses with Covalent Aptamers",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c10475"
+    },
+    {
+      "doi": "10.1021/jacs.6c10350",
+      "title": "Aligning H2 Activation with Functional-Group Polarity: K+-Promoted Switchable Hydrogenation on Pd/TiO2",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c10350"
+    },
+    {
+      "doi": "10.1021/jacs.6c09906",
+      "title": "Engineered Dynamic Co2+ Sites Resolve the Complete Reaction Network for C(sp3)–H Oxidation",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c09906"
+    },
+    {
+      "doi": "10.1021/jacs.6c09867",
+      "title": "Geminal Difunctionalizations of Aliphatic Ketones and Aldehydes Enabled by Thioacetal Activation and Deep Electroreduction",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c09867"
+    },
+    {
+      "doi": "10.1021/jacs.6c09333",
+      "title": "Elucidating the Mechanism of Photoinduced Sulfur Monoxide Extrusion from Dianthryl Sulfoxide",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c09333"
+    },
+    {
+      "doi": "10.1021/jacs.6c09262",
+      "title": "Geometry-Defined Membrane Fusion in a DNA Framework Nanoreactor",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c09262"
+    },
+    {
+      "doi": "10.1021/jacs.6c09149",
+      "title": "Programmable Vacancy Topology in High-Entropy-Alloy-Inspired Multiprincipal Alloys Directs Ru-Centered Alkaline Hydrogen Evolution",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c09149"
+    },
+    {
+      "doi": "10.1021/jacs.6c09006",
+      "title": "Metal–Support Interfaces in Pt1/γ-Al2O3 Single Atom Catalysts with Atomic-Level Precision",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c09006"
+    },
+    {
+      "doi": "10.1021/jacs.6c08696",
+      "title": "Electrochemical Cross-Coupling of Electron-Deficient Olefins",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c08696"
+    },
+    {
+      "doi": "10.1021/jacs.6c08082",
+      "title": "Engineering Nonpathogenic Bacteria for Synergistic Tumor-Targeted Protein Degradation and Immunotherapy by Checkpoint-Inhibiting Nanobodies",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c08082"
+    },
+    {
+      "doi": "10.1021/jacs.6c04585",
+      "title": "Self-Assembled Monolayers of Phosphorus–Nitrogen Cages",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c04585"
+    },
+    {
+      "doi": "10.1021/jacs.6c00223",
+      "title": "Direct Comparison of CuB and CuSiR Sites in a Single Designed Protein Scaffold Reveals a Central Role for Tyrosine in Oxygen and Sulfite Reduction",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1021/jacs.6c00223"
+    },
     {
       "doi": "10.1021/jacs.6c14984",
       "title": "Correction to “Dynamic In Vivo Mapping of the Methylproteome Using a Chemoenzymatic Approach”",

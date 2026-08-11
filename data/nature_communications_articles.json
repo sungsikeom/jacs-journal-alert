@@ -1,9 +1,201 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-08-10T00:03:58.437Z",
+  "collected_at": "2026-08-11T00:04:45.539Z",
   "scope_start": "2026-01-01",
-  "article_count": 8020,
+  "article_count": 8052,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-76638-6",
+      "title": "Overcoming catalyst deactivation with in-situ electrochemical regeneration in packed-bed reactors enabling long-lived wastewater purification",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76638-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76610-4",
+      "title": "Genomic and genetic dissection underlying seedling drought resilience in oats",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76610-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76609-x",
+      "title": "Reconciling nitrogen fertilization effects on soil nitrification with acidification",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76609-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-76584-3",
+      "title": "Molecular navigation strategy enables fibrillar self-assembly for efficient as-cast organic solar cells",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76584-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76576-3",
+      "title": "Constructing water-resistant phase-pure alloy carbide for boosting syngas to olefins",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76576-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76572-7",
+      "title": "MALT1 protease inhibition restrains glioblastoma progression by reversing tumor-associated macrophage-dependent immunosuppression in mice",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76572-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-76571-8",
+      "title": "Hydrophobic promoter in physical proximity stabilizes cobalt catalysts for durable Fischer-Tropsch synthesis",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76571-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-76556-7",
+      "title": "Synergistic effect of paired Cu(II) open metal sites for enhanced high-temperature hydrogen isotope separation",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76556-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-76552-x",
+      "title": "Enhancing pan-cancer spatial transcriptomics at single-cell resolution with stPainter",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76552-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-76544-x",
+      "title": "Immune niche composed of C1Q+ macrophages/SFRP2+ CAFs/CD8+ T cells drives immunotherapy response in HER2-positive gastric cancer",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76544-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-76543-y",
+      "title": "Giant piezoelectric response and electromechanical coupling in AlScN thin films via multi-scale lattice engineering",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76543-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76522-3",
+      "title": "Transcriptomic analysis of spinal V1 interneurons informs their multifunctional role in motor output",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76522-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76517-0",
+      "title": "Spin-quenching cobalt center for efficient ammonia synthesis derived from oxide mixology",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76517-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76500-9",
+      "title": "How sovereign control, decarbonization and energy costs shape public support for data centers",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76500-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-76498-0",
+      "title": "Orientation-tunable correlated Chern insulating states in chiral twisted double bilayer graphene proximitized by WSe2",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76498-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76493-5",
+      "title": "Deuterated Radical Emitters Achieve 10.8% EQE at 800 nm with Remarkably Enhanced Operational Stability",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76493-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-76453-z",
+      "title": "Evidence of dengue transmission and a diverse Aedes mosquito virome on the Congo’s Angola border",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76453-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-76443-1",
+      "title": "Oxidative stress triggers RNAPII arrest through PARylation and DNA damage",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76443-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76439-x",
+      "title": "Octahedral and tetrahedral site substitution in spinel Mn3O4 regulates oxygen evolution in acid",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76439-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-76392-9",
+      "title": "Clinical utility of molecular residual disease detection in early-stage resected EGFR-mutated non-small cell lung cancer",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76392-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-76389-4",
+      "title": "Correlated insulator Moiré bolometer",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76389-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76373-y",
+      "title": "Adaptive oncogenesis of β-catenin emerges from declining liver tissue integrity",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76373-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76348-z",
+      "title": "Unlocking bipolar electrode-electrolyte solid-solid conversion in aqueous zinc-halogen batteries for high Zn utilization across various cell formats",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76348-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-76297-7",
+      "title": "Automatic value learning results in counterproductive human behavior",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76297-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-76218-8",
+      "title": "Rab4b controls hepatic glucose production during fasting through glycophagy",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76218-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-76190-3",
+      "title": "Pseudomonas aeruginosa-derived volatile organic compounds modulate AhR signaling to dysregulate airway mucus homeostasis",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76190-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76137-8",
+      "title": "Suppression of transcription-replication conflicts by sequence-coordinated actions of TRDMT1 and MutLα",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76137-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-76087-1",
+      "title": "Crack-localization in elastomeric self-healing enabled by one supermolecule-analogous molecule",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-76087-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-75859-z",
+      "title": "Mechano-electrochemically stable fibrous zinc-ion batteries with unified aramid nanofibres skeleton",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-75859-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-75731-0",
+      "title": "A national-scale assessment of the impact of canals on urban temperatures",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-75731-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-75473-z",
+      "title": "How carbon accounting rules shape incentives for hydrogen production",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-75473-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-75264-6",
+      "title": "Nuclear compartmentalization at the G1/S transition plays a key role in DNA replication control",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s41467-026-75264-6"
+    },
     {
       "doi": "10.1038/s41467-026-76587-0",
       "title": "Uncovering the signaling networks of disseminated glioblastoma cells in vivo with INSIGHT",

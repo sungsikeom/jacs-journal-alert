@@ -1,9 +1,63 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-08-10T00:13:45.238Z",
+  "collected_at": "2026-08-11T00:14:35.874Z",
   "scope_start": "2026-01-01",
-  "article_count": 2002,
+  "article_count": 2011,
   "articles": [
+    {
+      "doi": "10.1002/anie.9183730",
+      "title": "A Review of Electrochemical–Biological Coupling Systems for CO2 Valorization: Catalytic Fundamentals, System Integration, and Industrial Outlook",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1002/anie.9183730"
+    },
+    {
+      "doi": "10.1002/anie.8894678",
+      "title": "Photo-Generated 1O2 Triggers In Situ RNA Crosslinking for High-Contrast Tumor MRI and Effective Tumor Suppression",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1002/anie.8894678"
+    },
+    {
+      "doi": "10.1002/anie.6581071",
+      "title": "Unlocking the Potential of Sparingly Soluble LiNO3 in Carbonate Electrolytes With Pyridine as a Carrier Cosolvent for 450 Wh Kg−1 High-Voltage Lithium Metal Batteries",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1002/anie.6581071"
+    },
+    {
+      "doi": "10.1002/anie.6489568",
+      "title": "Synthesis and Activity-Based Protein Profiling Identifies Aldo-Keto Reductase 1C3 as Target Protein of Myxoglucamides",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1002/anie.6489568"
+    },
+    {
+      "doi": "10.1002/anie.6104022",
+      "title": "Semiconducting Covalent Organic Frameworks Based on Spin-Delocalized Trioxotriangulene Neutral Radicals",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1002/anie.6104022"
+    },
+    {
+      "doi": "10.1002/anie.5628873",
+      "title": "Peiran Wei",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1002/anie.5628873"
+    },
+    {
+      "doi": "10.1002/anie.4236524",
+      "title": "Beyond Simple Mimicry: Next-Generation Geometric Architectures and Future Paradigms in Small-Molecule and Macrocyclic Peptidomimetics",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1002/anie.4236524"
+    },
+    {
+      "doi": "10.1002/anie.1761820",
+      "title": "A Tautomeric Carbon Nitride Structure for Photocatalytic Overall Water Splitting",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1002/anie.1761820"
+    },
+    {
+      "doi": "10.1002/anie.1444773",
+      "title": "Energy Transfer Catalysis Enabled by Multichannel Through-Space Charge Transfer TADF Photosensitizers: [2 + 2] Photocycloaddition to Cyclobutane-Fused Phosphindole 3-Oxides",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1002/anie.1444773"
+    },
     {
       "doi": "10.1002/anie.9991550",
       "title": "Cr-Leaching Induced Vacancy Engineering for High-Performance Anion Exchange Membrane Water Electrolysis",
