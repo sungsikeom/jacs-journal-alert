@@ -50,7 +50,11 @@ function render(query = '') {
     .filter(article => String(article.published_date || '') >= publicationCutoff(article))
     .filter(article => activeJournal === 'all' || article.journal_short === activeJournal)
     .filter(article => activeYear === 'all' || String(article.published_date || '').slice(0, 4) === activeYear)
-    .filter(article => activeFilter !== 'new' || payload.new_dois.includes(article.doi))
+    .filter(article => activeFilter === 'all'
+      || (activeFilter === 'new' && payload.new_dois.includes(article.doi))
+      || (activeFilter === 'read' && profileState.read[article.doi])
+      || (activeFilter === 'interesting' && profileState.interesting[article.doi])
+      || (activeFilter === 'notInteresting' && profileState.notInteresting?.[article.doi]))
     .filter(article => `${article.title} ${article.doi}`.toLowerCase().includes(needle))
     .sort((a, b) => String(b.published_date || '').localeCompare(String(a.published_date || '')) || String(b.doi || '').localeCompare(String(a.doi || '')));
   const rows = matchingRows.slice(0, visibleCount);
