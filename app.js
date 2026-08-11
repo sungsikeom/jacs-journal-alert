@@ -13,9 +13,9 @@ const pageSize = 50;
 const PROFILE_KEY = 'journalPulseProfile:v1';
 const PROFILE_STATE_PREFIX = 'journalPulseState:v1:';
 const PROFILE_INDEX_KEY = 'journalPulseProfileIndex:v1';
-const PROFILE_AUTHORS_KEY = 'journalPulseProfileAuthors:v1';
 const COMMENTS_API_URL = 'https://journal-pulse-comments.sungsikeom886704.chatgpt.site/api/comments';
 const COMMENT_MIGRATION_PREFIX = 'journalPulseCommentsMigrated:v2:';
+const COMMENT_OWNERSHIP_MIGRATION_PREFIX = 'journalPulseCommentOwnerMigrated:v3:';
 let payload = { articles: [], new_dois: [] };
 let activeFilter = 'all';
 let activeJournal = 'all';
@@ -29,15 +29,31 @@ const escapeHtml = value => String(value ?? '').replace(/[&<>'"]/g, char => ({ '
 const journalDisplayName = value => ({ 'Nat Commun': 'Nat Commun', 'J. Comput. Chem.': 'JCC', 'Angew. Chem. Int. Ed.': 'Angew.' }[value] || value);
 const profileStateKey = id => `${PROFILE_STATE_PREFIX}${id}`;
 
-function createCommentSecret() {
-  const bytes = crypto.getRandomValues(new Uint8Array(32));
-  return [...bytes].map(byte => byte.toString(16).padStart(2, '0')).join('');
+function normalizeProfileId(value) {
+  return String(value || '').trim().normalize('NFKC').toLocaleLowerCase('ko-KR');
+}
+
+function profileAuthor(value) {
+  let hash = 2166136261;
+  for (const byte of new TextEncoder().encode(normalizeProfileId(value))) {
+    hash ^= byte;
+    hash = Math.imul(hash, 16777619);
+  }
+  hash ^= hash >>> 16;
+  return `A${String((hash >>> 0) % 1000000).padStart(6, '0')}`;
+}
+
+function commentOwnerCredential(value = activeProfile?.name) {
+  const bytes = new TextEncoder().encode(normalizeProfileId(value));
+  let binary = '';
+  for (const byte of bytes) binary += String.fromCharCode(byte);
+  const encoded = btoa(binary).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+  return encoded ? `profile-v1:${encoded}`.padEnd(32, '_') : '';
 }
 
 function ensureCommentIdentity() {
   if (!activeProfile) return;
-  if (!activeProfile.author) activeProfile.author = `A${String(Math.floor(Math.random() * 1000000)).padStart(6, '0')}`;
-  if (!activeProfile.commentSecret) activeProfile.commentSecret = createCommentSecret();
+  activeProfile.author = profileAuthor(activeProfile.name);
   localStorage.setItem(PROFILE_KEY, JSON.stringify(activeProfile));
 }
 
@@ -58,7 +74,7 @@ function saveProfileState() {
   localStorage.setItem(PROFILE_KEY, JSON.stringify(activeProfile));
   localStorage.setItem(profileStateKey(activeProfile.id), JSON.stringify(profileState));
   const index = JSON.parse(localStorage.getItem(PROFILE_INDEX_KEY) || '{}');
-  index[activeProfile.name.toLocaleLowerCase()] = activeProfile.id;
+  index[normalizeProfileId(activeProfile.name)] = activeProfile.id;
   localStorage.setItem(PROFILE_INDEX_KEY, JSON.stringify(index));
 }
 
@@ -66,10 +82,10 @@ function commentsFor(doi) {
   return sharedComments[String(doi || '').toLowerCase()] || [];
 }
 
-async function commentRequest(method = 'GET', body = null) {
+async function commentRequest(method = 'GET', body = null, owner = commentOwnerCredential()) {
   const headers = {};
   if (body) headers['Content-Type'] = 'application/json';
-  if (activeProfile?.commentSecret) headers['X-Comment-Owner'] = activeProfile.commentSecret;
+  if (owner) headers['X-Comment-Owner'] = owner;
   const response = await fetch(COMMENTS_API_URL, {
     method,
     headers,
@@ -116,7 +132,24 @@ async function migrateLocalComments() {
   return comments.length > 0;
 }
 
+async function migrateCommentOwnership() {
+  if (!activeProfile?.commentSecret) return false;
+  const migrationKey = `${COMMENT_OWNERSHIP_MIGRATION_PREFIX}${activeProfile.id}`;
+  if (localStorage.getItem(migrationKey)) return false;
+  const previousOwner = activeProfile.commentSecret;
+  const data = await commentRequest('PUT', { owner: commentOwnerCredential(), author: activeProfile.author }, previousOwner);
+  localStorage.setItem(migrationKey, new Date().toISOString());
+  delete activeProfile.commentSecret;
+  saveProfileState();
+  return Number(data.migrated || 0) > 0;
+}
+
 async function syncSharedComments() {
+  try {
+    await migrateCommentOwnership();
+  } catch (error) {
+    console.error('Comment ownership migration unavailable:', error);
+  }
   try {
     let data = await commentRequest();
     indexSharedComments(data.comments);
@@ -261,13 +294,9 @@ profileForm.addEventListener('submit', event => {
   const name = profileName.value.trim();
   if (!name) return;
   const index = JSON.parse(localStorage.getItem(PROFILE_INDEX_KEY) || '{}');
-  const normalizedName = name.toLocaleLowerCase();
+  const normalizedName = normalizeProfileId(name);
   const existingId = index[normalizedName];
   activeProfile = { name, id: existingId || crypto.randomUUID() };
-  const authors = JSON.parse(localStorage.getItem(PROFILE_AUTHORS_KEY) || '{}');
-  activeProfile.author = authors[normalizedName] || `A${String(Math.floor(Math.random() * 1000000)).padStart(6, '0')}`;
-  authors[normalizedName] = activeProfile.author;
-  localStorage.setItem(PROFILE_AUTHORS_KEY, JSON.stringify(authors));
   index[normalizedName] = activeProfile.id;
   localStorage.setItem(PROFILE_INDEX_KEY, JSON.stringify(index));
   profileState = JSON.parse(localStorage.getItem(profileStateKey(activeProfile.id)) || '{"read":{},"interesting":{},"notInteresting":{},"comments":{}}');
