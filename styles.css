@@ -69,10 +69,12 @@ main { width: min(1120px, calc(100% - 40px)); margin: auto; }
 .not-interest-toggle.is-active { border-color: #a96b6b; background: #f7e5e5; color: #8a3f3f; }
 .comment-form { grid-column: 1 / -1; display: flex; align-items: center; gap: 8px; margin-left: 82px; }
 .comment-form[hidden] { display: none; }
+.comment-form.is-collapsed { display: none; }
 .comment-toggle { justify-self: end; padding: 7px 10px; border: 1px solid var(--line); border-radius: 7px; background: #fff; color: var(--muted); cursor: pointer; }
 .comment-form span { color: var(--accent); font: 700 .72rem ui-monospace, monospace; }
 .comment-form input { min-width: 0; flex: 1; padding: 8px 10px; border: 1px solid var(--line); border-radius: 7px; font: inherit; }
 .comment-form button { padding: 8px 10px; border: 0; border-radius: 7px; background: var(--green); color: #fff; cursor: pointer; }
+.comment-form .comment-delete { background: #8a3f3f; }
 .comment-text { grid-column: 1 / -1; margin: -5px 0 0 82px; padding: 8px 10px; border-left: 3px solid #d89a35; background: #fff9eb; color: #5d5545; font-size: .8rem; }
 .number { color: #a0a79f; font: italic 1.1rem Georgia, serif; }
 .article h3 { margin: 0; font: 500 1.08rem/1.42 Georgia, serif; }
