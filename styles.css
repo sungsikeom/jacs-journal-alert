@@ -65,6 +65,8 @@ main { width: min(1120px, calc(100% - 40px)); margin: auto; }
 .article-actions label { display: inline-flex; align-items: center; gap: 5px; cursor: pointer; }
 .interest-toggle { border: 1px solid var(--line); border-radius: 8px; padding: 7px 9px; background: #fff; color: var(--muted); cursor: pointer; }
 .interest-toggle.is-active { border-color: #d89a35; background: #fff3d8; color: #9b6a22; }
+.not-interest-toggle { border: 1px solid var(--line); border-radius: 8px; padding: 7px 9px; background: #fff; color: var(--muted); cursor: pointer; }
+.not-interest-toggle.is-active { border-color: #a96b6b; background: #f7e5e5; color: #8a3f3f; }
 .number { color: #a0a79f; font: italic 1.1rem Georgia, serif; }
 .article h3 { margin: 0; font: 500 1.08rem/1.42 Georgia, serif; }
 .meta { display: flex; gap: 14px; margin-top: 9px; color: var(--muted); font-size: .78rem; }

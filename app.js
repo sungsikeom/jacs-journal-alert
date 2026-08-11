@@ -30,7 +30,8 @@ function loadProfile() {
     const profile = JSON.parse(localStorage.getItem(PROFILE_KEY) || 'null');
     if (!profile?.id || !profile.name) return false;
     activeProfile = profile;
-    profileState = JSON.parse(localStorage.getItem(profileStateKey(profile.id)) || '{"read":{},"interesting":{}}');
+    profileState = JSON.parse(localStorage.getItem(profileStateKey(profile.id)) || '{"read":{},"interesting":{},"notInteresting":{}}');
+    profileState.notInteresting ||= {};
     return true;
   } catch { return false; }
 }
@@ -60,9 +61,10 @@ function render(query = '') {
     const isNew = payload.new_dois.includes(article.doi);
     const isRead = Boolean(profileState.read[article.doi]);
     const isInteresting = Boolean(profileState.interesting[article.doi]);
+    const isNotInteresting = Boolean(profileState.notInteresting?.[article.doi]);
     return `<div class="article${isRead ? ' is-read' : ''}">
       <a class="article-link" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer"><span class="number">${String(index + 1).padStart(2, '0')}</span><div><h3>${escapeHtml(article.title)}${isNew ? '<span class="new-badge">NEW</span>' : ''}</h3><div class="meta"><span class="article-journal">${escapeHtml(journalDisplayName(article.journal_short))}</span><span>${escapeHtml(article.published_date || 'Publication date pending')}</span><span class="doi">${escapeHtml(article.doi)}</span></div></div><span class="arrow" aria-hidden="true">→</span></a>
-      <div class="article-actions"><label><input type="checkbox" class="read-toggle" data-doi="${escapeHtml(article.doi)}"${isRead ? ' checked' : ''}> 읽음</label><button type="button" class="interest-toggle${isInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isInteresting}">★ 관심</button></div>
+      <div class="article-actions"><label><input type="checkbox" class="read-toggle" data-doi="${escapeHtml(article.doi)}"${isRead ? ' checked' : ''}> 읽음</label><button type="button" class="interest-toggle${isInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isInteresting}">★ 관심 있음</button><button type="button" class="not-interest-toggle${isNotInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isNotInteresting}">관심 없음</button></div>
     </div>`;
   }).join('');
   container.hidden = rows.length === 0;
@@ -77,9 +79,22 @@ function render(query = '') {
   container.querySelectorAll('.interest-toggle').forEach(button => button.addEventListener('click', event => {
     const doi = event.currentTarget.dataset.doi;
     profileState.interesting[doi] = !profileState.interesting[doi];
+    if (profileState.interesting[doi]) profileState.notInteresting[doi] = false;
     saveProfileState();
     event.currentTarget.classList.toggle('is-active', profileState.interesting[doi]);
     event.currentTarget.setAttribute('aria-pressed', String(profileState.interesting[doi]));
+    const opposite = container.querySelector(`.not-interest-toggle[data-doi="${CSS.escape(doi)}"]`);
+    if (opposite) { opposite.classList.toggle('is-active', false); opposite.setAttribute('aria-pressed', 'false'); }
+  }));
+  container.querySelectorAll('.not-interest-toggle').forEach(button => button.addEventListener('click', event => {
+    const doi = event.currentTarget.dataset.doi;
+    profileState.notInteresting[doi] = !profileState.notInteresting[doi];
+    if (profileState.notInteresting[doi]) profileState.interesting[doi] = false;
+    saveProfileState();
+    event.currentTarget.classList.toggle('is-active', profileState.notInteresting[doi]);
+    event.currentTarget.setAttribute('aria-pressed', String(profileState.notInteresting[doi]));
+    const opposite = container.querySelector(`.interest-toggle[data-doi="${CSS.escape(doi)}"]`);
+    if (opposite) { opposite.classList.toggle('is-active', false); opposite.setAttribute('aria-pressed', 'false'); }
   }));
 }
 
@@ -95,7 +110,8 @@ profileForm.addEventListener('submit', event => {
   activeProfile = { name, id: existingId || crypto.randomUUID() };
   index[normalizedName] = activeProfile.id;
   localStorage.setItem(PROFILE_INDEX_KEY, JSON.stringify(index));
-  profileState = JSON.parse(localStorage.getItem(profileStateKey(activeProfile.id)) || '{"read":{},"interesting":{}}');
+  profileState = JSON.parse(localStorage.getItem(profileStateKey(activeProfile.id)) || '{"read":{},"interesting":{},"notInteresting":{}}');
+  profileState.notInteresting ||= {};
   saveProfileState();
   profileGate.hidden = true;
   render(search.value);
