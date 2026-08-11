@@ -14,6 +14,8 @@ const PROFILE_KEY = 'journalPulseProfile:v1';
 const PROFILE_STATE_PREFIX = 'journalPulseState:v1:';
 const PROFILE_INDEX_KEY = 'journalPulseProfileIndex:v1';
 const PROFILE_AUTHORS_KEY = 'journalPulseProfileAuthors:v1';
+const COMMENTS_API_URL = 'https://journal-pulse-comments.sungsikeom886704.chatgpt.site/api/comments';
+const COMMENT_MIGRATION_PREFIX = 'journalPulseCommentsMigrated:v2:';
 let payload = { articles: [], new_dois: [] };
 let activeFilter = 'all';
 let activeJournal = 'all';
@@ -21,17 +23,30 @@ let activeYear = 'all';
 let visibleCount = pageSize;
 let activeProfile = null;
 let profileState = { read: {}, interesting: {} };
+let sharedComments = {};
 
 const escapeHtml = value => String(value ?? '').replace(/[&<>'"]/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' }[char]));
 const journalDisplayName = value => ({ 'Nat Commun': 'Nat Commun', 'J. Comput. Chem.': 'JCC', 'Angew. Chem. Int. Ed.': 'Angew.' }[value] || value);
 const profileStateKey = id => `${PROFILE_STATE_PREFIX}${id}`;
+
+function createCommentSecret() {
+  const bytes = crypto.getRandomValues(new Uint8Array(32));
+  return [...bytes].map(byte => byte.toString(16).padStart(2, '0')).join('');
+}
+
+function ensureCommentIdentity() {
+  if (!activeProfile) return;
+  if (!activeProfile.author) activeProfile.author = `A${String(Math.floor(Math.random() * 1000000)).padStart(6, '0')}`;
+  if (!activeProfile.commentSecret) activeProfile.commentSecret = createCommentSecret();
+  localStorage.setItem(PROFILE_KEY, JSON.stringify(activeProfile));
+}
 
 function loadProfile() {
   try {
     const profile = JSON.parse(localStorage.getItem(PROFILE_KEY) || 'null');
     if (!profile?.id || !profile.name) return false;
     activeProfile = profile;
-    if (!activeProfile.author) { activeProfile.author = `A${String(Math.floor(Math.random() * 1000000)).padStart(6, '0')}`; localStorage.setItem(PROFILE_KEY, JSON.stringify(activeProfile)); }
+    ensureCommentIdentity();
     profileState = JSON.parse(localStorage.getItem(profileStateKey(profile.id)) || '{"read":{},"interesting":{},"notInteresting":{}}');
     profileState.notInteresting ||= {};
     profileState.comments ||= {};
@@ -48,12 +63,71 @@ function saveProfileState() {
 }
 
 function commentsFor(doi) {
-  const saved = profileState.comments?.[doi];
-  if (Array.isArray(saved)) return saved;
-  if (typeof saved === 'string' && saved.trim()) {
-    return [{ id: 'legacy', author: activeProfile.author, owner: activeProfile.id, text: saved.trim(), createdAt: '' }];
+  return sharedComments[String(doi || '').toLowerCase()] || [];
+}
+
+async function commentRequest(method = 'GET', body = null) {
+  const headers = {};
+  if (body) headers['Content-Type'] = 'application/json';
+  if (activeProfile?.commentSecret) headers['X-Comment-Owner'] = activeProfile.commentSecret;
+  const response = await fetch(COMMENTS_API_URL, {
+    method,
+    headers,
+    body: body ? JSON.stringify(body) : null,
+  });
+  const data = await response.json().catch(() => ({}));
+  if (!response.ok) throw new Error(data.error || '댓글 서버에 연결하지 못했습니다.');
+  return data;
+}
+
+function indexSharedComments(comments) {
+  sharedComments = {};
+  for (const comment of comments || []) {
+    const doi = String(comment.doi || '').toLowerCase();
+    if (!doi) continue;
+    (sharedComments[doi] ||= []).push(comment);
   }
-  return [];
+}
+
+function legacyCommentsForMigration() {
+  const rows = [];
+  let normalized = false;
+  for (const [doi, saved] of Object.entries(profileState.comments || {})) {
+    const comments = Array.isArray(saved) ? saved : typeof saved === 'string' && saved.trim() ? [{ text: saved.trim() }] : [];
+    const prepared = comments.filter(comment => String(comment?.text || '').trim()).map(comment => {
+      const id = /^[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i.test(comment.id || '') ? comment.id : crypto.randomUUID();
+      if (id !== comment.id) normalized = true;
+      return { ...comment, id, author: /^A\d{6}$/.test(comment.author || '') ? comment.author : activeProfile.author, text: String(comment.text).trim() };
+    });
+    profileState.comments[doi] = prepared;
+    prepared.forEach(comment => rows.push({ id: comment.id, doi, author: comment.author, text: comment.text }));
+  }
+  if (normalized) saveProfileState();
+  return rows;
+}
+
+async function migrateLocalComments() {
+  if (!activeProfile) return false;
+  const migrationKey = `${COMMENT_MIGRATION_PREFIX}${activeProfile.id}`;
+  if (localStorage.getItem(migrationKey)) return false;
+  const comments = legacyCommentsForMigration();
+  for (const comment of comments) await commentRequest('POST', comment);
+  localStorage.setItem(migrationKey, new Date().toISOString());
+  return comments.length > 0;
+}
+
+async function syncSharedComments() {
+  try {
+    let data = await commentRequest();
+    indexSharedComments(data.comments);
+    if (await migrateLocalComments()) {
+      data = await commentRequest();
+      indexSharedComments(data.comments);
+    }
+  } catch (error) {
+    console.error('Shared comments unavailable:', error);
+  }
+  render(search.value);
 }
 
 function render(query = '') {
@@ -79,10 +153,10 @@ function render(query = '') {
     const isInteresting = Boolean(profileState.interesting[article.doi]);
     const isNotInteresting = Boolean(profileState.notInteresting?.[article.doi]);
     const comments = commentsFor(article.doi);
-    const commentsMarkup = comments.map(comment => `<div class="comment-item"><p class="comment-text"><b>${escapeHtml(comment.author)}</b> ${escapeHtml(comment.text)}</p>${comment.owner === activeProfile.id ? `<div class="comment-owner-actions"><button type="button" class="comment-edit" data-doi="${escapeHtml(article.doi)}" data-comment-id="${escapeHtml(comment.id)}">수정</button><button type="button" class="comment-delete" data-doi="${escapeHtml(article.doi)}" data-comment-id="${escapeHtml(comment.id)}">삭제</button></div>` : ''}</div>`).join('');
+    const commentsMarkup = comments.map(comment => `<div class="comment-item"><p class="comment-text"><b>${escapeHtml(comment.author)}</b> ${escapeHtml(comment.text)}</p>${comment.mine ? `<div class="comment-owner-actions"><button type="button" class="comment-edit" data-doi="${escapeHtml(article.doi)}" data-comment-id="${escapeHtml(comment.id)}">수정</button><button type="button" class="comment-delete" data-doi="${escapeHtml(article.doi)}" data-comment-id="${escapeHtml(comment.id)}">삭제</button></div>` : ''}</div>`).join('');
     return `<div class="article${isRead ? ' is-read' : ''}">
       <div class="article-main"><span class="number">${String(index + 1).padStart(2, '0')}</span><div class="article-copy"><a class="article-title" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer"><h3>${escapeHtml(article.title)}${isNew ? '<span class="new-badge">NEW</span>' : ''}</h3></a><div class="meta"><span class="article-journal">${escapeHtml(journalDisplayName(article.journal_short))}</span><span>${escapeHtml(article.published_date || 'Publication date pending')}</span><span class="doi">${escapeHtml(article.doi)}</span><div class="article-toolbar"><div class="article-actions"><label><input type="checkbox" class="read-toggle" data-doi="${escapeHtml(article.doi)}"${isRead ? ' checked' : ''}> 살펴봄</label><button type="button" class="interest-toggle${isInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isInteresting}">★ 관심 있음</button><button type="button" class="not-interest-toggle${isNotInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isNotInteresting}">관심 없음</button></div><button type="button" class="comment-toggle" data-doi="${escapeHtml(article.doi)}">댓글${comments.length ? ` ${comments.length}` : ''}</button></div></div></div><a class="article-open" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" aria-label="논문 열기">→</a></div>
-      <form class="comment-form is-collapsed" data-doi="${escapeHtml(article.doi)}"><span>${escapeHtml(activeProfile.author)}</span><input name="comment" maxlength="500" value="" placeholder="댓글을 남겨보세요"><button type="submit">저장</button></form>
+      <form class="comment-form is-collapsed" data-doi="${escapeHtml(article.doi)}"><span>${escapeHtml(activeProfile?.author || '익명')}</span><input name="comment" maxlength="500" value="" placeholder="댓글을 남겨보세요"><button type="submit">저장</button><small class="comment-feedback" aria-live="polite"></small></form>
       ${commentsMarkup}
     </div>`;
   }).join('');
@@ -115,19 +189,31 @@ function render(query = '') {
     const opposite = container.querySelector(`.interest-toggle[data-doi="${CSS.escape(doi)}"]`);
     if (opposite) { opposite.classList.toggle('is-active', false); opposite.setAttribute('aria-pressed', 'false'); }
   }));
-  container.querySelectorAll('.comment-form').forEach(form => form.addEventListener('submit', event => {
+  container.querySelectorAll('.comment-form').forEach(form => form.addEventListener('submit', async event => {
     event.preventDefault();
-    const doi = event.currentTarget.dataset.doi;
-    const value = String(new FormData(event.currentTarget).get('comment') || '').trim();
+    const currentForm = event.currentTarget;
+    const doi = currentForm.dataset.doi;
+    const doiKey = doi.toLowerCase();
+    const value = String(new FormData(currentForm).get('comment') || '').trim();
     if (!value) return;
     const comments = commentsFor(doi);
-    const editId = event.currentTarget.dataset.editId;
-    const editing = editId ? comments.find(comment => comment.id === editId && comment.owner === activeProfile.id) : null;
-    if (editing) editing.text = value;
-    else comments.push({ id: crypto.randomUUID(), author: activeProfile.author, owner: activeProfile.id, text: value, createdAt: new Date().toISOString() });
-    profileState.comments[doi] = comments;
-    saveProfileState();
-    render(search.value);
+    const editId = currentForm.dataset.editId;
+    const editing = editId ? comments.find(comment => comment.id === editId && comment.mine) : null;
+    const submitButton = currentForm.querySelector('button[type="submit"]');
+    const feedback = currentForm.querySelector('.comment-feedback');
+    submitButton.disabled = true;
+    feedback.textContent = '저장 중…';
+    try {
+      const data = editing
+        ? await commentRequest('PATCH', { id: editing.id, text: value })
+        : await commentRequest('POST', { id: crypto.randomUUID(), doi, author: activeProfile.author, text: value });
+      if (editing) sharedComments[doiKey] = comments.map(comment => comment.id === editing.id ? data.comment : comment);
+      else (sharedComments[doiKey] ||= []).push(data.comment);
+      render(search.value);
+    } catch (error) {
+      submitButton.disabled = false;
+      feedback.textContent = error.message;
+    }
   }));
   container.querySelectorAll('.comment-toggle').forEach(button => button.addEventListener('click', event => {
     event.preventDefault();
@@ -143,7 +229,7 @@ function render(query = '') {
   }));
   container.querySelectorAll('.comment-edit').forEach(button => button.addEventListener('click', event => {
     const doi = event.currentTarget.dataset.doi;
-    const comment = commentsFor(doi).find(item => item.id === event.currentTarget.dataset.commentId && item.owner === activeProfile.id);
+    const comment = commentsFor(doi).find(item => item.id === event.currentTarget.dataset.commentId && item.mine);
     const form = container.querySelector(`.comment-form[data-doi="${CSS.escape(doi)}"]`);
     if (!comment || !form) return;
     form.dataset.editId = comment.id;
@@ -151,12 +237,20 @@ function render(query = '') {
     form.classList.remove('is-collapsed');
     form.querySelector('input')?.focus();
   }));
-  container.querySelectorAll('.comment-delete').forEach(button => button.addEventListener('click', event => {
+  container.querySelectorAll('.comment-delete').forEach(button => button.addEventListener('click', async event => {
     const doi = event.currentTarget.dataset.doi;
-    profileState.comments[doi] = commentsFor(doi).filter(comment => !(comment.id === event.currentTarget.dataset.commentId && comment.owner === activeProfile.id));
-    if (!profileState.comments[doi].length) delete profileState.comments[doi];
-    saveProfileState();
-    render(search.value);
+    const doiKey = doi.toLowerCase();
+    const commentId = event.currentTarget.dataset.commentId;
+    event.currentTarget.disabled = true;
+    try {
+      await commentRequest('DELETE', { id: commentId });
+      sharedComments[doiKey] = commentsFor(doi).filter(comment => comment.id !== commentId);
+      if (!sharedComments[doiKey].length) delete sharedComments[doiKey];
+      render(search.value);
+    } catch (error) {
+      event.currentTarget.disabled = false;
+      window.alert(error.message);
+    }
   }));
 }
 
@@ -179,9 +273,11 @@ profileForm.addEventListener('submit', event => {
   profileState = JSON.parse(localStorage.getItem(profileStateKey(activeProfile.id)) || '{"read":{},"interesting":{},"notInteresting":{},"comments":{}}');
   profileState.notInteresting ||= {};
   profileState.comments ||= {};
+  ensureCommentIdentity();
   saveProfileState();
   profileGate.hidden = true;
   render(search.value);
+  syncSharedComments();
 });
 
 fetch('./data/articles.json', { cache: 'no-store' })
@@ -197,6 +293,7 @@ fetch('./data/articles.json', { cache: 'no-store' })
     document.querySelector('#status-label').textContent = '마지막 확인 완료';
     document.querySelector('#checked-at').textContent = data.checked_at ? new Date(data.checked_at).toLocaleString('ko-KR') : '확인 시각 없음';
     render();
+    syncSharedComments();
   })
   .catch(() => { document.querySelector('#status-label').textContent = '데이터 확인 대기 중'; document.querySelector('#checked-at').textContent = '잠시 후 다시 시도해 주세요'; render(); });
 

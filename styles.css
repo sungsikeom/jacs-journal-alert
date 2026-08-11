@@ -104,7 +104,9 @@ main { width: min(1240px, calc(100% - 40px)); margin: 0 auto; }
 .comment-form span { flex: 0 0 auto; color: var(--accent); font: 750 .7rem ui-monospace, monospace; }
 .comment-form input { min-width: 0; flex: 1; padding: 8px 10px; border: 1px solid var(--line-strong); border-radius: 7px; background: #fff; }
 .comment-form button { padding: 8px 11px; border: 0; border-radius: 7px; background: var(--green); color: #fff; font-size: .75rem; font-weight: 750; cursor: pointer; }
+.comment-form button:disabled { cursor: wait; opacity: .6; }
 .comment-form .comment-delete { background: var(--danger); }
+.comment-feedback { flex-basis: 100%; min-height: 1em; color: var(--danger); font-size: .7rem; }
 .comment-item { display: flex; align-items: flex-start; gap: 8px; margin-left: 58px; }
 .comment-text { min-width: 0; flex: 1; margin: 0; padding: 9px 11px; border-left: 3px solid #d5ad62; border-radius: 0 8px 8px 0; background: #fff8e9; color: #5d5545; font-size: .78rem; line-height: 1.45; }
 .comment-text b { margin-right: 5px; color: var(--accent); font-family: ui-monospace, monospace; }

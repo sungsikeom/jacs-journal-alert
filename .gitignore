@@ -4,3 +4,4 @@ __pycache__/
 node_modules/
 .chrome-profile-acs/
 diagnostics/
+shared-comments/
