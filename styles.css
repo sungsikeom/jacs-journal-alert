@@ -60,8 +60,9 @@ main { width: min(1120px, calc(100% - 40px)); margin: auto; }
 .article { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 14px; align-items: center; padding: 22px; background: var(--card); color: inherit; transition: background .18s; }
 .article:hover, .article:focus-within { background: #fbfaf6; }
 .article-link { display: grid; grid-template-columns: 62px 1fr auto; gap: 20px; align-items: center; text-decoration: none; color: inherit; min-width: 0; }
+.article-link { grid-column: 1 / -1; }
 .article.is-read { opacity: .62; }
-.article-actions { display: flex; align-items: center; gap: 10px; color: var(--muted); font-size: .75rem; white-space: nowrap; }
+.article-actions { grid-column: 2; justify-self: end; display: flex; align-items: center; gap: 10px; color: var(--muted); font-size: .75rem; white-space: nowrap; }
 .article-actions label { display: inline-flex; align-items: center; gap: 5px; cursor: pointer; }
 .interest-toggle { border: 1px solid var(--line); border-radius: 8px; padding: 7px 9px; background: #fff; color: var(--muted); cursor: pointer; }
 .interest-toggle.is-active { border-color: #d89a35; background: #fff3d8; color: #9b6a22; }
@@ -118,7 +119,7 @@ footer { padding: 34px 20px; text-align: center; color: var(--muted); font-size:
   .search { width: 100%; }
   .article { grid-template-columns: 1fr; padding: 18px 14px; }
   .article-link { grid-template-columns: 34px 1fr; gap: 12px; }
-  .article-actions { margin-left: 46px; }
+  .article-actions { grid-column: 1; margin-left: 0; }
   .comment-form, .comment-text { margin-left: 46px; }
   .comment-toggle { grid-column: 1; justify-self: end; }
   .arrow { display: none; }
