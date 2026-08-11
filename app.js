@@ -47,6 +47,15 @@ function saveProfileState() {
   localStorage.setItem(PROFILE_INDEX_KEY, JSON.stringify(index));
 }
 
+function commentsFor(doi) {
+  const saved = profileState.comments?.[doi];
+  if (Array.isArray(saved)) return saved;
+  if (typeof saved === 'string' && saved.trim()) {
+    return [{ id: 'legacy', author: activeProfile.author, owner: activeProfile.id, text: saved.trim(), createdAt: '' }];
+  }
+  return [];
+}
+
 function render(query = '') {
   const needle = query.trim().toLowerCase();
   const matchingRows = [...payload.articles]
@@ -58,7 +67,7 @@ function render(query = '') {
       || (activeFilter === 'read' && profileState.read[article.doi])
       || (activeFilter === 'interesting' && profileState.interesting[article.doi])
       || (activeFilter === 'notInteresting' && profileState.notInteresting?.[article.doi]))
-    .filter(article => `${article.title} ${article.doi} ${profileState.comments?.[article.doi] || ''}`.toLowerCase().includes(needle))
+    .filter(article => `${article.title} ${article.doi} ${commentsFor(article.doi).map(comment => comment.text).join(' ')}`.toLowerCase().includes(needle))
     .sort((a, b) => String(b.published_date || '').localeCompare(String(a.published_date || '')) || String(b.doi || '').localeCompare(String(a.doi || '')));
   const rows = matchingRows.slice(0, visibleCount);
   const journalLabel = activeJournal === 'all' ? '모든 저널' : journalDisplayName(activeJournal);
@@ -69,11 +78,12 @@ function render(query = '') {
     const isRead = Boolean(profileState.read[article.doi]);
     const isInteresting = Boolean(profileState.interesting[article.doi]);
     const isNotInteresting = Boolean(profileState.notInteresting?.[article.doi]);
-    const comment = profileState.comments?.[article.doi] || '';
+    const comments = commentsFor(article.doi);
+    const commentsMarkup = comments.map(comment => `<div class="comment-item"><p class="comment-text"><b>${escapeHtml(comment.author)}</b> ${escapeHtml(comment.text)}</p>${comment.owner === activeProfile.id ? `<div class="comment-owner-actions"><button type="button" class="comment-edit" data-doi="${escapeHtml(article.doi)}" data-comment-id="${escapeHtml(comment.id)}">수정</button><button type="button" class="comment-delete" data-doi="${escapeHtml(article.doi)}" data-comment-id="${escapeHtml(comment.id)}">삭제</button></div>` : ''}</div>`).join('');
     return `<div class="article${isRead ? ' is-read' : ''}">
-      <div class="article-main"><span class="number">${String(index + 1).padStart(2, '0')}</span><div class="article-copy"><a class="article-title" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer"><h3>${escapeHtml(article.title)}${isNew ? '<span class="new-badge">NEW</span>' : ''}</h3></a><div class="meta"><span class="article-journal">${escapeHtml(journalDisplayName(article.journal_short))}</span><span>${escapeHtml(article.published_date || 'Publication date pending')}</span><span class="doi">${escapeHtml(article.doi)}</span><div class="article-toolbar"><div class="article-actions"><label><input type="checkbox" class="read-toggle" data-doi="${escapeHtml(article.doi)}"${isRead ? ' checked' : ''}> 읽음</label><button type="button" class="interest-toggle${isInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isInteresting}">★ 관심 있음</button><button type="button" class="not-interest-toggle${isNotInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isNotInteresting}">관심 없음</button></div><button type="button" class="comment-toggle" data-doi="${escapeHtml(article.doi)}">${comment ? '댓글 수정' : '댓글'}</button></div></div></div><a class="article-open" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" aria-label="논문 열기">→</a></div>
-      <form class="comment-form is-collapsed" data-doi="${escapeHtml(article.doi)}"><span>${escapeHtml(activeProfile.author)}</span><input name="comment" maxlength="500" value="${escapeHtml(comment)}" placeholder="댓글을 남겨보세요"><button type="submit">저장</button>${comment ? '<button type="button" class="comment-delete">삭제</button>' : ''}</form>
-      ${comment ? `<p class="comment-text"><b>${escapeHtml(activeProfile.author)}</b> ${escapeHtml(comment)}</p>` : ''}
+      <div class="article-main"><span class="number">${String(index + 1).padStart(2, '0')}</span><div class="article-copy"><a class="article-title" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer"><h3>${escapeHtml(article.title)}${isNew ? '<span class="new-badge">NEW</span>' : ''}</h3></a><div class="meta"><span class="article-journal">${escapeHtml(journalDisplayName(article.journal_short))}</span><span>${escapeHtml(article.published_date || 'Publication date pending')}</span><span class="doi">${escapeHtml(article.doi)}</span><div class="article-toolbar"><div class="article-actions"><label><input type="checkbox" class="read-toggle" data-doi="${escapeHtml(article.doi)}"${isRead ? ' checked' : ''}> 읽음</label><button type="button" class="interest-toggle${isInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isInteresting}">★ 관심 있음</button><button type="button" class="not-interest-toggle${isNotInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isNotInteresting}">관심 없음</button></div><button type="button" class="comment-toggle" data-doi="${escapeHtml(article.doi)}">댓글${comments.length ? ` ${comments.length}` : ''}</button></div></div></div><a class="article-open" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" aria-label="논문 열기">→</a></div>
+      <form class="comment-form is-collapsed" data-doi="${escapeHtml(article.doi)}"><span>${escapeHtml(activeProfile.author)}</span><input name="comment" maxlength="500" value="" placeholder="댓글을 남겨보세요"><button type="submit">저장</button></form>
+      ${commentsMarkup}
     </div>`;
   }).join('');
   container.hidden = rows.length === 0;
@@ -109,7 +119,13 @@ function render(query = '') {
     event.preventDefault();
     const doi = event.currentTarget.dataset.doi;
     const value = String(new FormData(event.currentTarget).get('comment') || '').trim();
-    if (value) profileState.comments[doi] = value; else delete profileState.comments[doi];
+    if (!value) return;
+    const comments = commentsFor(doi);
+    const editId = event.currentTarget.dataset.editId;
+    const editing = editId ? comments.find(comment => comment.id === editId && comment.owner === activeProfile.id) : null;
+    if (editing) editing.text = value;
+    else comments.push({ id: crypto.randomUUID(), author: activeProfile.author, owner: activeProfile.id, text: value, createdAt: new Date().toISOString() });
+    profileState.comments[doi] = comments;
     saveProfileState();
     render(search.value);
   }));
@@ -119,11 +135,26 @@ function render(query = '') {
     const form = container.querySelector(`.comment-form[data-doi="${CSS.escape(event.currentTarget.dataset.doi)}"]`);
     if (!form) return;
     form.classList.toggle('is-collapsed');
-    if (!form.classList.contains('is-collapsed')) form.querySelector('input')?.focus();
+    if (!form.classList.contains('is-collapsed')) {
+      delete form.dataset.editId;
+      form.querySelector('input').value = '';
+      form.querySelector('input')?.focus();
+    }
+  }));
+  container.querySelectorAll('.comment-edit').forEach(button => button.addEventListener('click', event => {
+    const doi = event.currentTarget.dataset.doi;
+    const comment = commentsFor(doi).find(item => item.id === event.currentTarget.dataset.commentId && item.owner === activeProfile.id);
+    const form = container.querySelector(`.comment-form[data-doi="${CSS.escape(doi)}"]`);
+    if (!comment || !form) return;
+    form.dataset.editId = comment.id;
+    form.querySelector('input').value = comment.text;
+    form.classList.remove('is-collapsed');
+    form.querySelector('input')?.focus();
   }));
   container.querySelectorAll('.comment-delete').forEach(button => button.addEventListener('click', event => {
-    const doi = event.currentTarget.closest('.comment-form').dataset.doi;
-    delete profileState.comments[doi];
+    const doi = event.currentTarget.dataset.doi;
+    profileState.comments[doi] = commentsFor(doi).filter(comment => !(comment.id === event.currentTarget.dataset.commentId && comment.owner === activeProfile.id));
+    if (!profileState.comments[doi].length) delete profileState.comments[doi];
     saveProfileState();
     render(search.value);
   }));
