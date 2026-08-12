@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-08-12T12:23:49+09:00",
+  "checked_at": "2026-08-12T12:28:06+09:00",
   "journal_count": 7,
   "new_count": 105,
   "total_count": 19908,
-  "baseline_initialized": true,
+  "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01"
