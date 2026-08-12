@@ -1,0 +1,740 @@
+{
+  "source": "Nature Chemistry Research Articles",
+  "collected_at": "2026-08-12T06:19:18.217Z",
+  "scope_start": "2026-01-01",
+  "article_count": 122,
+  "articles": [
+    {
+      "doi": "10.1038/s41557-026-02221-7",
+      "title": "Solvent-bridged electrolytes for high-energy Li-ion batteries under extreme conditions",
+      "published_date": "2026-07-27",
+      "url": "https://doi.org/10.1038/s41557-026-02221-7"
+    },
+    {
+      "doi": "10.1038/s41557-026-02209-3",
+      "title": "Deciphering the infrared spectrum of the hydrated proton using full-dimensional quantum dynamics",
+      "published_date": "2026-07-27",
+      "url": "https://doi.org/10.1038/s41557-026-02209-3"
+    },
+    {
+      "doi": "10.1038/s41557-026-02214-6",
+      "title": "A versatile strategy for oligonucleotide functionalization via on-support phosphitylation",
+      "published_date": "2026-07-22",
+      "url": "https://doi.org/10.1038/s41557-026-02214-6"
+    },
+    {
+      "doi": "10.1038/s41557-026-02212-8",
+      "title": "Highly chemoselective access to alkyl-sulfur compounds via N2 extrusion of alkyl hydrazines",
+      "published_date": "2026-07-22",
+      "url": "https://doi.org/10.1038/s41557-026-02212-8"
+    },
+    {
+      "doi": "10.1038/s41557-026-02152-3",
+      "title": "A photogenerated triplet aura-nitrene for gold-mediated nitrene transfer",
+      "published_date": "2026-07-21",
+      "url": "https://doi.org/10.1038/s41557-026-02152-3"
+    },
+    {
+      "doi": "10.1038/s41557-026-02208-4",
+      "title": "A molecular model for the Ge(100) buckled dimer",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1038/s41557-026-02208-4"
+    },
+    {
+      "doi": "10.1038/s41557-026-02204-8",
+      "title": "Programmable arene ring opening unlocks the diversification of phenols",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1038/s41557-026-02204-8"
+    },
+    {
+      "doi": "10.1038/s41557-026-02213-7",
+      "title": "Oxetane-to-azetidine skeletal editing",
+      "published_date": "2026-07-13",
+      "url": "https://doi.org/10.1038/s41557-026-02213-7"
+    },
+    {
+      "doi": "10.1038/s41557-026-02206-6",
+      "title": "Electrophilic amination-induced 1,2-boronate migration for the modular synthesis of β-amino boronic esters",
+      "published_date": "2026-07-13",
+      "url": "https://doi.org/10.1038/s41557-026-02206-6"
+    },
+    {
+      "doi": "10.1038/s41557-026-02195-6",
+      "title": "Genetically targeted photocatalytic organic dyes for spatiotemporally controlled organic synthesis in specific living cells",
+      "published_date": "2026-07-08",
+      "url": "https://doi.org/10.1038/s41557-026-02195-6"
+    },
+    {
+      "doi": "10.1038/s41557-026-02199-2",
+      "title": "A rechargeable non-aqueous Mg–O2 battery based on magnesium peroxide chemistry",
+      "published_date": "2026-07-03",
+      "url": "https://doi.org/10.1038/s41557-026-02199-2"
+    },
+    {
+      "doi": "10.1038/s41557-026-02197-4",
+      "title": "Trefoil polymers from a knotted synthon",
+      "published_date": "2026-06-29",
+      "url": "https://doi.org/10.1038/s41557-026-02197-4"
+    },
+    {
+      "doi": "10.1038/s41557-026-02193-8",
+      "title": "Covalency control of photomagnetic relaxation in a manganese(II) photoswitch",
+      "published_date": "2026-06-29",
+      "url": "https://doi.org/10.1038/s41557-026-02193-8"
+    },
+    {
+      "doi": "10.1038/s41557-026-02188-5",
+      "title": "Inverted metal-free active template synthesis of rotaxanes via axle‑mediated macrocyclization",
+      "published_date": "2026-06-29",
+      "url": "https://doi.org/10.1038/s41557-026-02188-5"
+    },
+    {
+      "doi": "10.1038/s41557-026-02196-5",
+      "title": "Concise synthesis and strain-release diversification of bridgehead-substituted [2]-ladderanes",
+      "published_date": "2026-06-26",
+      "url": "https://doi.org/10.1038/s41557-026-02196-5"
+    },
+    {
+      "doi": "10.1038/s41557-026-02186-7",
+      "title": "Singlet fission mediates carotenoid-to-bacteriochlorophyll energy transfer in purple photosynthetic bacteria",
+      "published_date": "2026-06-23",
+      "url": "https://doi.org/10.1038/s41557-026-02186-7"
+    },
+    {
+      "doi": "10.1038/s41557-026-02180-z",
+      "title": "Programming stacking order in conducting van der Waals metal–organic frameworks through ligand aggregation",
+      "published_date": "2026-06-18",
+      "url": "https://doi.org/10.1038/s41557-026-02180-z"
+    },
+    {
+      "doi": "10.1038/s41557-026-02184-9",
+      "title": "Discovery and characterization of a nickel enzyme family that catalyses intermolecular hydride shuttling",
+      "published_date": "2026-06-17",
+      "url": "https://doi.org/10.1038/s41557-026-02184-9"
+    },
+    {
+      "doi": "10.1038/s41557-026-02182-x",
+      "title": "Potent and biased agonists of class B1 GPCRs from a heterochiral design strategy",
+      "published_date": "2026-06-16",
+      "url": "https://doi.org/10.1038/s41557-026-02182-x"
+    },
+    {
+      "doi": "10.1038/s41557-026-02174-x",
+      "title": "Isotropic zero thermal expansion in sodalite crystals from 11 to 893 K",
+      "published_date": "2026-06-16",
+      "url": "https://doi.org/10.1038/s41557-026-02174-x"
+    },
+    {
+      "doi": "10.1038/s41557-026-02178-7",
+      "title": "An alkyl-swap platform for late-stage modification of secondary N-methylamines",
+      "published_date": "2026-06-15",
+      "url": "https://doi.org/10.1038/s41557-026-02178-7"
+    },
+    {
+      "doi": "10.1038/s41557-026-02175-w",
+      "title": "Charge transport through linear carbon atomic chains",
+      "published_date": "2026-06-12",
+      "url": "https://doi.org/10.1038/s41557-026-02175-w"
+    },
+    {
+      "doi": "10.1038/s41557-026-02148-z",
+      "title": "Copper-catalysed site-selective arylation of pyrazoles",
+      "published_date": "2026-06-12",
+      "url": "https://doi.org/10.1038/s41557-026-02148-z"
+    },
+    {
+      "doi": "10.1038/s41557-026-02177-8",
+      "title": "Ligand-modulated metal–radical polarity match enables general 1,2-dicarbofunctionalization of ethylene",
+      "published_date": "2026-06-10",
+      "url": "https://doi.org/10.1038/s41557-026-02177-8"
+    },
+    {
+      "doi": "10.1038/s41557-026-02155-0",
+      "title": "Aromatic ring flips reveal reshaping of protein dynamics in crystals and complexes",
+      "published_date": "2026-06-10",
+      "url": "https://doi.org/10.1038/s41557-026-02155-0"
+    },
+    {
+      "doi": "10.1038/s41557-026-02172-z",
+      "title": "Cyclophane-based shielding strategy for singly dispersed graphene nanoribbons",
+      "published_date": "2026-06-05",
+      "url": "https://doi.org/10.1038/s41557-026-02172-z"
+    },
+    {
+      "doi": "10.1038/s41557-026-02167-w",
+      "title": "Catalytic endo-stereoselective [2+2] cycloaddition of norbornadienes with internal alkynes",
+      "published_date": "2026-06-05",
+      "url": "https://doi.org/10.1038/s41557-026-02167-w"
+    },
+    {
+      "doi": "10.1038/s41557-026-02164-z",
+      "title": "Divergent and precise alkaloid remodelling with a small suite of reactions",
+      "published_date": "2026-06-05",
+      "url": "https://doi.org/10.1038/s41557-026-02164-z"
+    },
+    {
+      "doi": "10.1038/s41557-026-02163-0",
+      "title": "Distinct energetic blueprints diversify function of conserved protein folds",
+      "published_date": "2026-06-05",
+      "url": "https://doi.org/10.1038/s41557-026-02163-0"
+    },
+    {
+      "doi": "10.1038/s41557-026-02142-5",
+      "title": "A photochemical rotor bias in dual molecular motors",
+      "published_date": "2026-06-03",
+      "url": "https://doi.org/10.1038/s41557-026-02142-5"
+    },
+    {
+      "doi": "10.1038/s41557-026-02141-6",
+      "title": "A supercharged molecular motor operating by constitutional alteration and proton transfer",
+      "published_date": "2026-06-03",
+      "url": "https://doi.org/10.1038/s41557-026-02141-6"
+    },
+    {
+      "doi": "10.1038/s41557-026-02169-8",
+      "title": "Cation-directed assembly and sequential functionalization enable superprotonic polyanion–organic frameworks for high-power fuel cells",
+      "published_date": "2026-06-01",
+      "url": "https://doi.org/10.1038/s41557-026-02169-8"
+    },
+    {
+      "doi": "10.1038/s41557-026-02158-x",
+      "title": "Free-standing ultrathin two-dimensional peptide crystals",
+      "published_date": "2026-06-01",
+      "url": "https://doi.org/10.1038/s41557-026-02158-x"
+    },
+    {
+      "doi": "10.1038/s41557-026-02156-z",
+      "title": "Modular diastereoselective synthesis of hindered cyclobutane amino nitriles through triplet nitrene-mediated ring expansion",
+      "published_date": "2026-06-01",
+      "url": "https://doi.org/10.1038/s41557-026-02156-z"
+    },
+    {
+      "doi": "10.1038/s41557-026-02166-x",
+      "title": "Redox-neutral ketone–olefin coupling enabled by mild ketone-to-ketyl-type radical conversion",
+      "published_date": "2026-05-29",
+      "url": "https://doi.org/10.1038/s41557-026-02166-x"
+    },
+    {
+      "doi": "10.1038/s41557-026-02168-9",
+      "title": "Molecular rotation and large polarization in charge-transfer ferroelectric cocrystals",
+      "published_date": "2026-05-28",
+      "url": "https://doi.org/10.1038/s41557-026-02168-9"
+    },
+    {
+      "doi": "10.1038/s41557-026-02153-2",
+      "title": "A photoexcited triplet state germylene with a half-life of hours at room temperature",
+      "published_date": "2026-05-28",
+      "url": "https://doi.org/10.1038/s41557-026-02153-2"
+    },
+    {
+      "doi": "10.1038/s41557-026-02161-2",
+      "title": "Blocking oxidation of α-hydrogens enables non-fluorinated solvents to achieve high-potential stability in lithium batteries",
+      "published_date": "2026-05-26",
+      "url": "https://doi.org/10.1038/s41557-026-02161-2"
+    },
+    {
+      "doi": "10.1038/s41557-026-02150-5",
+      "title": "Metal electrode potential diverges with ion additions",
+      "published_date": "2026-05-26",
+      "url": "https://doi.org/10.1038/s41557-026-02150-5"
+    },
+    {
+      "doi": "10.1038/s41557-026-02159-w",
+      "title": "Lanthanide-doped nanocrystals enable organic room-temperature phosphorescence in solution through direct triplet excitation",
+      "published_date": "2026-05-25",
+      "url": "https://doi.org/10.1038/s41557-026-02159-w"
+    },
+    {
+      "doi": "10.1038/s41557-026-02151-4",
+      "title": "Supramolecular dye polymers for aggregation-induced photocatalysis",
+      "published_date": "2026-05-18",
+      "url": "https://doi.org/10.1038/s41557-026-02151-4"
+    },
+    {
+      "doi": "10.1038/s41557-026-02124-7",
+      "title": "A synthetic cell microreactor with two types of interacting dynamic DNA-based pores",
+      "published_date": "2026-05-15",
+      "url": "https://doi.org/10.1038/s41557-026-02124-7"
+    },
+    {
+      "doi": "10.1038/s41557-026-02147-0",
+      "title": "A neutral σ0π2 carbene enabling hydrogen activation via a σ-face pathway",
+      "published_date": "2026-05-11",
+      "url": "https://doi.org/10.1038/s41557-026-02147-0"
+    },
+    {
+      "doi": "10.1038/s41557-026-02146-1",
+      "title": "[2+2] Photocycloaddition reactions of sulfinylamines with alkenes to access β-sultam derivatives",
+      "published_date": "2026-05-07",
+      "url": "https://doi.org/10.1038/s41557-026-02146-1"
+    },
+    {
+      "doi": "10.1038/s41557-026-02138-1",
+      "title": "Timed batch inputs unlock substantially higher yields for enzymatic cascades",
+      "published_date": "2026-05-06",
+      "url": "https://doi.org/10.1038/s41557-026-02138-1"
+    },
+    {
+      "doi": "10.1038/s41557-026-02129-2",
+      "title": "Synthesis of aryl-fused bicyclo[3.1.1]heptanes and validation as naphthyl bioisosteres",
+      "published_date": "2026-05-06",
+      "url": "https://doi.org/10.1038/s41557-026-02129-2"
+    },
+    {
+      "doi": "10.1038/s41557-026-02099-5",
+      "title": "Unlocking chemical diversity in aptamers with DNA orthogonal barcodes",
+      "published_date": "2026-05-06",
+      "url": "https://doi.org/10.1038/s41557-026-02099-5"
+    },
+    {
+      "doi": "10.1038/s41557-026-02125-6",
+      "title": "Emergence of specific binding and catalysis from a designed generalist binding protein",
+      "published_date": "2026-05-04",
+      "url": "https://doi.org/10.1038/s41557-026-02125-6"
+    },
+    {
+      "doi": "10.1038/s41557-026-02115-8",
+      "title": "Alkali-ion-modified zeolitic imidazolate framework glasses",
+      "published_date": "2026-05-04",
+      "url": "https://doi.org/10.1038/s41557-026-02115-8"
+    },
+    {
+      "doi": "10.1038/s41557-026-02098-6",
+      "title": "Understanding low-pressure CO2 insertion chemistry in epoxide–CO2 copolymerization catalysis",
+      "published_date": "2026-04-30",
+      "url": "https://doi.org/10.1038/s41557-026-02098-6"
+    },
+    {
+      "doi": "10.1038/s41557-026-02127-4",
+      "title": "Small-molecule binding-site discovery using silyl ether-enabled chemoproteomics",
+      "published_date": "2026-04-27",
+      "url": "https://doi.org/10.1038/s41557-026-02127-4"
+    },
+    {
+      "doi": "10.1038/s41557-026-02135-4",
+      "title": "Single-crystal to single-crystal editing of metal–organic frameworks via ligand removal",
+      "published_date": "2026-04-24",
+      "url": "https://doi.org/10.1038/s41557-026-02135-4"
+    },
+    {
+      "doi": "10.1038/s41557-026-02120-x",
+      "title": "Reactions of diazoboranes with oxygen enables the synthesis and isolation of dioxaboriranes",
+      "published_date": "2026-04-24",
+      "url": "https://doi.org/10.1038/s41557-026-02120-x"
+    },
+    {
+      "doi": "10.1038/s41557-026-02100-1",
+      "title": "A Cu(I)-catalysed click reaction generates ROS-triggered cleavable linkages in aqueous media",
+      "published_date": "2026-04-24",
+      "url": "https://doi.org/10.1038/s41557-026-02100-1"
+    },
+    {
+      "doi": "10.1038/s41557-026-02133-6",
+      "title": "Two-dimensional metal–organic frameworks offer all-in-one cocatalysts for photocatalytic overall water splitting",
+      "published_date": "2026-04-23",
+      "url": "https://doi.org/10.1038/s41557-026-02133-6"
+    },
+    {
+      "doi": "10.1038/s41557-026-02131-8",
+      "title": "Persistent compensated ferrimagnetism in the molecular framework Cr(pyrazine)3",
+      "published_date": "2026-04-23",
+      "url": "https://doi.org/10.1038/s41557-026-02131-8"
+    },
+    {
+      "doi": "10.1038/s41557-026-02128-3",
+      "title": "Breaking the methanol/dimethyl carbonate azeotrope using a metal–organic framework with tetrahedral potassium-ion cluster gates",
+      "published_date": "2026-04-23",
+      "url": "https://doi.org/10.1038/s41557-026-02128-3"
+    },
+    {
+      "doi": "10.1038/s41557-026-02121-w",
+      "title": "De novo chemo-optogenetics through the rational design of photoresponsive molecules and selection of their artificial protein binding pairs",
+      "published_date": "2026-04-23",
+      "url": "https://doi.org/10.1038/s41557-026-02121-w"
+    },
+    {
+      "doi": "10.1038/s41557-026-02137-2",
+      "title": "Diverse radical C–F functionalizations of hexa- to difluoroarenes using boryl radicals as link-and-lose mediators",
+      "published_date": "2026-04-22",
+      "url": "https://doi.org/10.1038/s41557-026-02137-2"
+    },
+    {
+      "doi": "10.1038/s41557-026-02123-8",
+      "title": "All-metal aromaticity of cyclo-Bi33− in diuranium and dithorium inverse-sandwich-type complexes",
+      "published_date": "2026-04-20",
+      "url": "https://doi.org/10.1038/s41557-026-02123-8"
+    },
+    {
+      "doi": "10.1038/s41557-026-02132-7",
+      "title": "Enantioconvergent vinylcyclopropane–cyclopentene rearrangement with vessel-controlled chemodivergence",
+      "published_date": "2026-04-17",
+      "url": "https://doi.org/10.1038/s41557-026-02132-7"
+    },
+    {
+      "doi": "10.1038/s41557-026-02122-9",
+      "title": "A system of paired polyether epoxide hydrolases enables a mouldable enzyme for consecutive ring cyclization cascades",
+      "published_date": "2026-04-16",
+      "url": "https://doi.org/10.1038/s41557-026-02122-9"
+    },
+    {
+      "doi": "10.1038/s41557-026-02112-x",
+      "title": "KDM3A catalyses the oxidation of acetyl-lysine to hydroxyacetyl-lysine on histone H3K9",
+      "published_date": "2026-04-15",
+      "url": "https://doi.org/10.1038/s41557-026-02112-x"
+    },
+    {
+      "doi": "10.1038/s41557-026-02126-5",
+      "title": "tRNA-deacylase-directed discovery of biosynthetic pathways",
+      "published_date": "2026-04-13",
+      "url": "https://doi.org/10.1038/s41557-026-02126-5"
+    },
+    {
+      "doi": "10.1038/s41557-026-02116-7",
+      "title": "Hydrophobic tuning with non-canonical amino acids in a copper metalloenzyme",
+      "published_date": "2026-04-13",
+      "url": "https://doi.org/10.1038/s41557-026-02116-7"
+    },
+    {
+      "doi": "10.1038/s41557-026-02114-9",
+      "title": "Contrasting single-molecule magnet behaviour in dysprosium and terbium bis(stannolediide) complexes",
+      "published_date": "2026-04-13",
+      "url": "https://doi.org/10.1038/s41557-026-02114-9"
+    },
+    {
+      "doi": "10.1038/s41557-026-02107-8",
+      "title": "Time-dependent surface polarization breaks static scaling relationship for selective acetylene hydrogenation",
+      "published_date": "2026-04-13",
+      "url": "https://doi.org/10.1038/s41557-026-02107-8"
+    },
+    {
+      "doi": "10.1038/s41557-026-02110-z",
+      "title": "Programmable divergent electrochemical ring-opening multifunctionalization of strained rings",
+      "published_date": "2026-04-02",
+      "url": "https://doi.org/10.1038/s41557-026-02110-z"
+    },
+    {
+      "doi": "10.1038/s41557-026-02109-6",
+      "title": "A photochargeable semiconductor for highly efficient dehydrogenative coupling of amines",
+      "published_date": "2026-03-30",
+      "url": "https://doi.org/10.1038/s41557-026-02109-6"
+    },
+    {
+      "doi": "10.1038/s41557-026-02106-9",
+      "title": "Exploring bacterial cytochrome P450s for selective activation of aliphatic C–H bonds in pentacyclic triterpenoids",
+      "published_date": "2026-03-30",
+      "url": "https://doi.org/10.1038/s41557-026-02106-9"
+    },
+    {
+      "doi": "10.1038/s41557-026-02101-0",
+      "title": "Supramolecular assembly of molecular wires alternating crown ethers and metal–halide complexes",
+      "published_date": "2026-03-30",
+      "url": "https://doi.org/10.1038/s41557-026-02101-0"
+    },
+    {
+      "doi": "10.1038/s41557-026-02087-9",
+      "title": "Superspreading and ultra-infiltrative coacervate mediates strong underwater adhesion on hydrated and lipidic substrates",
+      "published_date": "2026-03-30",
+      "url": "https://doi.org/10.1038/s41557-026-02087-9"
+    },
+    {
+      "doi": "10.1038/s41557-026-02089-7",
+      "title": "Photoinduced electron-transfer distance is controlled by the driving force in solid-state organic donor–acceptor systems",
+      "published_date": "2026-03-25",
+      "url": "https://doi.org/10.1038/s41557-026-02089-7"
+    },
+    {
+      "doi": "10.1038/s41557-026-02104-x",
+      "title": "Isolated and H2-reduced Anderson clusters catalyse low-temperature hydrogenation of CO2 to methanol",
+      "published_date": "2026-03-23",
+      "url": "https://doi.org/10.1038/s41557-026-02104-x"
+    },
+    {
+      "doi": "10.1038/s41557-026-02082-0",
+      "title": "Generating extended foldamer dye stacks and unravelling their evolving exciton dynamics",
+      "published_date": "2026-03-23",
+      "url": "https://doi.org/10.1038/s41557-026-02082-0"
+    },
+    {
+      "doi": "10.1038/s41557-026-02090-0",
+      "title": "Amino acid composition drives aggregation during peptide synthesis",
+      "published_date": "2026-03-20",
+      "url": "https://doi.org/10.1038/s41557-026-02090-0"
+    },
+    {
+      "doi": "10.1038/s41557-026-02111-y",
+      "title": "Degradation of G-quadruplex-binding proteins in chromatin using G4-ligand-based proteolysis-targeting chimeras",
+      "published_date": "2026-03-19",
+      "url": "https://doi.org/10.1038/s41557-026-02111-y"
+    },
+    {
+      "doi": "10.1038/s41557-026-02093-x",
+      "title": "Discovery of chirally dependent protein modifications by D- and L-2-hydroxyglutarates",
+      "published_date": "2026-03-17",
+      "url": "https://doi.org/10.1038/s41557-026-02093-x"
+    },
+    {
+      "doi": "10.1038/s41557-026-02092-y",
+      "title": "On-surface radical ring-opening polymerization produces ultralong poly(para-phenylene) for access to non-benzenoid carbon nanoribbons",
+      "published_date": "2026-03-16",
+      "url": "https://doi.org/10.1038/s41557-026-02092-y"
+    },
+    {
+      "doi": "10.1038/s41557-026-02096-8",
+      "title": "Chemical recycling of hydrofluorocarbons by transfer fluorination",
+      "published_date": "2026-03-13",
+      "url": "https://doi.org/10.1038/s41557-026-02096-8"
+    },
+    {
+      "doi": "10.1038/s41557-026-02091-z",
+      "title": "Spontaneous trisulfide metathesis in polar aprotic solvents",
+      "published_date": "2026-03-13",
+      "url": "https://doi.org/10.1038/s41557-026-02091-z"
+    },
+    {
+      "doi": "10.1038/s41557-026-02086-w",
+      "title": "Biocatalytic site- and stereoselective carbonyl desaturation for late-stage functionalization of cyclic ketones",
+      "published_date": "2026-03-13",
+      "url": "https://doi.org/10.1038/s41557-026-02086-w"
+    },
+    {
+      "doi": "10.1038/s41557-026-02084-y",
+      "title": "Recoding multiple rare codons enables the simultaneous incorporation of up to five distinct noncanonical amino acids",
+      "published_date": "2026-03-13",
+      "url": "https://doi.org/10.1038/s41557-026-02084-y"
+    },
+    {
+      "doi": "10.1038/s41557-026-02095-9",
+      "title": "Organocatalytic enantioselective synthesis of S(IV)-stereogenic sulfinamides enabled by an air-stable chiral phosphine",
+      "published_date": "2026-03-10",
+      "url": "https://doi.org/10.1038/s41557-026-02095-9"
+    },
+    {
+      "doi": "10.1038/s41557-026-02097-7",
+      "title": "Collective synthesis of 1,2,4-trisubstituted, meta- and ortho-substituted arene bioisosteres from bicyclobutanes",
+      "published_date": "2026-03-03",
+      "url": "https://doi.org/10.1038/s41557-026-02097-7"
+    },
+    {
+      "doi": "10.1038/s41557-026-02078-w",
+      "title": "Quantum interference between direct and indirect reaction paths in the photodissociation of HOD",
+      "published_date": "2026-03-03",
+      "url": "https://doi.org/10.1038/s41557-026-02078-w"
+    },
+    {
+      "doi": "10.1038/s41557-026-02064-2",
+      "title": "Mineral-to-molecule arsenic transfer via photoredox catalysis",
+      "published_date": "2026-03-03",
+      "url": "https://doi.org/10.1038/s41557-026-02064-2"
+    },
+    {
+      "doi": "10.1038/s41557-026-02072-2",
+      "title": "Hetero[3.1.1]propellanes",
+      "published_date": "2026-02-25",
+      "url": "https://doi.org/10.1038/s41557-026-02072-2"
+    },
+    {
+      "doi": "10.1038/s41557-026-02076-y",
+      "title": "Controlling chromophore assembly and coupling via carbon nanohoops enables singlet fission at interchromophore distances up to 16 Å",
+      "published_date": "2026-02-23",
+      "url": "https://doi.org/10.1038/s41557-026-02076-y"
+    },
+    {
+      "doi": "10.1038/s41557-026-02070-4",
+      "title": "Homochiral toroidal spin state in Dy(III)-based single-molecule toroics",
+      "published_date": "2026-02-23",
+      "url": "https://doi.org/10.1038/s41557-026-02070-4"
+    },
+    {
+      "doi": "10.1038/s41557-025-02052-y",
+      "title": "Native H2 pathways enable biocompatible hydrogenation of metabolic alkenes in bacteria",
+      "published_date": "2026-02-23",
+      "url": "https://doi.org/10.1038/s41557-025-02052-y"
+    },
+    {
+      "doi": "10.1038/s41557-026-02077-x",
+      "title": "Formal Diels–Alder reaction of saturated carboxylic acids via C–H activation",
+      "published_date": "2026-02-20",
+      "url": "https://doi.org/10.1038/s41557-026-02077-x"
+    },
+    {
+      "doi": "10.1038/s41557-026-02071-3",
+      "title": "Catalytic asymmetric sulfonimidoyl transfer to access chiral sulfonimidoyl fluorides and related derivatives",
+      "published_date": "2026-02-20",
+      "url": "https://doi.org/10.1038/s41557-026-02071-3"
+    },
+    {
+      "doi": "10.1038/s41557-026-02068-y",
+      "title": "Asymmetric synthesis of enantioenriched lactams from cyclic ketones via Beckmann rearrangement",
+      "published_date": "2026-02-13",
+      "url": "https://doi.org/10.1038/s41557-026-02068-y"
+    },
+    {
+      "doi": "10.1038/s41557-026-02073-1",
+      "title": "Contra-electronegativity transmetallation unlocks alkene carbomagnesiation to access quaternary stereocentres",
+      "published_date": "2026-02-11",
+      "url": "https://doi.org/10.1038/s41557-026-02073-1"
+    },
+    {
+      "doi": "10.1038/s41557-025-02040-2",
+      "title": "Crystalline nitrogen chain radical anions",
+      "published_date": "2026-02-10",
+      "url": "https://doi.org/10.1038/s41557-025-02040-2"
+    },
+    {
+      "doi": "10.1038/s41557-025-02034-0",
+      "title": "Electron hopping in conjugated molecular wires with application to solar cells",
+      "published_date": "2026-02-09",
+      "url": "https://doi.org/10.1038/s41557-025-02034-0"
+    },
+    {
+      "doi": "10.1038/s41557-025-02063-9",
+      "title": "A comprehensive model for the electric double layer of stepped platinum electrodes",
+      "published_date": "2026-02-02",
+      "url": "https://doi.org/10.1038/s41557-025-02063-9"
+    },
+    {
+      "doi": "10.1038/s41557-025-02061-x",
+      "title": "Small alkali cations direct CO electroreduction to hydrocarbons rather than oxygenates",
+      "published_date": "2026-01-29",
+      "url": "https://doi.org/10.1038/s41557-025-02061-x"
+    },
+    {
+      "doi": "10.1038/s41557-025-02039-9",
+      "title": "Biomolecular condensates sustain pH gradients at equilibrium through charge neutralization",
+      "published_date": "2026-01-29",
+      "url": "https://doi.org/10.1038/s41557-025-02039-9"
+    },
+    {
+      "doi": "10.1038/s41557-025-02045-x",
+      "title": "Wavelength-steered directional rotation in an autonomous light-driven molecular motor",
+      "published_date": "2026-01-28",
+      "url": "https://doi.org/10.1038/s41557-025-02045-x"
+    },
+    {
+      "doi": "10.1038/s41557-025-02062-w",
+      "title": "Current-assisted dual-atom catalyst sequentially boosts low-temperature propane combustion through atomic relay",
+      "published_date": "2026-01-26",
+      "url": "https://doi.org/10.1038/s41557-025-02062-w"
+    },
+    {
+      "doi": "10.1038/s41557-025-02041-1",
+      "title": "Collective asymmetric synthesis of the Strychnos alkaloids via thiophene S,S-dioxide cycloadditions",
+      "published_date": "2026-01-23",
+      "url": "https://doi.org/10.1038/s41557-025-02041-1"
+    },
+    {
+      "doi": "10.1038/s41557-025-02055-9",
+      "title": "Hyperpyramidalized alkenes with bond orders near 1.5 as synthetic building blocks",
+      "published_date": "2026-01-21",
+      "url": "https://doi.org/10.1038/s41557-025-02055-9"
+    },
+    {
+      "doi": "10.1038/s41557-025-02057-7",
+      "title": "Lithium metal-mediated electrochemical reduction of per- and poly-fluoroalkyl substances",
+      "published_date": "2026-01-20",
+      "url": "https://doi.org/10.1038/s41557-025-02057-7"
+    },
+    {
+      "doi": "10.1038/s41557-025-02048-8",
+      "title": "Towards single-crystalline two-dimensional poly(arylene vinylene) covalent organic frameworks",
+      "published_date": "2026-01-20",
+      "url": "https://doi.org/10.1038/s41557-025-02048-8"
+    },
+    {
+      "doi": "10.1038/s41557-025-02035-z",
+      "title": "Organic crystalline nanoparticles with a long-lived charge-separated state for efficient photocatalytic hydrogen production",
+      "published_date": "2026-01-20",
+      "url": "https://doi.org/10.1038/s41557-025-02035-z"
+    },
+    {
+      "doi": "10.1038/s41557-025-02050-0",
+      "title": "Chiral catalysis-driven rotary molecular motors",
+      "published_date": "2026-01-16",
+      "url": "https://doi.org/10.1038/s41557-025-02050-0"
+    },
+    {
+      "doi": "10.1038/s41557-025-02049-7",
+      "title": "Construction of synthetic protein-binding non-genetic DNA systems in living cells",
+      "published_date": "2026-01-16",
+      "url": "https://doi.org/10.1038/s41557-025-02049-7"
+    },
+    {
+      "doi": "10.1038/s41557-025-02053-x",
+      "title": "Selective epimerization of GlcNAc to GalNAc through steady-state tuning under kinetic network control",
+      "published_date": "2026-01-15",
+      "url": "https://doi.org/10.1038/s41557-025-02053-x"
+    },
+    {
+      "doi": "10.1038/s41557-025-02047-9",
+      "title": "Thermal [2+2] cycloaddition as a route to gem-difluoro heterobicyclo[n.1.1]alkanes",
+      "published_date": "2026-01-12",
+      "url": "https://doi.org/10.1038/s41557-025-02047-9"
+    },
+    {
+      "doi": "10.1038/s41557-025-02036-y",
+      "title": "Catalytic acyloin-type heterocoupling of thioesters via a putative cobalt siloxycarbene",
+      "published_date": "2026-01-12",
+      "url": "https://doi.org/10.1038/s41557-025-02036-y"
+    },
+    {
+      "doi": "10.1038/s41557-025-02037-x",
+      "title": "Homologative alkene difunctionalization",
+      "published_date": "2026-01-07",
+      "url": "https://doi.org/10.1038/s41557-025-02037-x"
+    },
+    {
+      "doi": "10.1038/s41557-025-02021-5",
+      "title": "Monovalent pseudo-natural products supercharge degradation of IDO1 by its native E3 KLHDC3",
+      "published_date": "2026-01-07",
+      "url": "https://doi.org/10.1038/s41557-025-02021-5"
+    },
+    {
+      "doi": "10.1038/s41557-025-02017-1",
+      "title": "Biocompatible ligand balancing in transition metal coordination enables benign in-cell protein arylation",
+      "published_date": "2026-01-07",
+      "url": "https://doi.org/10.1038/s41557-025-02017-1"
+    },
+    {
+      "doi": "10.1038/s41557-025-02026-0",
+      "title": "Stereoselective total synthesis of skew-tetramantane",
+      "published_date": "2026-01-06",
+      "url": "https://doi.org/10.1038/s41557-025-02026-0"
+    },
+    {
+      "doi": "10.1038/s41557-025-02022-4",
+      "title": "The catalytic enantioselective [1,2]-Wittig rearrangement cascade of allylic ethers",
+      "published_date": "2026-01-06",
+      "url": "https://doi.org/10.1038/s41557-025-02022-4"
+    },
+    {
+      "doi": "10.1038/s41557-025-02038-w",
+      "title": "Intralayer bidentate diammoniums for stable two-dimensional perovskites",
+      "published_date": "2026-01-05",
+      "url": "https://doi.org/10.1038/s41557-025-02038-w"
+    },
+    {
+      "doi": "10.1038/s41557-025-02018-0",
+      "title": "Direct enantioselective C(sp3)−H coupling of N-alkyl anilines via metallaphotoredox catalysis",
+      "published_date": "2026-01-05",
+      "url": "https://doi.org/10.1038/s41557-025-02018-0"
+    },
+    {
+      "doi": "10.1038/s41557-025-02016-2",
+      "title": "Unravelling gas evolution mechanisms in battery electrode materials",
+      "published_date": "2026-01-05",
+      "url": "https://doi.org/10.1038/s41557-025-02016-2"
+    },
+    {
+      "doi": "10.1038/s41557-025-02025-1",
+      "title": "Stepwise-controllable catalytic asymmetric Atherton–Todd reaction to access diverse P(V)-stereogenic compounds",
+      "published_date": "2026-01-02",
+      "url": "https://doi.org/10.1038/s41557-025-02025-1"
+    },
+    {
+      "doi": "10.1038/s41557-025-02012-6",
+      "title": "Global profiling of arginine reactivity and ligandability in the human proteome",
+      "published_date": "2026-01-02",
+      "url": "https://doi.org/10.1038/s41557-025-02012-6"
+    }
+  ]
+}
