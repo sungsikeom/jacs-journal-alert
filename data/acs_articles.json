@@ -1,11 +1,101 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-08-11T00:01:07.360Z",
+  "collected_at": "2026-08-12T00:00:32.645Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7049,
+  "article_count": 7064,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c13807",
+      "title": "Correction to “In Situ SERS Monitoring of Plasmon-Mediated Degradation of Microplastics”",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1021/jacs.6c13807"
+    },
+    {
+      "doi": "10.1021/jacs.6c12747",
+      "title": "Harnessing Host–Guest Conformational Matching for Efficient Near-Infrared Phosphorescence",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1021/jacs.6c12747"
+    },
+    {
+      "doi": "10.1021/jacs.6c10649",
+      "title": "Artificial Photosynthetic Hydrogel Microspheres as a Versatile Platform for Programmable CO2 Valorization",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1021/jacs.6c10649"
+    },
+    {
+      "doi": "10.1021/jacs.6c10280",
+      "title": "Cross-Metathesis of an Iron Carbene with Diazenes",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1021/jacs.6c10280"
+    },
+    {
+      "doi": "10.1021/jacs.6c10023",
+      "title": "Carrier-Mediated Selective Transport of PFAS across Liquid Membranes",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1021/jacs.6c10023"
+    },
+    {
+      "doi": "10.1021/jacs.6c09505",
+      "title": "Imparting Switchable Impact Sensitivity to Workhorse Explosives",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1021/jacs.6c09505"
+    },
+    {
+      "doi": "10.1021/jacs.6c08495",
+      "title": "Enhanced Sodium-Ion Transport across Solid Electrolyte Interphase via Electric-Field Modulation",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1021/jacs.6c08495"
+    },
+    {
+      "doi": "10.1021/jacs.6c07715",
+      "title": "Understanding the Ultrafast Crystallization Kinetics of Donor–Acceptor Semiconducting Polymers",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1021/jacs.6c07715"
+    },
+    {
+      "doi": "10.1021/jacs.6c07357",
+      "title": "Reversible Oxygen Redox in High Voltage for Lithium-Rich Layered Oxides",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1021/jacs.6c07357"
+    },
+    {
+      "doi": "10.1021/jacs.6c07144",
+      "title": "Understanding the Origins of Self-Recoverable Mechanoluminescence for Rational Materials Design",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1021/jacs.6c07144"
+    },
+    {
+      "doi": "10.1021/jacs.6c07120",
+      "title": "Photoinduced Reductive Elimination from Sulfur Enables a Unique Synthetic Valorization of Sulfonamides",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1021/jacs.6c07120"
+    },
+    {
+      "doi": "10.1021/jacs.6c07119",
+      "title": "Conformationally Dictated Divergent Triplet Reactivity of Conjugated Dienes: Visible-Light-Induced Electrocyclization, 1,5-HAT, and Cycloaddition",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1021/jacs.6c07119"
+    },
+    {
+      "doi": "10.1021/jacs.6c05947",
+      "title": "Stereospecific Peptide–Polysaccharide Conjugates Enable Noninvasive Therapy of Neovascular Age-Related Macular Degeneration",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1021/jacs.6c05947"
+    },
+    {
+      "doi": "10.1021/jacs.6c05546",
+      "title": "Overcoming Barriers in Solid Tumors: Lactate-Fueled Nanomotors Enhance Penetration and Reverse Immunosuppression",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1021/jacs.6c05546"
+    },
+    {
+      "doi": "10.1021/jacs.5c16404",
+      "title": "Lighting Up Biology: GFP-Inspired Fluorescent Probes for Sensing and Imaging",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1021/jacs.5c16404"
+    },
     {
       "doi": "10.1021/jacs.6c14322",
       "title": "A Dual-Interlocked Electrocatalyst Design Principle for Durable AEM Water Electrolysis at Industrial Current Densities",

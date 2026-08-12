@@ -1,9 +1,45 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-08-11T00:08:04.162Z",
+  "collected_at": "2026-08-12T00:07:44.792Z",
   "scope_start": "2026-01-01",
-  "article_count": 587,
+  "article_count": 593,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01258",
+      "title": "Dispersion from Polarizabilities of Atoms in Molecule: DPAIM",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01258"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01122",
+      "title": "ALF: Open-Source Active Learning Framework for Atomistic Modeling",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01122"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00979",
+      "title": "GFN1-xTB-Assisted Machine Learning for Electronic Structure Screening of Metal–Organic Frameworks",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00979"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00898",
+      "title": "Scalable Density-Based Local and Global Classifications of Noncovalent Interactions",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00898"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00861",
+      "title": "Deciphering Chemical Environments in Conformational Data Sets Using an IQA Band-Matching Protocol",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00861"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00603",
+      "title": "Cost-Effective Scalable Quantum Error Mitigation for Tiled Ansätze",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00603"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01021",
       "title": "DeGAT: A Dual-Expert Graph Attention Network for Partial Charge Prediction in Metal–Organic Frameworks",

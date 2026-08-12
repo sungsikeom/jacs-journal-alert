@@ -1,9 +1,345 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-08-11T00:04:45.539Z",
+  "collected_at": "2026-08-12T00:04:24.755Z",
   "scope_start": "2026-01-01",
-  "article_count": 8052,
+  "article_count": 8108,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-76778-9",
+      "title": "Ultra-sensitive profiling of CRISPR-Cas off-target effects with Tracking-seq2",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76778-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-76713-y",
+      "title": "Healing intervention for improving the efficiency and stability of tandem devices on industrial textured silicon",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76713-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76709-8",
+      "title": "Overcoming the conversion-selectivity trade-off in plasma catalytic conversion of methane to ethylene",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76709-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-76695-x",
+      "title": "Heart rate control by listening to light",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76695-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-76656-4",
+      "title": "From helices to superhelices through hierarchical assembly across competing pathways",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76656-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76654-6",
+      "title": "Low kinetochore-microtubule occupancy leaves a mitotic memory by delaying checkpoint silencing",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76654-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76629-7",
+      "title": "Self-encapsulated nanofibrous ionic skin with superhigh fatigue resistance and broad environmental tolerance",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76629-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-76617-x",
+      "title": "Bromide-mediated paired electrosynthesis of hydrogen and epoxide",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76617-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-76612-2",
+      "title": "Origin of circular and triangular pores in electron-irradiated hexagonal boron nitride",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76612-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-76595-0",
+      "title": "Adipocyte-derived β-hydroxybutyrate confers metabolic resilience in multiple myeloma",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76595-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76592-3",
+      "title": "Ultra-broadband anti-jamming communication via a Rydberg atomic receiver",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76592-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76588-z",
+      "title": "Synergistic shape-interface-channel ordering enhances solar-driven thermochemical energy storage",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76588-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-76585-2",
+      "title": "In-plane molecular cord bridging as a method for boosting MXene fiber strength and toughness",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76585-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-76581-6",
+      "title": "Thalamocortical bursts encode reward contingencies and drive associative learning",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76581-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76580-7",
+      "title": "APOBEC3-driven attenuation of the 2022 global outbreak monkeypox virus relative to its clade IIb ancestor",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76580-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-76567-4",
+      "title": "Towards efficient perturbation for the noncoding genome",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76567-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76560-x",
+      "title": "3D-local noisy shallow quantum circuits defeat unbounded fan-in classical circuits",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76560-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-76557-6",
+      "title": "Ectomesenchymal identity emerges via relief of Twist1 transcript destabilisation",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76557-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76555-8",
+      "title": "A flexible repertoire of wound closure strategies precedes whole-body regeneration",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76555-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-76551-y",
+      "title": "Chronic conditions and aortic disease risk: a prospective cohort study with predictive and etiological analyses",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76551-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76535-y",
+      "title": "Battery smart sensing via a virtual reference electrode",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76535-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76531-2",
+      "title": "Segment any tumour: an uncertainty-aware vision foundation model for whole-body analysis",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76531-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-76530-3",
+      "title": "Secular change in orogenic duration reveals alternating tectonic regimes during the Archaean-Proterozoic",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76530-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76529-w",
+      "title": "A missing continental impact melt sheet signal in the early Earth detrital zircon record",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76529-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76528-x",
+      "title": "Weak hydrogen bonding as the driver of aromatic hydration",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76528-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-76520-5",
+      "title": "In vitro reconstitution of chromatin replication recapitulates symmetric histone recycling",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76520-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-76509-0",
+      "title": "Noninvasive 3D mapping of tissue stress using reverberant shear wave",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76509-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76508-1",
+      "title": "Counterintuitive collision of exceptional points on nonorientable manifolds",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76508-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76487-3",
+      "title": "A modular self-assembling peptide platform targeting TGF-β1 for tendon regeneration",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76487-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76480-w",
+      "title": "Iron-derived solid redox system for effective and sustainable sulfur recovery from sulfide-bearing wastewater",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76480-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76466-8",
+      "title": "Moiré-induced modulation of out-of-plane elasticity in twisted hBN",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76466-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-76459-7",
+      "title": "Neutrophil extracellular traps promote liver metastasis by impairing NK cell-dependent tumor surveillance via CCDC25",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76459-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-76429-z",
+      "title": "CAKR: commutative algebra k-mer representations for genomics",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76429-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-76425-3",
+      "title": "Regulating lattice evolution via an ordered two-dimensional intermediate phase for resilient perovskite solar cells",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76425-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76413-7",
+      "title": "Performance and user response of android’s smartphone-based alerts in the 2025 Marmara Ereğlisi earthquake",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76413-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-76375-w",
+      "title": "Dissecting root-specific non-conventional effector-triggered immunity and its role in defense and shifting the microbiome",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76375-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76368-9",
+      "title": "Integrative structural analysis of human endosomal NHE6 reveals a lipid-associated gate and disordered C-terminus",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76368-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-76361-2",
+      "title": "ESMDynamic: Fast and accurate prediction of protein dynamic contact maps from single sequences",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76361-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-76332-7",
+      "title": "Host-aware Identification of Intrinsic Gene Expression Biopart Parameters using Combinatorial Libraries",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76332-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-76328-3",
+      "title": "Hyper-spectral photonic integrated circuits based on recursive inverse design",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76328-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76323-8",
+      "title": "Widespread horizontal transfer and strong selection enhance microbial adaptation in Antarctic soils",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76323-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-76320-x",
+      "title": "Intrinsic and non-cell-autonomous roles for the neurodevelopmental syndrome-linked transcription factor UNC-3/EBF",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76320-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-76279-9",
+      "title": "Natural variation in BRN1 enhances nitrogen sensitivity to improve rice nitrogen use efficiency",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76279-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-76244-6",
+      "title": "Synchronous Holocene thinning of Pine Island Glacier and its tributaries influenced by ice-shelf unpinning",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76244-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76232-w",
+      "title": "Th17 effector cytokines induce shared and distinct microglial and endothelial cell responses in a mouse model for post-streptococcal encephalitis",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76232-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76126-x",
+      "title": "One-dimensional conduction channels in the correlated Mott NiS2 arising from obstructed Wannier charges",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76126-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-76117-y",
+      "title": "Disentangling surface and bulk properties of Ta3N5 photoanodes",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76117-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76100-7",
+      "title": "Spatial and functional specialization of human splenic innate lymphoid cells",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76100-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-76053-x",
+      "title": "Synergistic magneto-enzymatic propulsion enables multimodal nanomotor swarms",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-76053-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-75950-5",
+      "title": "Unveiling dominant toroidal magnetic fields in a protostellar outflow",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-75950-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-75877-x",
+      "title": "Structure of NHE6 and its lipid-mediated interactions regulating endosomal pH",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-75877-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-75797-w",
+      "title": "A ubiquitin chain-feeding mechanism for BRCA1-A",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-75797-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-75795-y",
+      "title": "Mechanism of K63-linked polyubiquitin recognition and cleavage by the BRCA1-A complex",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-75795-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-75325-w",
+      "title": "PA200 modulates immunoproteasome structure and activity",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-75325-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-75116-3",
+      "title": "Blood metabolomic signatures linking air pollution to lung cancer in the Cancer Prevention Studies",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-75116-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-74623-7",
+      "title": "UNCOVERseq enables sensitive and controlled gene editing off-target nomination across CRISPR-Cas modalities and systems",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1038/s41467-026-74623-7"
+    },
     {
       "doi": "10.1038/s41467-026-76638-6",
       "title": "Overcoming catalyst deactivation with in-situ electrochemical regeneration in packed-bed reactors enabling long-lived wastewater purification",

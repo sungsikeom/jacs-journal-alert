@@ -1,9 +1,177 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-08-11T00:14:35.874Z",
+  "collected_at": "2026-08-12T00:14:28.800Z",
   "scope_start": "2026-01-01",
-  "article_count": 2011,
+  "article_count": 2039,
   "articles": [
+    {
+      "doi": "10.1002/anie.9466991",
+      "title": "A Synthetic β-Mannan Epitope Enables Immunization and Detection of Candida auris",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.9466991"
+    },
+    {
+      "doi": "10.1002/anie.8798559",
+      "title": "Netanel Shpigel",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.8798559"
+    },
+    {
+      "doi": "10.1002/anie.8729932",
+      "title": "Chemoenzymatic Radiosynthesis of a Gluconate Transporter-Targeted In Vivo Bacterial Sensor From Clinical [18F]FDG",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.8729932"
+    },
+    {
+      "doi": "10.1002/anie.8182546",
+      "title": "Heterocycle-Linked Covalent Organic Frameworks With Indazole Units for Cooperative H2O2 Photosynthesis and Biomass Valorization",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.8182546"
+    },
+    {
+      "doi": "10.1002/anie.7131096",
+      "title": "Twisted Multi-Boron Topological π-Extension Enables Narrowband Deep-Blue Multi-Resonance Thermally Activated Delayed Fluorescence Emitters",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.7131096"
+    },
+    {
+      "doi": "10.1002/anie.6900818",
+      "title": "Solid-Phase Engineered Metal-Free Carbonized Polymer Dots With Auto-Generated Rigid Amorphous Network Enabled High-Temperature Liquid-Phase Phosphorescence",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.6900818"
+    },
+    {
+      "doi": "10.1002/anie.6637173",
+      "title": "Harnessing Synergistic Enthalpy-Entropy Regulation: An I-Motif-Based Modulating Design for Programming Stimulus-Responsive DNA Switches",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.6637173"
+    },
+    {
+      "doi": "10.1002/anie.6572259",
+      "title": "Designing Novel Solar-Blind Ultraviolet Nonlinear Optical Crystals Based on Local Proton Distribution Complementary Effect",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.6572259"
+    },
+    {
+      "doi": "10.1002/anie.6511014",
+      "title": "Templated Synthesis of Heterobimetallic Nd─Co Clusters",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.6511014"
+    },
+    {
+      "doi": "10.1002/anie.6433467",
+      "title": "MOF-Derived Hollow CoFe@NC Nanocages for Highly Efficient Degradation of Textile Fibers",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.6433467"
+    },
+    {
+      "doi": "10.1002/anie.6268409",
+      "title": "Total Synthesis of ent-Kaurenoic Acid Diterpenoids Enabled by Distal Conformational Control in Photoredox Radical Polyene Cyclization",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.6268409"
+    },
+    {
+      "doi": "10.1002/anie.4735480",
+      "title": "Dynamic Dual-Site Relay Catalysis Enables Selective Solar-Driven CO2 Reduction Toward Ethanol",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.4735480"
+    },
+    {
+      "doi": "10.1002/anie.4606157",
+      "title": "Hierarchical Surface-to-Bulk Architecture for High-Performance O3-Type Sodium Cathodes",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.4606157"
+    },
+    {
+      "doi": "10.1002/anie.4456149",
+      "title": "Rational Design of Prussian Blue Analogs Cathodes With “Dual-Channel” Structure for Wide-Temperature-Range Sodium-Ion Batteries",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.4456149"
+    },
+    {
+      "doi": "10.1002/anie.4402122",
+      "title": "Easily Accessible and Highly Active Heterogeneous Nickel Catalyst Supported by Covalent Organic Framework for In Situ Ethylene Polymerization",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.4402122"
+    },
+    {
+      "doi": "10.1002/anie.3905300",
+      "title": "Emergent Supermonomer Directs Spatially Separated Triplet Pair Generation in Dynamic Oligomers",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.3905300"
+    },
+    {
+      "doi": "10.1002/anie.3889857",
+      "title": "Mechanistic Diversity in Photoexcited Radical Redox Chemistry: A Critical Evaluation",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.3889857"
+    },
+    {
+      "doi": "10.1002/anie.3768019",
+      "title": "Decoding Atypical G-Quadruplexes and Their Interactome in Liquid Biopsies via Integrated Electroanalytical–Proteomic Technologies",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.3768019"
+    },
+    {
+      "doi": "10.1002/anie.3716107",
+      "title": "Efficient and Stable Inverted Perovskite Solar Cells Via a Multi-Arm Donor–Acceptor Dipole Molecular Bridge",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.3716107"
+    },
+    {
+      "doi": "10.1002/anie.3641857",
+      "title": "Separation and Valorization of Chlorine From Tail Gas Streams",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.3641857"
+    },
+    {
+      "doi": "10.1002/anie.3367062",
+      "title": "Thermodynamically Driven Multi-Site Photoswitching in Tetraoxindole Cavitands Controlled by Hydrogen Bonding and Mechanochemistry",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.3367062"
+    },
+    {
+      "doi": "10.1002/anie.3141713",
+      "title": "Broad Optical Absorption and Photochromism in a Metal-Tripyridinium Cage Glass via Acid Perturbation for Efficient Photothermo-Electric Synergistic Conversion",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.3141713"
+    },
+    {
+      "doi": "10.1002/anie.2880703",
+      "title": "Introducing Diradicaloid Thiele's Hydrocarbon Derivatives as Ligand in Transition Metal Chemistry",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.2880703"
+    },
+    {
+      "doi": "10.1002/anie.2327181",
+      "title": "Upcycling Poly(ethylene terephthalate) Into High-Efficient Epoxy Toughener: Hyperbranched Oligomer Induced Nano-Structural Heterogeneities",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.2327181"
+    },
+    {
+      "doi": "10.1002/anie.1560398",
+      "title": "Dicyanodithioquinoline-Based Donor Polymers With Large Dipole Moments for Efficient Organic Solar Cells Exceeding 20% Power Conversion Efficiency",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.1560398"
+    },
+    {
+      "doi": "10.1002/anie.1424283",
+      "title": "Henning Hopf (1940–2026): A Role Model in Chemistry and Beyond",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.1424283"
+    },
+    {
+      "doi": "10.1002/anie.1065026",
+      "title": "Sulfur-Modulated Covalent Organic Framework Superstructures With Highly Dense and Fully Accessible Protophilic Sites for High-Performance All-Organic Proton Batteries",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.1065026"
+    },
+    {
+      "doi": "10.1002/anie.1026671",
+      "title": "Harnessing Secondary Nucleation–Driven Supramolecular Bundled Fibers for Long-Range One-Dimensional Assembly of Semiconductor Nanocrystals",
+      "published_date": "2026-08-11",
+      "url": "https://doi.org/10.1002/anie.1026671"
+    },
     {
       "doi": "10.1002/anie.9183730",
       "title": "A Review of Electrochemical–Biological Coupling Systems for CO2 Valorization: Catalytic Fundamentals, System Integration, and Industrial Outlook",
