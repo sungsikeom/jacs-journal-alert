@@ -6,6 +6,11 @@ const yearFilter = document.querySelector('#year-filter');
 const profileGate = document.querySelector('#profile-gate');
 const profileForm = document.querySelector('#profile-form');
 const profileName = document.querySelector('#profile-name');
+const profileReset = document.querySelector('#profile-reset');
+const profileTitle = document.querySelector('#profile-title');
+const profileDescription = document.querySelector('#profile-description');
+const profileSubmit = document.querySelector('#profile-submit');
+const profileCancel = document.querySelector('#profile-cancel');
 const scopeFilterButtons = [...document.querySelectorAll('.scope-filter')];
 const journalFilterButtons = [...document.querySelectorAll('.journal-filter')];
 const publicationCutoff = article => article.journal_short === 'JACS' ? '2025-01-01' : '2026-01-01';
@@ -55,6 +60,26 @@ function ensureCommentIdentity() {
   if (!activeProfile) return;
   activeProfile.author = profileAuthor(activeProfile.name);
   localStorage.setItem(PROFILE_KEY, JSON.stringify(activeProfile));
+}
+
+function openProfileEditor() {
+  if (!activeProfile) return;
+  profileTitle.textContent = '아이디 재설정';
+  profileDescription.textContent = '새 아이디를 입력하면 댓글 권한과 작성자 코드가 해당 아이디로 전환됩니다.';
+  profileSubmit.textContent = '아이디 적용';
+  profileCancel.hidden = false;
+  profileName.value = activeProfile.name;
+  profileGate.hidden = false;
+  requestAnimationFrame(() => {
+    profileName.focus();
+    profileName.select();
+  });
+}
+
+function closeProfileEditor() {
+  if (!activeProfile) return;
+  profileGate.hidden = true;
+  profileName.value = '';
 }
 
 function loadProfile() {
@@ -289,6 +314,8 @@ function render(query = '') {
 
 if (loadProfile()) profileGate.hidden = true;
 else profileGate.hidden = false;
+profileReset.addEventListener('click', openProfileEditor);
+profileCancel.addEventListener('click', closeProfileEditor);
 profileForm.addEventListener('submit', event => {
   event.preventDefault();
   const name = profileName.value.trim();
