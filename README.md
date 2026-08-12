@@ -64,7 +64,7 @@ npm run collect:jcc
 npm run collect:angew
 ```
 
-공식 인벤토리가 준비되면 사이트 생성기는 Crossref을 사용하지 않는 `publisher-only` 모드로 전환합니다. Nature Chemistry는 공식 Research Articles의 Article 필터만 사용하며, JCIM과 JPCL은 2026년 공식 ACS 검색 결과를 기준선으로 저장합니다. 이후 각 저널은 최신 페이지에서 기존 DOI가 확인될 때까지 증분 수집합니다.
+공식 인벤토리가 준비되면 사이트 생성기는 Crossref을 사용하지 않는 `publisher-only` 모드로 전환합니다. Nature Chemistry는 공식 Research Articles의 Article 필터를 사용해 2009년 창간 이후 전체 기록을 저장하며, JCIM과 JPCL은 2026년 공식 ACS 검색 결과를 기준선으로 저장합니다. 이후 각 저널은 최신 페이지에서 기존 DOI가 확인될 때까지 증분 수집합니다.
 
 ## 로컬 점검
 

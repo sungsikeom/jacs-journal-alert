@@ -1,13 +1,13 @@
 const PUBLISHER_STATE_KEY = "publisherCollectorState";
 const PUBLISHER_CUTOFF = "2026-01-01";
-const PUBLISHER_BUILD = "1.9.0";
+const PUBLISHER_BUILD = "2.0.0";
 const PUBLISHER_MAX_PAGES = 1000;
 const ACS_SEARCH_KEYS = new Set(["jctc", "jcim", "jpcl"]);
 const NATURE_KEYS = new Set(["nature", "nature-chemistry"]);
 
 const publisherConfig = (() => {
   if (location.hostname === "www.nature.com" && /^\/ncomms\//i.test(location.pathname)) return { key: "nature", label: "Nature Communications", prefix: "10.1038/s41467-", articleCode: "s41467-", source: "Nature Communications Research Articles" };
-  if (location.hostname === "www.nature.com" && /^\/nchem\//i.test(location.pathname)) return { key: "nature-chemistry", label: "Nature Chemistry", prefix: "10.1038/s41557-", articleCode: "s41557-", source: "Nature Chemistry Research Articles" };
+  if (location.hostname === "www.nature.com" && /^\/nchem\//i.test(location.pathname)) return { key: "nature-chemistry", label: "Nature Chemistry", prefixes: ["10.1038/s41557-", "10.1038/nchem."], cutoff: "2009-01-01", source: "Nature Chemistry Research Articles" };
   if (location.hostname === "pubs.acs.org" && /^\/jctcce\//i.test(location.pathname)) return { key: "jctc", label: "JCTC", prefix: "10.1021/acs.jctc.", source: "ACS JCTC Article search results" };
   if (location.hostname === "pubs.acs.org" && /^\/jcisd8\//i.test(location.pathname)) return { key: "jcim", label: "JCIM", prefix: "10.1021/acs.jcim.", source: "ACS JCIM Article search results" };
   if (location.hostname === "pubs.acs.org" && /^\/jpclcd\//i.test(location.pathname)) return { key: "jpcl", label: "JPCL", prefix: "10.1021/acs.jpclett.", source: "ACS JPCL Article search results" };
@@ -22,6 +22,8 @@ function publisherDoi(value) {
   const text = String(value || "");
   const nature = text.match(/\/articles\/(s\d{5}-[^/?#]+)/i);
   if (nature) return `10.1038/${nature[1].toLowerCase()}`;
+  const legacyNatureChemistry = text.match(/\/articles\/(nchem\.\d+)/i);
+  if (legacyNatureChemistry) return `10.1038/${legacyNatureChemistry[1].toLowerCase()}`;
   const acsJournal = text.match(/10\.1021\/acs\.(?:jctc|jcim|jpclett)\.[a-z0-9]+/i);
   if (acsJournal) return acsJournal[0].toLowerCase();
   const rsc = text.match(/\/content\/articlelanding\/20\d{2}\/sc\/([a-z0-9]+)/i);
@@ -64,11 +66,19 @@ function chemicalScienceItem(anchor) {
   return anchor?.parentElement || null;
 }
 
+function publisherPrefixes() {
+  return publisherConfig.prefixes || [publisherConfig.prefix];
+}
+
+function matchesPublisherDoi(doi) {
+  return publisherPrefixes().some((prefix) => doi.startsWith(prefix));
+}
+
 function readPublisherPage() {
   if (NATURE_KEYS.has(publisherConfig.key)) {
     const byDoi = new Map();
     for (const item of document.querySelectorAll("li.app-article-list-row__item")) {
-      const anchor = item.querySelector(`a[href*="/articles/${publisherConfig.articleCode}"]`);
+      const anchor = [...item.querySelectorAll('a[href*="/articles/"]')].find((candidate) => matchesPublisherDoi(publisherDoi(candidate.href)));
       const doi = publisherDoi(anchor?.href);
       if (!doi || byDoi.has(doi)) continue;
       const titleNode = item.querySelector("h2 a, h3 a, h4 a") || anchor;
@@ -115,8 +125,8 @@ function readPublisherPage() {
     const anchors = [...item.querySelectorAll('a[href*="/articles/"], a[href*="/doi/"], a[href*="doi.org/"]')];
     const titleNode = item.querySelector("h2 a, h3 a, h4 a, .publication_title a, .sri-title a");
     const titleDoi = publisherDoi(titleNode?.href);
-    const doiAnchor = anchors.find((anchor) => publisherDoi(anchor.href).startsWith(publisherConfig.prefix));
-    const doi = titleDoi.startsWith(publisherConfig.prefix) ? titleDoi : publisherDoi(doiAnchor?.href);
+    const doiAnchor = anchors.find((anchor) => matchesPublisherDoi(publisherDoi(anchor.href)));
+    const doi = matchesPublisherDoi(titleDoi) ? titleDoi : publisherDoi(doiAnchor?.href);
     if (!doi || byDoi.has(doi)) continue;
     const resolvedTitleNode = titleNode || doiAnchor;
     const dateNode = item.querySelector("time, .c-meta__item time, .meta__epubDate, .sri-date");
@@ -306,7 +316,7 @@ async function processPublisherPage() {
   const pageRows = [];
   for (const row of rows) {
     if (!row.published_date) throw new Error(`발행일을 읽지 못했습니다: ${row.doi}`);
-    if (row.published_date < PUBLISHER_CUTOFF) { reason = "cutoff"; break; }
+    if (row.published_date < (publisherConfig.cutoff || PUBLISHER_CUTOFF)) { reason = "cutoff"; break; }
     if (state.mode === "incremental" && known.has(row.doi)) { reason = "known-doi"; break; }
     pageRows.push(row);
   }

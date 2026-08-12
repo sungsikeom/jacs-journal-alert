@@ -26,6 +26,7 @@ ISSUE_BODY_PATH = DATA_DIR / "new_articles.md"
 SEOUL = timezone(timedelta(hours=9))
 SCOPE_START = "2026-01-01"
 JACS_SCOPE_START = "2025-01-01"
+NATURE_CHEMISTRY_SCOPE_START = "2009-01-01"
 SCOPE_VERSION = 7
 
 JOURNALS = [
@@ -278,8 +279,10 @@ def merge_acs_and_crossref(
 
 def load_publisher_articles(path: Path, journal: dict[str, str], minimum: int = 10) -> dict[str, dict[str, Any]]:
     payload = load_json(path, {})
-    if payload.get("scope_start") != SCOPE_START:
-        raise ValueError(f"{journal['short_name']} scope_start must be {SCOPE_START}")
+    expected_scope_start = NATURE_CHEMISTRY_SCOPE_START if journal["key"] == "nature-chemistry" else SCOPE_START
+    allowed_scope_starts = {expected_scope_start, SCOPE_START} if journal["key"] == "nature-chemistry" else {expected_scope_start}
+    if payload.get("scope_start") not in allowed_scope_starts:
+        raise ValueError(f"{journal['short_name']} scope_start must be {expected_scope_start}")
     articles = payload.get("articles")
     if not isinstance(articles, list) or len(articles) < minimum:
         raise ValueError(f"{journal['short_name']} inventory contains implausibly few articles")
@@ -287,7 +290,7 @@ def load_publisher_articles(path: Path, journal: dict[str, str], minimum: int = 
     for item in articles:
         doi = normalize_doi(str(item.get("doi", "")))
         published_date = item.get("published_date")
-        if not doi or not published_date or published_date < SCOPE_START:
+        if not doi or not published_date or published_date < expected_scope_start:
             continue
         by_doi[doi] = {
             "doi": doi,
@@ -381,7 +384,8 @@ def update(
             fetched = apply_publisher_authority(
                 fetched, load_publisher_articles(inventory_path, journals_by_key[key]), journals_by_key[key]
             )
-    detected_new_articles = [article for article in fetched if article["doi"] not in seen] if initialized else []
+    unseen_articles = [article for article in fetched if article["doi"] not in seen] if initialized else []
+    detected_new_articles = recent_publication_articles(unseen_articles, today)
     display_new_articles = recent_publication_articles(fetched, today)
     new_dois = {article["doi"] for article in fetched}
     combined_seen = sorted((seen | new_dois) if initialized else new_dois)
@@ -392,7 +396,7 @@ def update(
         "total_count": len(fetched),
         "baseline_initialized": not initialized,
         "scope_start": scope_start,
-        "journal_scope_starts": {"JACS": JACS_SCOPE_START},
+        "journal_scope_starts": {"JACS": JACS_SCOPE_START, "Nat Chem": NATURE_CHEMISTRY_SCOPE_START},
         "scope_end": scope_end,
         "source_mode": source_mode,
         "articles": fetched,

@@ -90,6 +90,9 @@ class MetadataNormalizationTests(unittest.TestCase):
     def test_jacs_accepts_2025_backfill_scope(self):
         self.assertEqual(UPDATE.JACS_SCOPE_START, "2025-01-01")
 
+    def test_nature_chemistry_accepts_full_archive_scope(self):
+        self.assertEqual(UPDATE.NATURE_CHEMISTRY_SCOPE_START, "2009-01-01")
+
 
 if __name__ == "__main__":
     unittest.main()
