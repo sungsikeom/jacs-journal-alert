@@ -23,7 +23,7 @@ const COMMENT_MIGRATION_PREFIX = 'journalPulseCommentsMigrated:v2:';
 const COMMENT_OWNERSHIP_MIGRATION_PREFIX = 'journalPulseCommentOwnerMigrated:v3:';
 let payload = { articles: [], new_dois: [] };
 let activeFilter = 'all';
-let activeJournal = 'all';
+const activeJournals = new Set();
 let activeYear = 'all';
 let visibleCount = pageSize;
 let activeProfile = null;
@@ -192,7 +192,7 @@ function render(query = '') {
   const needle = query.trim().toLowerCase();
   const matchingRows = [...payload.articles]
     .filter(article => String(article.published_date || '') >= publicationCutoff(article))
-    .filter(article => activeJournal === 'all' || article.journal_short === activeJournal)
+    .filter(article => activeJournals.size === 0 || activeJournals.has(article.journal_short))
     .filter(article => activeYear === 'all' || String(article.published_date || '').slice(0, 4) === activeYear)
     .filter(article => activeFilter === 'all'
       || (activeFilter === 'new' && payload.new_dois.includes(article.doi))
@@ -202,8 +202,9 @@ function render(query = '') {
     .filter(article => `${article.title} ${article.doi} ${commentsFor(article.doi).map(comment => comment.text).join(' ')}`.toLowerCase().includes(needle))
     .sort((a, b) => String(b.published_date || '').localeCompare(String(a.published_date || '')) || String(b.doi || '').localeCompare(String(a.doi || '')));
   const rows = matchingRows.slice(0, visibleCount);
-  const journalLabel = activeJournal === 'all' ? '모든 저널' : journalDisplayName(activeJournal);
-  document.querySelector('#list-title').textContent = activeJournal === 'all' ? '최근 확인된 논문' : `${journalLabel} 최근 논문`;
+  const selectedJournalLabels = [...activeJournals].map(journalDisplayName);
+  const journalLabel = selectedJournalLabels.length ? selectedJournalLabels.join(' · ') : '모든 저널';
+  document.querySelector('#list-title').textContent = selectedJournalLabels.length ? `${journalLabel} 최근 논문` : '최근 확인된 논문';
   document.querySelector('#result-summary').textContent = `${journalLabel} · ${matchingRows.length.toLocaleString('ko-KR')}편`;
   container.innerHTML = rows.map((article, index) => {
     const isNew = payload.new_dois.includes(article.doi);
@@ -355,6 +356,18 @@ fetch('./data/articles.json', { cache: 'no-store' })
 
 search.addEventListener('input', event => { visibleCount = pageSize; render(event.target.value); });
 scopeFilterButtons.forEach(button => button.addEventListener('click', () => { activeFilter = button.dataset.filter; visibleCount = pageSize; scopeFilterButtons.forEach(item => item.classList.toggle('is-active', item === button)); render(search.value); }));
-journalFilterButtons.forEach(button => button.addEventListener('click', () => { activeJournal = button.dataset.journal; visibleCount = pageSize; journalFilterButtons.forEach(item => item.classList.toggle('is-active', item === button)); render(search.value); }));
+journalFilterButtons.forEach(button => button.addEventListener('click', () => {
+  const journal = button.dataset.journal;
+  if (journal === 'all') activeJournals.clear();
+  else if (activeJournals.has(journal)) activeJournals.delete(journal);
+  else activeJournals.add(journal);
+  visibleCount = pageSize;
+  journalFilterButtons.forEach(item => {
+    const selected = item.dataset.journal === 'all' ? activeJournals.size === 0 : activeJournals.has(item.dataset.journal);
+    item.classList.toggle('is-active', selected);
+    item.setAttribute('aria-pressed', String(selected));
+  });
+  render(search.value);
+}));
 yearFilter.addEventListener('change', event => { activeYear = event.target.value; visibleCount = pageSize; render(search.value); });
 loadMore.addEventListener('click', () => { visibleCount += pageSize; render(search.value); });
