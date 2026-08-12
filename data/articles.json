@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-08-12T13:27:37+09:00",
-  "journal_count": 9,
+  "checked_at": "2026-08-12T15:20:00+09:00",
+  "journal_count": 10,
   "new_count": 122,
-  "total_count": 21688,
+  "total_count": 21810,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
@@ -13846,6 +13846,30 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02221-7",
+      "title": "Solvent-bridged electrolytes for high-energy Li-ion batteries under extreme conditions",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-07-27",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02221-7",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02209-3",
+      "title": "Deciphering the infrared spectrum of the hydrated proton using full-dimensional quantum dynamics",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-07-27",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02209-3",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-76145-8",
       "title": "Harnessing chloride to drive catalyst reconstruction for durable and efficient seawater electrolysis",
       "journal": "Nature Communications",
@@ -18943,6 +18967,30 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02214-6",
+      "title": "A versatile strategy for oligonucleotide functionalization via on-support phosphitylation",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-07-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02214-6",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02212-8",
+      "title": "Highly chemoselective access to alkyl-sulfur compounds via N2 extrusion of alkyl hydrazines",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-07-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02212-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-76007-3",
       "title": "Stretchable and self-healing copper–iodide scintillator for conformal X-ray imaging and wearable radiation alerting",
       "journal": "Nature Communications",
@@ -19982,6 +20030,18 @@
       "published_date": "2026-07-21",
       "indexed_at": null,
       "url": "https://doi.org/10.1039/d6sc03538h",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02152-3",
+      "title": "A photogenerated triplet aura-nitrene for gold-mediated nitrene transfer",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-07-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02152-3",
       "sources": [
         "publisher"
       ]
@@ -27062,6 +27122,30 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02208-4",
+      "title": "A molecular model for the Ge(100) buckled dimer",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-07-14",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02208-4",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02204-8",
+      "title": "Programmable arene ring opening unlocks the diversification of phenols",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-07-14",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02204-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-75616-2",
       "title": "Origins of stomatal mechanics in grasses",
       "journal": "Nature Communications",
@@ -28005,6 +28089,30 @@
       "published_date": "2026-07-14",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/jcc.70457",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02213-7",
+      "title": "Oxetane-to-azetidine skeletal editing",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-07-13",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02213-7",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02206-6",
+      "title": "Electrophilic amination-induced 1,2-boronate migration for the modular synthesis of β-amino boronic esters",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-07-13",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02206-6",
       "sources": [
         "publisher"
       ]
@@ -32911,6 +33019,18 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02195-6",
+      "title": "Genetically targeted photocatalytic organic dyes for spatiotemporally controlled organic synthesis in specific living cells",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-07-08",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02195-6",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-75513-8",
       "title": "Linoleic acid accelerates osteoarthritis progression in male rats by targeting iron-sulfur clusters to drive ferroptosis in chondrocytes",
       "journal": "Nature Communications",
@@ -37154,6 +37274,18 @@
       "published_date": "2026-07-04",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jcim.6c01044",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02199-2",
+      "title": "A rechargeable non-aqueous Mg–O2 battery based on magnesium peroxide chemistry",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-07-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02199-2",
       "sources": [
         "publisher"
       ]
@@ -42098,6 +42230,42 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02197-4",
+      "title": "Trefoil polymers from a knotted synthon",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02197-4",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02193-8",
+      "title": "Covalency control of photomagnetic relaxation in a manganese(II) photoswitch",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02193-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02188-5",
+      "title": "Inverted metal-free active template synthesis of rotaxanes via axle‑mediated macrocyclization",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02188-5",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-75197-0",
       "title": "Complementary nonlinear optics for polarimetric computing in tellurium",
       "journal": "Nature Communications",
@@ -43941,6 +44109,18 @@
       "published_date": "2026-06-27",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jcim.6c01314",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02196-5",
+      "title": "Concise synthesis and strain-release diversification of bridgehead-substituted [2]-ladderanes",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-26",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02196-5",
       "sources": [
         "publisher"
       ]
@@ -47453,6 +47633,18 @@
       "published_date": "2026-06-24",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.1279221",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02186-7",
+      "title": "Singlet fission mediates carotenoid-to-bacteriochlorophyll energy transfer in purple photosynthetic bacteria",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02186-7",
       "sources": [
         "publisher"
       ]
@@ -52109,6 +52301,18 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02180-z",
+      "title": "Programming stacking order in conducting van der Waals metal–organic frameworks through ligand aggregation",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02180-z",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-74701-w",
       "title": "Structural choreography of bacteriophage N4 ejection proteins and the giant virion-associated RNA polymerase",
       "journal": "Nature Communications",
@@ -53357,6 +53561,18 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02184-9",
+      "title": "Discovery and characterization of a nickel enzyme family that catalyses intermolecular hydride shuttling",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-17",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02184-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-74642-4",
       "title": "Room-temperature ferroelectricity in NaNbO3 membrane",
       "journal": "Nature Communications",
@@ -54096,6 +54312,30 @@
       "published_date": "2026-06-17",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jcim.6c01006",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02182-x",
+      "title": "Potent and biased agonists of class B1 GPCRs from a heterochiral design strategy",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-16",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02182-x",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02174-x",
+      "title": "Isotropic zero thermal expansion in sodalite crystals from 11 to 893 K",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-16",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02174-x",
       "sources": [
         "publisher"
       ]
@@ -55428,6 +55668,18 @@
       "published_date": "2026-06-16",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.1252628",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02178-7",
+      "title": "An alkyl-swap platform for late-stage modification of secondary N-methylamines",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-15",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02178-7",
       "sources": [
         "publisher"
       ]
@@ -57492,6 +57744,30 @@
       "published_date": "2026-06-13",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.1244287",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02175-w",
+      "title": "Charge transport through linear carbon atomic chains",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-12",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02175-w",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02148-z",
+      "title": "Copper-catalysed site-selective arylation of pyrazoles",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-12",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02148-z",
       "sources": [
         "publisher"
       ]
@@ -60200,6 +60476,30 @@
       "published_date": "2026-06-11",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.3215238",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02177-8",
+      "title": "Ligand-modulated metal–radical polarity match enables general 1,2-dicarbofunctionalization of ethylene",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-10",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02177-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02155-0",
+      "title": "Aromatic ring flips reveal reshaping of protein dynamics in crystals and complexes",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-10",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02155-0",
       "sources": [
         "publisher"
       ]
@@ -64537,6 +64837,54 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02172-z",
+      "title": "Cyclophane-based shielding strategy for singly dispersed graphene nanoribbons",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-05",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02172-z",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02167-w",
+      "title": "Catalytic endo-stereoselective [2+2] cycloaddition of norbornadienes with internal alkynes",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-05",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02167-w",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02164-z",
+      "title": "Divergent and precise alkaloid remodelling with a small suite of reactions",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-05",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02164-z",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02163-0",
+      "title": "Distinct energetic blueprints diversify function of conserved protein folds",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-05",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02163-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-74111-y",
       "title": "SARS-CoV-2 Omicron BA.2.86 and JN.1 expand tropism in human proximal intestinal epithelium",
       "journal": "Nature Communications",
@@ -66678,6 +67026,30 @@
       "published_date": "2026-06-04",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.2412282",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02142-5",
+      "title": "A photochemical rotor bias in dual molecular motors",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02142-5",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02141-6",
+      "title": "A supercharged molecular motor operating by constitutional alteration and proton transfer",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02141-6",
       "sources": [
         "publisher"
       ]
@@ -69119,6 +69491,42 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02169-8",
+      "title": "Cation-directed assembly and sequential functionalization enable superprotonic polyanion–organic frameworks for high-power fuel cells",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-01",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02169-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02158-x",
+      "title": "Free-standing ultrathin two-dimensional peptide crystals",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-01",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02158-x",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02156-z",
+      "title": "Modular diastereoselective synthesis of hindered cyclobutane amino nitriles through triplet nitrene-mediated ring expansion",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-06-01",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02156-z",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-73976-3",
       "title": "Controlling an altermagnetic spin density wave in the kagome magnet CsCr3Sb5",
       "journal": "Nature Communications",
@@ -70799,6 +71207,18 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02166-x",
+      "title": "Redox-neutral ketone–olefin coupling enabled by mild ketone-to-ketyl-type radical conversion",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-05-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02166-x",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-73911-6",
       "title": "High-quality NiOx nanoparticles synthesized via low temperature chemical precipitation method for high-performance inverted perovskite photovoltaics",
       "journal": "Nature Communications",
@@ -72169,6 +72589,30 @@
       "article_type": "Research Article",
       "sources": [
         "science"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02168-9",
+      "title": "Molecular rotation and large polarization in charge-transfer ferroelectric cocrystals",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-05-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02168-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02153-2",
+      "title": "A photoexcited triplet state germylene with a half-life of hours at room temperature",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-05-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02153-2",
+      "sources": [
+        "publisher"
       ]
     },
     {
@@ -74512,6 +74956,30 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02161-2",
+      "title": "Blocking oxidation of α-hydrogens enables non-fluorinated solvents to achieve high-potential stability in lithium batteries",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-05-26",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02161-2",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02150-5",
+      "title": "Metal electrode potential diverges with ion additions",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-05-26",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02150-5",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-73748-z",
       "title": "Robust flat-magnetoresistivity in D03-Fe3Ga driven by chiral anomaly",
       "journal": "Nature Communications",
@@ -75803,6 +76271,18 @@
       "published_date": "2026-05-26",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.1446865",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02159-w",
+      "title": "Lanthanide-doped nanocrystals enable organic room-temperature phosphorescence in solution through direct triplet excitation",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-05-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02159-w",
       "sources": [
         "publisher"
       ]
@@ -83161,6 +83641,18 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02151-4",
+      "title": "Supramolecular dye polymers for aggregation-induced photocatalysis",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-05-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02151-4",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-73464-8",
       "title": "Scalable and sustainable manufacturing of functional DNA nanoassemblies via self-folding circular single-stranded DNA",
       "journal": "Nature Communications",
@@ -85112,6 +85604,18 @@
       "published_date": "2026-05-16",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jcim.6c00532",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02124-7",
+      "title": "A synthetic cell microreactor with two types of interacting dynamic DNA-based pores",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-05-15",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02124-7",
       "sources": [
         "publisher"
       ]
@@ -90187,6 +90691,18 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02147-0",
+      "title": "A neutral σ0π2 carbene enabling hydrogen activation via a σ-face pathway",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-05-11",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02147-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-73140-x",
       "title": "Reversible three-dimensional chirality continuum enabled by luminomagnetic superstructure in gel",
       "journal": "Nature Communications",
@@ -93325,6 +93841,18 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02146-1",
+      "title": "[2+2] Photocycloaddition reactions of sulfinylamines with alkenes to access β-sultam derivatives",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-05-07",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02146-1",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-72984-7",
       "title": "Risk-adapted therapy guided by human papillomavirus (HPV) circulating tumor DNA in HPV-positive oropharyngeal cancer (ReACT 1.0): an exploratory phase II trial",
       "journal": "Nature Communications",
@@ -94820,6 +95348,42 @@
       "published_date": "2026-05-07",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.1429706",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02138-1",
+      "title": "Timed batch inputs unlock substantially higher yields for enzymatic cascades",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-05-06",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02138-1",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02129-2",
+      "title": "Synthesis of aryl-fused bicyclo[3.1.1]heptanes and validation as naphthyl bioisosteres",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-05-06",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02129-2",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02099-5",
+      "title": "Unlocking chemical diversity in aptamers with DNA orthogonal barcodes",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-05-06",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02099-5",
       "sources": [
         "publisher"
       ]
@@ -96968,6 +97532,30 @@
       "published_date": "2026-05-05",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.1330357",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02125-6",
+      "title": "Emergence of specific binding and catalysis from a designed generalist binding protein",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-05-04",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02125-6",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02115-8",
+      "title": "Alkali-ion-modified zeolitic imidazolate framework glasses",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-05-04",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02115-8",
       "sources": [
         "publisher"
       ]
@@ -99856,6 +100444,18 @@
       "article_type": "Research Article",
       "sources": [
         "science"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02098-6",
+      "title": "Understanding low-pressure CO2 insertion chemistry in epoxide–CO2 copolymerization catalysis",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-04-30",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02098-6",
+      "sources": [
+        "publisher"
       ]
     },
     {
@@ -103051,6 +103651,18 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02127-4",
+      "title": "Small-molecule binding-site discovery using silyl ether-enabled chemoproteomics",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-04-27",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02127-4",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-72463-z",
       "title": "Sponge-inspired catalyst design for durable acidic CO2 reduction at low K+ concentration",
       "journal": "Nature Communications",
@@ -104887,6 +105499,42 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02135-4",
+      "title": "Single-crystal to single-crystal editing of metal–organic frameworks via ligand removal",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-04-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02135-4",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02120-x",
+      "title": "Reactions of diazoboranes with oxygen enables the synthesis and isolation of dioxaboriranes",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-04-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02120-x",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02100-1",
+      "title": "A Cu(I)-catalysed click reaction generates ROS-triggered cleavable linkages in aqueous media",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-04-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02100-1",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-72502-9",
       "title": "Discovery of farnesal from a wild cucumber landrace enables eco-compatible biopesticide development against aphids",
       "journal": "Nature Communications",
@@ -106080,6 +106728,54 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02133-6",
+      "title": "Two-dimensional metal–organic frameworks offer all-in-one cocatalysts for photocatalytic overall water splitting",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-04-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02133-6",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02131-8",
+      "title": "Persistent compensated ferrimagnetism in the molecular framework Cr(pyrazine)3",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-04-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02131-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02128-3",
+      "title": "Breaking the methanol/dimethyl carbonate azeotrope using a metal–organic framework with tetrahedral potassium-ion cluster gates",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-04-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02128-3",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02121-w",
+      "title": "De novo chemo-optogenetics through the rational design of photoresponsive molecules and selection of their artificial protein binding pairs",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-04-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02121-w",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-72495-5",
       "title": "Sluggish post-garnet transformation controls slab stagnation at the uppermost lower mantle",
       "journal": "Nature Communications",
@@ -107191,6 +107887,18 @@
       "published_date": "2026-04-23",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.1789437",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02137-2",
+      "title": "Diverse radical C–F functionalizations of hexa- to difluoroarenes using boryl radicals as link-and-lose mediators",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-04-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02137-2",
       "sources": [
         "publisher"
       ]
@@ -109500,6 +110208,18 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02123-8",
+      "title": "All-metal aromaticity of cyclo-Bi33− in diuranium and dithorium inverse-sandwich-type complexes",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-04-20",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02123-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-72270-6",
       "title": "Efficacy and safety of albumin combined with endovascular therapy in the treatment of patients with acute ischemic stroke: a randomized clinical trial",
       "journal": "Nature Communications",
@@ -111384,6 +112104,18 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02132-7",
+      "title": "Enantioconvergent vinylcyclopropane–cyclopentene rearrangement with vessel-controlled chemodivergence",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-04-17",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02132-7",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-72169-2",
       "title": "Conserved and divergent gene regulatory networks for crop drought resistance",
       "journal": "Nature Communications",
@@ -112721,6 +113453,18 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02122-9",
+      "title": "A system of paired polyether epoxide hydrolases enables a mouldable enzyme for consecutive ring cyclization cascades",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-04-16",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02122-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-72101-8",
       "title": "Unusual terminational effect on atomic ripple of Ti3C2Tx MXenes",
       "journal": "Nature Communications",
@@ -113976,6 +114720,18 @@
       "published_date": "2026-04-16",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.1428961",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02112-x",
+      "title": "KDM3A catalyses the oxidation of acetyl-lysine to hydroxyacetyl-lysine on histone H3K9",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-04-15",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02112-x",
       "sources": [
         "publisher"
       ]
@@ -116220,6 +116976,54 @@
       "published_date": "2026-04-14",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.1339483",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02126-5",
+      "title": "tRNA-deacylase-directed discovery of biosynthetic pathways",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-04-13",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02126-5",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02116-7",
+      "title": "Hydrophobic tuning with non-canonical amino acids in a copper metalloenzyme",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-04-13",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02116-7",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02114-9",
+      "title": "Contrasting single-molecule magnet behaviour in dysprosium and terbium bis(stannolediide) complexes",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-04-13",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02114-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02107-8",
+      "title": "Time-dependent surface polarization breaks static scaling relationship for selective acetylene hydrogenation",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-04-13",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02107-8",
       "sources": [
         "publisher"
       ]
@@ -125273,6 +126077,18 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02110-z",
+      "title": "Programmable divergent electrochemical ring-opening multifunctionalization of strained rings",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-04-02",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02110-z",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-71476-y",
       "title": "D-π-A sensitized carbon dots as long-lived type-I/Ⅱ photosensitizers for NIR-excited hypoxia-regulated photodynamic therapy",
       "journal": "Nature Communications",
@@ -128568,6 +129384,54 @@
       "published_date": "2026-03-31",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.202521827",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02109-6",
+      "title": "A photochargeable semiconductor for highly efficient dehydrogenative coupling of amines",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-03-30",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02109-6",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02106-9",
+      "title": "Exploring bacterial cytochrome P450s for selective activation of aliphatic C–H bonds in pentacyclic triterpenoids",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-03-30",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02106-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02101-0",
+      "title": "Supramolecular assembly of molecular wires alternating crown ethers and metal–halide complexes",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-03-30",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02101-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02087-9",
+      "title": "Superspreading and ultra-infiltrative coacervate mediates strong underwater adhesion on hydrated and lipidic substrates",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-03-30",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02087-9",
       "sources": [
         "publisher"
       ]
@@ -132802,6 +133666,18 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02089-7",
+      "title": "Photoinduced electron-transfer distance is controlled by the driving force in solid-state organic donor–acceptor systems",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-03-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02089-7",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-71153-0",
       "title": "Contrasting selective signatures of gene expression plasticity in response to antifungal clotrimazole and common environmental stresses in yeast",
       "journal": "Nature Communications",
@@ -134710,6 +135586,30 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02104-x",
+      "title": "Isolated and H2-reduced Anderson clusters catalyse low-temperature hydrogenation of CO2 to methanol",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-03-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02104-x",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02082-0",
+      "title": "Generating extended foldamer dye stacks and unravelling their evolving exciton dynamics",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-03-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02082-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-71104-9",
       "title": "Microporous MOF for simultaneous high thermodynamic and kinetic synergistic separation of propylene and propane",
       "journal": "Nature Communications",
@@ -136162,6 +137062,18 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02090-0",
+      "title": "Amino acid composition drives aggregation during peptide synthesis",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-03-20",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02090-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-71042-6",
       "title": "Network model for alignment, stitching and slice-to-volume 3D reconstruction of large-scale spatially resolved slices",
       "journal": "Nature Communications",
@@ -137271,6 +138183,18 @@
       "article_type": "Research Article",
       "sources": [
         "science"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02111-y",
+      "title": "Degradation of G-quadruplex-binding proteins in chromatin using G4-ligand-based proteolysis-targeting chimeras",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-03-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02111-y",
+      "sources": [
+        "publisher"
       ]
     },
     {
@@ -139242,6 +140166,18 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02093-x",
+      "title": "Discovery of chirally dependent protein modifications by D- and L-2-hydroxyglutarates",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-03-17",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02093-x",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-70876-4",
       "title": "Reactivating exhausted tumor-infiltrating T cells by a bispecific DC-T cell engager in mice",
       "journal": "Nature Communications",
@@ -140401,6 +141337,18 @@
       "published_date": "2026-03-17",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/jcc.70354",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02092-y",
+      "title": "On-surface radical ring-opening polymerization produces ultralong poly(para-phenylene) for access to non-benzenoid carbon nanoribbons",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-03-16",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02092-y",
       "sources": [
         "publisher"
       ]
@@ -142405,6 +143353,54 @@
       "published_date": "2026-03-14",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jcim.5c03233",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02096-8",
+      "title": "Chemical recycling of hydrofluorocarbons by transfer fluorination",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-03-13",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02096-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02091-z",
+      "title": "Spontaneous trisulfide metathesis in polar aprotic solvents",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-03-13",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02091-z",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02086-w",
+      "title": "Biocatalytic site- and stereoselective carbonyl desaturation for late-stage functionalization of cyclic ketones",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-03-13",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02086-w",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02084-y",
+      "title": "Recoding multiple rare codons enables the simultaneous incorporation of up to five distinct noncanonical amino acids",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-03-13",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02084-y",
       "sources": [
         "publisher"
       ]
@@ -145146,6 +146142,18 @@
       "published_date": "2026-03-11",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/jcc.70342",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02095-9",
+      "title": "Organocatalytic enantioselective synthesis of S(IV)-stereogenic sulfinamides enabled by an air-stable chiral phosphine",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-03-10",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02095-9",
       "sources": [
         "publisher"
       ]
@@ -150340,6 +151348,42 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02097-7",
+      "title": "Collective synthesis of 1,2,4-trisubstituted, meta- and ortho-substituted arene bioisosteres from bicyclobutanes",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-03-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02097-7",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02078-w",
+      "title": "Quantum interference between direct and indirect reaction paths in the photodissociation of HOD",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-03-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02078-w",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02064-2",
+      "title": "Mineral-to-molecule arsenic transfer via photoredox catalysis",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-03-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02064-2",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-70336-z",
       "title": "Single-cell thiol profiling enabled by live-cell labeling reveals metabolic heterogeneity in ferroptosis",
       "journal": "Nature Communications",
@@ -154653,6 +155697,18 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02072-2",
+      "title": "Hetero[3.1.1]propellanes",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-02-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02072-2",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-70062-6",
       "title": "A microbiota-IPA axis facilitates intestinal stem cell-mediated regeneration in colitis through a Hopx-associated program",
       "journal": "Nature Communications",
@@ -156460,6 +157516,42 @@
       "published_date": "2026-02-24",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/jcc.70317",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02076-y",
+      "title": "Controlling chromophore assembly and coupling via carbon nanohoops enables singlet fission at interchromophore distances up to 16 Å",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-02-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02076-y",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02070-4",
+      "title": "Homochiral toroidal spin state in Dy(III)-based single-molecule toroics",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-02-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02070-4",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-025-02052-y",
+      "title": "Native H2 pathways enable biocompatible hydrogenation of metabolic alkenes in bacteria",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-02-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02052-y",
       "sources": [
         "publisher"
       ]
@@ -158356,6 +159448,30 @@
       "published_date": "2026-02-21",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jcim.5c02692",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02077-x",
+      "title": "Formal Diels–Alder reaction of saturated carboxylic acids via C–H activation",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-02-20",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02077-x",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02071-3",
+      "title": "Catalytic asymmetric sulfonimidoyl transfer to access chiral sulfonimidoyl fluorides and related derivatives",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-02-20",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02071-3",
       "sources": [
         "publisher"
       ]
@@ -163792,6 +164908,18 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02068-y",
+      "title": "Asymmetric synthesis of enantioenriched lactams from cyclic ketones via Beckmann rearrangement",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-02-13",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02068-y",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-69613-8",
       "title": "Topological protection by local support symmetry and destructive interference",
       "journal": "Nature Communications",
@@ -165803,6 +166931,18 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-026-02073-1",
+      "title": "Contra-electronegativity transmetallation unlocks alkene carbomagnesiation to access quaternary stereocentres",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-02-11",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02073-1",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-69603-w",
       "title": "Treg-γδ T cell axis determines sexual dimorphism in hepatocarcinogenesis",
       "journal": "Nature Communications",
@@ -166554,6 +167694,18 @@
       "published_date": "2026-02-11",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/jcc.70319",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-025-02040-2",
+      "title": "Crystalline nitrogen chain radical anions",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-02-10",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02040-2",
       "sources": [
         "publisher"
       ]
@@ -167730,6 +168882,18 @@
       "published_date": "2026-02-10",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jcim.5c02141",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-025-02034-0",
+      "title": "Electron hopping in conjugated molecular wires with application to solar cells",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-02-09",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02034-0",
       "sources": [
         "publisher"
       ]
@@ -172866,6 +174030,18 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-025-02063-9",
+      "title": "A comprehensive model for the electric double layer of stepped platinum electrodes",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-02-02",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02063-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-69212-7",
       "title": "An interpretable AI system reduces false-positive MRI diagnoses by stratifying high-risk breast lesions",
       "journal": "Nature Communications",
@@ -175260,6 +176436,30 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-025-02061-x",
+      "title": "Small alkali cations direct CO electroreduction to hydrocarbons rather than oxygenates",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02061-x",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-025-02039-9",
+      "title": "Biomolecular condensates sustain pH gradients at equilibrium through charge neutralization",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02039-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-69028-5",
       "title": "Plant diversity within communities, not among them, stabilizes grassland productivity across spatial scales",
       "journal": "Nature Communications",
@@ -176155,6 +177355,18 @@
       "published_date": "2026-01-29",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jcim.5c02227",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-025-02045-x",
+      "title": "Wavelength-steered directional rotation in an autonomous light-driven molecular motor",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02045-x",
       "sources": [
         "publisher"
       ]
@@ -177960,6 +179172,18 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-025-02062-w",
+      "title": "Current-assisted dual-atom catalyst sequentially boosts low-temperature propane combustion through atomic relay",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-26",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02062-w",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-68884-5",
       "title": "Origin of small chromosome A08 and genome evolution of Arachis species",
       "journal": "Nature Communications",
@@ -179275,6 +180499,18 @@
       "published_date": "2026-01-24",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/jcc.70294",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-025-02041-1",
+      "title": "Collective asymmetric synthesis of the Strychnos alkaloids via thiophene S,S-dioxide cycloadditions",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02041-1",
       "sources": [
         "publisher"
       ]
@@ -181275,6 +182511,18 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-025-02055-9",
+      "title": "Hyperpyramidalized alkenes with bond orders near 1.5 as synthetic building blocks",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02055-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-68803-8",
       "title": "A gradient-structured all-cellulose biofoam enabled by solvent-induced molecular assembly for sustainable insulation modules",
       "journal": "Nature Communications",
@@ -182182,6 +183430,42 @@
       "published_date": "2026-01-21",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jcim.5c01917",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-025-02057-7",
+      "title": "Lithium metal-mediated electrochemical reduction of per- and poly-fluoroalkyl substances",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-20",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02057-7",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-025-02048-8",
+      "title": "Towards single-crystalline two-dimensional poly(arylene vinylene) covalent organic frameworks",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-20",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02048-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-025-02035-z",
+      "title": "Organic crystalline nanoparticles with a long-lived charge-separated state for efficient photocatalytic hydrogen production",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-20",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02035-z",
       "sources": [
         "publisher"
       ]
@@ -184215,6 +185499,30 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-025-02050-0",
+      "title": "Chiral catalysis-driven rotary molecular motors",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-16",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02050-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-025-02049-7",
+      "title": "Construction of synthetic protein-binding non-genetic DNA systems in living cells",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-16",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02049-7",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-68591-1",
       "title": "Reticulating node-linker-modulator chemical spaces for modular design of alkoxide-based glasses and liquids",
       "journal": "Nature Communications",
@@ -185139,6 +186447,18 @@
       "article_type": "Research Article",
       "sources": [
         "science"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-025-02053-x",
+      "title": "Selective epimerization of GlcNAc to GalNAc through steady-state tuning under kinetic network control",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-15",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02053-x",
+      "sources": [
+        "publisher"
       ]
     },
     {
@@ -187837,6 +189157,30 @@
       "published_date": "2026-01-13",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/jcc.70312",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-025-02047-9",
+      "title": "Thermal [2+2] cycloaddition as a route to gem-difluoro heterobicyclo[n.1.1]alkanes",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-12",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02047-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-025-02036-y",
+      "title": "Catalytic acyloin-type heterocoupling of thioesters via a putative cobalt siloxycarbene",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-12",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02036-y",
       "sources": [
         "publisher"
       ]
@@ -191208,6 +192552,42 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-025-02037-x",
+      "title": "Homologative alkene difunctionalization",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-07",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02037-x",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-025-02021-5",
+      "title": "Monovalent pseudo-natural products supercharge degradation of IDO1 by its native E3 KLHDC3",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-07",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02021-5",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-025-02017-1",
+      "title": "Biocompatible ligand balancing in transition metal coordination enables benign in-cell protein arylation",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-07",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02017-1",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-025-68278-z",
       "title": "Refrigeration down to 0.16 K using a frustrated magnet Gd2B2MoO9",
       "journal": "Nature Communications",
@@ -192228,6 +193608,30 @@
       ]
     },
     {
+      "doi": "10.1038/s41557-025-02026-0",
+      "title": "Stereoselective total synthesis of skew-tetramantane",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-06",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02026-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-025-02022-4",
+      "title": "The catalytic enantioselective [1,2]-Wittig rearrangement cascade of allylic ethers",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-06",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02022-4",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-025-68263-6",
       "title": "Dynamic decrosslinking enables self-healing, reprocessability, and upcycling in polyurethane networks",
       "journal": "Nature Communications",
@@ -193075,6 +194479,42 @@
       "published_date": "2026-01-06",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jcim.5c02225",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-025-02038-w",
+      "title": "Intralayer bidentate diammoniums for stable two-dimensional perovskites",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-05",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02038-w",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-025-02018-0",
+      "title": "Direct enantioselective C(sp3)−H coupling of N-alkyl anilines via metallaphotoredox catalysis",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-05",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02018-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-025-02016-2",
+      "title": "Unravelling gas evolution mechanisms in battery electrode materials",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-05",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02016-2",
       "sources": [
         "publisher"
       ]
@@ -194023,6 +195463,30 @@
       "published_date": "2026-01-03",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jpclett.5c03434",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-025-02025-1",
+      "title": "Stepwise-controllable catalytic asymmetric Atherton–Todd reaction to access diverse P(V)-stereogenic compounds",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-02",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02025-1",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-025-02012-6",
+      "title": "Global profiling of arginine reactivity and ligandability in the human proteome",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-01-02",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-025-02012-6",
       "sources": [
         "publisher"
       ]
