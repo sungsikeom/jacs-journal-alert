@@ -19,8 +19,10 @@ const PROFILE_KEY = 'journalPulseProfile:v1';
 const PROFILE_STATE_PREFIX = 'journalPulseState:v1:';
 const PROFILE_INDEX_KEY = 'journalPulseProfileIndex:v1';
 const COMMENTS_API_URL = 'https://journal-pulse-comments.sungsikeom886704.chatgpt.site/api/comments';
+const PROFILE_STATE_API_URL = 'https://journal-pulse-comments.sungsikeom886704.chatgpt.site/api/profile-state';
 const COMMENT_MIGRATION_PREFIX = 'journalPulseCommentsMigrated:v2:';
 const COMMENT_OWNERSHIP_MIGRATION_PREFIX = 'journalPulseCommentOwnerMigrated:v3:';
+const PROFILE_STATE_MIGRATION_PREFIX = 'journalPulseProfileStateMigrated:v2:';
 let payload = { articles: [], new_dois: [] };
 let activeFilter = 'all';
 const activeJournals = new Set();
@@ -29,6 +31,9 @@ let visibleCount = pageSize;
 let activeProfile = null;
 let profileState = { read: {}, interesting: {} };
 let sharedComments = {};
+let profileStateMutationVersion = 0;
+let profileStateSyncPromise = null;
+let profileStateSyncProfileId = null;
 
 const escapeHtml = value => String(value ?? '').replace(/[&<>'"]/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' }[char]));
 const journalDisplayName = value => ({ 'Nat Commun': 'Nat Commun', 'J. Comput. Chem.': 'JCC', 'Angew. Chem. Int. Ed.': 'Angew.' }[value] || value);
@@ -119,6 +124,84 @@ async function commentRequest(method = 'GET', body = null, owner = commentOwnerC
   const data = await response.json().catch(() => ({}));
   if (!response.ok) throw new Error(data.error || '댓글 서버에 연결하지 못했습니다.');
   return data;
+}
+
+async function profileStateRequest(method = 'GET', body = null, owner = commentOwnerCredential()) {
+  const headers = {};
+  if (body) headers['Content-Type'] = 'application/json';
+  if (owner) headers['X-Profile-Owner'] = owner;
+  const response = await fetch(PROFILE_STATE_API_URL, {
+    method,
+    headers,
+    body: body ? JSON.stringify(body) : null,
+  });
+  const data = await response.json().catch(() => ({}));
+  if (!response.ok) throw new Error(data.error || '프로필 설정 서버에 연결하지 못했습니다.');
+  return data;
+}
+
+function profileStatePayload() {
+  return {
+    read: Object.fromEntries(Object.entries(profileState.read || {}).filter(([, value]) => value === true)),
+    interesting: Object.fromEntries(Object.entries(profileState.interesting || {}).filter(([, value]) => value === true)),
+    notInteresting: Object.fromEntries(Object.entries(profileState.notInteresting || {}).filter(([, value]) => value === true)),
+  };
+}
+
+function replaceProfileState(remoteState) {
+  profileState = {
+    read: remoteState?.read && typeof remoteState.read === 'object' ? remoteState.read : {},
+    interesting: remoteState?.interesting && typeof remoteState.interesting === 'object' ? remoteState.interesting : {},
+    notInteresting: remoteState?.notInteresting && typeof remoteState.notInteresting === 'object' ? remoteState.notInteresting : {},
+    comments: profileState.comments || {},
+  };
+  saveProfileState();
+}
+
+function setProfileFlag(group, doi, value) {
+  profileState[group] ||= {};
+  if (value) profileState[group][doi] = true;
+  else delete profileState[group][doi];
+}
+
+async function persistProfileArticleState(doi, patch) {
+  const data = await profileStateRequest('PATCH', { doi, ...patch });
+  if (!data.article) throw new Error('저장된 프로필 설정을 확인하지 못했습니다.');
+  setProfileFlag('read', doi, data.article.read);
+  setProfileFlag('interesting', doi, data.article.interesting);
+  setProfileFlag('notInteresting', doi, data.article.notInteresting);
+  saveProfileState();
+  return data.article;
+}
+
+function syncProfileState() {
+  if (!activeProfile) return Promise.resolve(false);
+  const profileId = activeProfile.id;
+  if (profileStateSyncPromise && profileStateSyncProfileId === profileId) return profileStateSyncPromise;
+  const owner = commentOwnerCredential();
+  const mutationVersion = profileStateMutationVersion;
+  const syncPromise = (async () => {
+    const migrationKey = `${PROFILE_STATE_MIGRATION_PREFIX}${profileId}`;
+    const data = localStorage.getItem(migrationKey)
+      ? await profileStateRequest('GET', null, owner)
+      : await profileStateRequest('POST', { state: profileStatePayload() }, owner);
+    if (!localStorage.getItem(migrationKey)) localStorage.setItem(migrationKey, new Date().toISOString());
+    if (activeProfile?.id !== profileId || profileStateMutationVersion !== mutationVersion) return false;
+    replaceProfileState(data.state);
+    render(search.value);
+    return true;
+  })().catch(error => {
+    console.error('Profile state unavailable:', error);
+    return false;
+  }).finally(() => {
+    if (profileStateSyncPromise === syncPromise) {
+      profileStateSyncPromise = null;
+      profileStateSyncProfileId = null;
+    }
+  });
+  profileStateSyncPromise = syncPromise;
+  profileStateSyncProfileId = profileId;
+  return syncPromise;
 }
 
 function indexSharedComments(comments) {
@@ -223,30 +306,74 @@ function render(query = '') {
   empty.hidden = rows.length !== 0;
   loadMore.hidden = rows.length === 0 || rows.length >= matchingRows.length;
   loadMore.textContent = `논문 더 보기 (${matchingRows.length - rows.length}편 남음)`;
-  container.querySelectorAll('.read-toggle').forEach(input => input.addEventListener('change', event => {
-    profileState.read[event.target.dataset.doi] = event.target.checked;
+  container.querySelectorAll('.read-toggle').forEach(input => input.addEventListener('change', async event => {
+    const doi = event.target.dataset.doi;
+    const previous = Boolean(profileState.read[doi]);
+    const next = event.target.checked;
+    profileStateMutationVersion += 1;
+    setProfileFlag('read', doi, next);
     saveProfileState();
-    event.target.closest('.article')?.classList.toggle('is-read', event.target.checked);
+    event.target.closest('.article')?.classList.toggle('is-read', next);
+    event.target.disabled = true;
+    try {
+      await persistProfileArticleState(doi, { read: next });
+      event.target.disabled = false;
+    } catch (error) {
+      setProfileFlag('read', doi, previous);
+      saveProfileState();
+      render(search.value);
+      window.alert(error.message);
+    }
   }));
-  container.querySelectorAll('.interest-toggle').forEach(button => button.addEventListener('click', event => {
+  container.querySelectorAll('.interest-toggle').forEach(button => button.addEventListener('click', async event => {
     const doi = event.currentTarget.dataset.doi;
-    profileState.interesting[doi] = !profileState.interesting[doi];
-    if (profileState.interesting[doi]) profileState.notInteresting[doi] = false;
+    const previousInteresting = Boolean(profileState.interesting[doi]);
+    const previousNotInteresting = Boolean(profileState.notInteresting[doi]);
+    const next = !previousInteresting;
+    profileStateMutationVersion += 1;
+    setProfileFlag('interesting', doi, next);
+    if (next) setProfileFlag('notInteresting', doi, false);
     saveProfileState();
-    event.currentTarget.classList.toggle('is-active', profileState.interesting[doi]);
-    event.currentTarget.setAttribute('aria-pressed', String(profileState.interesting[doi]));
+    event.currentTarget.classList.toggle('is-active', next);
+    event.currentTarget.setAttribute('aria-pressed', String(next));
     const opposite = container.querySelector(`.not-interest-toggle[data-doi="${CSS.escape(doi)}"]`);
     if (opposite) { opposite.classList.toggle('is-active', false); opposite.setAttribute('aria-pressed', 'false'); }
+    event.currentTarget.disabled = true;
+    try {
+      await persistProfileArticleState(doi, { interesting: next, notInteresting: next ? false : previousNotInteresting });
+      event.currentTarget.disabled = false;
+    } catch (error) {
+      setProfileFlag('interesting', doi, previousInteresting);
+      setProfileFlag('notInteresting', doi, previousNotInteresting);
+      saveProfileState();
+      render(search.value);
+      window.alert(error.message);
+    }
   }));
-  container.querySelectorAll('.not-interest-toggle').forEach(button => button.addEventListener('click', event => {
+  container.querySelectorAll('.not-interest-toggle').forEach(button => button.addEventListener('click', async event => {
     const doi = event.currentTarget.dataset.doi;
-    profileState.notInteresting[doi] = !profileState.notInteresting[doi];
-    if (profileState.notInteresting[doi]) profileState.interesting[doi] = false;
+    const previousNotInteresting = Boolean(profileState.notInteresting[doi]);
+    const previousInteresting = Boolean(profileState.interesting[doi]);
+    const next = !previousNotInteresting;
+    profileStateMutationVersion += 1;
+    setProfileFlag('notInteresting', doi, next);
+    if (next) setProfileFlag('interesting', doi, false);
     saveProfileState();
-    event.currentTarget.classList.toggle('is-active', profileState.notInteresting[doi]);
-    event.currentTarget.setAttribute('aria-pressed', String(profileState.notInteresting[doi]));
+    event.currentTarget.classList.toggle('is-active', next);
+    event.currentTarget.setAttribute('aria-pressed', String(next));
     const opposite = container.querySelector(`.interest-toggle[data-doi="${CSS.escape(doi)}"]`);
     if (opposite) { opposite.classList.toggle('is-active', false); opposite.setAttribute('aria-pressed', 'false'); }
+    event.currentTarget.disabled = true;
+    try {
+      await persistProfileArticleState(doi, { notInteresting: next, interesting: next ? false : previousInteresting });
+      event.currentTarget.disabled = false;
+    } catch (error) {
+      setProfileFlag('notInteresting', doi, previousNotInteresting);
+      setProfileFlag('interesting', doi, previousInteresting);
+      saveProfileState();
+      render(search.value);
+      window.alert(error.message);
+    }
   }));
   container.querySelectorAll('.comment-form').forEach(form => form.addEventListener('submit', async event => {
     event.preventDefault();
@@ -335,6 +462,7 @@ profileForm.addEventListener('submit', event => {
   profileGate.hidden = true;
   render(search.value);
   syncSharedComments();
+  syncProfileState();
 });
 
 fetch('./data/articles.json', { cache: 'no-store' })
@@ -351,6 +479,7 @@ fetch('./data/articles.json', { cache: 'no-store' })
     document.querySelector('#checked-at').textContent = data.checked_at ? new Date(data.checked_at).toLocaleString('ko-KR') : '확인 시각 없음';
     render();
     syncSharedComments();
+    syncProfileState();
   })
   .catch(() => { document.querySelector('#status-label').textContent = '데이터 확인 대기 중'; document.querySelector('#checked-at').textContent = '잠시 후 다시 시도해 주세요'; render(); });
 
