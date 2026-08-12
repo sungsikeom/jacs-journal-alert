@@ -12,6 +12,7 @@ const PROFILE_DIR = process.env.PUBLISHER_CHROME_PROFILE_DIR || "Profile 1";
 const IDLE_TIMEOUT_MS = Number(process.env.PUBLISHER_IDLE_TIMEOUT_MS || 180_000);
 const configs = {
   nature: { output: "nature_communications_articles.json", minimum: 5000, url: "https://www.nature.com/ncomms/research-articles#publisher-auto" },
+  "nature-chemistry": { output: "nature_chemistry_articles.json", minimum: 80, url: "https://www.nature.com/nchem/research-articles?type=article#publisher-auto" },
   jctc: { output: "jctc_articles.json", minimum: 300, url: "https://pubs.acs.org/jctcce/search-results?sort=Date+-+Newest+First&f_JournalID=1000064&f_ContentType=Journal+Articles&fl_SiteID=1000123&qb=%7B%22q%22%3A%22%22%7D&page=1#publisher-auto" },
   jcim: { output: "jcim_articles.json", minimum: 200, url: "https://pubs.acs.org/jcisd8/search-results?sort=Date+-+Newest+First&f_ContentType=Journal+Articles&fl_SiteID=1000171&qb=%7B%22q%22%3A%22%22%7D&page=1&f_JournalID=1000088#publisher-auto" },
   jpcl: { output: "jpcl_articles.json", minimum: 400, url: "https://pubs.acs.org/jpclcd/search-results?sort=Date+-+Newest+First&f_ContentType=Journal+Articles&qb=%7B%22q%22%3A%22%22%7D&page=1#publisher-auto" },
@@ -35,6 +36,7 @@ if (["jctc", "jcim", "jpcl"].includes(key) && Number.isInteger(requestedStartPag
 }
 const output = path.join(ROOT, "data", config.output);
 const expectedPrefix = {
+  "nature-chemistry": "10.1038/s41557-",
   jctc: "10.1021/acs.jctc.",
   jcim: "10.1021/acs.jcim.",
   jpcl: "10.1021/acs.jpclett.",

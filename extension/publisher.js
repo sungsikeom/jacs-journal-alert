@@ -1,11 +1,13 @@
 const PUBLISHER_STATE_KEY = "publisherCollectorState";
 const PUBLISHER_CUTOFF = "2026-01-01";
-const PUBLISHER_BUILD = "1.8.0";
+const PUBLISHER_BUILD = "1.9.0";
 const PUBLISHER_MAX_PAGES = 1000;
 const ACS_SEARCH_KEYS = new Set(["jctc", "jcim", "jpcl"]);
+const NATURE_KEYS = new Set(["nature", "nature-chemistry"]);
 
 const publisherConfig = (() => {
-  if (location.hostname === "www.nature.com") return { key: "nature", label: "Nature Communications", prefix: "10.1038/s41467-", source: "Nature Communications Research Articles" };
+  if (location.hostname === "www.nature.com" && /^\/ncomms\//i.test(location.pathname)) return { key: "nature", label: "Nature Communications", prefix: "10.1038/s41467-", articleCode: "s41467-", source: "Nature Communications Research Articles" };
+  if (location.hostname === "www.nature.com" && /^\/nchem\//i.test(location.pathname)) return { key: "nature-chemistry", label: "Nature Chemistry", prefix: "10.1038/s41557-", articleCode: "s41557-", source: "Nature Chemistry Research Articles" };
   if (location.hostname === "pubs.acs.org" && /^\/jctcce\//i.test(location.pathname)) return { key: "jctc", label: "JCTC", prefix: "10.1021/acs.jctc.", source: "ACS JCTC Article search results" };
   if (location.hostname === "pubs.acs.org" && /^\/jcisd8\//i.test(location.pathname)) return { key: "jcim", label: "JCIM", prefix: "10.1021/acs.jcim.", source: "ACS JCIM Article search results" };
   if (location.hostname === "pubs.acs.org" && /^\/jpclcd\//i.test(location.pathname)) return { key: "jpcl", label: "JPCL", prefix: "10.1021/acs.jpclett.", source: "ACS JPCL Article search results" };
@@ -18,7 +20,7 @@ const publisherConfig = (() => {
 
 function publisherDoi(value) {
   const text = String(value || "");
-  const nature = text.match(/\/articles\/(s41467-[^/?#]+)/i);
+  const nature = text.match(/\/articles\/(s\d{5}-[^/?#]+)/i);
   if (nature) return `10.1038/${nature[1].toLowerCase()}`;
   const acsJournal = text.match(/10\.1021\/acs\.(?:jctc|jcim|jpclett)\.[a-z0-9]+/i);
   if (acsJournal) return acsJournal[0].toLowerCase();
@@ -63,10 +65,10 @@ function chemicalScienceItem(anchor) {
 }
 
 function readPublisherPage() {
-  if (publisherConfig.key === "nature") {
+  if (NATURE_KEYS.has(publisherConfig.key)) {
     const byDoi = new Map();
     for (const item of document.querySelectorAll("li.app-article-list-row__item")) {
-      const anchor = item.querySelector('a[href*="/articles/s41467-"]');
+      const anchor = item.querySelector(`a[href*="/articles/${publisherConfig.articleCode}"]`);
       const doi = publisherDoi(anchor?.href);
       if (!doi || byDoi.has(doi)) continue;
       const titleNode = item.querySelector("h2 a, h3 a, h4 a") || anchor;
@@ -103,7 +105,7 @@ function readPublisherPage() {
     }
     return [...byDoi.values()];
   }
-  const selectors = publisherConfig.key === "nature"
+  const selectors = NATURE_KEYS.has(publisherConfig.key)
     ? "li.app-article-list-row__item, article"
     : ACS_SEARCH_KEYS.has(publisherConfig.key)
       ? ".sr-list.content-type-journal-articles"
@@ -181,7 +183,7 @@ async function waitPublisherRows() {
     const rows = readPublisherPage();
     if (publisherConfig.key === "chemical-science" && !publisherSecurityChallenge() && attempt % 5 === 0) publisherPanel(`RSC 논문 링크 탐색 중 · ${rows.length}편 감지`, true);
     if (rows.length > best.length) best = rows;
-    if (publisherConfig.key === "nature") {
+    if (NATURE_KEYS.has(publisherConfig.key)) {
       const complete = rows.length > 0 && rows.length <= 20 && rows.every((row) => row.title && row.title !== row.doi && row.published_date);
       const signature = complete
         ? rows.map((row) => `${row.doi}|${row.title}|${row.published_date}`).sort().join("\n")
@@ -232,13 +234,14 @@ function openNextPublisherPage() {
     location.replace(nextUrl.toString());
     return true;
   }
-  if (publisherConfig.key === "nature" || ACS_SEARCH_KEYS.has(publisherConfig.key)) {
+  if (NATURE_KEYS.has(publisherConfig.key) || ACS_SEARCH_KEYS.has(publisherConfig.key)) {
     const nextUrl = new URL(location.href);
     const currentPage = Number(nextUrl.searchParams.get("page") || "1");
     nextUrl.searchParams.set("page", String(currentPage + 1));
-    if (publisherConfig.key === "nature") {
+    if (NATURE_KEYS.has(publisherConfig.key)) {
       nextUrl.searchParams.set("searchType", "journalSearch");
       nextUrl.searchParams.set("sort", "PubDate");
+      if (publisherConfig.key === "nature-chemistry") nextUrl.searchParams.set("type", "article");
     } else {
       nextUrl.searchParams.set("f_ContentType", "Journal Articles");
       nextUrl.searchParams.delete("f_ArticleTypeDisplayName");
@@ -307,14 +310,14 @@ async function processPublisherPage() {
     if (state.mode === "incremental" && known.has(row.doi)) { reason = "known-doi"; break; }
     pageRows.push(row);
   }
-  if (!reason && publisherConfig.key === "nature" && pageRows.length !== rows.length) {
+  if (!reason && NATURE_KEYS.has(publisherConfig.key) && pageRows.length !== rows.length) {
     throw new Error(`Nature 페이지 검증 실패: 감지 ${rows.length}편, 전송 ${pageRows.length}편`);
   }
   const batch = await publisherMessage({ type: "publisher-batch", payload: { articles: pageRows } });
-  if (!reason && publisherConfig.key === "nature" && batch.received_count !== rows.length) {
+  if (!reason && NATURE_KEYS.has(publisherConfig.key) && batch.received_count !== rows.length) {
     throw new Error(`Nature 전송 검증 실패: ${rows.length}편 대신 ${batch.received_count}편 전송`);
   }
-  if (!reason && publisherConfig.key === "nature" && batch.added_count === 0) {
+  if (!reason && NATURE_KEYS.has(publisherConfig.key) && batch.added_count === 0) {
     throw new Error("Nature 페이지의 20편이 모두 이전 페이지와 중복됩니다. 페이지 이동을 확인하세요.");
   }
   state.article_count = batch.article_count;
@@ -325,14 +328,14 @@ async function processPublisherPage() {
   state.processing_url = null;
   state.processing_started = null;
   await savePublisherState(state);
-  const visiblePage = publisherConfig.key === "nature" || ACS_SEARCH_KEYS.has(publisherConfig.key)
+  const visiblePage = NATURE_KEYS.has(publisherConfig.key) || ACS_SEARCH_KEYS.has(publisherConfig.key)
     ? new URL(location.href).searchParams.get("page") || "1"
     : publisherConfig.key === "chemical-science"
       ? (location.pathname.match(/^\/sc\/issue\/(\d+)\/(\d+)/i)?.slice(1).join("권 · ") || "현재")
     : publisherConfig.key === "jcc" || publisherConfig.key === "angew"
       ? String(Number(new URL(location.href).searchParams.get("startPage") || "0") + 1)
       : state.pages;
-  const pageBreakdown = publisherConfig.key === "nature"
+  const pageBreakdown = NATURE_KEYS.has(publisherConfig.key)
     ? ` · 이번 ${rows.length}편 · 신규 고유 ${batch.added_count}편`
     : "";
   publisherPanel(`${visiblePage}페이지${pageBreakdown} · 누적 ${state.article_count}편`, true);
@@ -346,7 +349,7 @@ async function processPublisherPage() {
       if (issue <= 1) return finishPublisher(state, "last-issue");
     }
   } else if (!ACS_SEARCH_KEYS.has(publisherConfig.key) && rows.length < 20) return finishPublisher(state, "short-page");
-  if (publisherConfig.key !== "nature" && publisherConfig.key !== "chemical-science" && !ACS_SEARCH_KEYS.has(publisherConfig.key) && !nextPublisherPage()) return finishPublisher(state, "last-page");
+  if (!NATURE_KEYS.has(publisherConfig.key) && publisherConfig.key !== "chemical-science" && !ACS_SEARCH_KEYS.has(publisherConfig.key) && !nextPublisherPage()) return finishPublisher(state, "last-page");
   setTimeout(() => {
     loadPublisherState().then((latest) => {
       if (!latest?.running || latest.run_id !== state.run_id) return;
@@ -358,6 +361,9 @@ async function processPublisherPage() {
 async function startPublisherCollection() {
   if (ACS_SEARCH_KEYS.has(publisherConfig.key) && new URL(location.href).searchParams.get("f_ContentType") !== "Journal Articles") {
     throw new Error(`${publisherConfig.label} Content Type 필터가 없습니다. Journal Articles 필터 주소에서 시작하세요.`);
+  }
+  if (publisherConfig.key === "nature-chemistry" && new URL(location.href).searchParams.get("type") !== "article") {
+    throw new Error("Nature Chemistry Article 필터 주소에서 시작하세요.");
   }
   if (publisherConfig.key === "chemical-science" && !(/^\/sc\/issue\/\d+\/\d+/i.test(location.pathname) || /latest-articles|advance-articles/i.test(location.pathname))) {
     throw new Error("Chemical Science 최신 논문 또는 Volume/Issue 주소에서 시작하세요.");

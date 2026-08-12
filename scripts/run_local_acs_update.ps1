@@ -25,41 +25,45 @@ function Invoke-Collector {
 New-Item -ItemType Directory -Force (Split-Path $LogPath) | Out-Null
 Start-Transcript -Path $LogPath -Append
 try {
-    Write-Host "[1/12] Updating the local repository"
+    Write-Host "[1/13] Updating the local repository"
     git pull --ff-only
 
-    Write-Host "[2/12] JACS"
+    Write-Host "[2/13] JACS"
     Invoke-Collector -Label "JACS" -Script "scripts/receive_acs_collection.mjs"
 
-    Write-Host "[3/12] Science"
+    Write-Host "[3/13] Science"
     Invoke-Collector -Label "Science Research Articles" -Script "scripts/receive_science_collection.mjs"
 
-    Write-Host "[4/12] Nature Communications"
+    Write-Host "[4/13] Nature Communications"
     Invoke-Collector -Label "Nature Communications" -Script "scripts/receive_publisher_collection.mjs" -CollectorArgs @("nature")
 
-    Write-Host "[5/12] JCTC"
+    Write-Host "[5/13] Nature Chemistry"
+    Invoke-Collector -Label "Nature Chemistry" -Script "scripts/receive_publisher_collection.mjs" -CollectorArgs @("nature-chemistry")
+
+    Write-Host "[6/13] JCTC"
     Invoke-Collector -Label "JCTC" -Script "scripts/receive_publisher_collection.mjs" -CollectorArgs @("jctc")
 
-    Write-Host "[6/12] JCIM"
+    Write-Host "[7/13] JCIM"
     Invoke-Collector -Label "JCIM" -Script "scripts/receive_publisher_collection.mjs" -CollectorArgs @("jcim")
 
-    Write-Host "[7/12] JPCL"
+    Write-Host "[8/13] JPCL"
     Invoke-Collector -Label "The Journal of Physical Chemistry Letters" -Script "scripts/receive_publisher_collection.mjs" -CollectorArgs @("jpcl")
 
-    Write-Host "[8/12] Journal of Computational Chemistry"
+    Write-Host "[9/13] Journal of Computational Chemistry"
     Invoke-Collector -Label "Journal of Computational Chemistry" -Script "scripts/receive_publisher_collection.mjs" -CollectorArgs @("jcc")
 
-    Write-Host "[9/12] Angewandte"
+    Write-Host "[10/13] Angewandte"
     Invoke-Collector -Label "Angewandte" -Script "scripts/receive_publisher_collection.mjs" -CollectorArgs @("angew")
 
-    Write-Host "[10/12] Chemical Science"
+    Write-Host "[11/13] Chemical Science"
     Invoke-Collector -Label "Chemical Science" -Script "scripts/receive_publisher_collection.mjs" -CollectorArgs @("chemical-science")
 
-    Write-Host "[11/12] Building publisher-only site data"
+    Write-Host "[12/13] Building publisher-only site data"
     & py -3 scripts/update_journals.py `
         --acs-file data/acs_articles.json `
         --science-file data/science_articles.json `
         --nature-file data/nature_communications_articles.json `
+        --nature-chemistry-file data/nature_chemistry_articles.json `
         --jctc-file data/jctc_articles.json `
         --jcim-file data/jcim_articles.json `
         --jpcl-file data/jpcl_articles.json `
@@ -68,8 +72,8 @@ try {
         --chemical-science-file data/chemical_science_articles.json
     if ($LASTEXITCODE -ne 0) { throw "Publisher inventory merge failed." }
 
-    Write-Host "[12/12] Publishing changed inventories"
-    git add data/acs_articles.json data/science_articles.json data/nature_communications_articles.json `
+    Write-Host "[13/13] Publishing changed inventories"
+    git add data/acs_articles.json data/science_articles.json data/nature_communications_articles.json data/nature_chemistry_articles.json `
         data/jctc_articles.json data/jcim_articles.json data/jpcl_articles.json data/jcc_articles.json data/angew_articles.json data/chemical_science_articles.json `
         data/articles.json data/seen_dois.json
     if (git diff --cached --quiet) {

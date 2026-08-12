@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Journal Alert Collector",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "description": "Collect journal results from normal user-opened publisher pages.",
   "permissions": ["storage", "tabs", "alarms"],
   "host_permissions": [
@@ -31,6 +31,7 @@
     {
       "matches": [
         "https://www.nature.com/ncomms/research-articles*",
+        "https://www.nature.com/nchem/research-articles*",
         "https://pubs.acs.org/jctcce/search-results*",
         "https://pubs.acs.org/jcisd8/search-results*",
         "https://pubs.acs.org/jpclcd/search-results*",

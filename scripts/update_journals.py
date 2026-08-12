@@ -36,6 +36,7 @@ JOURNALS = [
         "issn": "0002-7863",
     },
     {"key": "nature-communications", "name": "Nature Communications", "short_name": "Nat Commun", "issn": "2041-1723"},
+    {"key": "nature-chemistry", "name": "Nature Chemistry", "short_name": "Nat Chem", "issn": "1755-4349"},
     {"key": "journal-of-computational-chemistry", "name": "Journal of Computational Chemistry", "short_name": "J. Comput. Chem.", "issn": "1096-987X"},
     {"key": "jctc", "name": "Journal of Chemical Theory and Computation", "short_name": "JCTC", "issn": "1549-9626"},
     {"key": "jcim", "name": "Journal of Chemical Information and Modeling", "short_name": "JCIM", "issn": "1549-9596"},
@@ -431,6 +432,7 @@ def main() -> int:
     parser.add_argument("--acs-file", type=Path, help="Use an ACS DOI inventory as the inclusion authority")
     parser.add_argument("--science-file", type=Path, help="Include a verified Science Research Article inventory")
     parser.add_argument("--nature-file", type=Path, help="Use the Nature Communications Research Articles inventory")
+    parser.add_argument("--nature-chemistry-file", type=Path, help="Use the Nature Chemistry Research Articles inventory")
     parser.add_argument("--jctc-file", type=Path, help="Use the ACS JCTC search inventory")
     parser.add_argument("--jcim-file", type=Path, help="Use the ACS JCIM search inventory")
     parser.add_argument("--jpcl-file", type=Path, help="Use the ACS JPCL search inventory")
@@ -443,6 +445,7 @@ def main() -> int:
             key: path
             for key, path in {
                 "nature-communications": args.nature_file,
+                "nature-chemistry": args.nature_chemistry_file,
                 "jctc": args.jctc_file,
                 "jcim": args.jcim_file,
                 "jpcl": args.jpcl_file,

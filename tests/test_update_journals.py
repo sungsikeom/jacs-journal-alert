@@ -31,6 +31,7 @@ class MetadataNormalizationTests(unittest.TestCase):
     def test_monitored_crossref_journals(self):
         journals = {journal["short_name"]: journal["issn"] for journal in UPDATE.JOURNALS}
         self.assertEqual(journals["Nat Commun"], "2041-1723")
+        self.assertEqual(journals["Nat Chem"], "1755-4349")
         self.assertEqual(journals["J. Comput. Chem."], "1096-987X")
         self.assertEqual(journals["JCTC"], "1549-9626")
         self.assertEqual(journals["JCIM"], "1549-9596")
