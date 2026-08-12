@@ -39,6 +39,7 @@ JOURNALS = [
     {"key": "journal-of-computational-chemistry", "name": "Journal of Computational Chemistry", "short_name": "J. Comput. Chem.", "issn": "1096-987X"},
     {"key": "jctc", "name": "Journal of Chemical Theory and Computation", "short_name": "JCTC", "issn": "1549-9626"},
     {"key": "jcim", "name": "Journal of Chemical Information and Modeling", "short_name": "JCIM", "issn": "1549-9596"},
+    {"key": "jpcl", "name": "The Journal of Physical Chemistry Letters", "short_name": "JPCL", "issn": "1948-7185"},
     {"key": "angewandte", "name": "Angewandte Chemie International Edition", "short_name": "Angew. Chem. Int. Ed.", "issn": "1521-3773"},
     {"key": "chemical-science", "name": "Chemical Science", "short_name": "Chem. Sci.", "issn": "2041-6520"},
 ]
@@ -432,6 +433,7 @@ def main() -> int:
     parser.add_argument("--nature-file", type=Path, help="Use the Nature Communications Research Articles inventory")
     parser.add_argument("--jctc-file", type=Path, help="Use the ACS JCTC search inventory")
     parser.add_argument("--jcim-file", type=Path, help="Use the ACS JCIM search inventory")
+    parser.add_argument("--jpcl-file", type=Path, help="Use the ACS JPCL search inventory")
     parser.add_argument("--jcc-file", type=Path, help="Use the Wiley Journal of Computational Chemistry inventory")
     parser.add_argument("--angew-file", type=Path, help="Use the Wiley Angewandte inventory")
     parser.add_argument("--chemical-science-file", type=Path, help="Use the RSC Chemical Science inventory")
@@ -443,6 +445,7 @@ def main() -> int:
                 "nature-communications": args.nature_file,
                 "jctc": args.jctc_file,
                 "jcim": args.jcim_file,
+                "jpcl": args.jpcl_file,
                 "journal-of-computational-chemistry": args.jcc_file,
                 "angewandte": args.angew_file,
                 "chemical-science": args.chemical_science_file,

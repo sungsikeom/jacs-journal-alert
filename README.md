@@ -1,17 +1,17 @@
 # Chemistry & Science Journal Alert
 
-JACS, Science Research Articles, Nature Communications, Journal of Computational Chemistry, JCTC, Angewandte Chemie International Edition을 DOI 기준으로 확인하는 정적 웹사이트입니다. 논문 제목과 DOI, 공식 DOI 링크만 표시하며 초록과 본문은 수집하지 않습니다.
+JACS, Science Research Articles, Nature Communications, Journal of Computational Chemistry, JCTC, JCIM, The Journal of Physical Chemistry Letters(JPCL), Angewandte Chemie International Edition, Chemical Science를 DOI 기준으로 확인하는 정적 웹사이트입니다. 논문 제목과 DOI, 공식 DOI 링크만 표시하며 초록과 본문은 수집하지 않습니다.
 
 사이트에서는 전체 논문과 이번 실행에서 새로 발견된 논문을 구분해 볼 수 있고, 제목·DOI 검색과 50편 단위 더 보기를 지원합니다.
 
 ## 동작 방식
 
-1. GitHub Actions가 매일 Asia/Seoul 오전 9시 17분에 실행됩니다.
+1. Windows 예약 작업이 매일 Asia/Seoul 오전 9시에 공식 출판사 페이지 수집을 시작합니다.
 2. 각 출판사의 공식 검색·Research Articles 페이지에서 제목, DOI, 발행일을 수집합니다.
-3. 목록은 출간일 내림차순으로 정렬하여 최신 논문을 맨 위에 표시합니다.
-4. `data/seen_dois.json`에 없는 DOI를 신규 논문으로 판정합니다.
-5. 연도별 첫 실행에서는 해당 연도의 전체 결과를 기준선으로만 저장하고 알림을 만들지 않습니다.
-6. 이후 신규 DOI가 있으면 사이트의 NEW 표시를 갱신하고 GitHub Issue를 생성합니다.
+3. 변경된 인벤토리를 올리면 GitHub Actions가 사이트 데이터를 생성하고 배포합니다.
+4. 목록은 출간일 내림차순으로 정렬하여 최신 논문을 맨 위에 표시합니다.
+5. `data/seen_dois.json`에 없는 DOI를 신규 논문으로 판정합니다.
+6. 신규 DOI가 있으면 사이트의 NEW 표시를 갱신하고 GitHub Issue를 생성합니다.
 
 ## GitHub에서 처음 설정하기
 
@@ -34,7 +34,7 @@ Set-ExecutionPolicy -Scope Process Bypass
 .\scripts\run_local_acs_update.ps1
 ```
 
-첫 수동 실행이 성공하면 Windows 작업 스케줄러의 `JACS Journal Alert ACS Update`가 매일 오전 9시 30분 실행됩니다. PC가 꺼져 있었으면 다음 시작 시 실행됩니다. Chrome에 CAPTCHA나 접근 차단이 나타나거나 2026년 1월 1일까지 도달하지 못하면 데이터 파일과 GitHub 저장소를 변경하지 않습니다. 실패 화면과 HTML은 로컬 `diagnostics` 폴더에만 저장됩니다.
+첫 수동 실행이 성공하면 Windows 작업 스케줄러의 `Journal Alert Official Publisher Update`가 매일 오전 9시에 실행됩니다. PC가 꺼져 있었으면 다음 시작 시 실행됩니다. Chrome에 CAPTCHA나 접근 차단이 나타나거나 2026년 1월 1일까지 도달하지 못하면 데이터 파일과 GitHub 저장소를 변경하지 않습니다. 실패 화면과 HTML은 로컬 `diagnostics` 폴더에만 저장됩니다.
 
 ## Science Research Articles 수집
 
@@ -58,11 +58,12 @@ Chrome 확장 프로그램을 새로고침한 뒤 아래 명령을 한 번에 �
 npm run collect:nature
 npm run collect:jctc
 npm run collect:jcim
+npm run collect:jpcl
 npm run collect:jcc
 npm run collect:angew
 ```
 
-공식 인벤토리가 준비되면 사이트 생성기는 Crossref을 사용하지 않는 `publisher-only` 모드로 전환합니다. JCIM은 2026년 공식 ACS 검색 결과를 기준선으로 저장하고 이후 최신 페이지에서 기존 DOI가 확인될 때까지 증분 수집합니다.
+공식 인벤토리가 준비되면 사이트 생성기는 Crossref을 사용하지 않는 `publisher-only` 모드로 전환합니다. JCIM과 JPCL은 2026년 공식 ACS 검색 결과를 기준선으로 저장하고 이후 최신 페이지에서 기존 DOI가 확인될 때까지 증분 수집합니다.
 
 ## 로컬 점검
 

@@ -34,6 +34,7 @@ class MetadataNormalizationTests(unittest.TestCase):
         self.assertEqual(journals["J. Comput. Chem."], "1096-987X")
         self.assertEqual(journals["JCTC"], "1549-9626")
         self.assertEqual(journals["JCIM"], "1549-9596")
+        self.assertEqual(journals["JPCL"], "1948-7185")
         self.assertEqual(journals["Angew. Chem. Int. Ed."], "1521-3773")
 
     def test_publisher_authority_removes_unverified_journal_items(self):

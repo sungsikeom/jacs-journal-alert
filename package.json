@@ -9,6 +9,7 @@
     "collect:nature": "node scripts/receive_publisher_collection.mjs nature",
     "collect:jctc": "node scripts/receive_publisher_collection.mjs jctc",
     "collect:jcim": "node scripts/receive_publisher_collection.mjs jcim",
+    "collect:jpcl": "node scripts/receive_publisher_collection.mjs jpcl",
     "collect:jcc": "node scripts/receive_publisher_collection.mjs jcc",
     "collect:angew": "node scripts/receive_publisher_collection.mjs angew"
   },

@@ -45,6 +45,7 @@ main { width: min(1240px, calc(100% - 40px)); margin: 0 auto; }
 .chemical-mark, .computational-mark { background: #39758e; }
 .jctc-mark { background: #9a6b27; }
 .jcim-mark { background: #5368a8; }
+.jpcl-mark { background: #7a4f94; }
 .angew-mark { background: #7c3b49; }
 .journal-stats { display: flex; align-items: center; gap: 0; white-space: nowrap; }
 .journal-stats p { min-width: 92px; margin: 0; padding: 0 16px; border-left: 1px solid var(--line); text-align: right; color: var(--muted); font-size: .67rem; }
@@ -62,7 +63,7 @@ main { width: min(1240px, calc(100% - 40px)); margin: 0 auto; }
 .filter-group { display: grid; grid-template-columns: 42px minmax(0, 1fr); align-items: center; gap: 8px; }
 .filter-label { color: #526159; font-size: .66rem; font-weight: 850; letter-spacing: .07em; }
 .filters { display: flex; flex-wrap: wrap; gap: 3px; padding: 3px; background: #e6ebe7; border-radius: 10px; }
-.journal-filters { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.journal-filters { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); }
 .filter { min-height: 32px; padding: 6px 10px; border: 0; border-radius: 7px; background: transparent; color: #59665f; font-size: .74rem; font-weight: 700; white-space: nowrap; cursor: pointer; transition: .16s ease; }
 .filter:hover { background: rgba(255,255,255,.7); color: var(--ink); }
 .filter.is-active { color: #fff; box-shadow: 0 3px 9px rgba(33,78,62,.18); }
