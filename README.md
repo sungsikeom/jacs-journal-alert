@@ -57,11 +57,12 @@ Chrome 확장 프로그램을 새로고침한 뒤 아래 명령을 한 번에 �
 ```powershell
 npm run collect:nature
 npm run collect:jctc
+npm run collect:jcim
 npm run collect:jcc
 npm run collect:angew
 ```
 
-네 파일이 모두 준비되면 사이트 생성기는 Crossref을 사용하지 않는 `publisher-only` 모드로 자동 전환합니다. 인벤토리가 일부만 준비된 동안에는 기존 사이트 데이터가 유지됩니다.
+공식 인벤토리가 준비되면 사이트 생성기는 Crossref을 사용하지 않는 `publisher-only` 모드로 전환합니다. JCIM은 2026년 공식 ACS 검색 결과를 기준선으로 저장하고 이후 최신 페이지에서 기존 DOI가 확인될 때까지 증분 수집합니다.
 
 ## 로컬 점검
 

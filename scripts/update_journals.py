@@ -26,7 +26,7 @@ ISSUE_BODY_PATH = DATA_DIR / "new_articles.md"
 SEOUL = timezone(timedelta(hours=9))
 SCOPE_START = "2026-01-01"
 JACS_SCOPE_START = "2025-01-01"
-SCOPE_VERSION = 6
+SCOPE_VERSION = 7
 
 JOURNALS = [
     {
@@ -38,6 +38,7 @@ JOURNALS = [
     {"key": "nature-communications", "name": "Nature Communications", "short_name": "Nat Commun", "issn": "2041-1723"},
     {"key": "journal-of-computational-chemistry", "name": "Journal of Computational Chemistry", "short_name": "J. Comput. Chem.", "issn": "1096-987X"},
     {"key": "jctc", "name": "Journal of Chemical Theory and Computation", "short_name": "JCTC", "issn": "1549-9626"},
+    {"key": "jcim", "name": "Journal of Chemical Information and Modeling", "short_name": "JCIM", "issn": "1549-9596"},
     {"key": "angewandte", "name": "Angewandte Chemie International Edition", "short_name": "Angew. Chem. Int. Ed.", "issn": "1521-3773"},
     {"key": "chemical-science", "name": "Chemical Science", "short_name": "Chem. Sci.", "issn": "2041-6520"},
 ]
@@ -430,6 +431,7 @@ def main() -> int:
     parser.add_argument("--science-file", type=Path, help="Include a verified Science Research Article inventory")
     parser.add_argument("--nature-file", type=Path, help="Use the Nature Communications Research Articles inventory")
     parser.add_argument("--jctc-file", type=Path, help="Use the ACS JCTC search inventory")
+    parser.add_argument("--jcim-file", type=Path, help="Use the ACS JCIM search inventory")
     parser.add_argument("--jcc-file", type=Path, help="Use the Wiley Journal of Computational Chemistry inventory")
     parser.add_argument("--angew-file", type=Path, help="Use the Wiley Angewandte inventory")
     parser.add_argument("--chemical-science-file", type=Path, help="Use the RSC Chemical Science inventory")
@@ -440,6 +442,7 @@ def main() -> int:
             for key, path in {
                 "nature-communications": args.nature_file,
                 "jctc": args.jctc_file,
+                "jcim": args.jcim_file,
                 "journal-of-computational-chemistry": args.jcc_file,
                 "angewandte": args.angew_file,
                 "chemical-science": args.chemical_science_file,

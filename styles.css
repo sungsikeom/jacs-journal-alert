@@ -44,6 +44,7 @@ main { width: min(1240px, calc(100% - 40px)); margin: 0 auto; }
 .nature-mark { background: #71557b; }
 .chemical-mark, .computational-mark { background: #39758e; }
 .jctc-mark { background: #9a6b27; }
+.jcim-mark { background: #5368a8; }
 .angew-mark { background: #7c3b49; }
 .journal-stats { display: flex; align-items: center; gap: 0; white-space: nowrap; }
 .journal-stats p { min-width: 92px; margin: 0; padding: 0 16px; border-left: 1px solid var(--line); text-align: right; color: var(--muted); font-size: .67rem; }
