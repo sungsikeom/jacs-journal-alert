@@ -71,11 +71,22 @@ jobs:
 
       - name: Create notification issue
         if: steps.update.outputs.new_count != '0'
+        continue-on-error: true
         env:
           GH_TOKEN: ${{ github.token }}
           NEW_COUNT: ${{ steps.update.outputs.new_count }}
           CHECKED_DATE: ${{ steps.update.outputs.checked_date }}
-        run: gh issue create --title "신규 논문 ${NEW_COUNT}편 · ${CHECKED_DATE}" --body-file data/new_articles.md
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          source = Path("data/new_articles.md").read_text(encoding="utf-8")
+          limit = 60_000
+          if len(source) > limit:
+              source = source[:limit].rstrip() + "\n\n---\n전체 목록은 Journal Pulse 사이트에서 확인하세요."
+          Path("/tmp/new_articles_issue.md").write_text(source, encoding="utf-8")
+          PY
+          gh issue create --title "신규 논문 ${NEW_COUNT}편 · ${CHECKED_DATE}" --body-file /tmp/new_articles_issue.md
 
       - name: Prepare static site
         run: |
