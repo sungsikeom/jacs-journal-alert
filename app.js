@@ -307,17 +307,18 @@ function render(query = '') {
   loadMore.hidden = rows.length === 0 || rows.length >= matchingRows.length;
   loadMore.textContent = `논문 더 보기 (${matchingRows.length - rows.length}편 남음)`;
   container.querySelectorAll('.read-toggle').forEach(input => input.addEventListener('change', async event => {
-    const doi = event.target.dataset.doi;
+    const currentInput = event.currentTarget;
+    const doi = currentInput.dataset.doi;
     const previous = Boolean(profileState.read[doi]);
-    const next = event.target.checked;
+    const next = currentInput.checked;
     profileStateMutationVersion += 1;
     setProfileFlag('read', doi, next);
     saveProfileState();
-    event.target.closest('.article')?.classList.toggle('is-read', next);
-    event.target.disabled = true;
+    currentInput.closest('.article')?.classList.toggle('is-read', next);
+    currentInput.disabled = true;
     try {
       await persistProfileArticleState(doi, { read: next });
-      event.target.disabled = false;
+      currentInput.disabled = false;
     } catch (error) {
       setProfileFlag('read', doi, previous);
       saveProfileState();
@@ -326,7 +327,8 @@ function render(query = '') {
     }
   }));
   container.querySelectorAll('.interest-toggle').forEach(button => button.addEventListener('click', async event => {
-    const doi = event.currentTarget.dataset.doi;
+    const currentButton = event.currentTarget;
+    const doi = currentButton.dataset.doi;
     const previousInteresting = Boolean(profileState.interesting[doi]);
     const previousNotInteresting = Boolean(profileState.notInteresting[doi]);
     const next = !previousInteresting;
@@ -334,14 +336,14 @@ function render(query = '') {
     setProfileFlag('interesting', doi, next);
     if (next) setProfileFlag('notInteresting', doi, false);
     saveProfileState();
-    event.currentTarget.classList.toggle('is-active', next);
-    event.currentTarget.setAttribute('aria-pressed', String(next));
+    currentButton.classList.toggle('is-active', next);
+    currentButton.setAttribute('aria-pressed', String(next));
     const opposite = container.querySelector(`.not-interest-toggle[data-doi="${CSS.escape(doi)}"]`);
     if (opposite) { opposite.classList.toggle('is-active', false); opposite.setAttribute('aria-pressed', 'false'); }
-    event.currentTarget.disabled = true;
+    currentButton.disabled = true;
     try {
       await persistProfileArticleState(doi, { interesting: next, notInteresting: next ? false : previousNotInteresting });
-      event.currentTarget.disabled = false;
+      currentButton.disabled = false;
     } catch (error) {
       setProfileFlag('interesting', doi, previousInteresting);
       setProfileFlag('notInteresting', doi, previousNotInteresting);
@@ -351,7 +353,8 @@ function render(query = '') {
     }
   }));
   container.querySelectorAll('.not-interest-toggle').forEach(button => button.addEventListener('click', async event => {
-    const doi = event.currentTarget.dataset.doi;
+    const currentButton = event.currentTarget;
+    const doi = currentButton.dataset.doi;
     const previousNotInteresting = Boolean(profileState.notInteresting[doi]);
     const previousInteresting = Boolean(profileState.interesting[doi]);
     const next = !previousNotInteresting;
@@ -359,14 +362,14 @@ function render(query = '') {
     setProfileFlag('notInteresting', doi, next);
     if (next) setProfileFlag('interesting', doi, false);
     saveProfileState();
-    event.currentTarget.classList.toggle('is-active', next);
-    event.currentTarget.setAttribute('aria-pressed', String(next));
+    currentButton.classList.toggle('is-active', next);
+    currentButton.setAttribute('aria-pressed', String(next));
     const opposite = container.querySelector(`.interest-toggle[data-doi="${CSS.escape(doi)}"]`);
     if (opposite) { opposite.classList.toggle('is-active', false); opposite.setAttribute('aria-pressed', 'false'); }
-    event.currentTarget.disabled = true;
+    currentButton.disabled = true;
     try {
       await persistProfileArticleState(doi, { notInteresting: next, interesting: next ? false : previousInteresting });
-      event.currentTarget.disabled = false;
+      currentButton.disabled = false;
     } catch (error) {
       setProfileFlag('notInteresting', doi, previousNotInteresting);
       setProfileFlag('interesting', doi, previousInteresting);
