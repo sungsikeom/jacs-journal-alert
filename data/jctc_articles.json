@@ -1,9 +1,33 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-08-12T00:07:44.792Z",
+  "collected_at": "2026-08-13T00:10:47.956Z",
   "scope_start": "2026-01-01",
-  "article_count": 593,
+  "article_count": 597,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01040",
+      "title": "Symmetry-Blocked Matrix Product States as a Neural-Network Quantum-State Ansatz for Quantum Chemistry",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01040"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00932",
+      "title": "One Blob to Rule Them All: A Universal Dual-Topology Nonequilibrium Framework for Relative and Absolute Binding Free Energies via a Lennard-Jones Blob Reference",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00932"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00916",
+      "title": "Self-Consistent Incorporation of Generalized Born Model into RCI-LC-DFTB for Photoinduced Charge-Separated States",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00916"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00904",
+      "title": "A Fully Frequency-Dependent Formulation of the Open Quantum System Polarizable Continuum Model",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00904"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01258",
       "title": "Dispersion from Polarizabilities of Atoms in Molecule: DPAIM",

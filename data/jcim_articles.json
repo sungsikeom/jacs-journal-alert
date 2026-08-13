@@ -1,9 +1,27 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-08-12T03:50:21.959Z",
+  "collected_at": "2026-08-13T00:14:04.725Z",
   "scope_start": "2026-01-01",
-  "article_count": 718,
+  "article_count": 721,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02302",
+      "title": "Extending the Python RESP Framework for Extra Point Charge Fitting",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02302"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02021",
+      "title": "MMGNN: Multilevel, Multicolor Graph Neural Networks for Molecular Property Prediction",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02021"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01839",
+      "title": "Methodological Considerations in Small-Sample Multitask QSPR Modeling for PAMPA Permeability",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01839"
+    },
     {
       "doi": "10.1021/acs.jcim.6c01549",
       "title": "Unraveling the R-Enantiomer Preference in Mirror-Image Cyclodextrin: An Integrated Multiscale Computational Study",

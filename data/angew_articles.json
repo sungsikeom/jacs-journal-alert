@@ -1,9 +1,219 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-08-12T00:14:28.800Z",
+  "collected_at": "2026-08-13T00:24:02.108Z",
   "scope_start": "2026-01-01",
-  "article_count": 2039,
+  "article_count": 2074,
   "articles": [
+    {
+      "doi": "10.1002/anie.9954997",
+      "title": "Uncaging Iridium(III) Complexes for Combined Photodynamic and Photoactivated Chemotherapy",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.9954997"
+    },
+    {
+      "doi": "10.1002/anie.9873433",
+      "title": "Chlorination-Induced Symmetry Breaking in Cu Single-Atom Sites for Boosting Electrocatalytic Nitrate Reduction to Ammonia",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.9873433"
+    },
+    {
+      "doi": "10.1002/anie.9721428",
+      "title": "Moisture-Responsive Ion-Coupling Networks in Molecularly Engineered MoS2 Channels for Enhanced Ion Transport",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.9721428"
+    },
+    {
+      "doi": "10.1002/anie.9635291",
+      "title": "Conformational Adaptivity and Isomerization Pathway Enable Multi-Stimuli-Responsive Assembly and Interconversion of Water-Soluble Metal–Organic Cages",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.9635291"
+    },
+    {
+      "doi": "10.1002/anie.9247211",
+      "title": "Pressure-Treated Luminescent and Structural Evolution With Irreversible Control of Emission in Through-Space Charge Transfer Emitter",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.9247211"
+    },
+    {
+      "doi": "10.1002/anie.8256065",
+      "title": "Polyfluorinated-Regulator-Assisted Scaffold-Directed Tilted 1D/3D Heterointerfaces for High-Voltage and Stable Perovskite Solar Cells",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.8256065"
+    },
+    {
+      "doi": "10.1002/anie.8252460",
+      "title": "Dopant-Tailored Matrices: A Crystal Engineering Strategy for Organic Room-Temperature Phosphorescent Host–Guest Systems and Beyond",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.8252460"
+    },
+    {
+      "doi": "10.1002/anie.7747854",
+      "title": "Intracellular Delivery of Hydrophilic Glycans Using Superchaotropic Clusters",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.7747854"
+    },
+    {
+      "doi": "10.1002/anie.7494092",
+      "title": "Chirality-Induced Selective Electrosynthesis Hydrogen Peroxide and Tandem Green Chemical Synthesis",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.7494092"
+    },
+    {
+      "doi": "10.1002/anie.7193318",
+      "title": "Chloride-Driven Interfacial Confinement Facilitates Adaptive Directional Electron Transfer in Hypersaline Environments",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.7193318"
+    },
+    {
+      "doi": "10.1002/anie.7111765",
+      "title": "Epitaxial Oxide Interfaces Create Poison-Resistant CuO Sites for Environmental Catalysis",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.7111765"
+    },
+    {
+      "doi": "10.1002/anie.6933953",
+      "title": "A Unified Strategy for Catalytic Asymmetric Allylation and Mukaiyama Aldol Reactions of 1,2-Dicarbonyl Compounds",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.6933953"
+    },
+    {
+      "doi": "10.1002/anie.6852524",
+      "title": "Carlos M. Cruz",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.6852524"
+    },
+    {
+      "doi": "10.1002/anie.6461178",
+      "title": "An In Vivo Single-Vesicle Electrochemistry Enables Monitoring Vesicular Dopamine Dynamics and Pharmacological Rescue",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.6461178"
+    },
+    {
+      "doi": "10.1002/anie.6458234",
+      "title": "Chain Rigidity Modulating Closed Pore and Inter-Graphitic Domain Channels in Resin-Derived Hard Carbon for Fast Plateau Sodium Storage",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.6458234"
+    },
+    {
+      "doi": "10.1002/anie.6236000",
+      "title": "Hydrophilic RuGd Alloy Redirecting Interfacial Water Adsorption Configuration for Long-Term and Ampere-Level Hydrogen Evolution",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.6236000"
+    },
+    {
+      "doi": "10.1002/anie.5894899",
+      "title": "Short Sb···Sb Contacts in Polymorphic Tris(p-Tolyl)Antimony: A Hallmark of Organoantimony(III) Solid-State Chemistry?",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.5894899"
+    },
+    {
+      "doi": "10.1002/anie.5875916",
+      "title": "Goutam Ghosh",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.5875916"
+    },
+    {
+      "doi": "10.1002/anie.5628406",
+      "title": "Step-Associated Cu-Ceria Interfaces Enhance Catalytic Activity and Selectivity",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.5628406"
+    },
+    {
+      "doi": "10.1002/anie.5451795",
+      "title": "Macrocycle-Based Charge-Transfer Cocrystals: From Host–Guest Recognition to Multifunctional Solid-State Materials",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.5451795"
+    },
+    {
+      "doi": "10.1002/anie.4522198",
+      "title": "Decoupling Ion Transport and Desolvation via Spatially Heterogeneous Solvation Structure for Wide-Temperature Sodium-Ion Batteries",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.4522198"
+    },
+    {
+      "doi": "10.1002/anie.4383253",
+      "title": "Direct Synthesis of Well-Defined Epoxide-Terminated Telechelic Polymers via an Alcohol-Mediated Self-Switching Strategy",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.4383253"
+    },
+    {
+      "doi": "10.1002/anie.4114731",
+      "title": "Donor-Glycolated Quinoidal Polymers Enable Fast N-Type Organic Electrochemical Transistors",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.4114731"
+    },
+    {
+      "doi": "10.1002/anie.4112426",
+      "title": "Downsizing the Histone H3–H4 Quaternary Structure Into Foldamer Mimetics Yields High-Affinity and Cell-Permeable Ligands of ASF1",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.4112426"
+    },
+    {
+      "doi": "10.1002/anie.3915501",
+      "title": "Metal Coordination Dynamics Governs Selective Halogenation in α-KG/Fe-Dependent Halogenase SyrB2",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.3915501"
+    },
+    {
+      "doi": "10.1002/anie.3823572",
+      "title": "Retinoic-Acid-Derived Ionizable Lipids Enable Spleen-Selective Antigen Expression for mRNA Cancer Vaccination",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.3823572"
+    },
+    {
+      "doi": "10.1002/anie.3755600",
+      "title": "A Two-Dimensional Organic–Inorganic Hybrid Perovskite Ferroelectric for High-Performance Composite Magnetoelectric and Dual-Source Energy Harvesting",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.3755600"
+    },
+    {
+      "doi": "10.1002/anie.3700101",
+      "title": "Dynamic Diels–Alder Chemistry Toward Degradable and Dual Closed-Loop Recyclable Polyolefins",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.3700101"
+    },
+    {
+      "doi": "10.1002/anie.3669169",
+      "title": "Anisotropy-Driven Discovery of Rare-Earth-Free Magnets in Mo2FeB2-Type Borides",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.3669169"
+    },
+    {
+      "doi": "10.1002/anie.3543072",
+      "title": "Gold Clusters With Open-Shell Ligands: Superatom Mediated Magnetic Interaction",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.3543072"
+    },
+    {
+      "doi": "10.1002/anie.3323932",
+      "title": "Photochemistry of the Hydrogen Selenide-Sulfur Dioxide Complex: Formation of Selenosulfurous Acid and the Dehydrogenated Polyinterchalcogen Compounds",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.3323932"
+    },
+    {
+      "doi": "10.1002/anie.3126258",
+      "title": "Extending Chain Length of PNP Pincer Ligands Triggers Catalytic Activity of Gold–Copper Nanoclusters in Aerobic Oxidations",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.3126258"
+    },
+    {
+      "doi": "10.1002/anie.2044894",
+      "title": "Oxophilic Gallium Single-Atom Regulating Micropore-Confined Os Atomic Clusters Enables Efficient Alkaline Hydrogen Electrocatalysis",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.2044894"
+    },
+    {
+      "doi": "10.1002/anie.2037917",
+      "title": "Evolutionary, Functional and Mechanistic Characterisation of Microbial Terpene Synthase-Like Genes From Springtails",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.2037917"
+    },
+    {
+      "doi": "10.1002/anie.1953802",
+      "title": "Modulator Engineering of a MOF: Minimizing Defects to Boost Molecular-Sieving C3F8 Purification",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1002/anie.1953802"
+    },
     {
       "doi": "10.1002/anie.9466991",
       "title": "A Synthetic β-Mannan Epitope Enables Immunization and Detection of Candida auris",

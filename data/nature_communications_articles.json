@@ -1,9 +1,219 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-08-12T00:04:24.755Z",
+  "collected_at": "2026-08-13T00:04:13.995Z",
   "scope_start": "2026-01-01",
-  "article_count": 8108,
+  "article_count": 8143,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-76786-9",
+      "title": "Stacking-order-driven interfacial dipole flip and chlorine-iodine exchange for high-performance perovskite-organic tandem solar cells",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76786-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-76746-3",
+      "title": "Water triggers visible-light photochromism in a hydrogen-bonded organic framework",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76746-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76721-y",
+      "title": "TDP-43 controls RNA structure through high affinity lattice interactions",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76721-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76719-6",
+      "title": "Ti doping-induced strain engineering boosts low-temperature NH3-SCR deNOx performance and H2O/SO2 resistance of Ce8MnOx",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76719-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76708-9",
+      "title": "Silicate-bound iron drives abiotic solar energy conversion in terrestrial environments",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76708-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-76690-2",
+      "title": "Structure and mechanism of human sphingosine-1-phosphate transporter MFSD2B",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76690-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-76683-1",
+      "title": "Inflammatory neuropathy in mouse and primate models of colorectal cancer",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76683-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76680-4",
+      "title": "Loss-of-function mutation in Omicron variants reduces spike protein expression and attenuates SARS-CoV-2 infection",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76680-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76674-2",
+      "title": "Observed poleward heat transport by mesoscale eddies in the deep Southern Ocean",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76674-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-76666-2",
+      "title": "Zinc displacement and metabolic interference: cobalt ion-mediated therapy for broad-spectrum CRKP-resistant pneumonia via inhalable microspheres",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76666-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-76634-w",
+      "title": "A foundation model for acute abdomen diagnosis stratification and triage on noncontrast computed tomography",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76634-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76623-z",
+      "title": "Tailored living mycelium macerate for reproducible flexible actuators",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76623-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-76621-1",
+      "title": "Geophysical evidence of a nearly dry bridgmanite in the Earth’s lower mantle",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76621-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76616-y",
+      "title": "Superelastic ceramic aerogels up to 2200 °C",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76616-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76590-5",
+      "title": "Uniform periodic nano-patterning of metallic glass substrates via high-frequency nanosecond laser irradiation",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76590-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-76582-5",
+      "title": "Amiloride mitigates respiratory distress caused by WFDC2 deficiency via inhibiting the epithelial sodium channel",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76582-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-76574-5",
+      "title": "Prefrontal-raphe-habenular circuit drives fear memory recall and updating",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76574-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-76558-5",
+      "title": "Multiple-layer mesh from electrospinnable amyloid‑like protein and their application in treating oral ulcer",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76558-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-76534-z",
+      "title": "High-temperature superconductivity at 100K in La3−xNdxNi2O7",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76534-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-76491-7",
+      "title": "IL-2 mutein-engrafted antibody MHS552 selectively expands functional regulatory T cells in nonclinical models and healthy participants",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76491-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-76475-7",
+      "title": "Long-term stability of superconducting metal superhydrides",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76475-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-76472-w",
+      "title": "Identification and validation of a previously missed mutational signature in colorectal cancer",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76472-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76471-x",
+      "title": "Peritoneal ovarian cancer growth in the omentum proceeds independently of mature adipocytes",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76471-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-76423-5",
+      "title": "Bony labyrinth morphology reveals deep population history and isolation among Homo sapiens in prehistoric northeastern Africa (44–3 ka)",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76423-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-76414-6",
+      "title": "Fullerene-derived hierarchical sp2 carbon exhibiting united hardness, elasticity, and thermal stability",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76414-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76357-y",
+      "title": "A systematic identification of resistance determinants to antisense antibiotics suggests adaptation strategies dependent on the delivery peptide",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76357-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76296-8",
+      "title": "Population-based genomic detection of childhood cancer predisposition using newborn dried blood spots",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76296-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-76254-4",
+      "title": "Toward nonlinear representations with Gaussian-splat manifolds for physics-informed learning",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76254-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76176-1",
+      "title": "Subclinical exposure to Streptococcus pyogenes drives the development of long-lived homologous immunity",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76176-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76131-0",
+      "title": "ARID5A RNA-binding coordinates microglial defense and ferroptosis in iPSC-derived models",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76131-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76112-3",
+      "title": "Photostimulation improves maturation of human photoreceptors",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-76112-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-75515-6",
+      "title": "Large-scale admixture mapping in the All of Us Research Program improves the characterization of cross-population phenotypic differences",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-75515-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-75312-1",
+      "title": "Cooperation, competition and enforcement in transposon evolution",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-75312-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-75073-x",
+      "title": "Upper troposphere aerosol formation enhanced by monsoon lofted pollution",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-75073-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-74906-z",
+      "title": "Youth-associated protein TIMP2 regulates microglial state and function in healthy and aged mice",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s41467-026-74906-z"
+    },
     {
       "doi": "10.1038/s41467-026-76778-9",
       "title": "Ultra-sensitive profiling of CRISPR-Cas off-target effects with Tracking-seq2",

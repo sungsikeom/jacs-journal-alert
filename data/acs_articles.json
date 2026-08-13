@@ -1,11 +1,113 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-08-12T00:00:32.645Z",
+  "collected_at": "2026-08-13T00:00:35.312Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7064,
+  "article_count": 7081,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c13232",
+      "title": "Hydrophobic Nanodomains and Bulky Anion-Mediated Soft Cross-Links Enable Strong, Tough, Water-Resistant, and Recyclable Plastics",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/jacs.6c13232"
+    },
+    {
+      "doi": "10.1021/jacs.6c12778",
+      "title": "Temperature-Selected Defect–Moiré Coupling Controls Nonradiative Charge Recombination in Twisted MoS2",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/jacs.6c12778"
+    },
+    {
+      "doi": "10.1021/jacs.6c10470",
+      "title": "Gold Quantum Rods: Modulation of Singlet and Triplet Exciton Populations by the Rod Length",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/jacs.6c10470"
+    },
+    {
+      "doi": "10.1021/jacs.6c10469",
+      "title": "Carbene-Stabilized Monomeric Cyanogen N-Oxide",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/jacs.6c10469"
+    },
+    {
+      "doi": "10.1021/jacs.6c10081",
+      "title": "A Genetically Encoded Electrophilic Lysine Derivative Enables Sortase-Mediated Assembly of SUMO Activity-Based Probes",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/jacs.6c10081"
+    },
+    {
+      "doi": "10.1021/jacs.6c09938",
+      "title": "Kinetically Arrested Twin-Domain State in Formamidinium Lead Iodide",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/jacs.6c09938"
+    },
+    {
+      "doi": "10.1021/jacs.6c09705",
+      "title": "Elucidating the Reciprocal Interplay between Supramolecular Polymer Cytoskeletons and Fuel-Dependent Synthetic Cells",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/jacs.6c09705"
+    },
+    {
+      "doi": "10.1021/jacs.6c09248",
+      "title": "Molecular Design of Chiral Naphthalenediimide-Based Cations for Chiral One-Dimensional Metal Halide Semiconductors with Strong Chiroptical Activity and Amplified Charge Transport Ability",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/jacs.6c09248"
+    },
+    {
+      "doi": "10.1021/jacs.6c08998",
+      "title": "Pd(0)-Catalyzed Enantioselective Formal Normal-Electron-Demand Cross-[4 + 2] Cycloadditions of Morita–Baylis–Hillman Carbonates with 1,3-Dienes",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/jacs.6c08998"
+    },
+    {
+      "doi": "10.1021/jacs.6c08177",
+      "title": "Functionality over Order: Decoupling Chemical and Structural Contributions in CO2/CH4 Separation by Covalent Organic Frameworks",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/jacs.6c08177"
+    },
+    {
+      "doi": "10.1021/jacs.6c07829",
+      "title": "Nonconjugated Side-Chain Engineering Enables Through-Space Interactions for Stimuli-Responsive Photodynamic Therapy",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/jacs.6c07829"
+    },
+    {
+      "doi": "10.1021/jacs.6c06870",
+      "title": "Mapping of Multirotor Dynamics in Metal–Organic Frameworks",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/jacs.6c06870"
+    },
+    {
+      "doi": "10.1021/jacs.6c06238",
+      "title": "Record Second-Harmonic Generation and Exceptional Optical Anisotropy in High-Symmetry 1D Polar Perovskites",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/jacs.6c06238"
+    },
+    {
+      "doi": "10.1021/jacs.6c05473",
+      "title": "Vacancy-Engineered Perovskite Ferrites Stabilize Atomic Ru Sites and Activate Lattice Oxygen for Photothermal Methane Dry Reforming",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/jacs.6c05473"
+    },
+    {
+      "doi": "10.1021/jacs.6c05244",
+      "title": "Strain-Accelerated β-Thiolactone Native Chemical Ligation with Kinetic Control Enables Rapid and Selective Hydrogelation for Biofabrication",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/jacs.6c05244"
+    },
+    {
+      "doi": "10.1021/jacs.6c03641",
+      "title": "Iron Stoichiometry-Driven Pathway-Divergent C–C Couplings on Ag(110)",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/jacs.6c03641"
+    },
+    {
+      "doi": "10.1021/jacs.5c16771",
+      "title": "Chemically Modified Sugars as Multifunctional Precursors for Direct, Template-Free Synthesis of Nanoporous Carbonaceous Materials",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1021/jacs.5c16771"
+    },
     {
       "doi": "10.1021/jacs.6c13807",
       "title": "Correction to “In Situ SERS Monitoring of Plasmon-Mediated Degradation of Microplastics”",
