@@ -1,9 +1,249 @@
 {
-  "source": "Wiley Angewandte search results",
-  "collected_at": "2026-08-13T00:24:02.108Z",
+  "source": "Wiley Angewandte Chemie International Edition official RSS feed",
+  "collected_at": "2026-08-18T01:55:48.686Z",
   "scope_start": "2026-01-01",
-  "article_count": 2074,
+  "article_count": 2114,
   "articles": [
+    {
+      "doi": "10.1002/anie.8444671",
+      "title": "A Modular Synthesis of C5‐Sulfenyl Thiazoles via an Intermolecular Pummerer Rearrangement: An Underexplored Scaffold for Medicinal Chemistry",
+      "published_date": "2026-08-16",
+      "url": "https://doi.org/10.1002/anie.8444671"
+    },
+    {
+      "doi": "10.1002/anie.5613575",
+      "title": "Acetylene Semi‐Hydrogenation by Photocatalysis",
+      "published_date": "2026-08-16",
+      "url": "https://doi.org/10.1002/anie.5613575"
+    },
+    {
+      "doi": "10.1002/anie.4583501",
+      "title": "“Armor Polymerization” Unlocks Polymer Electrolytes With Simultaneous Rapid Li+ Conduction and High Solidification",
+      "published_date": "2026-08-16",
+      "url": "https://doi.org/10.1002/anie.4583501"
+    },
+    {
+      "doi": "10.1002/anie.3464448",
+      "title": "Toward Robust Anion‐Derived Interphases: A Novel Ternary‐Solvent Electrolyte for High‐Voltage Fast‐Charging Sodium Batteries",
+      "published_date": "2026-08-16",
+      "url": "https://doi.org/10.1002/anie.3464448"
+    },
+    {
+      "doi": "10.1002/anie.8492354",
+      "title": "Hydrophobic Quaternary Ammonium Iodides for Highly Stable Four−Electron Zinc−Iodine Batteries",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1002/anie.8492354"
+    },
+    {
+      "doi": "10.1002/anie.7969121",
+      "title": "Hydroxyl Surface Enrichment Strategy to Achieve Dual‐Mechanism Pathway for Overcoming the Activity–Stability Trade‐Off of Oxygen Evolution Reaction",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1002/anie.7969121"
+    },
+    {
+      "doi": "10.1002/anie.7949913",
+      "title": "Polyoxometalates‐Driven Oxidative Polymerization of Thioctic Acid and Synchronized Noncovalent Cross‐Linking to Generate High‐Strength and Colorimetric Adhesives",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1002/anie.7949913"
+    },
+    {
+      "doi": "10.1002/anie.6490997",
+      "title": "Reinforcing Particle Architectural Stability of Li‐Rich Cathode With Enhanced Anionic Redox Reaction Reversibility",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1002/anie.6490997"
+    },
+    {
+      "doi": "10.1002/anie.6447296",
+      "title": "Synergistic Dual‐Channel Charge Separation in Cr‐TiO2‐x for Solar H2O2 Synthesis",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1002/anie.6447296"
+    },
+    {
+      "doi": "10.1002/anie.6259849",
+      "title": "Biosynthesis and Genetic Tuning of Guanine Crystals via Metabolic Engineering of Yeast",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1002/anie.6259849"
+    },
+    {
+      "doi": "10.1002/anie.5667084",
+      "title": "Dual‐Action Sulfonium‐Amino Acid Additive Enabling Crystallization Regulation and Defect Passivation for High‐Performance Carbon‐Electrode Printable Mesoscopic Perovskite Solar Cells",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1002/anie.5667084"
+    },
+    {
+      "doi": "10.1002/anie.4589075",
+      "title": "Heat‐ and Light‐Directed Cycloadditions Enable a Pericyclic Cascade Reaction From a Molecular Precursor",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1002/anie.4589075"
+    },
+    {
+      "doi": "10.1002/anie.4146793",
+      "title": "Supramolecular Self‐Assembly Enables Controlled Lithium Replenishment Toward High‐Performance and Sustainable Regeneration of Spent LiFePO4 Batteries",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1002/anie.4146793"
+    },
+    {
+      "doi": "10.1002/anie.4078759",
+      "title": "A Three‐Dimensional Ionic Conjugated Metal–Organic Framework",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1002/anie.4078759"
+    },
+    {
+      "doi": "10.1002/anie.3778438",
+      "title": "Halogen Substitution as a “Chirality Editor” for Amplifying Spin‐Selective Transport in Lead‐Free Metal‐Halide Hybrids",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1002/anie.3778438"
+    },
+    {
+      "doi": "10.1002/anie.3578686",
+      "title": "Programming Ion‐Engineered Interphase for Practical Zinc Batteries Through Exogenous Cation‐Anion Synergy Chemistry",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1002/anie.3578686"
+    },
+    {
+      "doi": "10.1002/anie.3395960",
+      "title": "High‐Density Co‐Based Single‐Atom Nanozymes Alleviate Myocardial Ischemia‐Reperfusion Injury by Disrupting the Cycle of Oxidative Stress‐Ferroptosis‐Inflammatory Response",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1002/anie.3395960"
+    },
+    {
+      "doi": "10.1002/anie.2703281",
+      "title": "Enhancement of Dissymmetry Factors Through Axial Elongation of Hetero[n]helicenes",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1002/anie.2703281"
+    },
+    {
+      "doi": "10.1002/anie.202600004",
+      "title": "CRISPR RNA Engineering Enables Single Nucleotide Polymorphism Discrimination in Nucleic Acid Detection",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1002/anie.202600004"
+    },
+    {
+      "doi": "10.1002/anie.1608232",
+      "title": "Covalent Organic Framework Mediated Polymerization for Multifunctional Applications",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1002/anie.1608232"
+    },
+    {
+      "doi": "10.1002/anie.9487272",
+      "title": "Modular Access to α‐Tertiary Amines: Electrochemical Tandem Di‐Functionalization of Olefins With Ammonia Surrogates and Amino Acids",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1002/anie.9487272"
+    },
+    {
+      "doi": "10.1002/anie.9070689",
+      "title": "Asymmetric Allylic Dearomatization of Quinolines via Dynamic Ligand Exchange",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1002/anie.9070689"
+    },
+    {
+      "doi": "10.1002/anie.8287171",
+      "title": "Synthesis and Property Study on Homoaromatic Thiabenzenes",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1002/anie.8287171"
+    },
+    {
+      "doi": "10.1002/anie.7741887",
+      "title": "Spatiotemporal Delivery of Stem Cell‐Derived Extracellular Vesicles for Rapid Wound Healing",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1002/anie.7741887"
+    },
+    {
+      "doi": "10.1002/anie.7556352",
+      "title": "Coupling Water‐Driven Amorphization With High Entropy Strategy in Vanadium Oxide Cathodes for High‐Capacity and Durable Aqueous Potassium‐Ion Batteries",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1002/anie.7556352"
+    },
+    {
+      "doi": "10.1002/anie.6760851",
+      "title": "Microenvironmental Tuning in Isostructural Conjugated Metal–Organic Frameworks for Superior Photocatalytic H2O2 Generation",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1002/anie.6760851"
+    },
+    {
+      "doi": "10.1002/anie.6260848",
+      "title": "Ultra‐Low Emission Cathode Recycling Enabled by Programmed Adaptive Pulse Joule Heating",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1002/anie.6260848"
+    },
+    {
+      "doi": "10.1002/anie.6010682",
+      "title": "Caging Polyhalide Anions in Polycyclodextrin for Long‐Lasting Aqueous Zinc‐Iodine Batteries",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1002/anie.6010682"
+    },
+    {
+      "doi": "10.1002/anie.5803210",
+      "title": "Chlorine Radical Mediated Tandem Dehydrogenation–Oxidation for Upcycling Polyolefins to Functional Wax at Low Temperature in Air",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1002/anie.5803210"
+    },
+    {
+      "doi": "10.1002/anie.5768398",
+      "title": "Atomically Precise Rigid Copper Nanocluster as an Air‐Stable Photocatalyst for Three‐Component Coupling Reactions",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1002/anie.5768398"
+    },
+    {
+      "doi": "10.1002/anie.5493523",
+      "title": "Chalcogen Bond‐Induced Conformational Locking for Thermoplastic Polyurethane With Superior Puncture Force and Fracture Energy",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1002/anie.5493523"
+    },
+    {
+      "doi": "10.1002/anie.5238065",
+      "title": "Balancing pH Mismatch in Electrolytic Zn‐MnO2 Batteries via a Synergetic Anion–Proton Interactive Electrolyte",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1002/anie.5238065"
+    },
+    {
+      "doi": "10.1002/anie.5050054",
+      "title": "Synthesizing Colloidal Bimetallic Nanoparticles in Water Using a Dual‐Ligand Strategy",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1002/anie.5050054"
+    },
+    {
+      "doi": "10.1002/anie.3765346",
+      "title": "The Potential of Operando DRIFT Spectroscopy for Studying Degradation Mechanisms of Metal Oxide‐Based Electrochemical Cells",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1002/anie.3765346"
+    },
+    {
+      "doi": "10.1002/anie.3133042",
+      "title": "Direct Solar Power‐Driven Durable Ammonia Electrosynthesis From Nitrate Under Fluctuating Voltage Conditions",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1002/anie.3133042"
+    },
+    {
+      "doi": "10.1002/anie.2908295",
+      "title": "Supramolecular Polymerization and Morphological Transformation of Dynamic Helical Poly(Phenylacetylene)s via Chain‐End Host–Guest Interactions",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1002/anie.2908295"
+    },
+    {
+      "doi": "10.1002/anie.2684732",
+      "title": "Solvent‐Induced Structural Modulation in Nanoscale Covalent Organic Frameworks Enables High‐Performance NO2 Sensing",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1002/anie.2684732"
+    },
+    {
+      "doi": "10.1002/anie.2417165",
+      "title": "De Novo Discovery of Nonstandard Thioisoindole‐Bridged Bicyclic Peptides Targeting Traf2‐ and NCK‐Interacting Kinase",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1002/anie.2417165"
+    },
+    {
+      "doi": "10.1002/anie.1286149",
+      "title": "Ultrasonically Driven Efficient H2O2 Production via Sulfur Alloying in Piezoelectric Bi2O2(Se1−xSx) Nanosheets",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1002/anie.1286149"
+    },
+    {
+      "doi": "10.1002/anie.1174032",
+      "title": "Atomically Asymmetric Pd1─O─Cu Interfaces Break the Activity–Selectivity Limit in CO‐to‐Acetate Conversion",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1002/anie.1174032"
+    },
     {
       "doi": "10.1002/anie.9954997",
       "title": "Uncaging Iridium(III) Complexes for Combined Photodynamic and Photoactivated Chemotherapy",

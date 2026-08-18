@@ -1,10 +1,122 @@
 {
-  "source": "Science tables of contents collected by the local Chrome extension",
-  "collected_at": "2026-08-13T00:00:40.629Z",
+  "source": "Science official journal RSS feed (Research Articles only)",
+  "collected_at": "2026-08-18T01:55:48.686Z",
   "scope_start": "2026-01-01",
   "article_type": "Research Article",
-  "article_count": 569,
+  "article_count": 585,
   "articles": [
+    {
+      "doi": "10.1126/science.aei0475",
+      "title": "Overcoming the performance ceiling of textured piezoelectric ceramics",
+      "published_date": "2026-08-13",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aei0475"
+    },
+    {
+      "doi": "10.1126/science.aeh2300",
+      "title": "TTF2 processes sites of incomplete DNA replication during mitosis via sister-chromatid exchanges",
+      "published_date": "2026-08-13",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeh2300"
+    },
+    {
+      "doi": "10.1126/science.aeh1834",
+      "title": "A CDK1 phospho-switch reprograms TRAIP to unload replisomes in mitosis",
+      "published_date": "2026-08-13",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeh1834"
+    },
+    {
+      "doi": "10.1126/science.aeg4720",
+      "title": "A thalamocortical circuit encoding deviations from sensory history",
+      "published_date": "2026-08-13",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeg4720"
+    },
+    {
+      "doi": "10.1126/science.aee8723",
+      "title": "Eco-evolutionary feedback reshapes competitive dynamics in an orchard fly system",
+      "published_date": "2026-08-13",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aee8723"
+    },
+    {
+      "doi": "10.1126/science.aee7004",
+      "title": "Artificial hibernation reveals synaptic engram architecture associated with memory retention",
+      "published_date": "2026-08-13",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aee7004"
+    },
+    {
+      "doi": "10.1126/science.aec4776",
+      "title": "Forest canopy decline under elevated CO2 during the Paleocene-Eocene Thermal Maximum",
+      "published_date": "2026-08-13",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aec4776"
+    },
+    {
+      "doi": "10.1126/science.aec2144",
+      "title": "Fossil denticles reveal how ocean productivity shapes shark baselines and recovery potential",
+      "published_date": "2026-08-13",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aec2144"
+    },
+    {
+      "doi": "10.1126/science.aea7605",
+      "title": "Chemovaccination with a late-liver-stage antimalarial induces durable immunity against malaria",
+      "published_date": "2026-08-13",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aea7605"
+    },
+    {
+      "doi": "10.1126/science.aea6187",
+      "title": "A cross-organ single-cell analysis of hypertension",
+      "published_date": "2026-08-13",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aea6187"
+    },
+    {
+      "doi": "10.1126/science.aea5466",
+      "title": "A joint geophysical-geochemical deep-mantle zoning map beneath East Africa and the Indian Ocean",
+      "published_date": "2026-08-13",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aea5466"
+    },
+    {
+      "doi": "10.1126/science.adz7427",
+      "title": "Xylose phosphatase activity of dystroglycan self-regulates its receptor function",
+      "published_date": "2026-08-13",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adz7427"
+    },
+    {
+      "doi": "10.1126/science.adz1083",
+      "title": "The eukaryote chromosome, a two-state system with interconversion by a volume phase transition",
+      "published_date": "2026-08-13",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adz1083"
+    },
+    {
+      "doi": "10.1126/science.ady9591",
+      "title": "Promoter-driven recrystallization affording highly textured ruthenium",
+      "published_date": "2026-08-13",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ady9591"
+    },
+    {
+      "doi": "10.1126/science.ads5962",
+      "title": "Tracking the baryon number with nuclear collisions",
+      "published_date": "2026-08-13",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ads5962"
+    },
+    {
+      "doi": "10.1126/science.adq0420",
+      "title": "Room-temperature multiferroicity in all–van der Waals heterostructures",
+      "published_date": "2026-08-13",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adq0420"
+    },
     {
       "doi": "10.1126/science.ael1781",
       "title": "In Other Journals",

@@ -1,9 +1,123 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-08-13T00:17:21.375Z",
+  "collected_at": "2026-08-18T04:34:16.446Z",
   "scope_start": "2026-01-01",
-  "article_count": 1062,
+  "article_count": 1081,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02431",
+      "title": "Soret Band Splitting as an Optical Fingerprint of Qubit Architecture in Spin-Active Porphyrin Dimers",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02431"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02427",
+      "title": "A Multitask Large Reasoning Model for Molecular Science",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02427"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02276",
+      "title": "Excitonic Structure in CsPbBr3 Nanocubes, Nanorods, and Nanoplatelets: The Effect of Dimensionality",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02276"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02089",
+      "title": "Zipf-like Statistical Regularities in Molecular Sequence Representations for Chemical Language Models",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02089"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01930",
+      "title": "Multipathway Aggregation Drives Concentration-Dependent Amyloid Polymorphism and Time-Dependent Morphological Evolution",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01930"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01886",
+      "title": "Orbital Tuning of the β-Lactam Warhead: Intrinsic n → π* Preactivation in Cephalosporins",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01886"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01840",
+      "title": "The Effect of Steric Hindrance on Triplet–Triplet Energy Transfer Rates: A Predictive Model Based on Spin-Density-Bearing van der Waals Surfaces",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01840"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02208",
+      "title": "Phase Evolution for Efficient Tin Perovskite Light-Emitting Diodes",
+      "published_date": "2026-08-16",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02208"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02337",
+      "title": "Charge-Transfer-Regulated Site-Selective Activation: Divergent On-Surface Coupling Pathways of Multi-Reactive-Site Amide Precursors on Au(111) and Ag(111)",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02337"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02132",
+      "title": "Beyond Equimolarity: Entropy-tuned Stoichiometric Design of Co-free Earth-abundant P2-type Cathode for Sodium-ion Batteries",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02132"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02095",
+      "title": "Circularly Polarized Photoluminescence Obtained by Optical Spin Pumping in Achiral Lead-Halide Perovskites: Implications of Interface-Induced Rashba Splitting",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02095"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02046",
+      "title": "Structural and Electronic Properties of p(2×2) Phosphorus Layer on Au(100)",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02046"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02419",
+      "title": "Temporal Decoupling Enables Allylic C–H Hydroxylation with Effectively Suppressed Overoxidation by Pulsed Electrolysis",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02419"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02194",
+      "title": "Bifacial Interface Engineering of Perovskite Memristors for High-Performance Optoelectronic Synapses and Neuromorphic Vision Systems",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02194"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02155",
+      "title": "Intermaterial Hybridization as a Mechanism for Tunable Second-Harmonic Generation in Quantum Dot–Monolayer MoS2 Systems",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02155"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01968",
+      "title": "Light-Induced Neuron-Like Bursts",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01968"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01909",
+      "title": "Engineering Telecom Emission from Silicon Carbide Using Ion Irradiation",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01909"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01686",
+      "title": "Difference between Conduction Band Minimum and Flat-Band Potential in Mott–Schottky Analysis of Anatase TiO2",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01686"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01540",
+      "title": "Unveiling the Oxygen Vacancy Mediated Ternary Relationship among Field-Effect Mobility, Photoresponse, and Negative Bias Stress Stability in Indium Zinc Oxide Thin-Film Transistors via Dual-Path Modulation",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01540"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02389",
       "title": "Reaction-Depth Learning Enables Apparent Yield Extrapolation in Catalyst Informatics",

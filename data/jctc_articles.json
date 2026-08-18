@@ -1,9 +1,81 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-08-13T00:10:47.956Z",
+  "collected_at": "2026-08-18T04:32:39.530Z",
   "scope_start": "2026-01-01",
-  "article_count": 597,
+  "article_count": 609,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01191",
+      "title": "Extending SHARC to Periodic Systems: A SHARC–VASP Interface for First-Principles Nonadiabatic Dynamics",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01191"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00953",
+      "title": "Piecewise Constraints for Exact End Point Sampling with λ-Dynamics",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00953"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01213",
+      "title": "Exploring Conformational Transitions of Adenine RNA Dimer via Machine Learning Potentials",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01213"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00924",
+      "title": "From gHBfix to NBfix: Reweighting-Driven Refinement of Hydrogen-Bond Interactions in RNA Force Fields",
+      "published_date": "2026-08-16",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00924"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01138",
+      "title": "Evaluating Power-Law Scaling Factors for Harmonic Vibrational Frequencies across Model Chemistries",
+      "published_date": "2026-08-15",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01138"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00927",
+      "title": "A Gradient-Corrected Polarizable Continuum Model for Improved Reaction Fields at the SCF Level",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00927"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00749",
+      "title": "Efficient Auxiliary-Field Quantum Monte Carlo Using Isometric Tensor Hypercontraction",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00749"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00571",
+      "title": "Systematic Construction of Chemical Reaction Networks: An Automated Nanoreactor Approach Powered by Integrated Tempering Sampling",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00571"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01289",
+      "title": "Analytic Boundary Terms for Arbitrary Crystal Geometries and Direct-Sum Evaluation of Madelung Constants in Triclinic Lattices",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01289"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01142",
+      "title": "Toward Relative Redox Potential Predictions in Flavoproteins: Treatment of a Charge-Changing Mutation in Alchemical Free Energy Simulations",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01142"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00770",
+      "title": "Symmetry-Adapted Relaxation Theory (SART): Variational Embedding for Convergent Infinite-Order Induction without Overpolarization",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00770"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00722",
+      "title": "DPχ: A Charge-Based Machine-Learning Potential Validated on the Pt(111)-Water Electrochemical Interface",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00722"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01040",
       "title": "Symmetry-Blocked Matrix Product States as a Neural-Network Quantum-State Ansatz for Quantum Chemistry",

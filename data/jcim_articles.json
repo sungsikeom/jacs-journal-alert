@@ -1,9 +1,99 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-08-13T00:14:04.725Z",
+  "collected_at": "2026-08-18T04:33:20.543Z",
   "scope_start": "2026-01-01",
-  "article_count": 721,
+  "article_count": 736,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c01792",
+      "title": "BOS-TMC Data Set: DFT Properties of 159k Experimentally Characterized Transition Metal Complexes Spanning Multiple Charge and Spin States",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01792"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01056",
+      "title": "Improving Quantum-Chemical Prediction of 19F NMR Chemical Shifts via Machine Learning",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01056"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01980",
+      "title": "PockLigGPT: Pocket-Sequence-Conditioned Molecular Generation with GPTs and RL",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01980"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01930",
+      "title": "Molecular Fragment-Based Graph Isomorphism Networks for Interpretable Prediction of Synergistic Drug Combinations",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01930"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01736",
+      "title": "Mechanistic Origins of Enhanced PET Hydrolase Activity from Molecular Dynamics and Deep Learning-Assisted Network Analysis",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01736"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01425",
+      "title": "Chemically Interpretable Explanations for Molecular Property Prediction via Fragment-Level Shapley Values",
+      "published_date": "2026-08-15",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01425"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00183",
+      "title": "In Silico Decoding of Nonsteroidal Mineralocorticoid Receptor Antagonist Binding: Implications for Drug Design",
+      "published_date": "2026-08-15",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00183"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01964",
+      "title": "Q2performance: Toward Unbiased Selection of Machine-Learning Regression Models",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01964"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01772",
+      "title": "Ser715 Phosphorylation Induces β-Hairpin Unfolding and Destabilization of FOXM1 Autoinhibition",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01772"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01299",
+      "title": "Targeting BCL-2 through Deep Learning-Based Drug Repurposing: A Multimodal Approach Combining Diffusion-Based Generative Modeling, Neural Relational Inference, and In Vitro Validation",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01299"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00728",
+      "title": "Differentiable Thermodynamic Phase-Equilibria for Machine Learning",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00728"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01712",
+      "title": "Machine-Learning-Guided Design of Antifreezing Peptides",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01712"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01571",
+      "title": "A Kinetic Origin of Vps34-IN-3 Selectivity for VPS34 over PI3Kα Revealed by Supervised Molecular Dynamics and Potential of Mean Force Analysis",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01571"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01344",
+      "title": "FastRet: Fast and Simple Retention Time Prediction in Liquid Chromatography",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01344"
+    },
+    {
+      "doi": "10.1021/acs.jcim.5c02663",
+      "title": "Dual-Attention Multimodal Framework for Molecular Property Prediction",
+      "published_date": "2026-08-13",
+      "url": "https://doi.org/10.1021/acs.jcim.5c02663"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02302",
       "title": "Extending the Python RESP Framework for Extra Point Charge Fitting",
