@@ -1,10 +1,31 @@
 {
-  "source": "Science official journal RSS feed (Research Articles only)",
-  "collected_at": "2026-08-18T01:55:48.686Z",
+  "source": "Science tables of contents collected by the local Chrome extension",
+  "collected_at": "2026-08-19T00:01:13.453Z",
   "scope_start": "2026-01-01",
   "article_type": "Research Article",
-  "article_count": 585,
+  "article_count": 588,
   "articles": [
+    {
+      "doi": "10.1126/science.ael3843",
+      "title": "In Other Journals",
+      "published_date": "2026-08-13",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ael3843"
+    },
+    {
+      "doi": "10.1126/science.ael3842",
+      "title": "In Science Journals",
+      "published_date": "2026-08-13",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ael3842"
+    },
+    {
+      "doi": "10.1126/science.ael2764",
+      "title": "Erratum for the Report “Epigenetic regulation of antagonistic receptors confers rice blast resistance with yield balance”",
+      "published_date": "2026-08-13",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ael2764"
+    },
     {
       "doi": "10.1126/science.aei0475",
       "title": "Overcoming the performance ceiling of textured piezoelectric ceramics",

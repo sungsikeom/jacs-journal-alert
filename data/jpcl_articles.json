@@ -1,9 +1,21 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-08-18T04:34:16.446Z",
+  "collected_at": "2026-08-19T00:17:38.709Z",
   "scope_start": "2026-01-01",
-  "article_count": 1081,
+  "article_count": 1083,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02253",
+      "title": "Sulfamethoxazole-Induced Synergistic Interfacial Passivation for Efficient and Stable Perovskite Solar Cells",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02253"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01844",
+      "title": "Angstrom-Scale Confinement Activates O2 via Spin and Charge Reconfiguration",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01844"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02431",
       "title": "Soret Band Splitting as an Optical Fingerprint of Qubit Architecture in Spin-Active Porphyrin Dimers",

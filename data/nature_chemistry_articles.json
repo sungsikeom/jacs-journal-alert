@@ -1,9 +1,33 @@
 {
-  "source": "Nature Chemistry research-articles page and Springer Nature citation service",
-  "collected_at": "2026-08-18T01:55:48.686Z",
+  "source": "Nature Chemistry Research Articles",
+  "collected_at": "2026-08-19T00:07:49.547Z",
   "scope_start": "2009-01-01",
-  "article_count": 2492,
+  "article_count": 2496,
   "articles": [
+    {
+      "doi": "10.1038/s41557-026-02233-3",
+      "title": "Modulating endergonic triplet photosensitization for cycloadditions between bicyclo[1.1.0]butanes and alkenes",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1038/s41557-026-02233-3"
+    },
+    {
+      "doi": "10.1038/s41557-026-02231-5",
+      "title": "Regiospecific α-arylation of diverse carbonyl compounds using an organobismuth transporter",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1038/s41557-026-02231-5"
+    },
+    {
+      "doi": "10.1038/s41557-026-02225-3",
+      "title": "Signal-induced recruitment and dispatchment in reconfigurable phase-separated protocell networks",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1038/s41557-026-02225-3"
+    },
+    {
+      "doi": "10.1038/s41557-026-02224-4",
+      "title": "Nitrene generation and transfer for unnatural biosynthesis in living cells",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1038/s41557-026-02224-4"
+    },
     {
       "doi": "10.1038/s41557-026-02222-6",
       "title": "A protein?foldamer supramolecular synthon for self-assembled hybrid architectures",

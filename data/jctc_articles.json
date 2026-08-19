@@ -1,8 +1,8 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-08-18T04:32:39.530Z",
+  "collected_at": "2026-08-19T00:11:04.957Z",
   "scope_start": "2026-01-01",
-  "article_count": 609,
+  "article_count": 610,
   "articles": [
     {
       "doi": "10.1021/acs.jctc.6c01191",
@@ -15,6 +15,12 @@
       "title": "Piecewise Constraints for Exact End Point Sampling with λ-Dynamics",
       "published_date": "2026-08-18",
       "url": "https://doi.org/10.1021/acs.jctc.6c00953"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00428",
+      "title": "Multiple-Kernel Ridge Regression for Learning the Structure-Electronic Property Relationships of Pyranoazacoronene COFs",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00428"
     },
     {
       "doi": "10.1021/acs.jctc.6c01213",

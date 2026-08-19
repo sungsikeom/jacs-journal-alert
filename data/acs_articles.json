@@ -1,16 +1,154 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-08-18T04:31:56.551Z",
+  "collected_at": "2026-08-19T00:01:07.307Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7121,
+  "article_count": 7144,
   "articles": [
     {
       "doi": "10.1021/jacs.6c13866",
       "title": "General C(sp3)–C(sp3) Cross-Coupling of Primary Amines via in Situ Diazene Formation",
       "published_date": "2026-08-18",
       "url": "https://doi.org/10.1021/jacs.6c13866"
+    },
+    {
+      "doi": "10.1021/jacs.6c13689",
+      "title": "Discovery of Electron–Neutral Electrides with Pressure-Induced Superconductivity",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c13689"
+    },
+    {
+      "doi": "10.1021/jacs.6c13298",
+      "title": "Small-Molecule-Directed RNA Modification via Proximity-Driven Catalysis",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c13298"
+    },
+    {
+      "doi": "10.1021/jacs.6c13007",
+      "title": "Design of Chiral Antimony Catalyst for Ring-Opening Reaction of Epoxides with Anilines",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c13007"
+    },
+    {
+      "doi": "10.1021/jacs.6c12824",
+      "title": "Isothermal Capture and Release of Carbon Dioxide with a Porous Molecular Hexaamine",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c12824"
+    },
+    {
+      "doi": "10.1021/jacs.6c12345",
+      "title": "A Site-Specific Organometallic Approach for Installing Tyrosine Phosphorylation Mimics to Decipher the Role of Phosphorylation in α-Synuclein Aggregation and Seeding",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c12345"
+    },
+    {
+      "doi": "10.1021/jacs.6c12162",
+      "title": "Expanding the Hydrocarbon Landscape: Stereoselective Synthesis of Functionalized ttt-[13]Graphanes",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c12162"
+    },
+    {
+      "doi": "10.1021/jacs.6c11216",
+      "title": "Pro-Atropisomeric Ynamides as Starting Materials for the Synthesis of C–N Atropisomers by Dynamic Kinetic Resolution Reactions",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c11216"
+    },
+    {
+      "doi": "10.1021/jacs.6c10849",
+      "title": "Unsymmetric Benzo[b]phosphole-Fused Diarylethenes: From Enhanced Photochromic Behavior to Solution-Processable Photoswitchable Organic Resistive Memory Devices",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c10849"
+    },
+    {
+      "doi": "10.1021/jacs.6c10197",
+      "title": "Low-Symmetry Crown Ether Design for Coexisting Ferroelectricity and Ferromagnetism in a Two-Dimensional Molecular Crystal",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c10197"
+    },
+    {
+      "doi": "10.1021/jacs.6c10086",
+      "title": "Iteratively Designed Phospholipid-Targeted Supramolecular Sonosensitizers for Precision Treatment of Pulmonary Infections",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c10086"
+    },
+    {
+      "doi": "10.1021/jacs.6c09124",
+      "title": "Dual-Channel Energy Transfer from Ligand-Centered Singlet and Triplet States to Trivalent Lanthanide Ions",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c09124"
+    },
+    {
+      "doi": "10.1021/jacs.6c09105",
+      "title": "Diradical Character of Cyclic Allenes Enables Their Thermal (2 + 2) Cycloadditions",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c09105"
+    },
+    {
+      "doi": "10.1021/jacs.6c08525",
+      "title": "Near-Adjacent Heavy Lanthanide Separation and Sensing Using Dimerizing Lanmodulins",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c08525"
+    },
+    {
+      "doi": "10.1021/jacs.6c08065",
+      "title": "Bidirectional Allosteric Ligand Regulation in a Central Glycolytic Enzyme",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c08065"
+    },
+    {
+      "doi": "10.1021/jacs.6c07793",
+      "title": "Dinuclear Complexes of Linear, Two-Coordinate Iron(II) and Cobalt(II): Geometric Control over Magnetic Exchange between Anisotropic Metal Centers",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c07793"
+    },
+    {
+      "doi": "10.1021/jacs.6c06507",
+      "title": "Cation Coordination Preferences toward Stacking Design in Layered Perovskites along the Perovskite [111] Direction",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c06507"
+    },
+    {
+      "doi": "10.1021/jacs.6c06113",
+      "title": "Interfacial Chemistry of Storage-Induced Degradation in High-Nickel Cathodes",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c06113"
+    },
+    {
+      "doi": "10.1021/jacs.6c05840",
+      "title": "Mastering Electrocatalytic Microenvironment Achieves Aqueous Hydrogen Batteries Exceeding 200 Wh kg–1",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c05840"
+    },
+    {
+      "doi": "10.1021/jacs.6c05615",
+      "title": "Conceptual Shift in Our Understanding of Degenerate Radical Spin Systems: Spin-Rotation Coupling Turned on Its Head",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c05615"
+    },
+    {
+      "doi": "10.1021/jacs.6c05500",
+      "title": "Decoding TnsC Filament Assembly in CRISPR-Associated Transposons Using Interpretable Deep Learning and Molecular Simulations",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c05500"
+    },
+    {
+      "doi": "10.1021/jacs.6c05128",
+      "title": "Organometallic-Free Catalytic Cross-Electrophile Methylation of Aryl Halides",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c05128"
+    },
+    {
+      "doi": "10.1021/jacs.6c00504",
+      "title": "Quantitative Dynamics and Modulation of Reactive Oxygen Species in Aqueous Microdroplets",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.6c00504"
+    },
+    {
+      "doi": "10.1021/jacs.5c22337",
+      "title": "Mass Spectrometric Footprinting and DFT Calculations Explain the Effect of Curcumin on the Aggregation of Amyloid β 42 (Aβ42)",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1021/jacs.5c22337"
     },
     {
       "doi": "10.1021/jacs.6c13108",

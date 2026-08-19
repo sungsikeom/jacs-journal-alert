@@ -1,9 +1,51 @@
 {
-  "source": "Wiley Angewandte Chemie International Edition official RSS feed",
-  "collected_at": "2026-08-18T01:55:48.686Z",
+  "source": "Wiley Angewandte search results",
+  "collected_at": "2026-08-19T00:24:10.298Z",
   "scope_start": "2026-01-01",
-  "article_count": 2114,
+  "article_count": 2121,
   "articles": [
+    {
+      "doi": "10.1002/anie.9795533",
+      "title": "Asymmetric Kinetic Resolution of 2-Aryl Oxetanes by Dinuclear Titanium Radical Catalysis",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.1002/anie.9795533"
+    },
+    {
+      "doi": "10.1002/anie.7695165",
+      "title": "Enthalpy-Entropy Molecular Design of Gel Polymer Electrolytes for Regulating Solvation Chemistry in Lithium–Sulfur Batteries",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.1002/anie.7695165"
+    },
+    {
+      "doi": "10.1002/anie.6479535",
+      "title": "Nickel-Catalyzed H2-Enabled Asymmetric Olefin Isomerization: Direct Access to P-Stereogenic Phospholenes With Adjacent Stereocenters",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.1002/anie.6479535"
+    },
+    {
+      "doi": "10.1002/anie.4503768",
+      "title": "Tuning Reaction Pathways by Controlling Atomic Assembly on Oxide Clusters",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.1002/anie.4503768"
+    },
+    {
+      "doi": "10.1002/anie.3540036",
+      "title": "Closed-Loop Recyclable Solid Polymer Electrolytes via Dynamic Lipoate Cross-Linking",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.1002/anie.3540036"
+    },
+    {
+      "doi": "10.1002/anie.2602995",
+      "title": "Heterobimetallic Janus Catalysts for the One-Pot Synthesis of Polar-Apolar Block Copolymers",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.1002/anie.2602995"
+    },
+    {
+      "doi": "10.1002/anie.202526017",
+      "title": "Cysteine Thioaldehydes: Photolytic Generation, Reactivity, and Biological Implications",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.1002/anie.202526017"
+    },
     {
       "doi": "10.1002/anie.8444671",
       "title": "A Modular Synthesis of C5‐Sulfenyl Thiazoles via an Intermolecular Pummerer Rearrangement: An Underexplored Scaffold for Medicinal Chemistry",

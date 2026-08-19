@@ -1,14 +1,44 @@
 {
-  "source": "Nature Communications official sitemap and Springer Nature citation service",
-  "collected_at": "2026-08-18T01:55:48.686Z",
+  "source": "Nature Communications Research Articles",
+  "collected_at": "2026-08-19T00:04:34.160Z",
   "scope_start": "2026-01-01",
-  "article_count": 8409,
+  "article_count": 8414,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-76892-8",
+      "title": "Transcriptomic profiling of inner ear hair cell spontaneous regeneration reveals the key role of dlx5a",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1038/s41467-026-76892-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-76879-5",
+      "title": "Molecular arrangement and modulation of extrasynaptic αβδ GABAA receptors",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1038/s41467-026-76879-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-76872-y",
+      "title": "Photonic integrated computing engine for concurrent optical computing",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1038/s41467-026-76872-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76577-2",
+      "title": "Synergistic Co–Zn dual atomic sites drive C-lignin hydrogenolysis via vicinal C–O cleavage",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1038/s41467-026-76577-2"
+    },
     {
       "doi": "10.1038/s41467-026-76354-1",
       "title": "Global genomic surveillance uncovers emergence and spatiotemporal patterns of World Health Organization priority antibiotic resistance in invasive Salmonella",
       "published_date": "2026-08-18",
       "url": "https://doi.org/10.1038/s41467-026-76354-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76352-3",
+      "title": "Poromechanical toughening in tensile fracture of saturated solids",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1038/s41467-026-76352-3"
     },
     {
       "doi": "10.1038/s41467-026-76941-2",
