@@ -1,9 +1,33 @@
 {
   "source": "RSC Chemical Science latest articles",
-  "collected_at": "2026-08-18T04:40:03.135Z",
+  "collected_at": "2026-08-19T20:29:17.737Z",
   "scope_start": "2026-01-01",
-  "article_count": 1419,
+  "article_count": 1423,
   "articles": [
+    {
+      "doi": "10.1039/d6sc05483h",
+      "title": "Strained Os nanoclusters on TaB2 for alkaline hydrogen evolution through hydroxyl management and interfacial water restructuring Open Access",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1039/d6sc05483h"
+    },
+    {
+      "doi": "10.1039/d6sc90167k",
+      "title": "Correction: Engineering of antimicrobial peptide fibrils with feedback degradation of bacterial-secreted enzymes Open Access",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1039/d6sc90167k"
+    },
+    {
+      "doi": "10.1039/d6sc05755a",
+      "title": "Surface co-crystallization with an organic single crystal enables vapochromic and luminescent detection of phenols Open Access",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1039/d6sc05755a"
+    },
+    {
+      "doi": "10.1039/d6sc04939g",
+      "title": "Free radical polymerization of halogen bond-driven deep eutectic monomers and emission enhancement Open Access",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1039/d6sc04939g"
+    },
     {
       "doi": "10.1039/d6sc05216a",
       "title": "A head-to-tail dimeric J-aggregate probe for rapid and ratiometric imaging of mitochondrial 5-HT via dual-anchoring Open Access",

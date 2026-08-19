@@ -1,9 +1,123 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-08-19T00:24:10.298Z",
+  "collected_at": "2026-08-19T20:23:50.817Z",
   "scope_start": "2026-01-01",
-  "article_count": 2121,
+  "article_count": 2140,
   "articles": [
+    {
+      "doi": "10.1002/anie.3729447",
+      "title": "Surface-Assisted Cyclodehydrogenation and Annulative Dimerization on TiO2(110): Formation of an Azacoronene and Its Octagon-Fused Dimer",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1002/anie.3729447"
+    },
+    {
+      "doi": "10.1002/anie.3461860",
+      "title": "Excitation-Wavelength-Controlled Spin Injection in Core–Shell Chiral Perovskite Nanocrystals for Amplified Circularly Polarized Luminescence",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1002/anie.3461860"
+    },
+    {
+      "doi": "10.1002/anie.3330483",
+      "title": "Electrochemically Activated Highly Reversible Sulfate Conversion Enables High-Voltage and Large-Volumetric-Capacity Zinc-Based Anion–Cation Shuttle Battery",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1002/anie.3330483"
+    },
+    {
+      "doi": "10.1002/anie.3256076",
+      "title": "Enhanced Photocatalytic Hydrogen Production Assisted by Seawater Ions",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1002/anie.3256076"
+    },
+    {
+      "doi": "10.1002/anie.3174728",
+      "title": "A Tri-Spiral-Mediated Spatial Hybrid LRCT/SRCT Strategy for High-Efficiency Narrowband Blue Emitters",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1002/anie.3174728"
+    },
+    {
+      "doi": "10.1002/anie.3107244",
+      "title": "Electro-Oxidation of Glycerol to Formate at Near-Zero Potential Driven by Cathodic Oxygen Reduction-Generated *OH",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1002/anie.3107244"
+    },
+    {
+      "doi": "10.1002/anie.2990236",
+      "title": "Single-Cell Imaging of Site-Specific RNA-Protein Interactions",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1002/anie.2990236"
+    },
+    {
+      "doi": "10.1002/anie.2812801",
+      "title": "Remote Control Over Covalent Assemblies With Photoswitch-Modulated Dynamic C–N Bonds",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1002/anie.2812801"
+    },
+    {
+      "doi": "10.1002/anie.2809640",
+      "title": "Regioselective Acylation for the Versatile Synthesis of Carbonyl‑Functionalized Boron-Based Multiple Resonance Emitters",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1002/anie.2809640"
+    },
+    {
+      "doi": "10.1002/anie.2808377",
+      "title": "Mimicking Enzymatic Proton Channeling Enables Near-Unity Selective Ammonia Electrosynthesis Beyond Neutral Limits",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1002/anie.2808377"
+    },
+    {
+      "doi": "10.1002/anie.2298813",
+      "title": "Orientation-Engineered Interfacial Bi-Anchoring Molecules for Efficient and Stable Perovskite Solar Cells",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1002/anie.2298813"
+    },
+    {
+      "doi": "10.1002/anie.2221316",
+      "title": "Interfacial Water Activation via Reconstruction-Induced Sites for pH-Universal Electroreduction of CO2",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1002/anie.2221316"
+    },
+    {
+      "doi": "10.1002/anie.2118217",
+      "title": "Chiral Supramolecular Templating Enables Tunable Second-Harmonic Generation in Hybrid Zinc Thiocyanates",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1002/anie.2118217"
+    },
+    {
+      "doi": "10.1002/anie.1797442",
+      "title": "Interfacial Self-Organization of Bottlebrush Amphiphiles Enables Stable Monodisperse Submicron Emulsion Droplets: Thermodynamic Insights",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1002/anie.1797442"
+    },
+    {
+      "doi": "10.1002/anie.1580812",
+      "title": "Activating Triplet Excitons in COFs via Layer-Bridging Co Single Atoms for Photocatalytic H2O2 Production and Tandem C─N Coupling",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1002/anie.1580812"
+    },
+    {
+      "doi": "10.1002/anie.1406923",
+      "title": "Selective Adsorption of o-Xylene From all C8 Aromatics via Secondary Connectivity Manipulation in B←N Frameworks",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1002/anie.1406923"
+    },
+    {
+      "doi": "10.1002/anie.1293701",
+      "title": "Zn─F Diatomic Sites Promote Electrochemical C─N Coupling for the Synthesis of Amino Acids",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1002/anie.1293701"
+    },
+    {
+      "doi": "10.1002/anie.1233737",
+      "title": "Facile C≡O Triple Bond Cleavage of Carbon Monoxide by a Mononuclear Uranium Borohydride Complex",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1002/anie.1233737"
+    },
+    {
+      "doi": "10.1002/anie.1114374",
+      "title": "Streamlined One-Step Dimerization of Small-Molecule Acceptors for High-Performance Organic Solar Cells",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1002/anie.1114374"
+    },
     {
       "doi": "10.1002/anie.9795533",
       "title": "Asymmetric Kinetic Resolution of 2-Aryl Oxetanes by Dinuclear Titanium Radical Catalysis",

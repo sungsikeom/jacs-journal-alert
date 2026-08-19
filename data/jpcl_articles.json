@@ -1,9 +1,21 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-08-19T00:17:38.709Z",
+  "collected_at": "2026-08-19T20:17:19.250Z",
   "scope_start": "2026-01-01",
-  "article_count": 1083,
+  "article_count": 1085,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02333",
+      "title": "Bichromophores as a Molecular Platform to Explore Chiroptical Responses: Resonant Coupling and Beyond",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02333"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01871",
+      "title": "Non-Negligible Intrinsic Nonradiative Recombination in Ideal Wide-Bandgap Mixed-Halide Perovskites",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01871"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02253",
       "title": "Sulfamethoxazole-Induced Synergistic Interfacial Passivation for Efficient and Stable Perovskite Solar Cells",

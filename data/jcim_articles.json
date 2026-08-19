@@ -1,9 +1,39 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-08-19T00:14:23.194Z",
+  "collected_at": "2026-08-19T20:14:03.101Z",
   "scope_start": "2026-01-01",
-  "article_count": 741,
+  "article_count": 746,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c01301",
+      "title": "Combining AI Structure Prediction and Integrative Modeling for Nanobody-Antigen Complexes",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01301"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01234",
+      "title": "MSR-ARN: A Multiscale Residual Attentive Deep Learning Framework for Chemical Space-Guided Prediction of Selective MMP-12 Inhibitors",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01234"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01188",
+      "title": "MMU-DPI: Enhancing Generalization in Drug–Protein Interaction Prediction through Multimodal Learning and a Label Mix Strategy",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01188"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01107",
+      "title": "Fast-Forward: Automatic Assignment and Assessment of Bonded Parameters for the Martini Force Field",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01107"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00943",
+      "title": "When Do Simple Models Win? Machine Learning Architectures for UV Absorption Prediction",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00943"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02614",
       "title": "Correction to “Molecular Mechanism of Beta-Amyloid Aggregation Inhibition by KLVFF”",

@@ -1,9 +1,183 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-08-19T00:04:34.160Z",
+  "collected_at": "2026-08-19T20:04:12.805Z",
   "scope_start": "2026-01-01",
-  "article_count": 8414,
+  "article_count": 8443,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-76932-3",
+      "title": "Frequency resonance amplification in ultrasound-induced long-lasting afterglow",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76932-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76912-7",
+      "title": "A multicenter kidney transplantation study identifies hierarchy and directionality of HLA-DQ alloimmune responses",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76912-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-76907-4",
+      "title": "Dual-ferroelectric stacked high-performance field-effect transistor",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76907-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76899-1",
+      "title": "Gentle yet powerful artificial muscles enabled by hierarchical structure engineering",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76899-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76889-3",
+      "title": "Plasma proteomics defines two reproducible subphenotypes of sepsis-associated acute kidney injury with distinct outcomes",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76889-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76888-4",
+      "title": "Coupled trapping and de-trapping dynamics govern spectral evolution in multi-center luminescent systems",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76888-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76861-1",
+      "title": "Induced magnetosphere of Mars responds fast to interplanetary magnetic field rotation",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76861-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76855-z",
+      "title": "Water-state control unlocks durable and elastic silk fibroin hydrogels",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76855-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-76845-1",
+      "title": "Antimony sulfide photovoltaics with high open-circuit voltage not limited by self-trapped excitons",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76845-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76835-3",
+      "title": "CO2 physiological forcing mitigates climate-driven water limitation on vegetation growth and carbon uptake",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76835-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76829-1",
+      "title": "STADiffuser: high-fidelity simulation and full-view 3D modeling of spatial transcriptomics",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76829-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76813-9",
+      "title": "A pyridoxal phosphate-dependent enzyme platform for stereoselective synthesis of γ-tertiary-nitro-noncanonical amino acids",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76813-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-76795-8",
+      "title": "Transcriptional activity during seed imbibition is conserved, robust and required for germination",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76795-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-76789-6",
+      "title": "HMGA1-HP1β axis regulates premature aging in Hutchinson-Gilford progeria syndrome through chromatin remodeling",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76789-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76785-w",
+      "title": "Observation of polaritonic flat-band bound states in the continuum in a 2D magnet",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76785-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76769-w",
+      "title": "NAP1 switches from an activator to a limiter of interferon induction by trapping TBK1 in condensates",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76769-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76754-3",
+      "title": "Bedrock lithology determines forest demographic responses to drought",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76754-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76726-7",
+      "title": "Avian influenza amplified age-related mortality in a long-lived seabird",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76726-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-76714-x",
+      "title": "MOCLIP: a foundation model for large-scale nanophotonic inverse design",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76714-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-76707-w",
+      "title": "A robust high-performance H2S sensor enabling real-world wireless monitoring",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76707-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76675-1",
+      "title": "Long-read proteogenomic atlas of human neuronal differentiation reveals isoform diversity informing neurodevelopmental risk mechanisms",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76675-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76602-4",
+      "title": "3-fs-resolved UV/XUV photoelectron spectroscopy in the gas phase",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76602-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76565-6",
+      "title": "APOE genotypes differentially remodel the astrocytic lipid droplet proteome to shape lipid droplet dynamics",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76565-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76562-9",
+      "title": "Modelling anti-Ov16 seroprevalence for the control and elimination of onchocerciasis",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76562-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-76549-6",
+      "title": "Metabolic partitioning between photosynthesis and osmotrophy in Collodaria photosymbiotic holobionts",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76549-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76351-4",
+      "title": "CK2α restriction of STING accumulation underlies systemic aging",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76351-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76282-0",
+      "title": "An Atomically Dispersed Copper-Catalyst Lights the Way to Selective N-Demethylations",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76282-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76108-z",
+      "title": "Injury-driven stromal exhaustion disrupts intrinsic regenerative capability",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76108-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-76104-3",
+      "title": "Sensorimotor remapping drives task specialization in prefrontal cortex",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s41467-026-76104-3"
+    },
     {
       "doi": "10.1038/s41467-026-76892-8",
       "title": "Transcriptomic profiling of inner ear hair cell spontaneous regeneration reveals the key role of dlx5a",

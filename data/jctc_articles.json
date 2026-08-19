@@ -1,9 +1,21 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-08-19T00:11:04.957Z",
+  "collected_at": "2026-08-19T20:10:47.220Z",
   "scope_start": "2026-01-01",
-  "article_count": 610,
+  "article_count": 612,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c00973",
+      "title": "Membrane Curvature Generation by the Caveolin 8S Complex and the Role of Cholesterol",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00973"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00892",
+      "title": "Determination of Density Functional Tight Binding Models for Cerium-Containing Materials",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00892"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01191",
       "title": "Extending SHARC to Periodic Systems: A SHARC–VASP Interface for First-Principles Nonadiabatic Dynamics",
