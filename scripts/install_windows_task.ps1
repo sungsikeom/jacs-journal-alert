@@ -11,11 +11,11 @@ if (-not (Test-Path "$env:ProgramFiles\Google\Chrome\Application\chrome.exe")) {
 npm install
 
 $Action = New-ScheduledTaskAction -Execute "powershell.exe" -Argument "-NoProfile -ExecutionPolicy Bypass -File `"$Runner`""
-$Trigger = New-ScheduledTaskTrigger -Daily -At "09:00"
+$Trigger = New-ScheduledTaskTrigger -Daily -At "05:00"
 $Settings = New-ScheduledTaskSettingsSet -StartWhenAvailable -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries -ExecutionTimeLimit (New-TimeSpan -Hours 6)
 Register-ScheduledTask -TaskName "Journal Alert Official Publisher Update" -Action $Action -Trigger $Trigger -Settings $Settings -Description "Collect all journal metadata from official publisher pages using local Google Chrome" -Force
 
 Unregister-ScheduledTask -TaskName "JACS Journal Alert ACS Update" -Confirm:$false -ErrorAction SilentlyContinue
 
-Write-Host "Installed: Journal Alert Official Publisher Update (daily at 09:00)"
+Write-Host "Installed: Journal Alert Official Publisher Update (daily at 05:00)"
 Write-Host "Run scripts\run_local_acs_update.ps1 once manually before relying on the schedule."

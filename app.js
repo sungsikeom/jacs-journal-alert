@@ -298,7 +298,7 @@ function render(query = '') {
     const commentsMarkup = comments.map(comment => `<div class="comment-item"><p class="comment-text"><b>${escapeHtml(comment.author)}</b> ${escapeHtml(comment.text)}</p>${comment.mine ? `<div class="comment-owner-actions"><button type="button" class="comment-edit" data-doi="${escapeHtml(article.doi)}" data-comment-id="${escapeHtml(comment.id)}">수정</button><button type="button" class="comment-delete" data-doi="${escapeHtml(article.doi)}" data-comment-id="${escapeHtml(comment.id)}">삭제</button></div>` : ''}</div>`).join('');
     return `<div class="article${isRead ? ' is-read' : ''}">
       <div class="article-main"><span class="number">${String(index + 1).padStart(2, '0')}</span><div class="article-copy"><a class="article-title" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer"><h3>${escapeHtml(article.title)}${isNew ? '<span class="new-badge">NEW</span>' : ''}</h3></a><div class="meta"><span class="article-journal">${escapeHtml(journalDisplayName(article.journal_short))}</span><span>${escapeHtml(article.published_date || 'Publication date pending')}</span><span class="doi">${escapeHtml(article.doi)}</span><div class="article-toolbar"><div class="article-actions"><label><input type="checkbox" class="read-toggle" data-doi="${escapeHtml(article.doi)}"${isRead ? ' checked' : ''}> 살펴봄</label><button type="button" class="interest-toggle${isInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isInteresting}">★ 관심 있음</button><button type="button" class="not-interest-toggle${isNotInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isNotInteresting}">관심 없음</button></div><button type="button" class="comment-toggle" data-doi="${escapeHtml(article.doi)}">댓글${comments.length ? ` ${comments.length}` : ''}</button></div></div></div><a class="article-open" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" aria-label="논문 열기">→</a></div>
-      <form class="comment-form is-collapsed" data-doi="${escapeHtml(article.doi)}"><span>${escapeHtml(activeProfile?.author || '익명')}</span><input name="comment" maxlength="500" value="" placeholder="댓글을 남겨보세요"><button type="submit">저장</button><small class="comment-feedback" aria-live="polite"></small></form>
+      <form class="comment-form is-collapsed" data-doi="${escapeHtml(article.doi)}"><span>${escapeHtml(activeProfile?.author || '익명')}</span><textarea name="comment" maxlength="5000" rows="5" placeholder="논문 요약이나 설명을 여러 줄로 남겨보세요"></textarea><button type="submit">저장</button><small class="comment-hint">최대 5,000자 · Ctrl+Enter로 저장</small><small class="comment-feedback" aria-live="polite"></small></form>
       ${commentsMarkup}
     </div>`;
   }).join('');
@@ -404,6 +404,12 @@ function render(query = '') {
       feedback.textContent = error.message;
     }
   }));
+
+  container.querySelectorAll('.comment-form textarea').forEach(textarea => textarea.addEventListener('keydown', event => {
+    if (event.key !== 'Enter' || (!event.ctrlKey && !event.metaKey)) return;
+    event.preventDefault();
+    event.currentTarget.form?.requestSubmit();
+  }));
   container.querySelectorAll('.comment-toggle').forEach(button => button.addEventListener('click', event => {
     event.preventDefault();
     event.stopPropagation();
@@ -412,8 +418,8 @@ function render(query = '') {
     form.classList.toggle('is-collapsed');
     if (!form.classList.contains('is-collapsed')) {
       delete form.dataset.editId;
-      form.querySelector('input').value = '';
-      form.querySelector('input')?.focus();
+      form.querySelector('textarea').value = '';
+      form.querySelector('textarea')?.focus();
     }
   }));
   container.querySelectorAll('.comment-edit').forEach(button => button.addEventListener('click', event => {
@@ -422,9 +428,9 @@ function render(query = '') {
     const form = container.querySelector(`.comment-form[data-doi="${CSS.escape(doi)}"]`);
     if (!comment || !form) return;
     form.dataset.editId = comment.id;
-    form.querySelector('input').value = comment.text;
+    form.querySelector('textarea').value = comment.text;
     form.classList.remove('is-collapsed');
-    form.querySelector('input')?.focus();
+    form.querySelector('textarea')?.focus();
   }));
   container.querySelectorAll('.comment-delete').forEach(button => button.addEventListener('click', async event => {
     const doi = event.currentTarget.dataset.doi;
