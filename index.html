@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="주요 화학·과학 저널의 논문 제목과 DOI를 매일 확인합니다.">
   <title>Journal Pulse · Chemistry &amp; Science</title>
-  <link rel="stylesheet" href="styles.css?v=20260812-5">
+  <link rel="stylesheet" href="styles.css?v=20260820-1">
 </head>
 <body>
   <main>
@@ -18,7 +18,10 @@
       <div class="status-card" aria-live="polite">
         <span class="status-dot"></span>
         <div><strong id="status-label">확인 중</strong><small id="checked-at">데이터를 불러오고 있습니다</small></div>
-        <button id="profile-reset" class="profile-reset" type="button">아이디 재설정</button>
+        <div class="profile-actions">
+          <button id="profile-reset" class="profile-reset" type="button">아이디 재설정</button>
+          <button id="saved-library-button" class="saved-library-button" type="button">저장된 논문 <span id="saved-count">0</span></button>
+        </div>
       </div>
     </header>
 
@@ -92,7 +95,7 @@
     <form id="profile-form" class="profile-card">
       <p class="eyebrow">READER PROFILE</p>
       <h2 id="profile-title">프로필을 만들어 주세요</h2>
-      <p id="profile-description">살펴봄·관심 기록은 이 브라우저에, 댓글 권한은 아이디에 연결됩니다.</p>
+      <p id="profile-description">살펴봄·관심·저장 기록과 댓글 권한은 아이디에 연결됩니다.</p>
       <label for="profile-name">아이디</label>
       <input id="profile-name" name="profile-name" maxlength="40" autocomplete="username" required>
       <div class="profile-buttons">
@@ -101,7 +104,38 @@
       </div>
     </form>
   </div>
+  <dialog id="saved-library-dialog" class="library-dialog" aria-labelledby="saved-library-title">
+    <div class="library-shell">
+      <header class="dialog-heading">
+        <div><p class="eyebrow">MY LIBRARY</p><h2 id="saved-library-title">저장된 논문</h2><p id="saved-library-summary" class="dialog-summary"></p></div>
+        <button id="saved-library-close" class="dialog-close" type="button" aria-label="저장된 논문 닫기">×</button>
+      </header>
+      <nav id="saved-group-filters" class="saved-group-filters" aria-label="저장 그룹"></nav>
+      <div id="saved-library-articles" class="saved-library-articles"></div>
+      <p id="saved-library-empty" class="saved-library-empty">저장된 논문이 없습니다.</p>
+    </div>
+  </dialog>
+  <dialog id="save-dialog" class="save-dialog" aria-labelledby="save-dialog-title">
+    <form id="save-article-form" class="save-article-form">
+      <header class="dialog-heading compact">
+        <div><p class="eyebrow">SAVE ARTICLE</p><h2 id="save-dialog-title">논문 저장</h2></div>
+        <button id="save-dialog-close" class="dialog-close" type="button" aria-label="저장 창 닫기">×</button>
+      </header>
+      <p id="save-article-title" class="save-article-title"></p>
+      <fieldset>
+        <legend>저장할 그룹</legend>
+        <div id="save-group-options" class="save-group-options"></div>
+      </fieldset>
+      <label class="new-group-field" for="new-group-name"><span>새 그룹 만들기</span><input id="new-group-name" maxlength="40" placeholder="예: 촉매, 나중에 읽기"></label>
+      <p id="save-feedback" class="save-feedback" aria-live="polite"></p>
+      <div class="save-dialog-actions">
+        <button id="remove-saved-article" class="remove-saved-article" type="button">저장 해제</button>
+        <button id="save-dialog-cancel" class="dialog-secondary" type="button">취소</button>
+        <button id="save-dialog-submit" class="dialog-primary" type="submit">저장</button>
+      </div>
+    </form>
+  </dialog>
   <footer>Independent literature alert · Metadata from publisher pages and Crossref · Not affiliated with the monitored publishers</footer>
-  <script src="app.js?v=20260813-1"></script>
+  <script src="app.js?v=20260820-1"></script>
 </body>
 </html>

@@ -11,6 +11,24 @@ const profileTitle = document.querySelector('#profile-title');
 const profileDescription = document.querySelector('#profile-description');
 const profileSubmit = document.querySelector('#profile-submit');
 const profileCancel = document.querySelector('#profile-cancel');
+const savedLibraryButton = document.querySelector('#saved-library-button');
+const savedCount = document.querySelector('#saved-count');
+const savedLibraryDialog = document.querySelector('#saved-library-dialog');
+const savedLibraryClose = document.querySelector('#saved-library-close');
+const savedLibrarySummary = document.querySelector('#saved-library-summary');
+const savedGroupFilters = document.querySelector('#saved-group-filters');
+const savedLibraryArticles = document.querySelector('#saved-library-articles');
+const savedLibraryEmpty = document.querySelector('#saved-library-empty');
+const saveDialog = document.querySelector('#save-dialog');
+const saveArticleForm = document.querySelector('#save-article-form');
+const saveArticleTitle = document.querySelector('#save-article-title');
+const saveGroupOptions = document.querySelector('#save-group-options');
+const newGroupName = document.querySelector('#new-group-name');
+const saveFeedback = document.querySelector('#save-feedback');
+const saveDialogClose = document.querySelector('#save-dialog-close');
+const saveDialogCancel = document.querySelector('#save-dialog-cancel');
+const saveDialogSubmit = document.querySelector('#save-dialog-submit');
+const removeSavedArticle = document.querySelector('#remove-saved-article');
 const scopeFilterButtons = [...document.querySelectorAll('.scope-filter')];
 const journalFilterButtons = [...document.querySelectorAll('.journal-filter')];
 const publicationCutoff = article => article.journal_short === 'JACS' ? '2025-01-01' : '2026-01-01';
@@ -29,11 +47,13 @@ const activeJournals = new Set();
 let activeYear = 'all';
 let visibleCount = pageSize;
 let activeProfile = null;
-let profileState = { read: {}, interesting: {} };
+let profileState = { read: {}, interesting: {}, notInteresting: {}, saved: {}, savedGroups: [], comments: {} };
 let sharedComments = {};
 let profileStateMutationVersion = 0;
 let profileStateSyncPromise = null;
 let profileStateSyncProfileId = null;
+let activeSaveDoi = null;
+let activeSavedGroup = 'all';
 
 const escapeHtml = value => String(value ?? '').replace(/[&<>'"]/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' }[char]));
 const journalDisplayName = value => ({ 'Nat Commun': 'Nat Commun', 'J. Comput. Chem.': 'JCC', 'Angew. Chem. Int. Ed.': 'Angew.' }[value] || value);
@@ -70,7 +90,7 @@ function ensureCommentIdentity() {
 function openProfileEditor() {
   if (!activeProfile) return;
   profileTitle.textContent = '아이디 재설정';
-  profileDescription.textContent = '새 아이디를 입력하면 댓글 권한과 작성자 코드가 해당 아이디로 전환됩니다.';
+  profileDescription.textContent = '새 아이디를 입력하면 살펴봄·관심·저장 기록과 댓글 권한이 해당 아이디로 전환됩니다.';
   profileSubmit.textContent = '아이디 적용';
   profileCancel.hidden = false;
   profileName.value = activeProfile.name;
@@ -95,6 +115,8 @@ function loadProfile() {
     ensureCommentIdentity();
     profileState = JSON.parse(localStorage.getItem(profileStateKey(profile.id)) || '{"read":{},"interesting":{},"notInteresting":{}}');
     profileState.notInteresting ||= {};
+    profileState.saved ||= {};
+    profileState.savedGroups = Array.isArray(profileState.savedGroups) ? profileState.savedGroups : [];
     profileState.comments ||= {};
     return true;
   } catch { return false; }
@@ -145,6 +167,8 @@ function profileStatePayload() {
     read: Object.fromEntries(Object.entries(profileState.read || {}).filter(([, value]) => value === true)),
     interesting: Object.fromEntries(Object.entries(profileState.interesting || {}).filter(([, value]) => value === true)),
     notInteresting: Object.fromEntries(Object.entries(profileState.notInteresting || {}).filter(([, value]) => value === true)),
+    saved: profileState.saved || {},
+    savedGroups: profileState.savedGroups || [],
   };
 }
 
@@ -153,9 +177,13 @@ function replaceProfileState(remoteState) {
     read: remoteState?.read && typeof remoteState.read === 'object' ? remoteState.read : {},
     interesting: remoteState?.interesting && typeof remoteState.interesting === 'object' ? remoteState.interesting : {},
     notInteresting: remoteState?.notInteresting && typeof remoteState.notInteresting === 'object' ? remoteState.notInteresting : {},
+    saved: remoteState?.saved && typeof remoteState.saved === 'object' ? remoteState.saved : {},
+    savedGroups: Array.isArray(remoteState?.savedGroups) ? remoteState.savedGroups : [],
     comments: profileState.comments || {},
   };
   saveProfileState();
+  updateSavedCount();
+  if (savedLibraryDialog.open) renderSavedLibrary();
 }
 
 function setProfileFlag(group, doi, value) {
@@ -170,7 +198,13 @@ async function persistProfileArticleState(doi, patch) {
   setProfileFlag('read', doi, data.article.read);
   setProfileFlag('interesting', doi, data.article.interesting);
   setProfileFlag('notInteresting', doi, data.article.notInteresting);
+  if (Object.prototype.hasOwnProperty.call(data.article, 'savedGroupId')) {
+    profileState.saved ||= {};
+    if (data.article.savedGroupId) profileState.saved[doi] = data.article.savedGroupId;
+    else delete profileState.saved[doi];
+  }
   saveProfileState();
+  updateSavedCount();
   return data.article;
 }
 
@@ -271,7 +305,98 @@ async function syncSharedComments() {
   render(search.value);
 }
 
+function savedGroupById(id) {
+  return (profileState.savedGroups || []).find(group => group.id === id) || null;
+}
+
+function updateSavedCount() {
+  savedCount.textContent = Object.keys(profileState.saved || {}).length.toLocaleString('ko-KR');
+}
+
+function savedArticlesFor(groupId = 'all') {
+  const articlesByDoi = new Map(payload.articles.map(article => [String(article.doi).toLowerCase(), article]));
+  return Object.entries(profileState.saved || {})
+    .filter(([, savedGroupId]) => groupId === 'all' || savedGroupId === groupId)
+    .map(([doi, savedGroupId]) => ({
+      article: articlesByDoi.get(doi.toLowerCase()) || { doi, title: doi, url: `https://doi.org/${doi}`, journal_short: '저장됨', published_date: '' },
+      savedGroupId,
+    }))
+    .sort((a, b) => String(b.article.published_date || '').localeCompare(String(a.article.published_date || '')) || String(a.article.title).localeCompare(String(b.article.title)));
+}
+
+function renderSavedLibrary() {
+  const groups = profileState.savedGroups || [];
+  if (activeSavedGroup !== 'all' && !groups.some(group => group.id === activeSavedGroup)) activeSavedGroup = 'all';
+  const allCount = Object.keys(profileState.saved || {}).length;
+  savedGroupFilters.innerHTML = [
+    `<button type="button" class="saved-group-filter${activeSavedGroup === 'all' ? ' is-active' : ''}" data-group-id="all">전체 <span>${allCount}</span></button>`,
+    ...groups.map(group => {
+      const count = Object.values(profileState.saved || {}).filter(groupId => groupId === group.id).length;
+      return `<button type="button" class="saved-group-filter${activeSavedGroup === group.id ? ' is-active' : ''}" data-group-id="${escapeHtml(group.id)}">${escapeHtml(group.name)} <span>${count}</span></button>`;
+    }),
+  ].join('');
+  const rows = savedArticlesFor(activeSavedGroup);
+  const activeGroupName = activeSavedGroup === 'all' ? '전체' : savedGroupById(activeSavedGroup)?.name || '전체';
+  savedLibrarySummary.textContent = `${activeGroupName} · ${rows.length.toLocaleString('ko-KR')}편`;
+  savedLibraryArticles.innerHTML = rows.map(({ article, savedGroupId }) => `<article class="saved-library-item">
+    <div class="saved-library-copy"><a href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer"><h3>${escapeHtml(article.title)}</h3></a><div class="saved-library-meta"><span>${escapeHtml(journalDisplayName(article.journal_short))}</span>${article.published_date ? `<span>${escapeHtml(article.published_date)}</span>` : ''}<span class="doi">${escapeHtml(article.doi)}</span></div></div>
+    <div class="saved-library-actions"><button type="button" class="library-reassign" data-doi="${escapeHtml(article.doi)}">${escapeHtml(savedGroupById(savedGroupId)?.name || '그룹 변경')}</button><button type="button" class="library-remove" data-doi="${escapeHtml(article.doi)}">저장 해제</button><a href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" aria-label="논문 열기">→</a></div>
+  </article>`).join('');
+  savedLibraryEmpty.hidden = rows.length !== 0;
+  savedGroupFilters.querySelectorAll('.saved-group-filter').forEach(button => button.addEventListener('click', () => {
+    activeSavedGroup = button.dataset.groupId;
+    renderSavedLibrary();
+  }));
+  savedLibraryArticles.querySelectorAll('.library-reassign').forEach(button => button.addEventListener('click', () => openSaveDialog(button.dataset.doi)));
+  savedLibraryArticles.querySelectorAll('.library-remove').forEach(button => button.addEventListener('click', async event => {
+    const currentButton = event.currentTarget;
+    currentButton.disabled = true;
+    try {
+      profileStateMutationVersion += 1;
+      await persistProfileArticleState(currentButton.dataset.doi, { savedGroupId: null });
+      render(search.value);
+      renderSavedLibrary();
+    } catch (error) {
+      currentButton.disabled = false;
+      window.alert(error.message);
+    }
+  }));
+  updateSavedCount();
+}
+
+function renderSaveGroupOptions() {
+  const currentGroupId = profileState.saved?.[activeSaveDoi];
+  const groups = profileState.savedGroups || [];
+  saveGroupOptions.innerHTML = groups.length
+    ? groups.map((group, index) => `<label><input type="radio" name="saved-group" value="${escapeHtml(group.id)}"${group.id === currentGroupId || (!currentGroupId && index === 0) ? ' checked' : ''}><span>${escapeHtml(group.name)}</span></label>`).join('')
+    : '<p>아직 그룹이 없습니다. 아래에서 첫 그룹을 만들어 주세요.</p>';
+}
+
+function openSaveDialog(doi) {
+  const article = payload.articles.find(item => String(item.doi).toLowerCase() === String(doi).toLowerCase());
+  if (!article) return;
+  activeSaveDoi = article.doi;
+  saveArticleTitle.textContent = article.title;
+  newGroupName.value = '';
+  saveFeedback.textContent = '';
+  removeSavedArticle.hidden = !profileState.saved?.[article.doi];
+  saveDialogSubmit.textContent = profileState.saved?.[article.doi] ? '변경 저장' : '저장';
+  renderSaveGroupOptions();
+  if (!saveDialog.open) saveDialog.showModal();
+  requestAnimationFrame(() => {
+    if ((profileState.savedGroups || []).length) saveGroupOptions.querySelector('input:checked')?.focus();
+    else newGroupName.focus();
+  });
+}
+
+function closeSaveDialog() {
+  if (saveDialog.open) saveDialog.close();
+  activeSaveDoi = null;
+  saveFeedback.textContent = '';
+}
+
 function render(query = '') {
+  updateSavedCount();
   const needle = query.trim().toLowerCase();
   const matchingRows = [...payload.articles]
     .filter(article => String(article.published_date || '') >= publicationCutoff(article))
@@ -294,10 +419,11 @@ function render(query = '') {
     const isRead = Boolean(profileState.read[article.doi]);
     const isInteresting = Boolean(profileState.interesting[article.doi]);
     const isNotInteresting = Boolean(profileState.notInteresting?.[article.doi]);
+    const savedGroup = savedGroupById(profileState.saved?.[article.doi]);
     const comments = commentsFor(article.doi);
     const commentsMarkup = comments.map(comment => `<div class="comment-item"><p class="comment-text"><b>${escapeHtml(comment.author)}</b> ${escapeHtml(comment.text)}</p>${comment.mine ? `<div class="comment-owner-actions"><button type="button" class="comment-edit" data-doi="${escapeHtml(article.doi)}" data-comment-id="${escapeHtml(comment.id)}">수정</button><button type="button" class="comment-delete" data-doi="${escapeHtml(article.doi)}" data-comment-id="${escapeHtml(comment.id)}">삭제</button></div>` : ''}</div>`).join('');
     return `<div class="article${isRead ? ' is-read' : ''}">
-      <div class="article-main"><span class="number">${String(index + 1).padStart(2, '0')}</span><div class="article-copy"><a class="article-title" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer"><h3>${escapeHtml(article.title)}${isNew ? '<span class="new-badge">NEW</span>' : ''}</h3></a><div class="meta"><span class="article-journal">${escapeHtml(journalDisplayName(article.journal_short))}</span><span>${escapeHtml(article.published_date || 'Publication date pending')}</span><span class="doi">${escapeHtml(article.doi)}</span><div class="article-toolbar"><div class="article-actions"><label><input type="checkbox" class="read-toggle" data-doi="${escapeHtml(article.doi)}"${isRead ? ' checked' : ''}> 살펴봄</label><button type="button" class="interest-toggle${isInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isInteresting}">★ 관심 있음</button><button type="button" class="not-interest-toggle${isNotInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isNotInteresting}">관심 없음</button></div><button type="button" class="comment-toggle" data-doi="${escapeHtml(article.doi)}">댓글${comments.length ? ` ${comments.length}` : ''}</button></div></div></div><a class="article-open" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" aria-label="논문 열기">→</a></div>
+      <div class="article-main"><span class="number">${String(index + 1).padStart(2, '0')}</span><div class="article-copy"><a class="article-title" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer"><h3>${escapeHtml(article.title)}${isNew ? '<span class="new-badge">NEW</span>' : ''}</h3></a><div class="meta"><span class="article-journal">${escapeHtml(journalDisplayName(article.journal_short))}</span><span>${escapeHtml(article.published_date || 'Publication date pending')}</span><span class="doi">${escapeHtml(article.doi)}</span><div class="article-toolbar"><div class="article-actions"><label><input type="checkbox" class="read-toggle" data-doi="${escapeHtml(article.doi)}"${isRead ? ' checked' : ''}> 살펴봄</label><button type="button" class="interest-toggle${isInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isInteresting}">★ 관심 있음</button><button type="button" class="not-interest-toggle${isNotInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isNotInteresting}">관심 없음</button><button type="button" class="save-toggle${savedGroup ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${Boolean(savedGroup)}">${savedGroup ? `✓ 저장 · ${escapeHtml(savedGroup.name)}` : '＋ 저장'}</button></div><button type="button" class="comment-toggle" data-doi="${escapeHtml(article.doi)}">댓글${comments.length ? ` ${comments.length}` : ''}</button></div></div></div><a class="article-open" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" aria-label="논문 열기">→</a></div>
       <form class="comment-form is-collapsed" data-doi="${escapeHtml(article.doi)}"><span>${escapeHtml(activeProfile?.author || '익명')}</span><textarea name="comment" maxlength="5000" rows="5" placeholder="논문 요약이나 설명을 여러 줄로 남겨보세요"></textarea><button type="submit">저장</button><small class="comment-hint">최대 5,000자 · Ctrl+Enter로 저장</small><small class="comment-feedback" aria-live="polite"></small></form>
       ${commentsMarkup}
     </div>`;
@@ -377,6 +503,9 @@ function render(query = '') {
       render(search.value);
       window.alert(error.message);
     }
+  }));
+  container.querySelectorAll('.save-toggle').forEach(button => button.addEventListener('click', event => {
+    openSaveDialog(event.currentTarget.dataset.doi);
   }));
   container.querySelectorAll('.comment-form').forEach(form => form.addEventListener('submit', async event => {
     event.preventDefault();
@@ -465,13 +594,83 @@ profileForm.addEventListener('submit', event => {
   localStorage.setItem(PROFILE_INDEX_KEY, JSON.stringify(index));
   profileState = JSON.parse(localStorage.getItem(profileStateKey(activeProfile.id)) || '{"read":{},"interesting":{},"notInteresting":{},"comments":{}}');
   profileState.notInteresting ||= {};
+  profileState.saved ||= {};
+  profileState.savedGroups = Array.isArray(profileState.savedGroups) ? profileState.savedGroups : [];
   profileState.comments ||= {};
+  activeSavedGroup = 'all';
   ensureCommentIdentity();
   saveProfileState();
   profileGate.hidden = true;
   render(search.value);
   syncSharedComments();
   syncProfileState();
+});
+
+savedLibraryButton.addEventListener('click', () => {
+  activeSavedGroup = 'all';
+  renderSavedLibrary();
+  if (!savedLibraryDialog.open) savedLibraryDialog.showModal();
+});
+savedLibraryClose.addEventListener('click', () => savedLibraryDialog.close());
+savedLibraryDialog.addEventListener('click', event => {
+  if (event.target === savedLibraryDialog) savedLibraryDialog.close();
+});
+saveDialogClose.addEventListener('click', closeSaveDialog);
+saveDialogCancel.addEventListener('click', closeSaveDialog);
+saveDialog.addEventListener('click', event => {
+  if (event.target === saveDialog) closeSaveDialog();
+});
+saveDialog.addEventListener('close', () => {
+  activeSaveDoi = null;
+  saveFeedback.textContent = '';
+});
+saveGroupOptions.addEventListener('change', () => { newGroupName.value = ''; });
+saveArticleForm.addEventListener('submit', async event => {
+  event.preventDefault();
+  if (!activeSaveDoi) return;
+  const doi = activeSaveDoi;
+  const requestedGroupName = newGroupName.value.trim();
+  let groupId = saveArticleForm.querySelector('input[name="saved-group"]:checked')?.value || '';
+  saveDialogSubmit.disabled = true;
+  removeSavedArticle.disabled = true;
+  saveFeedback.textContent = '저장 중…';
+  try {
+    if (requestedGroupName) {
+      const data = await profileStateRequest('POST', { action: 'create-group', name: requestedGroupName });
+      replaceProfileState(data.state);
+      groupId = data.group.id;
+    }
+    if (!groupId) throw new Error('기존 그룹을 선택하거나 새 그룹 이름을 입력해 주세요.');
+    profileStateMutationVersion += 1;
+    await persistProfileArticleState(doi, { savedGroupId: groupId });
+    closeSaveDialog();
+    render(search.value);
+    if (savedLibraryDialog.open) renderSavedLibrary();
+  } catch (error) {
+    saveFeedback.textContent = error.message;
+  } finally {
+    saveDialogSubmit.disabled = false;
+    removeSavedArticle.disabled = false;
+  }
+});
+removeSavedArticle.addEventListener('click', async () => {
+  if (!activeSaveDoi) return;
+  const doi = activeSaveDoi;
+  saveDialogSubmit.disabled = true;
+  removeSavedArticle.disabled = true;
+  saveFeedback.textContent = '저장 해제 중…';
+  try {
+    profileStateMutationVersion += 1;
+    await persistProfileArticleState(doi, { savedGroupId: null });
+    closeSaveDialog();
+    render(search.value);
+    if (savedLibraryDialog.open) renderSavedLibrary();
+  } catch (error) {
+    saveFeedback.textContent = error.message;
+  } finally {
+    saveDialogSubmit.disabled = false;
+    removeSavedArticle.disabled = false;
+  }
 });
 
 fetch('./data/articles.json', { cache: 'no-store' })
