@@ -1,10 +1,108 @@
 {
   "source": "Science tables of contents collected by the local Chrome extension",
-  "collected_at": "2026-08-19T20:00:40.044Z",
+  "collected_at": "2026-08-20T20:01:09.283Z",
   "scope_start": "2026-01-01",
   "article_type": "Research Article",
-  "article_count": 588,
+  "article_count": 607,
   "articles": [
+    {
+      "doi": "10.1126/science.ael5805",
+      "title": "In Other Journals",
+      "published_date": "2026-08-20",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ael5805"
+    },
+    {
+      "doi": "10.1126/science.ael5804",
+      "title": "In Science Journals",
+      "published_date": "2026-08-20",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ael5804"
+    },
+    {
+      "doi": "10.1126/science.aek6651",
+      "title": "Erratum for the Report “Senolysis by glutaminolysis inhibition ameliorates various age-associated disorders”",
+      "published_date": "2026-08-20",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aek6651"
+    },
+    {
+      "doi": "10.1126/science.aeg8415",
+      "title": "Redirecting wet–interfacial redox pathways for efficient inverted perovskite solar cells",
+      "published_date": "2026-08-20",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeg8415"
+    },
+    {
+      "doi": "10.1126/science.aeg0028",
+      "title": "Ultralong sheathed single-metal-atom chains synthesized under high pressure",
+      "published_date": "2026-08-20",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeg0028"
+    },
+    {
+      "doi": "10.1126/science.aee0747",
+      "title": "China’s solar expansion policy reduces bird diversity",
+      "published_date": "2026-08-20",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aee0747"
+    },
+    {
+      "doi": "10.1126/science.aed9286",
+      "title": "RAD51 stabilizes neutrophil extracellular traps to compartmentalize inflammation",
+      "published_date": "2026-08-20",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aed9286"
+    },
+    {
+      "doi": "10.1126/science.aec6299",
+      "title": "Virome-wide ubiquitin ligase discovery reveals diverse mechanisms of immune evasion",
+      "published_date": "2026-08-20",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aec6299"
+    },
+    {
+      "doi": "10.1126/science.aeb5077",
+      "title": "Modality-specific neurovascular coupling via layer-segregated arteriole networks",
+      "published_date": "2026-08-20",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeb5077"
+    },
+    {
+      "doi": "10.1126/science.aea7978",
+      "title": "Laser Mössbauer spectroscopy of 229Th in CaF2",
+      "published_date": "2026-08-20",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aea7978"
+    },
+    {
+      "doi": "10.1126/science.adz4351",
+      "title": "Autonomous biomedical research with an artificial intelligence agent",
+      "published_date": "2026-08-20",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adz4351"
+    },
+    {
+      "doi": "10.1126/science.ady3027",
+      "title": "Tracing the origins of de novo coronary collateral formation in cardiac repair",
+      "published_date": "2026-08-20",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ady3027"
+    },
+    {
+      "doi": "10.1126/science.ady1619",
+      "title": "TGW1a locus simultaneously shortens growth duration and boosts grain yield in rice",
+      "published_date": "2026-08-20",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ady1619"
+    },
+    {
+      "doi": "10.1126/science.adv0443",
+      "title": "Genomes of Poaceae relatives reveal key metabolic innovations preceding the evolution of grasses",
+      "published_date": "2026-08-20",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adv0443"
+    },
     {
       "doi": "10.1126/science.ael3843",
       "title": "In Other Journals",
@@ -468,6 +566,13 @@
       "url": "https://doi.org/10.1126/science.aeh9302"
     },
     {
+      "doi": "10.1126/science.aeh1429",
+      "title": "Preferred synthesis of armchair transition metal dichalcogenide nanotubes",
+      "published_date": "2026-07-16",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeh1429"
+    },
+    {
       "doi": "10.1126/science.aeg6638",
       "title": "Robust single-electron memory with quantum states manipulation",
       "published_date": "2026-07-16",
@@ -522,6 +627,20 @@
       "published_date": "2026-07-16",
       "article_type": "Research Article",
       "url": "https://doi.org/10.1126/science.aeb2344"
+    },
+    {
+      "doi": "10.1126/science.aeb0822",
+      "title": "De novo design of orthogonal far-red, orange, and green fluorophore-binding proteins for multiplexed imaging",
+      "published_date": "2026-07-16",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeb0822"
+    },
+    {
+      "doi": "10.1126/science.aeb0357",
+      "title": "A cinnamyl alcohol dehydrogenase–like scaffold organizes monoterpenoid indole alkaloid biosynthesis",
+      "published_date": "2026-07-16",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeb0357"
     },
     {
       "doi": "10.1126/science.aea9413",
@@ -627,6 +746,13 @@
       "published_date": "2026-07-09",
       "article_type": "Research Article",
       "url": "https://doi.org/10.1126/science.aee9519"
+    },
+    {
+      "doi": "10.1126/science.aed6782",
+      "title": "Bacteria sense virus-induced genome degradation via methylated mononucleotides",
+      "published_date": "2026-07-09",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aed6782"
     },
     {
       "doi": "10.1126/science.aec8347",
@@ -823,6 +949,13 @@
       "published_date": "2026-07-02",
       "article_type": "Research Article",
       "url": "https://doi.org/10.1126/science.adr3817"
+    },
+    {
+      "doi": "10.1126/science.adu5501",
+      "title": "A native sulfur deposit in Gale crater, Mars",
+      "published_date": "2026-06-28",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adu5501"
     },
     {
       "doi": "10.1126/science.aej9373",

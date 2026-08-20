@@ -1,9 +1,39 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-08-19T20:17:19.250Z",
+  "collected_at": "2026-08-20T20:17:40.964Z",
   "scope_start": "2026-01-01",
-  "article_count": 1085,
+  "article_count": 1090,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02288",
+      "title": "Non-Markovian Dynamics of Surface–Liquid Slip",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02288"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02224",
+      "title": "Photothermal 2D Spectroscopy: A Different Type of Action",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02224"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02196",
+      "title": "High Performance Stretchable PVA-MoS2 Hydrogel Photodetectors with Electron–Cation Dual Charge Transport",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02196"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02173",
+      "title": "Mapping the Energy Transfer Network in the Diatom Cyclotella meneghiniana by Picosecond Time-Resolved Fluorescence Spectroscopy down to Cryogenic Temperatures",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02173"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01744",
+      "title": "Optical Control of Förster Resonance Energy Transfer in a Single Ionic-Liquid Microdroplet",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01744"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02333",
       "title": "Bichromophores as a Molecular Platform to Explore Chiroptical Responses: Resonant Coupling and Beyond",

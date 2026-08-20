@@ -1,9 +1,33 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-08-19T20:14:03.101Z",
+  "collected_at": "2026-08-20T20:14:24.571Z",
   "scope_start": "2026-01-01",
-  "article_count": 746,
+  "article_count": 750,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02094",
+      "title": "Biasing Conformational Sampling in AlphaFold 3 and Boltz-2 via Pair Representation Scaling",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02094"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01300",
+      "title": "PPsAMP: A Novel Computational Framework for Short Antimicrobial Peptide Identification by Fusing Fine-Tuned Semantic and Physicochemical Features via Cross-Attention",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01300"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01024",
+      "title": "To ML-Predict or Not to ML-Predict: The Impact of Machine Learning-Predicted Protein Structures on FEP Accuracy and Data Augmentation",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01024"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00526",
+      "title": "Residue Interaction Network Reveals Allosteric Pathways Linking Orthosteric and Intracellular Sites in Class A GPCRs",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00526"
+    },
     {
       "doi": "10.1021/acs.jcim.6c01301",
       "title": "Combining AI Structure Prediction and Integrative Modeling for Nanobody-Antigen Complexes",

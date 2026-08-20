@@ -1,9 +1,33 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-08-19T20:10:47.220Z",
+  "collected_at": "2026-08-20T20:11:08.135Z",
   "scope_start": "2026-01-01",
-  "article_count": 612,
+  "article_count": 616,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01248",
+      "title": "Chemical Bonds in Molecules Are Covalent but Not Ionic",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01248"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00937",
+      "title": "Learning to Rank for Selected Configuration Interaction",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00937"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00881",
+      "title": "Computation of Nonradiative Rates for High-Throughput Virtual Screening: Application to the Discovery of Potential TADF Molecules",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00881"
+    },
+    {
+      "doi": "10.1021/acs.jctc.5c01905",
+      "title": "Long-Range Charge Transfer (LRCT)-Driven Enhancement of SOC and rISC in Donor-Modified MR-TADF Emitters",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01905"
+    },
     {
       "doi": "10.1021/acs.jctc.6c00973",
       "title": "Membrane Curvature Generation by the Caveolin 8S Complex and the Role of Cholesterol",

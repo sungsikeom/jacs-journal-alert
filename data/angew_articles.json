@@ -1,9 +1,93 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-08-19T20:23:50.817Z",
+  "collected_at": "2026-08-20T20:24:13.551Z",
   "scope_start": "2026-01-01",
-  "article_count": 2140,
+  "article_count": 2154,
   "articles": [
+    {
+      "doi": "10.1002/anie.5578716",
+      "title": "Enhanced C─C Coupling for Syngas Conversion to Gasoline by Fe-Substituted MFI in OXZEO Catalysis",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1002/anie.5578716"
+    },
+    {
+      "doi": "10.1002/anie.4944487",
+      "title": "Spiro[16]arene: A Spirocycle-Bridged Macrocycle With Nanocarbon Recognition",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1002/anie.4944487"
+    },
+    {
+      "doi": "10.1002/anie.4885694",
+      "title": "Solar-Driven Redox-Catalyzed Direct Alcohol Fuel Cells",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1002/anie.4885694"
+    },
+    {
+      "doi": "10.1002/anie.4247008",
+      "title": "Precise Energy-Level Engineering of X-Shaped D–A Dyads for 1.16 s Anti-Kasha 3CT Room-Temperature Phosphorescence",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1002/anie.4247008"
+    },
+    {
+      "doi": "10.1002/anie.4237539",
+      "title": "Constructing Substituted-Pyridine-Linked Conjugated Porous Polymers via Multicomponent Hantzsch-Type Reaction for Efficient Hydrogen Peroxide Photosynthesis from Real Seawater and Air",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1002/anie.4237539"
+    },
+    {
+      "doi": "10.1002/anie.3766984",
+      "title": "Coupling Exponential Rolling Circle Amplification to Lateral Flow Devices for Point-of-Care Detection of Viral RNA",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1002/anie.3766984"
+    },
+    {
+      "doi": "10.1002/anie.3647018",
+      "title": "Evidence for a Cu(II)-Catalysed CuAAC Reaction: A Combined Experimental and Computational Study",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1002/anie.3647018"
+    },
+    {
+      "doi": "10.1002/anie.3063217",
+      "title": "Large Pressure‑Induced Emission Enhancement in Rigid Lanthanide Coordination Polymers",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1002/anie.3063217"
+    },
+    {
+      "doi": "10.1002/anie.2620716",
+      "title": "Guiding Photochemical Process Intensification Through Kinetic Diagnostics",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1002/anie.2620716"
+    },
+    {
+      "doi": "10.1002/anie.2059566",
+      "title": "Breakthrough Design of Highly Potent Antivirals Against Wild-Type HIV-1 and Lenacapavir-Resistant M66I Variant",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1002/anie.2059566"
+    },
+    {
+      "doi": "10.1002/anie.1870244",
+      "title": "Unexpectedly Strong Electrostatic Screening in Nano-Ion Solutions",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1002/anie.1870244"
+    },
+    {
+      "doi": "10.1002/anie.1729522",
+      "title": "Spin-Polarized Interfaces Redirect CO2 Reduction From CO to Formate",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1002/anie.1729522"
+    },
+    {
+      "doi": "10.1002/anie.1686086",
+      "title": "DNA Nanoruler-Assisted Linearization for Long-Chain Nucleic Acids Analysis",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1002/anie.1686086"
+    },
+    {
+      "doi": "10.1002/anie.1543450",
+      "title": "Non-Covalent Host–Guest Extraction of Methanol Enables Enhanced Syngas-to-Methanol Conversion Over Hybrid Oxide–Porous Framework Catalysis",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1002/anie.1543450"
+    },
     {
       "doi": "10.1002/anie.3729447",
       "title": "Surface-Assisted Cyclodehydrogenation and Annulative Dimerization on TiO2(110): Formation of an Azacoronene and Its Octagon-Fused Dimer",
