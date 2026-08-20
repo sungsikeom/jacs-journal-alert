@@ -7,6 +7,7 @@
     "collect:acs:legacy": "node scripts/collect_acs.mjs",
     "collect:science": "node scripts/receive_science_collection.mjs",
     "collect:nature": "node scripts/receive_publisher_collection.mjs nature",
+    "collect:nature-main": "node scripts/collect_nature_main.mjs",
     "collect:nature-chemistry": "node scripts/receive_publisher_collection.mjs nature-chemistry",
     "collect:jctc": "node scripts/receive_publisher_collection.mjs jctc",
     "collect:jcim": "node scripts/receive_publisher_collection.mjs jcim",

@@ -45,6 +45,7 @@ main { width: min(1240px, calc(100% - 40px)); margin: 0 auto; }
 .journal-mark { display: grid; place-items: center; width: 21px; height: 21px; background: var(--green); border-radius: 50%; color: #fff; font: 700 .66rem Georgia, serif; }
 .science-mark { background: var(--accent); }
 .nature-mark { background: #71557b; }
+.nature-main-mark { background: #111; }
 .nature-chemistry-mark { background: #4d7594; }
 .chemical-mark, .computational-mark { background: #39758e; }
 .jctc-mark { background: #9a6b27; }
