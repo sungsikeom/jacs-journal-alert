@@ -1,9 +1,87 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-08-20T20:17:40.964Z",
+  "collected_at": "2026-08-21T20:17:47.738Z",
   "scope_start": "2026-01-01",
-  "article_count": 1090,
+  "article_count": 1104,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02694",
+      "title": "Correction to “Third-Order Perturbation Theory Made Regular: A Noniterative Correction to the Size-Consistent Second-Order Brillouin–Wigner Perturbation Theory”",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02694"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02582",
+      "title": "Additive-Mediated PbSe Colloidal Quantum Dots for Efficient pc-LEDs",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02582"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02446",
+      "title": "Accurate and Efficient NMR Crystallography through Machine-Learning Geometry Optimization and Shielding Prediction",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02446"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02364",
+      "title": "Unveiling the Structural Evolution and Deposition Behavior of Leached Al Species during Alkaline Treatment of ZSM-5 Zeolites",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02364"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02357",
+      "title": "An Energy Landscape for Elemental Carbon",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02357"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02275",
+      "title": "Water Vapor Transport between Salt Solutions at Different Salinity and Temperature: Theory and Experimental Validation",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02275"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02211",
+      "title": "Thiocyanate Ligands Induce a Trade-Off between Carrier Transport and Nonradiative Relaxation through Halide Tuning in Two-Dimensional Lead Halide Perovskites",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02211"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02176",
+      "title": "Picosecond Time-Resolved Fluorescence Spectra of Individual Graphene Nanoribbons by Single-Molecule Fourier Transform Spectroscopy",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02176"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02058",
+      "title": "Defect-Driven Optical Modulation in Lead-Free Perovskite Nanocrystals (Cs2AgBiCl6): Interplay of Surface Silver Chloride and Silver Nanoclusters",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02058"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02049",
+      "title": "K+-Selective Compaction of Flexible Ionophore PF1022A: Conformational Landscapes of Alkali Metal Complexes",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02049"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02048",
+      "title": "Elucidating the Structural Origin of Photocatalytic Activity in High-Ti-Content TS-1 Zeolite",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02048"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01983",
+      "title": "Electron-Beam-Induced Oligomerization of Perylene at the Surface of Perylene Single Crystals",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01983"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01706",
+      "title": "Role of Bismuth Topological and Trivial Surface States in Molecular Adsorption",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01706"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02288",
       "title": "Non-Markovian Dynamics of Surface–Liquid Slip",
@@ -27,6 +105,12 @@
       "title": "Mapping the Energy Transfer Network in the Diatom Cyclotella meneghiniana by Picosecond Time-Resolved Fluorescence Spectroscopy down to Cryogenic Temperatures",
       "published_date": "2026-08-20",
       "url": "https://doi.org/10.1021/acs.jpclett.6c02173"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02137",
+      "title": "Spin-Selective Orbital Filling Regulates Hydrogen Adsorption on Two-Dimensional Half-Metals",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02137"
     },
     {
       "doi": "10.1021/acs.jpclett.6c01744",

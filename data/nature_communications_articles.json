@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-08-20T20:04:30.156Z",
+  "collected_at": "2026-08-21T20:04:35.985Z",
   "scope_start": "2026-01-01",
-  "article_count": 8463,
+  "article_count": 8483,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77075-1",
+      "title": "Visible light–triggered co-upcycling of polypropylene and polyethylene terephthalate using waste chlorinated solvents",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1038/s41467-026-77075-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77065-3",
+      "title": "18 Month patency of acellular bioengineered regenerative conduit as coronary artery bypass",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1038/s41467-026-77065-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77025-x",
+      "title": "Low-coordinated CuNi dual-atom catalyst for efficient flue gas CO2-to-C2H6 photoreduction",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1038/s41467-026-77025-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77016-y",
+      "title": "YTHDC1 functions as a molecular chaperone to suppress ALS-linked hnRNPA1 mutants from aggregation",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1038/s41467-026-77016-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77011-3",
+      "title": "Charge-carrier enrichment type-dependent product selectivity in methane photooxidation",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1038/s41467-026-77011-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76999-y",
+      "title": "Gestational age modifies associations between Group B Streptococcus genomic characteristics and postnatal age at disease onset",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1038/s41467-026-76999-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76991-6",
+      "title": "In search of LncDACH1 – a perceived intronic long non-coding RNA lacking fundamental genomic annotation evidence",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1038/s41467-026-76991-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76947-w",
+      "title": "A cuproptosis-inducing covalent organic framework synergizes with oncolytic virus for tumor radiotherapy",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1038/s41467-026-76947-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76935-0",
+      "title": "Bridge health monitoring using existing telecommunication fiber-optic networks",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1038/s41467-026-76935-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76928-z",
+      "title": "TTC33 forms a complex with WDR61 and PHF5A to recruit factors relevant to genomic integrity",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1038/s41467-026-76928-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-76919-0",
+      "title": "Paracrystalline IrCoOx stabilization by rutile SnO2 towards durable acidic oxygen evolution",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1038/s41467-026-76919-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76916-3",
+      "title": "Rethinking concrete durability for low-carbon concretes through climate-informed corrosion modelling",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1038/s41467-026-76916-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76908-3",
+      "title": "Observation of erratic non-Hermitian skin localization and transport",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1038/s41467-026-76908-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76895-5",
+      "title": "Fluorescence resonance energy transfer between isomers of molecular photoswitches",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1038/s41467-026-76895-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-76874-w",
+      "title": "Hypothalamic representation of aggressiveness across mouse strains",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1038/s41467-026-76874-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76864-y",
+      "title": "Targeting ABL kinases overcomes melanoma immune evasion following resistance to MAPK inhibition",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1038/s41467-026-76864-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76803-x",
+      "title": "Deep carbon cycling drives the splitting of the 520-km mantle discontinuity",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1038/s41467-026-76803-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-76737-4",
+      "title": "Sex-specific trajectories of nonlinear immune aging at single-cell level",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1038/s41467-026-76737-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76702-1",
+      "title": "Structural and mechanistic insights into protective non-neutralizing antibodies targeting Crimean-Congo hemorrhagic fever virus nucleocapsid protein",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1038/s41467-026-76702-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76287-9",
+      "title": "Deep learning for precision grading of Schistosoma japonicum-induced liver fibrosis in ultrasound images",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1038/s41467-026-76287-9"
+    },
     {
       "doi": "10.1038/s41467-026-76975-6",
       "title": "Structure-guided identification of denitrification inhibitors to mitigate agricultural N2O emissions",

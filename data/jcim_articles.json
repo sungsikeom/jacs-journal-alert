@@ -1,9 +1,33 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-08-20T20:14:24.571Z",
+  "collected_at": "2026-08-21T20:14:30.418Z",
   "scope_start": "2026-01-01",
-  "article_count": 750,
+  "article_count": 754,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c01920",
+      "title": "AI-Driven Drug–Target Interaction Prediction: From Data Representation to Model Design",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01920"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01565",
+      "title": "High-Throughput Multireference Calculations of Magnetic Properties of Lanthanide Complexes",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01565"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01378",
+      "title": "Conformational Ensemble and Stabilization of Insulin by a Choline Ionic Liquid Elucidated through Markov State Models",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01378"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00489",
+      "title": "Leveraging the Condensed Graph of Reaction for Clustering Retrosynthetic Pathways",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00489"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02094",
       "title": "Biasing Conformational Sampling in AlphaFold 3 and Boltz-2 via Pair Representation Scaling",

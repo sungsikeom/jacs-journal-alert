@@ -1,11 +1,149 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-08-20T20:01:03.661Z",
+  "collected_at": "2026-08-21T20:01:09.305Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7178,
+  "article_count": 7202,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c14324",
+      "title": "Interfacial Water Networks Regulate Solid–Liquid Contact Electrification",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c14324"
+    },
+    {
+      "doi": "10.1021/jacs.6c13908",
+      "title": "Redox-Controlled Access to Spin States from S = 0 to S = 3/2 in a 1,2-Dicarbonyl Scaffold Enabled by a Naphthoquinone-Fused N-Heterocyclic Carbene",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c13908"
+    },
+    {
+      "doi": "10.1021/jacs.6c13674",
+      "title": "Photochemistry-Based Development of Ionizable Lipid Library for mRNA-Lipid Nanoparticle Delivery In Vivo",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c13674"
+    },
+    {
+      "doi": "10.1021/jacs.6c13315",
+      "title": "Self-Sustained Hydrogen Relay Enables Thermodynamically Coupled Cyclohexane-CO2 Conversion to Aromatics over Tandem Catalysts",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c13315"
+    },
+    {
+      "doi": "10.1021/jacs.6c13198",
+      "title": "Proton Relaying in Carbenium-Based Oxygen Reduction",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c13198"
+    },
+    {
+      "doi": "10.1021/jacs.6c12938",
+      "title": "Rapid, Low-Cost, Low-Temperature Pyrazole-Flux Synthesis of Imide Covalent Organic Frameworks for Uranium/Rare Earth Separation",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c12938"
+    },
+    {
+      "doi": "10.1021/jacs.6c12741",
+      "title": "Kinetic and Thermodynamic Control of Macrocyclic Peptide Conformation through Late-Stage Chemical Modification",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c12741"
+    },
+    {
+      "doi": "10.1021/jacs.6c12661",
+      "title": "Geometry-Dependent Electronic Structure for Enhanced Ammonia Synthesis: From Nanoparticle to Nanosheet and Metallene",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c12661"
+    },
+    {
+      "doi": "10.1021/jacs.6c12135",
+      "title": "Intrinsic Morphological Chirality Governs Spin Selectivity in Gold Nanoparticles",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c12135"
+    },
+    {
+      "doi": "10.1021/jacs.6c11709",
+      "title": "Efficient Photocatalytic CO2 Reduction under a Dilute CO2 Atmosphere by Iron Complexes with Hydrophobic Cavity in the Second Coordination Sphere",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c11709"
+    },
+    {
+      "doi": "10.1021/jacs.6c11574",
+      "title": "Proton-Coupled Electron Transfer: An Overlooked Pathway for Initiating Chemical Reactivity with Thioxanthone as a Photocatalyst",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c11574"
+    },
+    {
+      "doi": "10.1021/jacs.6c11487",
+      "title": "A Repurposed S-Adenosyl-l-Methionine Synthetase Mediates Cytidyl–Cyclitol Natural Product Assembly",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c11487"
+    },
+    {
+      "doi": "10.1021/jacs.6c11233",
+      "title": "Origin of Scission Selectivity for Phosphoranyl Radicals in Photoredox Catalysis",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c11233"
+    },
+    {
+      "doi": "10.1021/jacs.6c10987",
+      "title": "Proteoform-Resolved Cross-Linking Reveals Environment-Dependent Structural Effects of α-Synuclein S129 Phosphorylation",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c10987"
+    },
+    {
+      "doi": "10.1021/jacs.6c10016",
+      "title": "Biosynthesis of Crinipellin Diterpenes in Mushroom Marasmius fiardii PR-910",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c10016"
+    },
+    {
+      "doi": "10.1021/jacs.6c09647",
+      "title": "Surface-Enhanced NMR Spectroscopy via Solid-to-Solid Relayed Dynamic Nuclear Polarization",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c09647"
+    },
+    {
+      "doi": "10.1021/jacs.6c08912",
+      "title": "Migration-Coupled Local Fluoride Relaxation in Li2–xLa(1+x)/3Nb2O6F Single Crystals",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c08912"
+    },
+    {
+      "doi": "10.1021/jacs.6c08889",
+      "title": "Superconducting Hydride Mg2RhH6 Experimentally Achieved at Lower Pressure",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c08889"
+    },
+    {
+      "doi": "10.1021/jacs.6c08848",
+      "title": "Ground-State Flavin-Dependent Enzymatic Catalysis for Formal Hydrophosphinylation of Alkenes",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c08848"
+    },
+    {
+      "doi": "10.1021/jacs.6c08192",
+      "title": "Instantaneous Detection of Quantum Coherences in 2D Electronic Spectroscopy with Bright Entangled Beams",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c08192"
+    },
+    {
+      "doi": "10.1021/jacs.6c07487",
+      "title": "Sulfonyl-Imidazopyridines Decouple Reactivity from Stability for Ligandability Mapping and Covalent Inhibitor Discovery",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c07487"
+    },
+    {
+      "doi": "10.1021/jacs.6c06069",
+      "title": "Electrochemical and Thermal Control of Continuous Phase Transitions in P2-NaxNi1/3Mn2/3O2",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c06069"
+    },
+    {
+      "doi": "10.1021/jacs.6c04594",
+      "title": "Non-Faradaic Promotion of Pd-Catalyzed Benzaldehyde Hydrogenation Induced by Cathodic Potential",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c04594"
+    },
     {
       "doi": "10.1021/jacs.6c15989",
       "title": "Photouncaging of an Opioid Peptide in Vivo Using Blue Light",
@@ -113,6 +251,12 @@
       "title": "A Complementary Approach to Dialkylsilylenes via Thermodynamically Stable Boron-Ate Silylenoids Derived from Chlorosilylboranes",
       "published_date": "2026-08-20",
       "url": "https://doi.org/10.1021/jacs.6c05205"
+    },
+    {
+      "doi": "10.1021/jacs.6c01403",
+      "title": "Biomolecular Condensates Dictate the Folding Landscape of Protein Alpha-Helices",
+      "published_date": "2026-08-20",
+      "url": "https://doi.org/10.1021/jacs.6c01403"
     },
     {
       "doi": "10.1021/jacs.6c15679",
