@@ -1,9 +1,33 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-08-21T20:17:47.738Z",
+  "collected_at": "2026-08-22T20:17:19.196Z",
   "scope_start": "2026-01-01",
-  "article_count": 1104,
+  "article_count": 1109,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02371",
+      "title": "Ion-Pair Design Rules for Defect Passivation in 2D WS2",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02371"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02013",
+      "title": "Organic Ultraviolet-Selective C8-BTBT Transistors Inspired by Avian Vision",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02013"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01795",
+      "title": "Taming N2 Bubbles with Immiscible Droplets for Stable Hydrazine Electrooxidation",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01795"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01775",
+      "title": "All-Electron Relativistic Fully Self-Consistent GW Study of Heteronuclear Actinide-Containing Diatomics",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01775"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02694",
       "title": "Correction to “Third-Order Perturbation Theory Made Regular: A Noniterative Correction to the Size-Consistent Second-Order Brillouin–Wigner Perturbation Theory”",
@@ -39,6 +63,12 @@
       "title": "Water Vapor Transport between Salt Solutions at Different Salinity and Temperature: Theory and Experimental Validation",
       "published_date": "2026-08-21",
       "url": "https://doi.org/10.1021/acs.jpclett.6c02275"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02230",
+      "title": "Ultra-High-Resolution Quantum Dot Microdisplays Fabricated via Microvia Electrostatic Adsorption Self-Assembly",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02230"
     },
     {
       "doi": "10.1021/acs.jpclett.6c02211",

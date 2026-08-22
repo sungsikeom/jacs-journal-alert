@@ -1,9 +1,63 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-08-20T20:11:08.135Z",
+  "collected_at": "2026-08-22T20:10:45.411Z",
   "scope_start": "2026-01-01",
-  "article_count": 616,
+  "article_count": 625,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01175",
+      "title": "Nuclear–Electronic Orbital General Rate Theory: Predicting Hydrogen Kinetic Isotope Effects in the Deep Tunneling Regime",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01175"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01110",
+      "title": "Enhanced Line Search Improves Robustness and Efficiency of Pose Sampling in Protein–Ligand Docking",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01110"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01107",
+      "title": "Machine-Learning-Accelerated Rational Design of Aggregation-Induced Emission Luminogens",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01107"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01097",
+      "title": "Analytic First-Order Nonadiabatic Coupling Matrix Elements of Spin-Adapted Open-Shell Time-Dependent Density Functional Theory",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01097"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00982",
+      "title": "Disease-Associated Mutations Impact DNA Methyltransferase 1 Function through Dynamic Allosteric Effects and Solvent Exposure",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00982"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00917",
+      "title": "Data-Efficient and Fast Machine Learning Molecular Dynamics through Integrated Active Learning and Knowledge Distillation",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00917"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00808",
+      "title": "Enabling Biomolecular Simulations with Neural Network Potentials in GROMACS",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00808"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00318",
+      "title": "Near-Frustration-Free Electronic Structure Hamiltonian Representations and Lower-Bound Certificates",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00318"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00021",
+      "title": "Ensemble Learning of Machine Learning Force Fields",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00021"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01248",
       "title": "Chemical Bonds in Molecules Are Covalent but Not Ionic",

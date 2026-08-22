@@ -1,9 +1,21 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-08-21T20:14:30.418Z",
+  "collected_at": "2026-08-22T20:14:03.148Z",
   "scope_start": "2026-01-01",
-  "article_count": 754,
+  "article_count": 756,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c01376",
+      "title": "Structural Hierarchy and Maturation of Amyloid Fibrils Revealed by Interface Descriptor Analysis",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01376"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01357",
+      "title": "DASH: A Pocket-Aware and Objective-Aware Framework for Million-Scale Structure-Based Molecular Generation",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01357"
+    },
     {
       "doi": "10.1021/acs.jcim.6c01920",
       "title": "AI-Driven Drug–Target Interaction Prediction: From Data Representation to Model Design",

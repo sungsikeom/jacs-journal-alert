@@ -1,9 +1,213 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-08-21T20:24:19.146Z",
+  "collected_at": "2026-08-22T20:24:03.470Z",
   "scope_start": "2026-01-01",
-  "article_count": 2154,
+  "article_count": 2188,
   "articles": [
+    {
+      "doi": "10.1002/anie.9880459",
+      "title": "Ruthenium-Catalyzed Nitrile-Acrylate Reductive Coupling by 2-Propanol: Synthesis of Enantioenriched β-Amino Esters",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.9880459"
+    },
+    {
+      "doi": "10.1002/anie.9559286",
+      "title": "Tuning Polarization Fields in Zwitterionic Covalent Organic Frameworks for Efficient Photo-Assisted Rechargeable Zinc–Air Batteries",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.9559286"
+    },
+    {
+      "doi": "10.1002/anie.9526719",
+      "title": "High-Pressure Synthesis of Quantum-Stabilised Manganese Superhydride MnH7",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.9526719"
+    },
+    {
+      "doi": "10.1002/anie.9125401",
+      "title": "Asymmetric Dual Sites Enable Spatially Resolved Biradical-Mediated C–N Coupling for N,N-Dimethylformamide Photoelectrosynthesis",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.9125401"
+    },
+    {
+      "doi": "10.1002/anie.8501169",
+      "title": "Multistage Fluorination in a Metal-Free Perovskite Ferroelectric Enables Multidirectional Self-Powered X-Ray Detection",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.8501169"
+    },
+    {
+      "doi": "10.1002/anie.8169928",
+      "title": "Spatially Controlled Imaging of Proteases in Acidic Extracellular Milieu of Lesions Using DNA-Peptide-PNA Hybrid Probes",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.8169928"
+    },
+    {
+      "doi": "10.1002/anie.7948330",
+      "title": "Molecular Basis for Activation to Inhibition Switching in Kv7.2 Channel Modulators",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.7948330"
+    },
+    {
+      "doi": "10.1002/anie.7251439",
+      "title": "Photometallobiocatalytic Asymmetric Radical-Mediated Cross-Coupling of Organotrifluoroborate Salts and Pyridotriazoles",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.7251439"
+    },
+    {
+      "doi": "10.1002/anie.7062874",
+      "title": "Reactions of Terminal Olefins With Iron Carbenes",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.7062874"
+    },
+    {
+      "doi": "10.1002/anie.6980840",
+      "title": "Luminescence Control in Polyesters via Chain-Motion-Regulated Through-Space Electronic Interaction",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.6980840"
+    },
+    {
+      "doi": "10.1002/anie.6875653",
+      "title": "Beyond the Oxo-Wall: Synthesis and Reactivity of a Six-Coordinate Formally CoIV-Oxo Complex",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.6875653"
+    },
+    {
+      "doi": "10.1002/anie.6352970",
+      "title": "Manuel Souto",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.6352970"
+    },
+    {
+      "doi": "10.1002/anie.6267376",
+      "title": "Cobalt-Catalyzed Enantioselective Vinyl Carbene Annulation: A Versatile Platform for Semisaturated Heterocycles",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.6267376"
+    },
+    {
+      "doi": "10.1002/anie.6182003",
+      "title": "Evaluating the Stability of Oxide-Derived Cu─Sn Catalysts for CO2 Reduction in Zero-Gap Electrolyzers",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.6182003"
+    },
+    {
+      "doi": "10.1002/anie.6140066",
+      "title": "Glycosyl Aziridine Carbamates as Versatile Donors for Catalytically Activated Glycosylation",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.6140066"
+    },
+    {
+      "doi": "10.1002/anie.6113925",
+      "title": "Beyond Surface Catalysis: Dynamic Cation-Regulated Interfacial Water Gating for Aqueous Polysulfide Electrochemistry",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.6113925"
+    },
+    {
+      "doi": "10.1002/anie.5589616",
+      "title": "Highly Selective Electrocatalytic Ammonia Synthesis Enabled by Spatial Separation of Active Hydrogen Capture and Spillover Sites",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.5589616"
+    },
+    {
+      "doi": "10.1002/anie.5028581",
+      "title": "Structural Relaxation Modulated Phonon-Assisted Energy Transfer Scintillator for Simultaneous X-Ray Imaging and Thermal Signals Visualization",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.5028581"
+    },
+    {
+      "doi": "10.1002/anie.4782087",
+      "title": "Optimizing Functional-Domain Integrity of Circular Ribonucleic Acid With Improved Vaccine Immunogenicity by circDesign Algorithm",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.4782087"
+    },
+    {
+      "doi": "10.1002/anie.4755839",
+      "title": "Light-Enhanced Chloride Transport by Thiourea-Appended Molecular Motor",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.4755839"
+    },
+    {
+      "doi": "10.1002/anie.4391410",
+      "title": "Vacuum-Assisted Impurities Removing Triggered Electronic Configuration Reconstruction of Spent NCM for Ultrafast Lithium Storage",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.4391410"
+    },
+    {
+      "doi": "10.1002/anie.4238416",
+      "title": "MitoGPS: A Mitochondrial DNA G-Quadruplex-Targeting Strategy for Tumor-Preferential Type I Photodynamic Therapy",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.4238416"
+    },
+    {
+      "doi": "10.1002/anie.4171725",
+      "title": "Non-Covalent PL, CD, and CPL Activation of Linear Aromatic Oligomers within Axially Chiral Aromatic Capsules",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.4171725"
+    },
+    {
+      "doi": "10.1002/anie.4167912",
+      "title": "Spin Coupled FeCo Dual-Atom Sites Direct Selective Ozone Activation for Hypersaline Wastewater Purification",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.4167912"
+    },
+    {
+      "doi": "10.1002/anie.4052471",
+      "title": "Distinct Molten-Globule Conformations in an Interacting Protein Domain Resolved by 19F NMR of Fluoroproline Residues",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.4052471"
+    },
+    {
+      "doi": "10.1002/anie.3171374",
+      "title": "Reversible Redox Cycling: A Mechanism for Toxification and Detoxification in Fungal Alkyl Salicylaldehyde Biosynthesis",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.3171374"
+    },
+    {
+      "doi": "10.1002/anie.3026199",
+      "title": "Photothermally Boosted CO2 Conversion by Silver Nanoparticles Anchored on a Bipyridinium Radical-Functionalized Covalent Triazine Framework",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.3026199"
+    },
+    {
+      "doi": "10.1002/anie.2958917",
+      "title": "Ultrathin Membrane With Ion-Specific Gating Enables Interfacial Decoupling of Conductivity–Selectivity for Aqueous Flow Batteries",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.2958917"
+    },
+    {
+      "doi": "10.1002/anie.2598368",
+      "title": "Regioisomerism-Driven Microenvironment Modulation in Three-Dimensional Covalent Organic Frameworks for Selective H2O2 Photosynthesis",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.2598368"
+    },
+    {
+      "doi": "10.1002/anie.1958506",
+      "title": "Impact of Threading State on the Mechanics of γ-Cyclodextrin–Pyrene Gels",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.1958506"
+    },
+    {
+      "doi": "10.1002/anie.1681939",
+      "title": "Dispersion-Clamped Crystalline Supramolecular Columnar π-Stacks of Adamantyl-Substituted Pyrenes",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.1681939"
+    },
+    {
+      "doi": "10.1002/anie.1540355",
+      "title": "Characterization of Full-Length Antibody Complexes Through HDX-Mass Spectrometry Coupled With NMR Spectroscopy: New Insight Into Avelumab/PD-L1 Interaction",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.1540355"
+    },
+    {
+      "doi": "10.1002/anie.1504807",
+      "title": "Engineering Li+ Kinetic-Buffering and Anion-Anchoring Interphase via One-Step Sequential In Situ Polymerization for Stable Solid Li Metal Batteries",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.1504807"
+    },
+    {
+      "doi": "10.1002/anie.1137232",
+      "title": "Paramagnetic d-Block Metal Organic Cages as MRI or Chemical Shift Probes",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1002/anie.1137232"
+    },
     {
       "doi": "10.1002/anie.5578716",
       "title": "Enhanced C─C Coupling for Syngas Conversion to Gasoline by Fe-Substituted MFI in OXZEO Catalysis",

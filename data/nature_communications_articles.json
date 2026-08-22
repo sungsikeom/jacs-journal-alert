@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-08-21T20:04:35.985Z",
+  "collected_at": "2026-08-22T20:04:04.350Z",
   "scope_start": "2026-01-01",
-  "article_count": 8483,
+  "article_count": 8503,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77089-9",
+      "title": "Alcohol reshapes liver zonal plasticity and immune-metabolic reprogramming in metabolic-syndrome associated hepatocellular carcinoma",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1038/s41467-026-77089-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77068-0",
+      "title": "Glucagon-like Peptide-1 Receptor Agonists and Risk of Tuberculosis in Type 2 Diabetes",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1038/s41467-026-77068-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77061-7",
+      "title": "Nontoxic mRNA vehicles based on electrically neutral self-assembling peptides",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1038/s41467-026-77061-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77056-4",
+      "title": "A somatic checkpoint through NHR-49/HNF4α governs reproductive investment and longevity in C. elegans",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1038/s41467-026-77056-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77042-w",
+      "title": "A CRISPR-based ‘dam-break drainage’ sensing architecture for rapid, affordable and ultrasensitive pathogen detection",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1038/s41467-026-77042-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76988-1",
+      "title": "Differential lipid selectivity of StARD phospholipid transporters revealed by native MS",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1038/s41467-026-76988-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76959-6",
+      "title": "CX3CR1⁺ CD8⁺ cytotoxic T cells drive tumor killing in esophageal squamous cell carcinoma during neoadjuvant therapy",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1038/s41467-026-76959-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76911-8",
+      "title": "HOMEODOMAIN-LIKE shapes chromatin architecture and rewires leaf epidermal patterns",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1038/s41467-026-76911-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-76905-6",
+      "title": "Landfill: time capsule of plastic waste but microplastic generation source",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1038/s41467-026-76905-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76869-7",
+      "title": "Data-driven construction of an imine reductase library capable of broad-scope reductive amination at equimolar substrate concentrations",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1038/s41467-026-76869-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-76862-0",
+      "title": "XPO1-mediated TRIM21 nuclear export reprograms TREM2+ macrophage polarization by targeting IRF3 to augment anti-PD-1 efficacy in small cell lung cancer",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1038/s41467-026-76862-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76840-6",
+      "title": "An LRR-truncated NLR natural variant confers dual resistance to drought and blast in rice",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1038/s41467-026-76840-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76773-0",
+      "title": "Histone H4 lysine 20 tri-methylation safeguards breast cancer lineage fidelity and unfolded protein response",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1038/s41467-026-76773-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76730-x",
+      "title": "Structure-guided allosteric modulation of the delta opioid receptor",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1038/s41467-026-76730-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-76662-6",
+      "title": "Zanidatamab in patients with early stage HER2-positive breast cancer: the NeoZanHER phase 2 single-arm open-label trial",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1038/s41467-026-76662-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76661-7",
+      "title": "Time-Temperature-Transformation Diagrams to Navigate the Nucleation and Quenchability of Metastable α-Li₃PS4",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1038/s41467-026-76661-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-76627-9",
+      "title": "The SIMDA framework maps PIP2-binding sites regulating the KCNQ1 channel",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1038/s41467-026-76627-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-76193-0",
+      "title": "Structural basis of the gating mechanism of the large-conductance mechanosensitive channel from Escherichia coli",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1038/s41467-026-76193-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76147-6",
+      "title": "Longitudinal digital phenotyping of activity rhythms and biological aging using commercial wearables",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1038/s41467-026-76147-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-75703-4",
+      "title": "Compositional neurosymbolic representations enable efficient active exploration",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1038/s41467-026-75703-4"
+    },
     {
       "doi": "10.1038/s41467-026-77075-1",
       "title": "Visible light–triggered co-upcycling of polypropylene and polyethylene terephthalate using waste chlorinated solvents",

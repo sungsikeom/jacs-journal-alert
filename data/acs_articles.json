@@ -1,11 +1,53 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-08-21T20:01:09.305Z",
+  "collected_at": "2026-08-22T20:00:37.394Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7202,
+  "article_count": 7212,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c12859",
+      "title": "Synergistic Surface and Interface Regulation of Ultralow-Pt-Loading Cathodes for Low-Alkalinity AEMWEs",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1021/jacs.6c12859"
+    },
+    {
+      "doi": "10.1021/jacs.6c12595",
+      "title": "Direct Decarboxylative Borylation via Radical-Organometallic Relay",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1021/jacs.6c12595"
+    },
+    {
+      "doi": "10.1021/jacs.6c12366",
+      "title": "Lattice-Nitrogen-Mediated Electrochemical Nitrate Reduction Boosted by Single-Atom Antimony Doping",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1021/jacs.6c12366"
+    },
+    {
+      "doi": "10.1021/jacs.6c12145",
+      "title": "Main-Group Potassium-Assisted Dual-Site Relay Breaks the Activity–Stability Trade-Off in Acidic Oxygen Reduction",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1021/jacs.6c12145"
+    },
+    {
+      "doi": "10.1021/jacs.6c11214",
+      "title": "Real-Time Observation of Dynamic Spin Polarization in Copper Oxide by Carrier Scattering with Chiral Phonons",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1021/jacs.6c11214"
+    },
+    {
+      "doi": "10.1021/jacs.6c10422",
+      "title": "Pulsed Electrolysis Unlocks Non-Noble-Metal Catalysis for Per- and Polyfluoroalkyl Substance Defluorination in Water",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1021/jacs.6c10422"
+    },
+    {
+      "doi": "10.1021/jacs.6c05150",
+      "title": "Proton Off-Resonance R1ρ Near-Rotary-Resonance Relaxation Dispersion under Fast Magic-Angle Spinning as a Versatile Access to Conformational Exchange",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1021/jacs.6c05150"
+    },
     {
       "doi": "10.1021/jacs.6c14324",
       "title": "Interfacial Water Networks Regulate Solid–Liquid Contact Electrification",
@@ -23,6 +65,12 @@
       "title": "Photochemistry-Based Development of Ionizable Lipid Library for mRNA-Lipid Nanoparticle Delivery In Vivo",
       "published_date": "2026-08-21",
       "url": "https://doi.org/10.1021/jacs.6c13674"
+    },
+    {
+      "doi": "10.1021/jacs.6c13616",
+      "title": "Divergent Syntheses of Euphorbia Diterpenoids: A Relay Rearrangement Strategy Triggered by Pyridinium Ring Contraction",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c13616"
     },
     {
       "doi": "10.1021/jacs.6c13315",
@@ -103,6 +151,12 @@
       "url": "https://doi.org/10.1021/jacs.6c09647"
     },
     {
+      "doi": "10.1021/jacs.6c09551",
+      "title": "Nanofiber-Reinforced Composite Polymer Electrolyte Enables Continuous Lithium-Ion Transport and Anion-Rich Solvation Structure for 670 Wh kg–1 Lithium Batteries",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c09551"
+    },
+    {
       "doi": "10.1021/jacs.6c08912",
       "title": "Migration-Coupled Local Fluoride Relaxation in Li2–xLa(1+x)/3Nb2O6F Single Crystals",
       "published_date": "2026-08-21",
@@ -143,6 +197,12 @@
       "title": "Non-Faradaic Promotion of Pd-Catalyzed Benzaldehyde Hydrogenation Induced by Cathodic Potential",
       "published_date": "2026-08-21",
       "url": "https://doi.org/10.1021/jacs.6c04594"
+    },
+    {
+      "doi": "10.1021/jacs.6c04388",
+      "title": "Oxygen Vacancy-Driven Water Dissociation for High-Performance Potassium-Ion Storage",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1021/jacs.6c04388"
     },
     {
       "doi": "10.1021/jacs.6c15989",
