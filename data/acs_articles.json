@@ -1,11 +1,23 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-08-22T20:00:37.394Z",
+  "collected_at": "2026-08-23T20:00:37.286Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7212,
+  "article_count": 7215,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c06677",
+      "title": "Local Active-Site Architecture Directs Divergent Carbocation Cascades in Sesterterpene Synthases",
+      "published_date": "2026-08-23",
+      "url": "https://doi.org/10.1021/jacs.6c06677"
+    },
+    {
+      "doi": "10.1021/jacs.6c12924",
+      "title": "Colossal Negative Thermal Expansion in MOF-808",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1021/jacs.6c12924"
+    },
     {
       "doi": "10.1021/jacs.6c12859",
       "title": "Synergistic Surface and Interface Regulation of Ultralow-Pt-Loading Cathodes for Low-Alkalinity AEMWEs",
@@ -41,6 +53,12 @@
       "title": "Pulsed Electrolysis Unlocks Non-Noble-Metal Catalysis for Per- and Polyfluoroalkyl Substance Defluorination in Water",
       "published_date": "2026-08-22",
       "url": "https://doi.org/10.1021/jacs.6c10422"
+    },
+    {
+      "doi": "10.1021/jacs.6c08269",
+      "title": "In Situ Construction of a Reticulated Peptide Scaffold via Responsive Self-Assembly and Proximal Covalent Labeling for Enhanced Tumor Imaging and Therapy",
+      "published_date": "2026-08-22",
+      "url": "https://doi.org/10.1021/jacs.6c08269"
     },
     {
       "doi": "10.1021/jacs.6c05150",

@@ -1,9 +1,99 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-08-22T20:24:03.470Z",
+  "collected_at": "2026-08-23T20:25:47.791Z",
   "scope_start": "2026-01-01",
-  "article_count": 2188,
+  "article_count": 2203,
   "articles": [
+    {
+      "doi": "10.1002/anie.5077478",
+      "title": "Thermodynamic Control of MnO2/Mn2+ Redox Chemistry in Aqueous Batteries",
+      "published_date": "2026-08-23",
+      "url": "https://doi.org/10.1002/anie.5077478"
+    },
+    {
+      "doi": "10.1002/anie.5073615",
+      "title": "Defined Dinuclear Nickel Sites on Mesoporous Silica Translate Molecular Surface Mimics to Heterogeneous Catalysis",
+      "published_date": "2026-08-23",
+      "url": "https://doi.org/10.1002/anie.5073615"
+    },
+    {
+      "doi": "10.1002/anie.5055917",
+      "title": "Reaction–Transport Coupling Drives Spatiotemporal Organization in Fuel-Driven Supramolecular Polymerization",
+      "published_date": "2026-08-23",
+      "url": "https://doi.org/10.1002/anie.5055917"
+    },
+    {
+      "doi": "10.1002/anie.4279044",
+      "title": "Mechanical Caging of Nucleic Acids Enabled by Light-Activated Synthetic Molecular Motors",
+      "published_date": "2026-08-23",
+      "url": "https://doi.org/10.1002/anie.4279044"
+    },
+    {
+      "doi": "10.1002/anie.4183926",
+      "title": "Titanium-Catalyzed Defluorination of Poly(Vinyl Fluoride) and Poly(Vinylidene Fluoride) Under Friedel–Crafts Conditions",
+      "published_date": "2026-08-23",
+      "url": "https://doi.org/10.1002/anie.4183926"
+    },
+    {
+      "doi": "10.1002/anie.3766558",
+      "title": "Pt-Mediated Co-Adsorption of Hydroxyl and Nitrogen-Heterocyclic Species Over Cu/CuO Heterostructure Enhances Coupled Azotriazole Electrosynthesis and Dual-Electrode Hydrogen Production",
+      "published_date": "2026-08-23",
+      "url": "https://doi.org/10.1002/anie.3766558"
+    },
+    {
+      "doi": "10.1002/anie.3647021",
+      "title": "A Stage-Coupled View of Interfacial Reconstruction in Anode-Free Sodium Metal Batteries",
+      "published_date": "2026-08-23",
+      "url": "https://doi.org/10.1002/anie.3647021"
+    },
+    {
+      "doi": "10.1002/anie.3525961",
+      "title": "Eva Pluhařová",
+      "published_date": "2026-08-23",
+      "url": "https://doi.org/10.1002/anie.3525961"
+    },
+    {
+      "doi": "10.1002/anie.3399600",
+      "title": "Direct Molecular Editing of Complex Molecules for Drug Discovery",
+      "published_date": "2026-08-23",
+      "url": "https://doi.org/10.1002/anie.3399600"
+    },
+    {
+      "doi": "10.1002/anie.3095986",
+      "title": "Ga Doping Enables (110) Facet Control and Surface Passivation of SnO2 for Efficient and Stable Inverted Perovskite Solar Cells",
+      "published_date": "2026-08-23",
+      "url": "https://doi.org/10.1002/anie.3095986"
+    },
+    {
+      "doi": "10.1002/anie.2887110",
+      "title": "Highly Stable CO2 Methanation Catalyst Fabricated by Engineering Metal–Metal Oxide Interfaces of CoAlOx",
+      "published_date": "2026-08-23",
+      "url": "https://doi.org/10.1002/anie.2887110"
+    },
+    {
+      "doi": "10.1002/anie.2643229",
+      "title": "Aminosulfine-Based Donor Platform for Controlled Release of Sulfenic Acid (HSOH)",
+      "published_date": "2026-08-23",
+      "url": "https://doi.org/10.1002/anie.2643229"
+    },
+    {
+      "doi": "10.1002/anie.2516685",
+      "title": "Post-Synthetic Zinc Modifications to Correct Speciation in Ti-MWW Zeolites for Catalytic Oxidation",
+      "published_date": "2026-08-23",
+      "url": "https://doi.org/10.1002/anie.2516685"
+    },
+    {
+      "doi": "10.1002/anie.2256553",
+      "title": "100-Fold Reductivity Enhancement of Nanoscale Zero-Valent Iron After 1-Year Aging in Water via Regulating Corrosion Reactions",
+      "published_date": "2026-08-23",
+      "url": "https://doi.org/10.1002/anie.2256553"
+    },
+    {
+      "doi": "10.1002/anie.2101486",
+      "title": "CO-Adsorption on MgO Revisited: Polarization-Resolved Identification of Step Edges as the Dominant Defects on MgO(100) and MgO(110)",
+      "published_date": "2026-08-23",
+      "url": "https://doi.org/10.1002/anie.2101486"
+    },
     {
       "doi": "10.1002/anie.9880459",
       "title": "Ruthenium-Catalyzed Nitrile-Acrylate Reductive Coupling by 2-Propanol: Synthesis of Enantioenriched β-Amino Esters",

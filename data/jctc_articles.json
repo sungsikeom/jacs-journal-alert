@@ -1,9 +1,21 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-08-22T20:10:45.411Z",
+  "collected_at": "2026-08-23T20:12:42.811Z",
   "scope_start": "2026-01-01",
-  "article_count": 625,
+  "article_count": 627,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01090",
+      "title": "An Analytic Nuclear Energy Gradient for Multicomponent CCSD",
+      "published_date": "2026-08-23",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01090"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01020",
+      "title": "Euclidean Embedding of Reaction Networks for Dimensionality Reduction of Chemical Spaces",
+      "published_date": "2026-08-23",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01020"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01175",
       "title": "Nuclear–Electronic Orbital General Rate Theory: Predicting Hydrogen Kinetic Isotope Effects in the Deep Tunneling Regime",

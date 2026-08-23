@@ -1,9 +1,15 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-08-22T20:14:03.148Z",
+  "collected_at": "2026-08-23T20:15:59.842Z",
   "scope_start": "2026-01-01",
-  "article_count": 756,
+  "article_count": 757,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c01919",
+      "title": "Predicting Antibody–Antigen Mutation ΔΔG via Side-Specific Protein Language Models and Paired Geometric Graph Learning",
+      "published_date": "2026-08-23",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01919"
+    },
     {
       "doi": "10.1021/acs.jcim.6c01376",
       "title": "Structural Hierarchy and Maturation of Amyloid Fibrils Revealed by Interface Descriptor Analysis",

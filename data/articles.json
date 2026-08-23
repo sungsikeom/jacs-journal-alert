@@ -1,17 +1,245 @@
 {
-  "checked_at": "2026-08-23T05:30:50+09:00",
+  "checked_at": "2026-08-24T05:32:15+09:00",
   "journal_count": 11,
-  "new_count": 67,
-  "total_count": 25962,
+  "new_count": 19,
+  "total_count": 25983,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-08-23",
+  "scope_end": "2026-08-24",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c06677",
+      "title": "Local Active-Site Architecture Directs Divergent Carbocation Cascades in Sesterterpene Synthases",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-08-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c06677",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01090",
+      "title": "An Analytic Nuclear Energy Gradient for Multicomponent CCSD",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-08-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01090",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01020",
+      "title": "Euclidean Embedding of Reaction Networks for Dimensionality Reduction of Chemical Spaces",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-08-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01020",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01919",
+      "title": "Predicting Antibody–Antigen Mutation ΔΔG via Side-Specific Protein Language Models and Paired Geometric Graph Learning",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-08-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c01919",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.5077478",
+      "title": "Thermodynamic Control of MnO2/Mn2+ Redox Chemistry in Aqueous Batteries",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-08-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.5077478",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.5073615",
+      "title": "Defined Dinuclear Nickel Sites on Mesoporous Silica Translate Molecular Surface Mimics to Heterogeneous Catalysis",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-08-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.5073615",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.5055917",
+      "title": "Reaction–Transport Coupling Drives Spatiotemporal Organization in Fuel-Driven Supramolecular Polymerization",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-08-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.5055917",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.4279044",
+      "title": "Mechanical Caging of Nucleic Acids Enabled by Light-Activated Synthetic Molecular Motors",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-08-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.4279044",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.4183926",
+      "title": "Titanium-Catalyzed Defluorination of Poly(Vinyl Fluoride) and Poly(Vinylidene Fluoride) Under Friedel–Crafts Conditions",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-08-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.4183926",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.3766558",
+      "title": "Pt-Mediated Co-Adsorption of Hydroxyl and Nitrogen-Heterocyclic Species Over Cu/CuO Heterostructure Enhances Coupled Azotriazole Electrosynthesis and Dual-Electrode Hydrogen Production",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-08-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.3766558",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.3647021",
+      "title": "A Stage-Coupled View of Interfacial Reconstruction in Anode-Free Sodium Metal Batteries",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-08-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.3647021",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.3525961",
+      "title": "Eva Pluhařová",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-08-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.3525961",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.3399600",
+      "title": "Direct Molecular Editing of Complex Molecules for Drug Discovery",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-08-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.3399600",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.3095986",
+      "title": "Ga Doping Enables (110) Facet Control and Surface Passivation of SnO2 for Efficient and Stable Inverted Perovskite Solar Cells",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-08-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.3095986",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.2887110",
+      "title": "Highly Stable CO2 Methanation Catalyst Fabricated by Engineering Metal–Metal Oxide Interfaces of CoAlOx",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-08-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.2887110",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.2643229",
+      "title": "Aminosulfine-Based Donor Platform for Controlled Release of Sulfenic Acid (HSOH)",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-08-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.2643229",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.2516685",
+      "title": "Post-Synthetic Zinc Modifications to Correct Speciation in Ti-MWW Zeolites for Catalytic Oxidation",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-08-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.2516685",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.2256553",
+      "title": "100-Fold Reductivity Enhancement of Nanoscale Zero-Valent Iron After 1-Year Aging in Water via Regulating Corrosion Reactions",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-08-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.2256553",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.2101486",
+      "title": "CO-Adsorption on MgO Revisited: Polarization-Resolved Identification of Step Edges as the Dominant Defects on MgO(100) and MgO(110)",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-08-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.2101486",
+      "sources": [
+        "publisher"
+      ]
+    },
     {
       "doi": "10.1038/s41467-026-77089-9",
       "title": "Alcohol reshapes liver zonal plasticity and immune-metabolic reprogramming in metabolic-syndrome associated hepatocellular carcinoma",
@@ -253,6 +481,18 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c12924",
+      "title": "Colossal Negative Thermal Expansion in MOF-808",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-08-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12924",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c12859",
       "title": "Synergistic Surface and Interface Regulation of Ultralow-Pt-Loading Cathodes for Low-Alkalinity AEMWEs",
       "journal": "Journal of the American Chemical Society",
@@ -320,6 +560,18 @@
       "published_date": "2026-08-22",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/jacs.6c10422",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c08269",
+      "title": "In Situ Construction of a Reticulated Peptide Scaffold via Responsive Self-Assembly and Proximal Covalent Labeling for Enhanced Tumor Imaging and Therapy",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-08-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c08269",
       "sources": [
         "acs"
       ]
@@ -312165,72 +312417,24 @@
     }
   ],
   "new_dois": [
-    "10.1038/s41467-026-77089-9",
-    "10.1038/s41467-026-77068-0",
-    "10.1038/s41467-026-77061-7",
-    "10.1038/s41467-026-77056-4",
-    "10.1038/s41467-026-77042-w",
-    "10.1038/s41467-026-76988-1",
-    "10.1038/s41467-026-76959-6",
-    "10.1038/s41467-026-76911-8",
-    "10.1038/s41467-026-76905-6",
-    "10.1038/s41467-026-76869-7",
-    "10.1038/s41467-026-76862-0",
-    "10.1038/s41467-026-76840-6",
-    "10.1038/s41467-026-76773-0",
-    "10.1038/s41467-026-76730-x",
-    "10.1038/s41467-026-76662-6",
-    "10.1038/s41467-026-76661-7",
-    "10.1038/s41467-026-76627-9",
-    "10.1038/s41467-026-76193-0",
-    "10.1038/s41467-026-76147-6",
-    "10.1038/s41467-026-75703-4",
-    "10.1021/jacs.6c12859",
-    "10.1021/jacs.6c12595",
-    "10.1021/jacs.6c12366",
-    "10.1021/jacs.6c12145",
-    "10.1021/jacs.6c11214",
-    "10.1021/jacs.6c10422",
-    "10.1021/jacs.6c05150",
-    "10.1021/acs.jpclett.6c02371",
-    "10.1021/acs.jpclett.6c02013",
-    "10.1021/acs.jpclett.6c01795",
-    "10.1021/acs.jpclett.6c01775",
-    "10.1021/acs.jcim.6c01376",
-    "10.1021/acs.jcim.6c01357",
-    "10.1002/anie.9880459",
-    "10.1002/anie.9559286",
-    "10.1002/anie.9526719",
-    "10.1002/anie.9125401",
-    "10.1002/anie.8501169",
-    "10.1002/anie.8169928",
-    "10.1002/anie.7948330",
-    "10.1002/anie.7251439",
-    "10.1002/anie.7062874",
-    "10.1002/anie.6980840",
-    "10.1002/anie.6875653",
-    "10.1002/anie.6352970",
-    "10.1002/anie.6267376",
-    "10.1002/anie.6182003",
-    "10.1002/anie.6140066",
-    "10.1002/anie.6113925",
-    "10.1002/anie.5589616",
-    "10.1002/anie.5028581",
-    "10.1002/anie.4782087",
-    "10.1002/anie.4755839",
-    "10.1002/anie.4391410",
-    "10.1002/anie.4238416",
-    "10.1002/anie.4171725",
-    "10.1002/anie.4167912",
-    "10.1002/anie.4052471",
-    "10.1002/anie.3171374",
-    "10.1002/anie.3026199",
-    "10.1002/anie.2958917",
-    "10.1002/anie.2598368",
-    "10.1002/anie.1958506",
-    "10.1002/anie.1681939",
-    "10.1002/anie.1540355",
-    "10.1002/anie.1504807",
-    "10.1002/anie.1137232"
+    "10.1021/jacs.6c06677",
+    "10.1021/acs.jctc.6c01090",
+    "10.1021/acs.jctc.6c01020",
+    "10.1021/acs.jcim.6c01919",
+    "10.1002/anie.5077478",
+    "10.1002/anie.5073615",
+    "10.1002/anie.5055917",
+    "10.1002/anie.4279044",
+    "10.1002/anie.4183926",
+    "10.1002/anie.3766558",
+    "10.1002/anie.3647021",
+    "10.1002/anie.3525961",
+    "10.1002/anie.3399600",
+    "10.1002/anie.3095986",
+    "10.1002/anie.2887110",
+    "10.1002/anie.2643229",
+    "10.1002/anie.2516685",
+    "10.1002/anie.2256553",
+    "10.1002/anie.2101486"
   ]
 }
