@@ -1,9 +1,57 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-08-23T20:19:16.263Z",
+  "collected_at": "2026-08-24T20:17:58.322Z",
   "scope_start": "2026-01-01",
-  "article_count": 1109,
+  "article_count": 1117,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02593",
+      "title": "Probing Vibrational Properties at MoSe2 Edges and Grain Boundaries Using Tip-Enhanced Raman Spectroscopy",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02593"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02354",
+      "title": "Core/Shell/Shell Strategy for Stable and Luminescent PbSe Colloidal Nanocrystals Tuned through the Extended Short- to Mid-Wave Infrared",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02354"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02340",
+      "title": "Tridentate Chelation Coordinated Bismuth Halide Perovskite for High-Performance X-ray Detection",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02340"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02267",
+      "title": "Mode-Selective Terahertz Modulation of Bicarbonate Binding in Band 3/Anion Exchanger 1",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02267"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02167",
+      "title": "Coherent 13C Nuclear Spin State Readout Driven by Spin Density Mediated NV Centers in Isotopically Purified 6H-28SiC",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02167"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02135",
+      "title": "Adsorbate-Directed Surface Phase Separation in Cu–Ag Catalysts",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02135"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01956",
+      "title": "Efficient Broad-Power-Range Nonlinear Ultraviolet Emission via Endothermic Triplet–Triplet Annihilation Upconversion",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01956"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01872",
+      "title": "It’s Swinging Time: Prolonged Energy Release of Myoglobin upon CO Dissociation",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01872"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02371",
       "title": "Ion-Pair Design Rules for Defect Passivation in 2D WS2",

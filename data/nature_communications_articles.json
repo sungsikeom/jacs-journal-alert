@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-08-23T20:06:03.799Z",
+  "collected_at": "2026-08-24T20:04:45.702Z",
   "scope_start": "2026-01-01",
-  "article_count": 8503,
+  "article_count": 8523,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77200-0",
+      "title": "TOR–NOT4 signalling couples translation to co-translational quality control in plants",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1038/s41467-026-77200-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77100-3",
+      "title": "Liquefaction electrochemistry evolving liquid-gas conversion to liquid-liquid modes of zinc||chlorine batteries",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1038/s41467-026-77100-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77091-1",
+      "title": "Topological polaritons in natural uniaxial materials",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1038/s41467-026-77091-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77040-y",
+      "title": "Plasma metabolomic signatures enable the diagnosis and prognosis of chronic obstructive pulmonary disease",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1038/s41467-026-77040-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77033-x",
+      "title": "A wearable acoustofluidic patch for rapid reversal of opioid overdose",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1038/s41467-026-77033-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77030-0",
+      "title": "Geometrically periodic architecture for enhanced mass transport in electrocatalysis",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1038/s41467-026-77030-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77026-w",
+      "title": "Fossil record biases skew inferences of mammal trait evolution",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1038/s41467-026-77026-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77018-w",
+      "title": "Low-gas-flow strategy boosts hierarchical porosity of ZIF-8 single-atom catalysts for efficient adsorption-driven degradation",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1038/s41467-026-77018-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76997-0",
+      "title": "Mitochondrial SUMOylation of NDUFA9 drives ClpP-dependent degradation and complex I dysfunction in a Leigh syndrome–associated mutation",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1038/s41467-026-76997-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76946-x",
+      "title": "Hydrogen bond mediated oxidation enables sustained oxygen evolution at industrial current densities",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1038/s41467-026-76946-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-76945-y",
+      "title": "Extreme temperatures and low-income household finance: evidence from payday loans",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1038/s41467-026-76945-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76921-6",
+      "title": "Actin based cell chirality emerging at the boundary of 2D-microtissue directs chiral multicellular pattern formation",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1038/s41467-026-76921-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76893-7",
+      "title": "Transposon end recognition and excision mechanisms of type I-F CRISPR-associated transposases",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1038/s41467-026-76893-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-76847-z",
+      "title": "Dipole-engineered co-adsorbed self-assembled monolayers boost Cs-based inorganic Pb-Sn perovskite tandem efficiency beyond 20%",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1038/s41467-026-76847-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-76824-6",
+      "title": "Supporting upper limb movements with a soft robot after a brachial plexus injury",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1038/s41467-026-76824-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76817-5",
+      "title": "Compartmentalized B cell-microglia crosstalk drives ischemic white matter demyelination",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1038/s41467-026-76817-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-76618-w",
+      "title": "Compositional architecting by additive manufacturing enables hardenable titanium alloys",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1038/s41467-026-76618-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76250-8",
+      "title": "The anion channel GPR89 is a tumor-specific dependency in breast cancer",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1038/s41467-026-76250-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-76091-5",
+      "title": "A transmembrane protein confers the Yr26/Yr24/YrCH42/YrG22-mediated stripe rust resistance in wheat",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1038/s41467-026-76091-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-75738-7",
+      "title": "RunPd1 fully-exposed clusters for solvent-free hydrogenation of toluene toward hydrogen storage",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1038/s41467-026-75738-7"
+    },
     {
       "doi": "10.1038/s41467-026-77089-9",
       "title": "Alcohol reshapes liver zonal plasticity and immune-metabolic reprogramming in metabolic-syndrome associated hepatocellular carcinoma",

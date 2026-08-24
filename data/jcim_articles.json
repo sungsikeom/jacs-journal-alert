@@ -1,9 +1,33 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-08-23T20:15:59.842Z",
+  "collected_at": "2026-08-24T20:14:42.068Z",
   "scope_start": "2026-01-01",
-  "article_count": 757,
+  "article_count": 761,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c01910",
+      "title": "AutoMulti: An Integrated Graphical Platform for Computational Chemistry Analysis and Molecular Data Generation",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01910"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01513",
+      "title": "Is AI Capable of Real-World Drug Discovery?",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01513"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01330",
+      "title": "Thermodynamics of Disassembly and Denaturation of Protein Crystals in Osmolyte Solutions",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01330"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01182",
+      "title": "Data-Driven Critical Evaluation of the General Solubility Equation",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01182"
+    },
     {
       "doi": "10.1021/acs.jcim.6c01919",
       "title": "Predicting Antibody–Antigen Mutation ΔΔG via Side-Specific Protein Language Models and Paired Geometric Graph Learning",

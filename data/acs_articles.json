@@ -1,11 +1,137 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-08-23T20:00:37.286Z",
+  "collected_at": "2026-08-24T20:01:19.519Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7215,
+  "article_count": 7236,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c15193",
+      "title": "NMR-Solved Proton Fine Locations Reveal the Dynamic Flexibility of Brønsted Acid Sites in the SAPO-34 Molecular Sieve",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c15193"
+    },
+    {
+      "doi": "10.1021/jacs.6c14314",
+      "title": "Diazines-to-Diazoles Skeletal Remodeling",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c14314"
+    },
+    {
+      "doi": "10.1021/jacs.6c12963",
+      "title": "Concise Asymmetric Total Synthesis of (−)-Cribrostatin 4 via Development of a Rh-Catalyzed Asymmetric Hydrogenation of 2,5-Diketopiperazine-Derived Enamides",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c12963"
+    },
+    {
+      "doi": "10.1021/jacs.6c12765",
+      "title": "A Theoretical 4f Field Effect of Rare-Earth Complexes on Dinitrogen Reduction",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c12765"
+    },
+    {
+      "doi": "10.1021/jacs.6c12509",
+      "title": "Alkyl-to-Alkyl Palladium Migration Enables Remote C–C Bond Formation",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c12509"
+    },
+    {
+      "doi": "10.1021/jacs.6c12508",
+      "title": "Structural Homology Allows Alloyed II–V Magic-Sized Clusters with Continuously Tunable Emission",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c12508"
+    },
+    {
+      "doi": "10.1021/jacs.6c11800",
+      "title": "Redirecting Nitroarene Electroreduction toward Nitrogen-Scaffold Synthesis",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c11800"
+    },
+    {
+      "doi": "10.1021/jacs.6c11602",
+      "title": "3D, Structure-Based, Deep Learning Approach to Predict the Regioselectivity of Olefin Hydroformylations",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c11602"
+    },
+    {
+      "doi": "10.1021/jacs.6c11584",
+      "title": "Tuning the ZIKV NS3 Helicase Motor Activity through Magnesium Coordination and RNA-Driven Allostery",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c11584"
+    },
+    {
+      "doi": "10.1021/jacs.6c11450",
+      "title": "Frustrated Interfacial Solvation Enhances Reaction Rates at Acidified Ice Grain Boundaries in Frozen Microdroplets",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c11450"
+    },
+    {
+      "doi": "10.1021/jacs.6c10786",
+      "title": "Symmetry-Encoded [6 + 12] Octahedral Organic Cages Enabled by Retrospective Design",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c10786"
+    },
+    {
+      "doi": "10.1021/jacs.6c10068",
+      "title": "Chemical Tuning of Charge Transport Polarity in Light-Emitting Transistors Enabling Neuromorphic Display, Computing, and Optocoupler",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c10068"
+    },
+    {
+      "doi": "10.1021/jacs.6c09729",
+      "title": "Reticular Construction of Porphyrin–Pyrazolate Frameworks for Markovnikov-Selective Wacker-Type Oxidation of Styrenes",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c09729"
+    },
+    {
+      "doi": "10.1021/jacs.6c09388",
+      "title": "Design of Chemically Programmable Nanomaterials for Organ-Selective Targeting",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c09388"
+    },
+    {
+      "doi": "10.1021/jacs.6c09161",
+      "title": "Salt Flux Synthetic Catholicon: A Universal Route to Refractory and High-Entropy Alloys and Intermetallics",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c09161"
+    },
+    {
+      "doi": "10.1021/jacs.6c07851",
+      "title": "A Structurally Distinct High-Entropy Zeolitic Imidazolate Framework Enabled by Entropy-Assisted Co-Ligation",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c07851"
+    },
+    {
+      "doi": "10.1021/jacs.6c07020",
+      "title": "Temperature Dependence of the Hydrated Electron’s g-Factor and Persistence of a Cavity-Localized Electron at Elevated Temperature",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c07020"
+    },
+    {
+      "doi": "10.1021/jacs.6c06810",
+      "title": "Spatial Electronic Partitioning in Metal–Organic Frameworks for pH-Universal CO2 Electroreduction",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c06810"
+    },
+    {
+      "doi": "10.1021/jacs.6c06021",
+      "title": "Excited Triplet State of Heptacene Studied by Electron Spin Resonance",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c06021"
+    },
+    {
+      "doi": "10.1021/jacs.6c05778",
+      "title": "Enhanced Sampling and Ligandability Assessment to Expand the Repertoire of Potentially Druggable Cryptic Pockets",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c05778"
+    },
+    {
+      "doi": "10.1021/jacs.6c05565",
+      "title": "Probing the Role of Copper Dislocation Density in Electrochemical CO2 Conversion",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c05565"
+    },
     {
       "doi": "10.1021/jacs.6c06677",
       "title": "Local Active-Site Architecture Directs Divergent Carbocation Cascades in Sesterterpene Synthases",

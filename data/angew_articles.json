@@ -1,9 +1,75 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-08-23T20:25:47.791Z",
+  "collected_at": "2026-08-24T20:24:29.679Z",
   "scope_start": "2026-01-01",
-  "article_count": 2203,
+  "article_count": 2214,
   "articles": [
+    {
+      "doi": "10.1002/anie.7848549",
+      "title": "Harnessing Molecular Tautomerism to Tune Precursor Coordination Chemistry for Efficient and Stable Perovskite Solar Cells",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1002/anie.7848549"
+    },
+    {
+      "doi": "10.1002/anie.7674442",
+      "title": "Over 7500 Cycles Achieved in Platinum-Group-Metal-Free Ni–H2 Battery Through Reversible Hydrogen Spillover",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1002/anie.7674442"
+    },
+    {
+      "doi": "10.1002/anie.5128253",
+      "title": "Dynamic Operations in Macromolecular Data Storage",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1002/anie.5128253"
+    },
+    {
+      "doi": "10.1002/anie.5009703",
+      "title": "Farnesyltransferase Enables Modular Assembly of Dual-Functional Nanobody Conjugates for in Vivo Imaging of Inflammation",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1002/anie.5009703"
+    },
+    {
+      "doi": "10.1002/anie.4662687",
+      "title": "Designing Proton-Selective Pathway on MnO2 Surface Toward Sustainable Protonation Electrochemistry",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1002/anie.4662687"
+    },
+    {
+      "doi": "10.1002/anie.4090353",
+      "title": "Low-Pressure CO2 and Aromatic Recognition by Interlayer Adaptive Crystal of π-Hole-Functionalized Zn(II) Coordination Sheets",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1002/anie.4090353"
+    },
+    {
+      "doi": "10.1002/anie.3898240",
+      "title": "Photopatterning Block Copolymer Enables Mechanical Enhancement",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1002/anie.3898240"
+    },
+    {
+      "doi": "10.1002/anie.2407891",
+      "title": "Precise Surgical Navigation of Endometriosis via NIR-II Fluorescence Imaging With a Semiconducting Polymeric Probe",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1002/anie.2407891"
+    },
+    {
+      "doi": "10.1002/anie.2205198",
+      "title": "Diversity-Oriented Two-Step Annulative π-Extension Enables Access to Structurally Complex Nanographenes",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1002/anie.2205198"
+    },
+    {
+      "doi": "10.1002/anie.1850136",
+      "title": "P-Directed and Lewis Acid-Assisted Pd-Catalyzed Si─Me Bond Activation Enabling Alkyl Exchange at Silicon",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1002/anie.1850136"
+    },
+    {
+      "doi": "10.1002/anie.1750323",
+      "title": "Adaptive Assembly of Dative B←N Frameworks for Dimension-Controlled Hetero-Engineering",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1002/anie.1750323"
+    },
     {
       "doi": "10.1002/anie.5077478",
       "title": "Thermodynamic Control of MnO2/Mn2+ Redox Chemistry in Aqueous Batteries",

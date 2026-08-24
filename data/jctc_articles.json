@@ -1,9 +1,21 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-08-23T20:12:42.811Z",
+  "collected_at": "2026-08-24T20:11:24.581Z",
   "scope_start": "2026-01-01",
-  "article_count": 627,
+  "article_count": 629,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c00959",
+      "title": "Dynamic Mirror Image Charge Method for First-Principles-Based Modeling of Surface Polarization at the Electrode–Electrolyte Interface",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00959"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00946",
+      "title": "Designing Coulombic Contact Interactions between Polarizable Particles through Asymmetry",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00946"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01090",
       "title": "An Analytic Nuclear Energy Gradient for Multicomponent CCSD",
