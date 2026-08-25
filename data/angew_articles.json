@@ -1,9 +1,81 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-08-24T20:24:29.679Z",
+  "collected_at": "2026-08-25T20:24:23.197Z",
   "scope_start": "2026-01-01",
-  "article_count": 2214,
+  "article_count": 2228,
   "articles": [
+    {
+      "doi": "10.1002/anie.8631704",
+      "title": "Conjugated Microporous Polymers Bearing Poly(Acrylic Acid) Brushes: Site-Specific Rhodium Immobilization for Efficient and Enzyme-Compatible Photocatalytic NADH Regeneration",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1002/anie.8631704"
+    },
+    {
+      "doi": "10.1002/anie.7968058",
+      "title": "Theranostic Potential of an NAD(P)H-Activatable Fluorophore: Assessing Cancer Aggressiveness and Triggering Apoptosis",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1002/anie.7968058"
+    },
+    {
+      "doi": "10.1002/anie.7295217",
+      "title": "Hydrothermal Disturbance-Driven Coordination Assembly of Supramolecular Glasses With Multi-Excitation-Tunable Afterglow",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1002/anie.7295217"
+    },
+    {
+      "doi": "10.1002/anie.5503056",
+      "title": "Eliminating Interfacial Stress Concentration Enables High-Energy and High-Safety Gel Polymer Lithium Metal Pouch Cells",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1002/anie.5503056"
+    },
+    {
+      "doi": "10.1002/anie.5241611",
+      "title": "Thienyl Self-Assembled Molecule Enabled Stable Perovskite/TOPCon Silicon Tandem",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1002/anie.5241611"
+    },
+    {
+      "doi": "10.1002/anie.4678799",
+      "title": "Strain-Retardant Sodium Layered Cathodes Enabled by Conformal Octahedral Matching",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1002/anie.4678799"
+    },
+    {
+      "doi": "10.1002/anie.4462828",
+      "title": "Os(II) Carbonyl Complexes Bypassing Intersystem Crossing for Visible-to-UV Upconversion at 532 nm",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1002/anie.4462828"
+    },
+    {
+      "doi": "10.1002/anie.3308853",
+      "title": "Mechanism-Selective Self-Assembly of Amphiphilic Dendronized Brush Block Copolymers Into Lamellar and Porous Photonic Pigments",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1002/anie.3308853"
+    },
+    {
+      "doi": "10.1002/anie.2885108",
+      "title": "High Saturation Polarization Ferroelectricity in a Pair of α-Phase Enantiomorphic Crystals Based on Calabash-Shaped Molecules",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1002/anie.2885108"
+    },
+    {
+      "doi": "10.1002/anie.2882594",
+      "title": "Selenophene π-Core Fusion for Simultaneous Fast Reverse Intersystem Crossing and Narrowband Long-Wavelength TADF",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1002/anie.2882594"
+    },
+    {
+      "doi": "10.1002/anie.1790590",
+      "title": "Organophosphorus Moieties Govern Opposite Fluorescence Modulation and Synergistically Enhance Copper(II) Affinity of Precursor-Derived Carbon Dots",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1002/anie.1790590"
+    },
+    {
+      "doi": "10.1002/anie.1758525",
+      "title": "Melt-Processable Manganese (II)-Based Hybrid Luminescent Glass Enables Lifetime-Based Thermal Imaging",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1002/anie.1758525"
+    },
     {
       "doi": "10.1002/anie.7848549",
       "title": "Harnessing Molecular Tautomerism to Tune Precursor Coordination Chemistry for Efficient and Stable Perovskite Solar Cells",
@@ -69,6 +141,18 @@
       "title": "Adaptive Assembly of Dative B←N Frameworks for Dimension-Controlled Hetero-Engineering",
       "published_date": "2026-08-24",
       "url": "https://doi.org/10.1002/anie.1750323"
+    },
+    {
+      "doi": "10.1002/anie.1206161",
+      "title": "Expansion Microscopy Reveals the Spatial Association of Therapeutic Antibody–Receptor Complexes With Cholesterol-Rich Membrane Domains",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1002/anie.1206161"
+    },
+    {
+      "doi": "10.1002/anie.1048718",
+      "title": "An Iridium Distannylidyne – Expanding the Scope of Tetrylidyne Transition Metal Coordination Chemistry",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1002/anie.1048718"
     },
     {
       "doi": "10.1002/anie.5077478",

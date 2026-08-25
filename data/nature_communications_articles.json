@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-08-24T20:04:45.702Z",
+  "collected_at": "2026-08-25T20:04:37.894Z",
   "scope_start": "2026-01-01",
-  "article_count": 8523,
+  "article_count": 8543,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77249-x",
+      "title": "Redox-stratified macromolecule degradation supports microbial survival in the oligotrophic Kermadec Trench sediments",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1038/s41467-026-77249-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77153-4",
+      "title": "Divergent SAGA complexes shape the Toxoplasma transcriptome for lytic cycle progression and host interaction",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1038/s41467-026-77153-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77131-w",
+      "title": "Homo-metal-element mediated surface modification of sapphire for robust epitaxy of wafer-scale single-crystalline 2D semiconductors",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1038/s41467-026-77131-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77112-z",
+      "title": "The predicted interactome of the human mitochondrial proteome",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1038/s41467-026-77112-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77092-0",
+      "title": "Amide synthesis via molecular shuffling of carboxylic acids",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1038/s41467-026-77092-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77055-5",
+      "title": "Combinatorial group testing for efficient scaling across biological applications",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1038/s41467-026-77055-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-76990-7",
+      "title": "Molecular determinants of species-specific gamete adhesion triggering HAP2-mediated membrane fusion",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1038/s41467-026-76990-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-76986-3",
+      "title": "Reservoir sedimentation diminishes water storage and coastal delta resiliency",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1038/s41467-026-76986-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76971-w",
+      "title": "A high-resolution polarization-hyperspectral image sensor for complex intelligent sensing",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1038/s41467-026-76971-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76968-5",
+      "title": "Smart and sustainable production of fertilizer by electrochromic self-perception recovery of ammonium from wastewater",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1038/s41467-026-76968-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-76964-9",
+      "title": "Quantifying replication fidelity of unnatural base pairs using nanopore sequencing",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1038/s41467-026-76964-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-76961-y",
+      "title": "Directional Inner-Surface Printing for High-Resolution Conformal Electronics",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1038/s41467-026-76961-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76940-3",
+      "title": "Mutant TP53 hijacks RNA-splicing factor RBM28 to suppress double-stranded RNA triggered antitumor immunity",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1038/s41467-026-76940-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76877-7",
+      "title": "Causal inference for multiple risk factors and diseases from genomics data",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1038/s41467-026-76877-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-76816-6",
+      "title": "Slow-water strategy for fracture-resistant hydrogels",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1038/s41467-026-76816-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76763-2",
+      "title": "An atlas of colonization factors in the human gut microbiome reveals ecological strategies and inflammatory bowel disease signatures",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1038/s41467-026-76763-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-76711-0",
+      "title": "Unc-51 like kinase 3 (ULK3) contributes to autophagy and cell survival in multiple myeloma",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1038/s41467-026-76711-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76600-6",
+      "title": "Role of natural halogen chemistry on the evolution of global stratospheric ozone depletion",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1038/s41467-026-76600-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76513-4",
+      "title": "Dual-phase engineering of CFx electrode and interphase enables low-temperature Li||CFx batteries",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1038/s41467-026-76513-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76455-x",
+      "title": "Regiospecific de mayo reactions of enamino ketones",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1038/s41467-026-76455-x"
+    },
     {
       "doi": "10.1038/s41467-026-77200-0",
       "title": "TOR–NOT4 signalling couples translation to co-translational quality control in plants",

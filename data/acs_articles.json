@@ -1,11 +1,119 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-08-24T20:01:19.519Z",
+  "collected_at": "2026-08-25T20:01:10.624Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7236,
+  "article_count": 7257,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c16138",
+      "title": "Prebiotically Plausible Synthesis of N-Cyanoimidazole for Phosphate Activation and Templated RNA Ligation",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/jacs.6c16138"
+    },
+    {
+      "doi": "10.1021/jacs.6c14776",
+      "title": "Photocontrolled Isomerization Pathways of Tolylsulfonyl- and Pyrene-Linked Norbornadiene Systems Driven by Absorption Band Targeting",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/jacs.6c14776"
+    },
+    {
+      "doi": "10.1021/jacs.6c13313",
+      "title": "Isotopological Modulation of Entanglement in 3D Covalent Organic Frameworks Unlocks a Fully Open Catalytic Architecture",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/jacs.6c13313"
+    },
+    {
+      "doi": "10.1021/jacs.6c13223",
+      "title": "Enantioenriched Alkylboron Synthesis Via a Chiral Diborylalkane Platform",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/jacs.6c13223"
+    },
+    {
+      "doi": "10.1021/jacs.6c12130",
+      "title": "Synthesis of Mucononitriles by a pH-Dependent Periodate Oxidative Cleavage and Their Unconventional Cyclization to Pyridines",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/jacs.6c12130"
+    },
+    {
+      "doi": "10.1021/jacs.6c11662",
+      "title": "Aromatization-Driven Borylene Generation from Borepin Precursors Enables Fused Borirane Synthesis and Selective Alkene Functionalization",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/jacs.6c11662"
+    },
+    {
+      "doi": "10.1021/jacs.6c11342",
+      "title": "Pt/Mo2N Catalyst Enabled by Redox Single-Site CeOx for Methanol Steam Reforming",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/jacs.6c11342"
+    },
+    {
+      "doi": "10.1021/jacs.6c11153",
+      "title": "A Fullerene-Based Interphase Confines Interfacial Electrons for Long-Lived Zinc Metal Anodes in Aqueous Electrolytes",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/jacs.6c11153"
+    },
+    {
+      "doi": "10.1021/jacs.6c11094",
+      "title": "Engineering a Virus-like Nanovaccine for Durable and Potent Antigen-Specific Adoptive Immunity",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/jacs.6c11094"
+    },
+    {
+      "doi": "10.1021/jacs.6c10298",
+      "title": "Giant 7-Fold Symmetric Eu28Ti14 Molecular Wheels",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/jacs.6c10298"
+    },
+    {
+      "doi": "10.1021/jacs.6c10285",
+      "title": "Hydrogenation of a Tricobalt Carbide Evolves through Fischer–Tropsch Intermediates",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/jacs.6c10285"
+    },
+    {
+      "doi": "10.1021/jacs.6c09871",
+      "title": "Engineering In-Plane Anisotropy in 2D Materials via Surface-Bound Ligands",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/jacs.6c09871"
+    },
+    {
+      "doi": "10.1021/jacs.6c09100",
+      "title": "Carbenylative Buchwald–Hartwig Coupling of Aryl Halides, N-Tosylhydrazones, and Anilines",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/jacs.6c09100"
+    },
+    {
+      "doi": "10.1021/jacs.6c08324",
+      "title": "Synthesis of a Triply Twisted [54]Dodecaphyrin and Its Metal Complexes by Trimetal-Templated Strategy and Pd0-Induced Antiaromaticity",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/jacs.6c08324"
+    },
+    {
+      "doi": "10.1021/jacs.6c08277",
+      "title": "Kinetic and Mechanistic Characterization of RSpFAST, a Non-Covalent Versatile Chemogenetic Platform for Fluorescence Imaging",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/jacs.6c08277"
+    },
+    {
+      "doi": "10.1021/jacs.6c07870",
+      "title": "A Synthetic Method to Hydrogen Radicals",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/jacs.6c07870"
+    },
+    {
+      "doi": "10.1021/jacs.6c07718",
+      "title": "[Fe3(μ3–Me)]−/0 Clusters: Masking a Methyl Radical",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/jacs.6c07718"
+    },
+    {
+      "doi": "10.1021/jacs.6c05939",
+      "title": "Dynamical Nonequilibrium Molecular Dynamics Simulations Reveal Atomistic Steps of C-Type Inactivation in Cardiac hERG Channels",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/jacs.6c05939"
+    },
     {
       "doi": "10.1021/jacs.6c15193",
       "title": "NMR-Solved Proton Fine Locations Reveal the Dynamic Flexibility of Brønsted Acid Sites in the SAPO-34 Molecular Sieve",
@@ -43,6 +151,18 @@
       "url": "https://doi.org/10.1021/jacs.6c12508"
     },
     {
+      "doi": "10.1021/jacs.6c12417",
+      "title": "Moderately Solvated Electrolyte Enabling Fast Charging of a Lithium-Ion Battery at Low Temperature",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c12417"
+    },
+    {
+      "doi": "10.1021/jacs.6c12120",
+      "title": "Reductive Couplings Via Nucleophilic Photoactivation of Carbonyls",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c12120"
+    },
+    {
       "doi": "10.1021/jacs.6c11800",
       "title": "Redirecting Nitroarene Electroreduction toward Nitrogen-Scaffold Synthesis",
       "published_date": "2026-08-24",
@@ -59,6 +179,12 @@
       "title": "Tuning the ZIKV NS3 Helicase Motor Activity through Magnesium Coordination and RNA-Driven Allostery",
       "published_date": "2026-08-24",
       "url": "https://doi.org/10.1021/jacs.6c11584"
+    },
+    {
+      "doi": "10.1021/jacs.6c11511",
+      "title": "Recrystallization-Driven Assembly of Cs3Cd2Cl7 Nanoplatelets into Hybrid Organic–Inorganic Ruddlesden–Popper Stacks",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/jacs.6c11511"
     },
     {
       "doi": "10.1021/jacs.6c11450",

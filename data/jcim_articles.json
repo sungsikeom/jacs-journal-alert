@@ -1,9 +1,39 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-08-24T20:14:42.068Z",
+  "collected_at": "2026-08-25T20:14:33.618Z",
   "scope_start": "2026-01-01",
-  "article_count": 761,
+  "article_count": 766,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c01826",
+      "title": "Combining Device Information and Molecular Fingerprints into a Global Model for Reliable Prediction of Power Conversion Efficiency of Dye-Sensitized Solar Cells",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01826"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01505",
+      "title": "SSE-DDI: Selective Substructure Encoding with Bond-Centered Molecular Representations for Drug–Drug Interaction Prediction",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01505"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01350",
+      "title": "Ensemble-Based Reconstruction and Prioritization of Binding Sites in Influenza A Nucleoprotein",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01350"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01260",
+      "title": "Mutation-Guided Recovery of Ligand-Compatible Holo-Like Conformations in Proteins with Cryptic Pockets",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01260"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01013",
+      "title": "Generative Chemical Language Models for Energetic Materials Discovery",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01013"
+    },
     {
       "doi": "10.1021/acs.jcim.6c01910",
       "title": "AutoMulti: An Integrated Graphical Platform for Computational Chemistry Analysis and Molecular Data Generation",

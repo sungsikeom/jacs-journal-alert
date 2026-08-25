@@ -1,9 +1,39 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-08-24T20:11:24.581Z",
+  "collected_at": "2026-08-25T20:11:16.581Z",
   "scope_start": "2026-01-01",
-  "article_count": 629,
+  "article_count": 635,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01299",
+      "title": "Hybrid Functionals with Spatially Resolved Screening for Excited-State Calculations",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01299"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01162",
+      "title": "Generalized Machine Learning Potentials for Predicting Low-Pressure Water Adsorption in Flexible Al-Based Metal–Organic Frameworks",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01162"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00958",
+      "title": "AMOEBA Polarizable Atomic Multipole Force Field Parameters for Flavins",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00958"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00928",
+      "title": "Early Detection and Recovery of SCF Convergence Failures in Automated Quantum Chemistry Workflows via Time-Series Learning",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00928"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01355",
+      "title": "Spin-Resolved Dielectric Bath Embedding Theory for Metallic Surfaces",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01355"
+    },
     {
       "doi": "10.1021/acs.jctc.6c00959",
       "title": "Dynamic Mirror Image Charge Method for First-Principles-Based Modeling of Surface Polarization at the Electrode–Electrolyte Interface",
@@ -15,6 +45,12 @@
       "title": "Designing Coulombic Contact Interactions between Polarizable Particles through Asymmetry",
       "published_date": "2026-08-24",
       "url": "https://doi.org/10.1021/acs.jctc.6c00946"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00938",
+      "title": "Generalized Global Neural Network with Pairwise Charge Transfer for Fast Prediction of Dynamic Properties under an Electric Field",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00938"
     },
     {
       "doi": "10.1021/acs.jctc.6c01090",
