@@ -1,9 +1,21 @@
 {
   "source": "Nature Chemistry Research Articles",
-  "collected_at": "2026-08-25T20:08:01.316Z",
+  "collected_at": "2026-08-26T20:07:55.855Z",
   "scope_start": "2009-01-01",
-  "article_count": 2497,
+  "article_count": 2499,
   "articles": [
+    {
+      "doi": "10.1038/s41557-026-02228-0",
+      "title": "A general strategy towards multicolour fluorogenic peptides for wash-free bioassays",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41557-026-02228-0"
+    },
+    {
+      "doi": "10.1038/s41557-026-02218-2",
+      "title": "Artificial photosynthetic reduction of nitrogen to ammonia at room temperature using natural seawater",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1038/s41557-026-02218-2"
+    },
     {
       "doi": "10.1038/s41557-026-02219-1",
       "title": "Understanding and suppressing gas evolution in lithium metal batteries with ether-based electrolytes",

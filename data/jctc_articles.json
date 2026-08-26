@@ -1,9 +1,27 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-08-25T20:11:16.581Z",
+  "collected_at": "2026-08-26T20:11:11.072Z",
   "scope_start": "2026-01-01",
-  "article_count": 635,
+  "article_count": 639,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01152",
+      "title": "Optimizing Effective Potentials via Gradient-Enhanced Surrogates for Quantum Embedding",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01152"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01045",
+      "title": "Nonadiabatic Dynamics of Uracil in Aqueous Solution from QM/MM in Periodic Boundary Conditions Combined with Mixed-Reference Spin-Flip TDDFT",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01045"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00862",
+      "title": "MODEX: A Modular and Extensible Force Field for Metal–Organic Frameworks",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00862"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01299",
       "title": "Hybrid Functionals with Spatially Resolved Screening for Excited-State Calculations",
@@ -15,6 +33,12 @@
       "title": "Generalized Machine Learning Potentials for Predicting Low-Pressure Water Adsorption in Flexible Al-Based Metal–Organic Frameworks",
       "published_date": "2026-08-25",
       "url": "https://doi.org/10.1021/acs.jctc.6c01162"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01030",
+      "title": "Alchemical Free-Energy Framework for Multiresidue Reoptimization of Antimicrobial Peptide-Membrane Affinity",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01030"
     },
     {
       "doi": "10.1021/acs.jctc.6c00958",

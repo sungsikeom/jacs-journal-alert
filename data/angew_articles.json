@@ -1,9 +1,141 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-08-25T20:24:23.197Z",
+  "collected_at": "2026-08-26T20:24:26.118Z",
   "scope_start": "2026-01-01",
-  "article_count": 2228,
+  "article_count": 2250,
   "articles": [
+    {
+      "doi": "10.1002/anie.9332776",
+      "title": "Thermodynamic and Kinetic Control of Ring–Chain Interconversion in Entropy-Driven Ring-Opening Polymerization of a Macrocyclic Di(Ester-thioester)",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.9332776"
+    },
+    {
+      "doi": "10.1002/anie.9280379",
+      "title": "Boosting Diagnostic Accuracy of Prostate Cancer: Combining Clinical PSA Level and a Pair of NIR Fluorescent Probes for SLC39A1 and PSMA",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.9280379"
+    },
+    {
+      "doi": "10.1002/anie.8095368",
+      "title": "Electrocatalytic Polarity Inversion of Azlactones: Access to α-Quaternary Amino Acids with Electron-Rich SOMOphiles",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.8095368"
+    },
+    {
+      "doi": "10.1002/anie.7923254",
+      "title": "High-Entropy Glass Scintillators With Anti-Crystallization Stability for High-Resolution X-Ray Imaging",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.7923254"
+    },
+    {
+      "doi": "10.1002/anie.7864662",
+      "title": "Dopant Engineering of Isostructural Metal Nanoclusters for Modulating CO2 Electroreduction",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.7864662"
+    },
+    {
+      "doi": "10.1002/anie.7649417",
+      "title": "Synchronous Interfacial Chemistry via a Fluorine-Free Bifunctional Additive for Ultrastable Aqueous Zinc-Iodine Batteries",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.7649417"
+    },
+    {
+      "doi": "10.1002/anie.7177046",
+      "title": "Solvent-Directed Modulation of Stacking Isomers in Single-Crystal One-Dimensional Covalent Organic Frameworks",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.7177046"
+    },
+    {
+      "doi": "10.1002/anie.7074723",
+      "title": "Ultrasound-Triggered Heterojunction Helices With Inverted Supramolecular Chirality and Significantly Amplified Circularly Polarized Luminescence",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.7074723"
+    },
+    {
+      "doi": "10.1002/anie.7042721",
+      "title": "Semi-Synthetic LC3-Interacting Degrader for Visualizing Macroautophagic Activity and Targeted Degradation",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.7042721"
+    },
+    {
+      "doi": "10.1002/anie.5375858",
+      "title": "Light-Induced Dynamic Burstein-Moss-Type Modulation in Polar Hydrazone-Linked COFs for H2O2 Photosynthesis",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.5375858"
+    },
+    {
+      "doi": "10.1002/anie.5330124",
+      "title": "A Dual-Interface Stabilizing Additive for High-voltage Sodium Metal Batteries",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.5330124"
+    },
+    {
+      "doi": "10.1002/anie.5240036",
+      "title": "Four-Dimensional Electrochemiluminescence Microscopy Enables Depth-Resolved Imaging of Single, Living Spheroids",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.5240036"
+    },
+    {
+      "doi": "10.1002/anie.3879325",
+      "title": "From Passive Cocoon to Active Metamorphosis: High-Current-Driven Evolution of Silicon for Ultrastable Anodes",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.3879325"
+    },
+    {
+      "doi": "10.1002/anie.3765495",
+      "title": "Indium Clusters With 6s2 Lone-Pair Effect as Excitonic Electron Reservoirs for Direct 2e− Photocatalytic H2O2 Photosynthesis",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.3765495"
+    },
+    {
+      "doi": "10.1002/anie.3761769",
+      "title": "Preserving Proton Resolution Under Cryogenic Dynamic Nuclear Polarization for Biomolecular Solid-State NMR",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.3761769"
+    },
+    {
+      "doi": "10.1002/anie.2844693",
+      "title": "Active-Site Photothermal Energy Utilization in PET Depolymerization",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.2844693"
+    },
+    {
+      "doi": "10.1002/anie.2311794",
+      "title": "Unconventional Dendrite-Free Deposition of Mg Metal Anodes at Low Temperatures",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.2311794"
+    },
+    {
+      "doi": "10.1002/anie.1816694",
+      "title": "Coordination-Triggered Disassembly of Robust Two-Dimensional Fullerene Frameworks via Intercage C─C σ-Bond Scission",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.1816694"
+    },
+    {
+      "doi": "10.1002/anie.1809937",
+      "title": "A Temperature-Sensitive Dual Ion Channel Based on Quinoline Helix for H+/Cl− Cotransport With Remarkable Antitumor Effect",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.1809937"
+    },
+    {
+      "doi": "10.1002/anie.1710587",
+      "title": "Bacteria-Mediated Targeted Delivery and Deep Tumor Penetration of a Pt(IV)-Drug Enables Synergistic Chemo-Immunotherapy",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.1710587"
+    },
+    {
+      "doi": "10.1002/anie.1338385",
+      "title": "Electrocatalytic Deuterated Nitric Acid Reduction to Deuterated Ammonia",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.1338385"
+    },
+    {
+      "doi": "10.1002/anie.1230832",
+      "title": "Light-Activated Dual-Site Pathway Enables Efficient Hydrogen Release From Dodecahydro-N-ethylcarbazole",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1002/anie.1230832"
+    },
     {
       "doi": "10.1002/anie.8631704",
       "title": "Conjugated Microporous Polymers Bearing Poly(Acrylic Acid) Brushes: Site-Specific Rhodium Immobilization for Efficient and Enzyme-Compatible Photocatalytic NADH Regeneration",

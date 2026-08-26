@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-08-25T20:04:37.894Z",
+  "collected_at": "2026-08-26T20:04:32.972Z",
   "scope_start": "2026-01-01",
-  "article_count": 8543,
+  "article_count": 8563,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77286-6",
+      "title": "Observation of Antichiral Hinge States in a Three-dimensional Gyromagnetic Photonic Crystal",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41467-026-77286-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77245-1",
+      "title": "Iontrovoltaic effect based on triboelectrically induced ion polarization at semiconductor-liquid interfaces",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41467-026-77245-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77164-1",
+      "title": "A conserved small RNA-generating gene cluster undergoes sequence diversification and contributes to plant immunity",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41467-026-77164-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77152-5",
+      "title": "Unveiling non-Hermitian band structures with non-Bloch supercells",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41467-026-77152-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77115-w",
+      "title": "Archipelago architecture and evolution of paclitaxel biosynthesis revealed by the Pseudotaxus chienii haplotype-resolved genome",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41467-026-77115-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77106-x",
+      "title": "The Caenorhabditis elegans microbiome impacts microsporidia infection through nutrient limitation and spore inactivation",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41467-026-77106-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77072-4",
+      "title": "Bi-directional highways and super-seeder tissues underpin parasite dissemination in experimental Leishmania donovani infection",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41467-026-77072-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77070-6",
+      "title": "Uncover the strength of polyhedral dicarbaboranes as the next generation of superbases in organocatalysis",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41467-026-77070-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77067-1",
+      "title": "A machine-assisted framework for systematic error analysis in clinical concept extraction",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41467-026-77067-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76985-4",
+      "title": "Recent globally synchronous seasonal warm events unprecedented since 850 CE",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41467-026-76985-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76950-1",
+      "title": "Single-device in-sensor computing for multi-channel multiply-accumulate operations",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41467-026-76950-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76923-4",
+      "title": "Peptides display multilayered hydration shell substructures dictated by sequence-specific surface chemistry",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41467-026-76923-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76915-4",
+      "title": "Digital twin based sorting optimization for parcel distribution centers in logistics networks",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41467-026-76915-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76858-w",
+      "title": "Fusion-driven oncogenic programs shape the immune landscape in translocation renal cell carcinoma",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41467-026-76858-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76832-6",
+      "title": "Cryogenic photomotion enabled by phonon-engineered sp–sp2 carbon frameworks via reversible photothermal buoyancy switching",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41467-026-76832-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76648-4",
+      "title": "Methylation Mesa define functional regulatory elements for targeted gene activation",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41467-026-76648-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76636-8",
+      "title": "Direct visualization of complex mechanisms in lithium tellurium batteries",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41467-026-76636-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-76521-4",
+      "title": "Optotagging in primate cortex uncovers excitatory and inhibitory neuron specializations in form vision",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41467-026-76521-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76259-z",
+      "title": "Stabilization of charged domains in ferroelectric BiFeO3 nanoneedles",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41467-026-76259-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-74378-1",
+      "title": "Copper-catalyzed enantioselective allylation of cyclic anhydrides for generation of multiple chiral centers",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41467-026-74378-1"
+    },
     {
       "doi": "10.1038/s41467-026-77249-x",
       "title": "Redox-stratified macromolecule degradation supports microbial survival in the oligotrophic Kermadec Trench sediments",

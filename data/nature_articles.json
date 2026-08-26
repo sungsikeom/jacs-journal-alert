@@ -1,12 +1,120 @@
 {
   "source": "Nature Research Articles · 2026 filter",
-  "collected_at": "2026-08-25T20:07:51.704Z",
+  "collected_at": "2026-08-26T20:07:46.577Z",
   "scope_start": "2026-01-01",
-  "official_total": 898,
+  "official_total": 916,
   "collection_mode": "incremental",
   "stopped_on_known_doi": true,
-  "article_count": 898,
+  "article_count": 916,
   "articles": [
+    {
+      "doi": "10.1038/s41586-026-10988-5",
+      "title": "Video reconstruction of variable VLBI observations with neural fields",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41586-026-10988-5"
+    },
+    {
+      "doi": "10.1038/s41586-026-10980-z",
+      "title": "Synergistic degradation of fucoidans in the ocean",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41586-026-10980-z"
+    },
+    {
+      "doi": "10.1038/s41586-026-10975-w",
+      "title": "Ultrafast and reference-free sequence discovery in single-cell data",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41586-026-10975-w"
+    },
+    {
+      "doi": "10.1038/s41586-026-10971-0",
+      "title": "A binding-to-release strategy for targeted anticancer drug delivery",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41586-026-10971-0"
+    },
+    {
+      "doi": "10.1038/s41586-026-10967-w",
+      "title": "Endocannabinoids facilitate reward engagement through retrograde gain control",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41586-026-10967-w"
+    },
+    {
+      "doi": "10.1038/s41586-026-10964-z",
+      "title": "Aberrant excitatory neuronal ERBB4 promotes Alzheimer’s disease pathology",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41586-026-10964-z"
+    },
+    {
+      "doi": "10.1038/s41586-026-10961-2",
+      "title": "Amphibious stem-insect sheds light on colonization of land",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41586-026-10961-2"
+    },
+    {
+      "doi": "10.1038/s41586-026-10949-y",
+      "title": "Automated prototyping of genetic codes",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41586-026-10949-y"
+    },
+    {
+      "doi": "10.1038/s41586-026-10946-1",
+      "title": "Granule cells reorient cortical trajectories to separate contexts",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41586-026-10946-1"
+    },
+    {
+      "doi": "10.1038/s41586-026-10941-6",
+      "title": "Spontaneously charged water drops induce corrosion",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41586-026-10941-6"
+    },
+    {
+      "doi": "10.1038/s41586-026-10936-3",
+      "title": "Critical zone processes limit alkalinity export from natural basaltic systems",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41586-026-10936-3"
+    },
+    {
+      "doi": "10.1038/s41586-026-10932-7",
+      "title": "Insights into longevity and virus-driven adaptation from Myotis bat genomes",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41586-026-10932-7"
+    },
+    {
+      "doi": "10.1038/s41586-026-10927-4",
+      "title": "Primate-specific regulation of the human glycosphingolipid gatekeeper UGCG",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41586-026-10927-4"
+    },
+    {
+      "doi": "10.1038/s41586-026-10915-8",
+      "title": "Infrared absorption spectroscopy of a single polyatomic molecular ion",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41586-026-10915-8"
+    },
+    {
+      "doi": "10.1038/s41586-026-10902-z",
+      "title": "3D bulk-resolved g-wave altermagnetic order parameter in CrSb",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41586-026-10902-z"
+    },
+    {
+      "doi": "10.1038/s41586-026-10901-0",
+      "title": "Long-read sequencing reveals pre-meiotic gene conversion in sperm",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41586-026-10901-0"
+    },
+    {
+      "doi": "10.1038/s41586-026-10893-x",
+      "title": "Tidal tomography reveals a thermal anomaly beneath Mars’s crustal dichotomy",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41586-026-10893-x"
+    },
+    {
+      "doi": "10.1038/s41586-026-10577-6",
+      "title": "Cell-type-specific eQTLs underlie the genetic architecture of complex traits",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s41586-026-10577-6"
+    },
     {
       "doi": "10.1038/s41586-026-11043-z",
       "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",

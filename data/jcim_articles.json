@@ -1,9 +1,27 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-08-25T20:14:33.618Z",
+  "collected_at": "2026-08-26T20:14:27.932Z",
   "scope_start": "2026-01-01",
-  "article_count": 766,
+  "article_count": 769,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c01773",
+      "title": "The Chemical Imitation Game: Navigating Spaces of Meaning in Language and Chemistry",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01773"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01536",
+      "title": "MolADR: Multi-Scale Complementary Learning of Dual-Granularity Molecules and Knowledge Graphs for ADR Prediction in Drug Combinations",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01536"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01218",
+      "title": "Which Metrics Best Capture Protein Structural Changes in Molecular Dynamics Simulations? Evaluating Score Combinations and Force-Field Effects",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01218"
+    },
     {
       "doi": "10.1021/acs.jcim.6c01826",
       "title": "Combining Device Information and Molecular Fingerprints into a Global Model for Reliable Prediction of Power Conversion Efficiency of Dye-Sensitized Solar Cells",
