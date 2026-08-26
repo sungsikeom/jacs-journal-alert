@@ -3,6 +3,7 @@ const empty = document.querySelector('#empty');
 const search = document.querySelector('#search');
 const loadMore = document.querySelector('#load-more');
 const yearFilter = document.querySelector('#year-filter');
+const monthFilter = document.querySelector('#month-filter');
 const profileGate = document.querySelector('#profile-gate');
 const profileForm = document.querySelector('#profile-form');
 const profileName = document.querySelector('#profile-name');
@@ -45,6 +46,7 @@ let payload = { articles: [], new_dois: [] };
 let activeFilter = 'all';
 const activeJournals = new Set();
 let activeYear = 'all';
+let activeMonth = 'all';
 let visibleCount = pageSize;
 let activeProfile = null;
 let profileState = { read: {}, interesting: {}, notInteresting: {}, saved: {}, savedGroups: [], comments: {} };
@@ -402,6 +404,7 @@ function render(query = '') {
     .filter(article => String(article.published_date || '') >= publicationCutoff(article))
     .filter(article => activeJournals.size === 0 || activeJournals.has(article.journal_short))
     .filter(article => activeYear === 'all' || String(article.published_date || '').slice(0, 4) === activeYear)
+    .filter(article => activeMonth === 'all' || String(article.published_date || '').slice(5, 7) === activeMonth)
     .filter(article => activeFilter === 'all'
       || (activeFilter === 'new' && payload.new_dois.includes(article.doi))
       || (activeFilter === 'read' && profileState.read[article.doi])
@@ -707,4 +710,5 @@ journalFilterButtons.forEach(button => button.addEventListener('click', () => {
   render(search.value);
 }));
 yearFilter.addEventListener('change', event => { activeYear = event.target.value; visibleCount = pageSize; render(search.value); });
+monthFilter.addEventListener('change', event => { activeMonth = event.target.value; visibleCount = pageSize; render(search.value); });
 loadMore.addEventListener('click', () => { visibleCount += pageSize; render(search.value); });

@@ -74,8 +74,11 @@ main { width: min(1240px, calc(100% - 40px)); margin: 0 auto; }
 .filter.is-active { color: #fff; box-shadow: 0 3px 9px rgba(33,78,62,.18); }
 .journal-filter.is-active { background: var(--green); }
 .scope-filter.is-active { background: var(--accent); }
-.filter:focus-visible, .year-filter:focus-visible, .search input:focus-visible, button:focus-visible { outline: 3px solid rgba(216,154,53,.55); outline-offset: 2px; }
+.filter:focus-visible, .year-filter:focus-visible, .month-filter:focus-visible, .search input:focus-visible, button:focus-visible { outline: 3px solid rgba(216,154,53,.55); outline-offset: 2px; }
 .year-filter { min-width: 112px; padding: 8px 10px; border: 1px solid var(--line-strong); border-radius: 8px; background: #fff; color: var(--ink); font-size: .78rem; }
+.date-filters { display: flex; min-width: 0; gap: 6px; }
+.date-filters .year-filter { min-width: 0; flex: 1 1 0; }
+.date-filters .month-filter { flex-basis: 92px; }
 .search { display: flex; align-items: center; gap: 7px; padding: 10px 12px; background: #fff; border: 1px solid var(--line-strong); border-radius: 10px; }
 .search:focus-within { border-color: var(--green); box-shadow: 0 0 0 3px rgba(36,84,67,.1); }
 .search input { min-width: 0; width: 100%; border: 0; outline: 0; background: transparent; color: var(--ink); font-size: .8rem; }

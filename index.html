@@ -79,10 +79,27 @@
               </div>
             </div>
             <div class="filter-group">
-              <label class="filter-label" for="year-filter">연도</label>
-              <select id="year-filter" class="year-filter" aria-label="발행 연도 선택">
+              <span class="filter-label">기간</span>
+              <div class="date-filters">
+                <select id="year-filter" class="year-filter" aria-label="발행 연도 선택">
                 <option value="all">모든 연도</option>
-              </select>
+                </select>
+                <select id="month-filter" class="year-filter month-filter" aria-label="발행 월 선택">
+                  <option value="all">모든 월</option>
+                  <option value="01">1월</option>
+                  <option value="02">2월</option>
+                  <option value="03">3월</option>
+                  <option value="04">4월</option>
+                  <option value="05">5월</option>
+                  <option value="06">6월</option>
+                  <option value="07">7월</option>
+                  <option value="08">8월</option>
+                  <option value="09">9월</option>
+                  <option value="10">10월</option>
+                  <option value="11">11월</option>
+                  <option value="12">12월</option>
+                </select>
+              </div>
             </div>
           </div>
           <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="제목 또는 DOI 검색" aria-label="논문 검색"></label>
@@ -138,6 +155,6 @@
     </form>
   </dialog>
   <footer>Independent literature alert · Metadata from publisher pages and Crossref · Not affiliated with the monitored publishers</footer>
-  <script src="app.js?v=20260820-1"></script>
+  <script src="app.js?v=20260826-1"></script>
 </body>
 </html>
