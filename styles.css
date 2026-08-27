@@ -46,6 +46,7 @@ main { width: min(1240px, calc(100% - 40px)); margin: 0 auto; }
 .science-mark { background: var(--accent); }
 .nature-mark { background: #71557b; }
 .nature-main-mark { background: #111; }
+.nature-machine-intelligence-mark { background: #315b78; }
 .nature-chemistry-mark { background: #4d7594; }
 .chemical-mark, .computational-mark { background: #39758e; }
 .jctc-mark { background: #9a6b27; }

@@ -1,0 +1,485 @@
+{
+  "source": "Nature Machine Intelligence Research Articles · 2026 filter",
+  "collected_at": "2026-08-27T03:22:13.635Z",
+  "scope_start": "2026-01-01",
+  "official_total": 79,
+  "collection_mode": "incremental",
+  "stopped_on_known_doi": true,
+  "article_count": 79,
+  "articles": [
+    {
+      "doi": "10.1038/s42256-026-01286-w",
+      "title": "A knowledge-driven framework for predicting single-cell responses for unprofiled drugs",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1038/s42256-026-01286-w"
+    },
+    {
+      "doi": "10.1038/s42256-026-01287-9",
+      "title": "Multi-resolution enhancement for full-spectrum neural representations",
+      "published_date": "2026-08-24",
+      "url": "https://doi.org/10.1038/s42256-026-01287-9"
+    },
+    {
+      "doi": "10.1038/s42256-026-01291-z",
+      "title": "Quantitative and interface-aware prediction of peptide–protein interactions by VITAL",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1038/s42256-026-01291-z"
+    },
+    {
+      "doi": "10.1038/s42256-026-01285-x",
+      "title": "Transfer learning with deployment-covariate recalibration for survival prediction under covariate shift",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1038/s42256-026-01285-x"
+    },
+    {
+      "doi": "10.1038/s42256-026-01279-9",
+      "title": "Machine learning of artistic fingerprints in jazz",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.1038/s42256-026-01279-9"
+    },
+    {
+      "doi": "10.1038/s42256-026-01292-y",
+      "title": "Learning contact representations in real-world clutter for universal robotic grasping",
+      "published_date": "2026-08-12",
+      "url": "https://doi.org/10.1038/s42256-026-01292-y"
+    },
+    {
+      "doi": "10.1038/s42256-026-01280-2",
+      "title": "Impact-resistant, autonomous robots inspired by tensegrity architecture",
+      "published_date": "2026-08-10",
+      "url": "https://doi.org/10.1038/s42256-026-01280-2"
+    },
+    {
+      "doi": "10.1038/s42256-026-01278-w",
+      "title": "Beyond representational alignment with brain-guided language models for robust reasoning",
+      "published_date": "2026-08-03",
+      "url": "https://doi.org/10.1038/s42256-026-01278-w"
+    },
+    {
+      "doi": "10.1038/s42256-026-01284-y",
+      "title": "Classifying multipartite continuous-variable entanglement structures through data-augmented neural networks",
+      "published_date": "2026-07-30",
+      "url": "https://doi.org/10.1038/s42256-026-01284-y"
+    },
+    {
+      "doi": "10.1038/s42256-026-01277-x",
+      "title": "Reusability report: Exploring the utility and extensibility of an integrated modelling framework for liquid electrolyte design",
+      "published_date": "2026-07-30",
+      "url": "https://doi.org/10.1038/s42256-026-01277-x"
+    },
+    {
+      "doi": "10.1038/s42256-026-01268-y",
+      "title": "Capable language models can outgrow the benefits of collaboration",
+      "published_date": "2026-07-24",
+      "url": "https://doi.org/10.1038/s42256-026-01268-y"
+    },
+    {
+      "doi": "10.1038/s42256-026-01254-4",
+      "title": "Neural sampling from cognitive maps enables goal-directed imagination and planning",
+      "published_date": "2026-07-21",
+      "url": "https://doi.org/10.1038/s42256-026-01254-4"
+    },
+    {
+      "doi": "10.1038/s42256-026-01274-0",
+      "title": "A neural network model of free recall learns multiple memory strategies",
+      "published_date": "2026-07-20",
+      "url": "https://doi.org/10.1038/s42256-026-01274-0"
+    },
+    {
+      "doi": "10.1038/s42256-026-01265-1",
+      "title": "Enabling local neural operators to perform equation-free system-level analysis",
+      "published_date": "2026-07-15",
+      "url": "https://doi.org/10.1038/s42256-026-01265-1"
+    },
+    {
+      "doi": "10.1038/s42256-026-01272-2",
+      "title": "Towards shared embodied intelligence in humanoid robots through optimization, development and testing of the human-aware ergoCub robot",
+      "published_date": "2026-07-13",
+      "url": "https://doi.org/10.1038/s42256-026-01272-2"
+    },
+    {
+      "doi": "10.1038/s42256-026-01262-4",
+      "title": "Guiding generative models to uncover diverse and novel crystals via reinforcement learning",
+      "published_date": "2026-07-06",
+      "url": "https://doi.org/10.1038/s42256-026-01262-4"
+    },
+    {
+      "doi": "10.1038/s42256-026-01267-z",
+      "title": "Principled approaches for extending neural architectures to function spaces for operator learning",
+      "published_date": "2026-07-03",
+      "url": "https://doi.org/10.1038/s42256-026-01267-z"
+    },
+    {
+      "doi": "10.1038/s42256-026-01266-0",
+      "title": "Empowering biomedical evidence exploration and synthesis with deep knowledge graph research",
+      "published_date": "2026-07-02",
+      "url": "https://doi.org/10.1038/s42256-026-01266-0"
+    },
+    {
+      "doi": "10.1038/s42256-026-01264-2",
+      "title": "Reshaping biomolecular structure prediction through strategic conformational exploration with HelixFold-S1",
+      "published_date": "2026-07-02",
+      "url": "https://doi.org/10.1038/s42256-026-01264-2"
+    },
+    {
+      "doi": "10.1038/s42256-026-01261-5",
+      "title": "An agentic artificially intelligent X-ray scientist",
+      "published_date": "2026-07-01",
+      "url": "https://doi.org/10.1038/s42256-026-01261-5"
+    },
+    {
+      "doi": "10.1038/s42256-026-01263-3",
+      "title": "A dexterous soft hand exoskeleton restores intentional grasping in individuals with severe hand impairment",
+      "published_date": "2026-06-23",
+      "url": "https://doi.org/10.1038/s42256-026-01263-3"
+    },
+    {
+      "doi": "10.1038/s42256-026-01252-6",
+      "title": "Autonomous navigation of intelligent microrobotic swarms in unknown environments",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1038/s42256-026-01252-6"
+    },
+    {
+      "doi": "10.1038/s42256-026-01255-3",
+      "title": "Algorithm–hardware co-design of neuromorphic networks with dual memory pathways",
+      "published_date": "2026-06-16",
+      "url": "https://doi.org/10.1038/s42256-026-01255-3"
+    },
+    {
+      "doi": "10.1038/s42256-026-01250-8",
+      "title": "Bridging three-dimensional molecular structures and artificial intelligence with a conformation description language",
+      "published_date": "2026-06-11",
+      "url": "https://doi.org/10.1038/s42256-026-01250-8"
+    },
+    {
+      "doi": "10.1038/s42256-026-01257-1",
+      "title": "Reusability report: Assessment of reproducibility and applicability to external datasets for RXNGraphormer",
+      "published_date": "2026-06-10",
+      "url": "https://doi.org/10.1038/s42256-026-01257-1"
+    },
+    {
+      "doi": "10.1038/s42256-026-01249-1",
+      "title": "Explicit dynamic cross-strand interactions for DNA sequence language modelling",
+      "published_date": "2026-06-04",
+      "url": "https://doi.org/10.1038/s42256-026-01249-1"
+    },
+    {
+      "doi": "10.1038/s42256-026-01245-5",
+      "title": "Learning the coupled dynamics of global climate modes",
+      "published_date": "2026-06-01",
+      "url": "https://doi.org/10.1038/s42256-026-01245-5"
+    },
+    {
+      "doi": "10.1038/s42256-026-01242-8",
+      "title": "Conditional Monge Gap enables generalizable single-cell perturbation modelling",
+      "published_date": "2026-06-01",
+      "url": "https://doi.org/10.1038/s42256-026-01242-8"
+    },
+    {
+      "doi": "10.1038/s42256-026-01243-7",
+      "title": "Generalizable mutation-effect prediction across adaptive immune recognition via unified multimodal framework",
+      "published_date": "2026-05-27",
+      "url": "https://doi.org/10.1038/s42256-026-01243-7"
+    },
+    {
+      "doi": "10.1038/s42256-026-01234-8",
+      "title": "A large-scale unified deep learning model for peptide mass spectrum interpretation trained on multimodal data",
+      "published_date": "2026-05-25",
+      "url": "https://doi.org/10.1038/s42256-026-01234-8"
+    },
+    {
+      "doi": "10.1038/s42256-026-01233-9",
+      "title": "Deep neural operator for free boundary problems",
+      "published_date": "2026-05-21",
+      "url": "https://doi.org/10.1038/s42256-026-01233-9"
+    },
+    {
+      "doi": "10.1038/s42256-026-01246-4",
+      "title": "SpecGP as a transformer-based model for predicting energy-adaptable structural spectra of glycopeptides",
+      "published_date": "2026-05-18",
+      "url": "https://doi.org/10.1038/s42256-026-01246-4"
+    },
+    {
+      "doi": "10.1038/s42256-026-01201-3",
+      "title": "Immunotherapy drug target identification using machine learning and patient-derived tumour explant validation",
+      "published_date": "2026-05-18",
+      "url": "https://doi.org/10.1038/s42256-026-01201-3"
+    },
+    {
+      "doi": "10.1038/s42256-026-01237-5",
+      "title": "A generative artificial intelligence approach for peptide antibiotic optimization",
+      "published_date": "2026-05-13",
+      "url": "https://doi.org/10.1038/s42256-026-01237-5"
+    },
+    {
+      "doi": "10.1038/s42256-026-01230-y",
+      "title": "Peripheral control enabled by distributed sensing in an octopus-inspired soft robotic arm for autonomous underwater grasping",
+      "published_date": "2026-05-12",
+      "url": "https://doi.org/10.1038/s42256-026-01230-y"
+    },
+    {
+      "doi": "10.1038/s42256-026-01235-7",
+      "title": "Platonic representation of foundation machine learning interatomic potentials",
+      "published_date": "2026-05-07",
+      "url": "https://doi.org/10.1038/s42256-026-01235-7"
+    },
+    {
+      "doi": "10.1038/s42256-026-01236-6",
+      "title": "Reusability report: Meta-learning for antigen-specific T cell receptor binder identification",
+      "published_date": "2026-05-06",
+      "url": "https://doi.org/10.1038/s42256-026-01236-6"
+    },
+    {
+      "doi": "10.1038/s42256-026-01227-7",
+      "title": "Force-free molecular dynamics through autoregressive equivariant networks",
+      "published_date": "2026-05-05",
+      "url": "https://doi.org/10.1038/s42256-026-01227-7"
+    },
+    {
+      "doi": "10.1038/s42256-026-01229-5",
+      "title": "A collaborative constrained graph diffusion model for the generation of realistic synthetic molecules",
+      "published_date": "2026-05-04",
+      "url": "https://doi.org/10.1038/s42256-026-01229-5"
+    },
+    {
+      "doi": "10.1038/s42256-026-01226-8",
+      "title": "Pretraining a foundation model for small-molecule natural products",
+      "published_date": "2026-04-29",
+      "url": "https://doi.org/10.1038/s42256-026-01226-8"
+    },
+    {
+      "doi": "10.1038/s42256-026-01225-9",
+      "title": "Probabilistic modelling of single-cell bisulfite sequencing data with MethylVI",
+      "published_date": "2026-04-28",
+      "url": "https://doi.org/10.1038/s42256-026-01225-9"
+    },
+    {
+      "doi": "10.1038/s42256-026-01224-w",
+      "title": "A domain-adapted large language model to support clinicians in psychiatric clinical practice",
+      "published_date": "2026-04-27",
+      "url": "https://doi.org/10.1038/s42256-026-01224-w"
+    },
+    {
+      "doi": "10.1038/s42256-026-01228-6",
+      "title": "Adopting a human developmental visual diet yields robust and shape-based AI vision",
+      "published_date": "2026-04-24",
+      "url": "https://doi.org/10.1038/s42256-026-01228-6"
+    },
+    {
+      "doi": "10.1038/s42256-026-01214-y",
+      "title": "A multimodal large language model for materials science",
+      "published_date": "2026-04-24",
+      "url": "https://doi.org/10.1038/s42256-026-01214-y"
+    },
+    {
+      "doi": "10.1038/s42256-026-01213-z",
+      "title": "Programmable RNA translation through deep learning-driven IRES discovery and de novo generation",
+      "published_date": "2026-04-24",
+      "url": "https://doi.org/10.1038/s42256-026-01213-z"
+    },
+    {
+      "doi": "10.1038/s42256-026-01218-8",
+      "title": "Algebraic language models for inverse design of metamaterials via diffusion transformers",
+      "published_date": "2026-04-23",
+      "url": "https://doi.org/10.1038/s42256-026-01218-8"
+    },
+    {
+      "doi": "10.1038/s42256-026-01217-9",
+      "title": "Competing Biases underlie Overconfidence and Underconfidence in LLMs",
+      "published_date": "2026-04-22",
+      "url": "https://doi.org/10.1038/s42256-026-01217-9"
+    },
+    {
+      "doi": "10.1038/s42256-026-01216-w",
+      "title": "Molecular deep learning at the edge of chemical space",
+      "published_date": "2026-04-22",
+      "url": "https://doi.org/10.1038/s42256-026-01216-w"
+    },
+    {
+      "doi": "10.1038/s42256-026-01223-x",
+      "title": "Predicting RNA 3D structure and conformers using a pre-trained secondary structure model and structure-aware attention",
+      "published_date": "2026-04-21",
+      "url": "https://doi.org/10.1038/s42256-026-01223-x"
+    },
+    {
+      "doi": "10.1038/s42256-026-01215-x",
+      "title": "Brain-inspired warm-up training with random noise for uncertainty calibration",
+      "published_date": "2026-04-09",
+      "url": "https://doi.org/10.1038/s42256-026-01215-x"
+    },
+    {
+      "doi": "10.1038/s42256-026-01210-2",
+      "title": "Two-dimensional geometric template diffusion for boosting single-sequence protein structure prediction",
+      "published_date": "2026-04-01",
+      "url": "https://doi.org/10.1038/s42256-026-01210-2"
+    },
+    {
+      "doi": "10.1038/s42256-026-01206-y",
+      "title": "Predicting new research directions in materials science using large language models and concept graphs",
+      "published_date": "2026-04-01",
+      "url": "https://doi.org/10.1038/s42256-026-01206-y"
+    },
+    {
+      "doi": "10.1038/s42256-026-01204-0",
+      "title": "Reverse predictivity for bidirectional comparison of neural networks and biological brains",
+      "published_date": "2026-03-25",
+      "url": "https://doi.org/10.1038/s42256-026-01204-0"
+    },
+    {
+      "doi": "10.1038/s42256-026-01195-y",
+      "title": "Machine learning global atomic representations with Euclidean fast attention",
+      "published_date": "2026-03-25",
+      "url": "https://doi.org/10.1038/s42256-026-01195-y"
+    },
+    {
+      "doi": "10.1038/s42256-026-01194-z",
+      "title": "Computational framework to predict and shape human–machine interactions in closed-loop, co-adaptive neural interfaces",
+      "published_date": "2026-03-23",
+      "url": "https://doi.org/10.1038/s42256-026-01194-z"
+    },
+    {
+      "doi": "10.1038/s42256-026-01200-4",
+      "title": "Sample-efficient generative molecular design using memory manipulation",
+      "published_date": "2026-03-17",
+      "url": "https://doi.org/10.1038/s42256-026-01200-4"
+    },
+    {
+      "doi": "10.1038/s42256-026-01202-2",
+      "title": "Predicting and interpreting cell-type-specific drug responses in the small-data regime using inductive priors",
+      "published_date": "2026-03-16",
+      "url": "https://doi.org/10.1038/s42256-026-01202-2"
+    },
+    {
+      "doi": "10.1038/s42256-026-01186-z",
+      "title": "A robot operating system framework for using large language models in embodied AI",
+      "published_date": "2026-03-16",
+      "url": "https://doi.org/10.1038/s42256-026-01186-z"
+    },
+    {
+      "doi": "10.1038/s42256-026-01189-w",
+      "title": "Learning collision risk proactively from naturalistic driving data at scale",
+      "published_date": "2026-03-09",
+      "url": "https://doi.org/10.1038/s42256-026-01189-w"
+    },
+    {
+      "doi": "10.1038/s42256-026-01192-1",
+      "title": "Reinforcement learning-based design of sequential drug treatment targeting the evolving tumour landscape with SequenTx",
+      "published_date": "2026-03-04",
+      "url": "https://doi.org/10.1038/s42256-026-01192-1"
+    },
+    {
+      "doi": "10.1038/s42256-026-01199-8",
+      "title": "A family of large language models for materials research with insights into model adaptability in continued pretraining",
+      "published_date": "2026-02-27",
+      "url": "https://doi.org/10.1038/s42256-026-01199-8"
+    },
+    {
+      "doi": "10.1038/s42256-026-01196-x",
+      "title": "A universal spin–orbit-coupled Hamiltonian model for accelerated quantum material discovery",
+      "published_date": "2026-02-27",
+      "url": "https://doi.org/10.1038/s42256-026-01196-x"
+    },
+    {
+      "doi": "10.1038/s42256-026-01198-9",
+      "title": "Conditional diffusion with locality-aware modal alignment for generating diverse protein conformational ensembles",
+      "published_date": "2026-02-25",
+      "url": "https://doi.org/10.1038/s42256-026-01198-9"
+    },
+    {
+      "doi": "10.1038/s42256-026-01180-5",
+      "title": "Cardiac health assessment across scenarios and devices using a multimodal foundation model pretrained on data from 1.7 million individuals",
+      "published_date": "2026-02-24",
+      "url": "https://doi.org/10.1038/s42256-026-01180-5"
+    },
+    {
+      "doi": "10.1038/s42256-026-01190-3",
+      "title": "Synthetic X‑ray‑driven tracking and control of miniature medical devices",
+      "published_date": "2026-02-23",
+      "url": "https://doi.org/10.1038/s42256-026-01190-3"
+    },
+    {
+      "doi": "10.1038/s42256-026-01188-x",
+      "title": "A large-scale randomized study of large language model feedback in peer review",
+      "published_date": "2026-02-23",
+      "url": "https://doi.org/10.1038/s42256-026-01188-x"
+    },
+    {
+      "doi": "10.1038/s42256-026-01182-3",
+      "title": "Preconditioned inexact stochastic ADMM for deep models",
+      "published_date": "2026-02-20",
+      "url": "https://doi.org/10.1038/s42256-026-01182-3"
+    },
+    {
+      "doi": "10.1038/s42256-025-01153-0",
+      "title": "Meta-designing quantum experiments with language models",
+      "published_date": "2026-02-19",
+      "url": "https://doi.org/10.1038/s42256-025-01153-0"
+    },
+    {
+      "doi": "10.1038/s42256-026-01185-0",
+      "title": "Parallel hierarchical encoding of linguistic representations in the human auditory cortex and recurrent automatic speech recognition systems",
+      "published_date": "2026-02-17",
+      "url": "https://doi.org/10.1038/s42256-026-01185-0"
+    },
+    {
+      "doi": "10.1038/s42256-025-01176-7",
+      "title": "A flaw in using pretrained protein language models in protein–protein interaction inference models",
+      "published_date": "2026-02-13",
+      "url": "https://doi.org/10.1038/s42256-025-01176-7"
+    },
+    {
+      "doi": "10.1038/s42256-026-01187-y",
+      "title": "Reusability Report: Evaluating the performance of a meta-learning foundation model on predicting the antibacterial activity of natural products",
+      "published_date": "2026-02-12",
+      "url": "https://doi.org/10.1038/s42256-026-01187-y"
+    },
+    {
+      "doi": "10.1038/s42256-025-01169-6",
+      "title": "When large language models are reliable for judging empathic communication",
+      "published_date": "2026-02-11",
+      "url": "https://doi.org/10.1038/s42256-025-01169-6"
+    },
+    {
+      "doi": "10.1038/s42256-025-01168-7",
+      "title": "What matters in building vision–language–action models for generalist robots",
+      "published_date": "2026-02-11",
+      "url": "https://doi.org/10.1038/s42256-025-01168-7"
+    },
+    {
+      "doi": "10.1038/s42256-026-01184-1",
+      "title": "A federated graph learning method to realize multi-party collaboration for molecular discovery",
+      "published_date": "2026-02-10",
+      "url": "https://doi.org/10.1038/s42256-026-01184-1"
+    },
+    {
+      "doi": "10.1038/s42256-026-01179-y",
+      "title": "Visual language models show widespread visual deficits on neuropsychological tests",
+      "published_date": "2026-02-06",
+      "url": "https://doi.org/10.1038/s42256-026-01179-y"
+    },
+    {
+      "doi": "10.1038/s42256-025-01173-w",
+      "title": "A unified predictive and generative solution for liquid electrolyte formulation",
+      "published_date": "2026-01-28",
+      "url": "https://doi.org/10.1038/s42256-025-01173-w"
+    },
+    {
+      "doi": "10.1038/s42256-025-01165-w",
+      "title": "Modelling drug-induced cellular perturbation responses with a biologically informed dual-branch transformer",
+      "published_date": "2026-01-26",
+      "url": "https://doi.org/10.1038/s42256-025-01165-w"
+    },
+    {
+      "doi": "10.1038/s42256-025-01164-x",
+      "title": "Proposing and solving olympiad geometry with guided tree search",
+      "published_date": "2026-01-26",
+      "url": "https://doi.org/10.1038/s42256-025-01164-x"
+    },
+    {
+      "doi": "10.1038/s42256-025-01152-1",
+      "title": "Benchmarking large language models on safety risks in scientific laboratories",
+      "published_date": "2026-01-14",
+      "url": "https://doi.org/10.1038/s42256-025-01152-1"
+    }
+  ]
+}

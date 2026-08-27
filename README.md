@@ -1,6 +1,6 @@
 # Chemistry & Science Journal Alert
 
-JACS, Science Research Articles, Nature, Nature Communications, Nature Chemistry, Journal of Computational Chemistry, JCTC, JCIM, The Journal of Physical Chemistry Letters(JPCL), Angewandte Chemie International Edition, Chemical Science를 DOI 기준으로 확인하는 정적 웹사이트입니다. 논문 제목과 DOI, 공식 DOI 링크만 표시하며 초록과 본문은 수집하지 않습니다.
+JACS, Science Research Articles, Nature, Nature Communications, Nature Machine Intelligence, Nature Chemistry, Journal of Computational Chemistry, JCTC, JCIM, The Journal of Physical Chemistry Letters(JPCL), Angewandte Chemie International Edition, Chemical Science를 DOI 기준으로 확인하는 정적 웹사이트입니다. 논문 제목과 DOI, 공식 DOI 링크만 표시하며 초록과 본문은 수집하지 않습니다.
 
 사이트에서는 전체 논문과 이번 실행에서 새로 발견된 논문을 구분해 볼 수 있고, 제목·DOI 검색과 50편 단위 더 보기를 지원합니다.
 
@@ -57,6 +57,7 @@ Chrome 확장 프로그램을 새로고침한 뒤 아래 명령을 한 번에 �
 ```powershell
 npm run collect:nature
 npm run collect:nature-main
+npm run collect:nature-machine-intelligence
 npm run collect:nature-chemistry
 npm run collect:jctc
 npm run collect:jcim
@@ -65,7 +66,7 @@ npm run collect:jcc
 npm run collect:angew
 ```
 
-공식 인벤토리가 준비되면 사이트 생성기는 Crossref을 사용하지 않는 `publisher-only` 모드로 전환합니다. Nature는 공식 Research Articles의 2026년 필터를, Nature Chemistry는 Article 필터를 사용해 2009년 창간 이후 전체 기록을 저장합니다. JCIM과 JPCL은 2026년 공식 ACS 검색 결과를 기준선으로 저장합니다. 이후 각 저널은 최신 페이지에서 기존 DOI가 확인될 때까지 증분 수집합니다.
+공식 인벤토리가 준비되면 사이트 생성기는 Crossref을 사용하지 않는 `publisher-only` 모드로 전환합니다. Nature와 Nature Machine Intelligence는 공식 Research Articles의 2026년 필터를, Nature Chemistry는 Article 필터를 사용해 2009년 창간 이후 전체 기록을 저장합니다. JCIM과 JPCL은 2026년 공식 ACS 검색 결과를 기준선으로 저장합니다. 이후 각 저널은 최신 페이지에서 기존 DOI가 확인될 때까지 증분 수집합니다.
 
 ## 로컬 점검
 

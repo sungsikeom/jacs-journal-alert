@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-08-27T05:31:13+09:00",
-  "journal_count": 11,
-  "new_count": 89,
-  "total_count": 26208,
+  "checked_at": "2026-08-27T12:23:24+09:00",
+  "journal_count": 12,
+  "new_count": 90,
+  "total_count": 26287,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
@@ -12,6 +12,18 @@
   "scope_end": "2026-08-27",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1038/s42256-026-01286-w",
+      "title": "A knowledge-driven framework for predicting single-cell responses for unprofiled drugs",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-08-26",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01286-w",
+      "sources": [
+        "publisher"
+      ]
+    },
     {
       "doi": "10.1038/s41586-026-10988-5",
       "title": "Video reconstruction of variable VLBI observations with neural fields",
@@ -1832,6 +1844,18 @@
       "published_date": "2026-08-25",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.1758525",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01287-9",
+      "title": "Multi-resolution enhancement for full-spectrum neural representations",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-08-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01287-9",
       "sources": [
         "publisher"
       ]
@@ -5667,6 +5691,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01291-z",
+      "title": "Quantitative and interface-aware prediction of peptide–protein interactions by VITAL",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-08-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01291-z",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41586-026-11037-x",
       "title": "Evidence for vacuum-enhanced superconductivity in NbSe2",
       "journal": "Nature",
@@ -6819,6 +6855,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01285-x",
+      "title": "Transfer learning with deployment-covariate recalibration for survival prediction under covariate shift",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-08-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01285-x",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41557-026-02233-3",
       "title": "Modulating endergonic triplet photosensitization for cycloadditions between bicyclo[1.1.0]butanes and alkenes",
       "journal": "Nature Chemistry",
@@ -7378,6 +7426,18 @@
       "published_date": "2026-08-17",
       "indexed_at": null,
       "url": "https://doi.org/10.1039/d6sc05216a",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01279-9",
+      "title": "Machine learning of artistic fingerprints in jazz",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-08-17",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01279-9",
       "sources": [
         "publisher"
       ]
@@ -11182,6 +11242,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01292-y",
+      "title": "Learning contact representations in real-world clutter for universal robotic grasping",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-08-12",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01292-y",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41586-026-10994-7",
       "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
       "journal": "Nature",
@@ -14285,6 +14357,18 @@
       "published_date": "2026-08-10",
       "indexed_at": null,
       "url": "https://doi.org/10.1039/d6sc00048g",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01280-2",
+      "title": "Impact-resistant, autonomous robots inspired by tensegrity architecture",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-08-10",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01280-2",
       "sources": [
         "publisher"
       ]
@@ -21326,6 +21410,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01278-w",
+      "title": "Beyond representational alignment with brain-guided language models for robust reasoning",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-08-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01278-w",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41586-026-10957-y",
       "title": "Gasdermin D-mediated delivery of caspase inhibitors to suppress pyroptosis",
       "journal": "Nature",
@@ -24075,6 +24171,30 @@
       "published_date": "2026-07-30",
       "indexed_at": null,
       "url": "https://doi.org/10.1039/d5sc08413j",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01284-y",
+      "title": "Classifying multipartite continuous-variable entanglement structures through data-augmented neural networks",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-07-30",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01284-y",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01277-x",
+      "title": "Reusability report: Exploring the utility and extensibility of an integrated modelling framework for liquid electrolyte design",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-07-30",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01277-x",
       "sources": [
         "publisher"
       ]
@@ -30788,6 +30908,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01268-y",
+      "title": "Capable language models can outgrow the benefits of collaboration",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-07-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01268-y",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-76047-9",
       "title": "Mitophagy mitigates mitochondrial DNA-induced activation of cGAS-STING in autoimmune thyroiditis",
       "journal": "Nature Communications",
@@ -35129,6 +35261,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01254-4",
+      "title": "Neural sampling from cognitive maps enables goal-directed imagination and planning",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-07-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01254-4",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41557-026-02152-3",
       "title": "A photogenerated triplet aura-nitrene for gold-mediated nitrene transfer",
       "journal": "Nature Chemistry",
@@ -36900,6 +37044,18 @@
       "published_date": "2026-07-21",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.1245058",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01274-0",
+      "title": "A neural network model of free recall learns multiple memory strategies",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-07-20",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01274-0",
       "sources": [
         "publisher"
       ]
@@ -41115,6 +41271,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01265-1",
+      "title": "Enabling local neural operators to perform equation-free system-level analysis",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-07-15",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01265-1",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41586-026-10897-7",
       "title": "Selectivity emerges from indiscriminate photoreduction",
       "journal": "Nature",
@@ -43522,6 +43690,18 @@
       "published_date": "2026-07-14",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/jcc.70457",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01272-2",
+      "title": "Towards shared embodied intelligence in humanoid robots through optimization, development and testing of the human-aware ergoCub robot",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-07-13",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01272-2",
       "sources": [
         "publisher"
       ]
@@ -51201,6 +51381,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01262-4",
+      "title": "Guiding generative models to uncover diverse and novel crystals via reinforcement learning",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-07-06",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01262-4",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-75374-1",
       "title": "Modulating mechanisms of marine hydrodynamics on global coastal carbon burial",
       "journal": "Nature Communications",
@@ -52977,6 +53169,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01267-z",
+      "title": "Principled approaches for extending neural architectures to function spaces for operator learning",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-07-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01267-z",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41557-026-02199-2",
       "title": "A rechargeable non-aqueous Mg–O2 battery based on magnesium peroxide chemistry",
       "journal": "Nature Chemistry",
@@ -54292,6 +54496,30 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01266-0",
+      "title": "Empowering biomedical evidence exploration and synthesis with deep knowledge graph research",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-07-02",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01266-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01264-2",
+      "title": "Reshaping biomolecular structure prediction through strategic conformational exploration with HelixFold-S1",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-07-02",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01264-2",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41586-026-10844-6",
       "title": "Electrodeposited self-assembled molecules for perovskite photovoltaics",
       "journal": "Nature",
@@ -55367,6 +55595,18 @@
       "published_date": "2026-07-02",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.1605227",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01261-5",
+      "title": "An agentic artificially intelligent X-ray scientist",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-07-01",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01261-5",
       "sources": [
         "publisher"
       ]
@@ -63961,6 +64201,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01263-3",
+      "title": "A dexterous soft hand exoskeleton restores intentional grasping in individuals with severe hand impairment",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-06-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01263-3",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41557-026-02186-7",
       "title": "Singlet fission mediates carotenoid-to-bacteriochlorophyll energy transfer in purple photosynthetic bacteria",
       "journal": "Nature Chemistry",
@@ -65360,6 +65612,18 @@
       "published_date": "2026-06-23",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.1383575",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01252-6",
+      "title": "Autonomous navigation of intelligent microrobotic swarms in unknown environments",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-06-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01252-6",
       "sources": [
         "publisher"
       ]
@@ -70964,6 +71228,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01255-3",
+      "title": "Algorithm–hardware co-design of neuromorphic networks with dual memory pathways",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-06-16",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01255-3",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41557-026-02182-x",
       "title": "Potent and biased agonists of class B1 GPCRs from a heterochiral design strategy",
       "journal": "Nature Chemistry",
@@ -75808,6 +76084,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01250-8",
+      "title": "Bridging three-dimensional molecular structures and artificial intelligence with a conformation description language",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-06-11",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01250-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-74386-1",
       "title": "Light-triggered oxygen redox activity at the edge of cobalt oxyhydroxide for superior water oxidation",
       "journal": "Nature Communications",
@@ -77135,6 +77423,18 @@
       "published_date": "2026-06-11",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.3215238",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01257-1",
+      "title": "Reusability report: Assessment of reproducibility and applicability to external datasets for RXNGraphormer",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-06-10",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01257-1",
       "sources": [
         "publisher"
       ]
@@ -82862,6 +83162,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01249-1",
+      "title": "Explicit dynamic cross-strand interactions for DNA sequence language modelling",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-06-04",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01249-1",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-74048-2",
       "title": "Chromobox 3 assembles an epigenetic complex contributing to cystathionine γ-lyase–mediated protection against aortic aneurysm/dissection",
       "journal": "Nature Communications",
@@ -86745,6 +87057,30 @@
       "published_date": "2026-06-02",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.3481279",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01245-5",
+      "title": "Learning the coupled dynamics of global climate modes",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-06-01",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01245-5",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01242-8",
+      "title": "Conditional Monge Gap enables generalizable single-cell perturbation modelling",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-06-01",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01242-8",
       "sources": [
         "publisher"
       ]
@@ -91075,6 +91411,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01243-7",
+      "title": "Generalizable mutation-effect prediction across adaptive immune recognition via unified multimodal framework",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-05-27",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01243-7",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41586-026-10609-1",
       "title": "Cavity-driven attractive interactions in quantum materials",
       "journal": "Nature",
@@ -93878,6 +94226,18 @@
       "published_date": "2026-05-26",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.1446865",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01234-8",
+      "title": "A large-scale unified deep learning model for peptide mass spectrum interpretation trained on multimodal data",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-05-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01234-8",
       "sources": [
         "publisher"
       ]
@@ -97249,6 +97609,18 @@
       "article_type": "Research Article",
       "sources": [
         "science"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01233-9",
+      "title": "Deep neural operator for free boundary problems",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-05-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01233-9",
+      "sources": [
+        "publisher"
       ]
     },
     {
@@ -101543,6 +101915,30 @@
       "published_date": "2026-05-19",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.1024712",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01246-4",
+      "title": "SpecGP as a transformer-based model for predicting energy-adaptable structural spectra of glycopeptides",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-05-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01246-4",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01201-3",
+      "title": "Immunotherapy drug target identification using machine learning and patient-derived tumour explant validation",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-05-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01201-3",
       "sources": [
         "publisher"
       ]
@@ -106162,6 +106558,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01237-5",
+      "title": "A generative artificial intelligence approach for peptide antibiotic optimization",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-05-13",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01237-5",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41586-026-10626-0",
       "title": "Stereoelectronic manipulation of ligands for perovskite solar cells",
       "journal": "Nature",
@@ -107789,6 +108197,18 @@
       "published_date": "2026-05-13",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.3359287",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01230-y",
+      "title": "Peripheral control enabled by distributed sensing in an octopus-inspired soft robotic arm for autonomous underwater grasping",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-05-12",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01230-y",
       "sources": [
         "publisher"
       ]
@@ -112060,6 +112480,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01235-7",
+      "title": "Platonic representation of foundation machine learning interatomic potentials",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-05-07",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01235-7",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41557-026-02146-1",
       "title": "[2+2] Photocycloaddition reactions of sulfinylamines with alkenes to access β-sultam derivatives",
       "journal": "Nature Chemistry",
@@ -113572,6 +114004,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01236-6",
+      "title": "Reusability report: Meta-learning for antigen-specific T cell receptor binder identification",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-05-06",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01236-6",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41586-026-10505-8",
       "title": "Molecular skeleton programming of premediators in sulfur electrochemistry",
       "journal": "Nature",
@@ -114952,6 +115396,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01227-7",
+      "title": "Force-free molecular dynamics through autoregressive equivariant networks",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-05-05",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01227-7",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-72920-9",
       "title": "Construction of quaternary stereocenters via Ru-catalyzed asymmetric ring-closing metathesis",
       "journal": "Nature Communications",
@@ -116051,6 +116507,18 @@
       "published_date": "2026-05-05",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.1330357",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01229-5",
+      "title": "A collaborative constrained graph diffusion model for the generation of realistic synthetic molecules",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-05-04",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01229-5",
       "sources": [
         "publisher"
       ]
@@ -120022,6 +120490,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01226-8",
+      "title": "Pretraining a foundation model for small-molecule natural products",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-04-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01226-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41586-026-10474-y",
       "title": "Uncertain dynamic response of mid-latitude winter precipitation",
       "journal": "Nature",
@@ -121306,6 +121786,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01225-9",
+      "title": "Probabilistic modelling of single-cell bisulfite sequencing data with MethylVI",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-04-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01225-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-72585-4",
       "title": "Global multi-host genomic epidemiology of Acinetobacter baumannii reveals transmission at one health interfaces",
       "journal": "Nature Communications",
@@ -122501,6 +122993,18 @@
       "published_date": "2026-04-28",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.2970755",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01224-w",
+      "title": "A domain-adapted large language model to support clinicians in psychiatric clinical practice",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-04-27",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01224-w",
       "sources": [
         "publisher"
       ]
@@ -124366,6 +124870,42 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01228-6",
+      "title": "Adopting a human developmental visual diet yields robust and shape-based AI vision",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-04-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01228-6",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01214-y",
+      "title": "A multimodal large language model for materials science",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-04-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01214-y",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01213-z",
+      "title": "Programmable RNA translation through deep learning-driven IRES discovery and de novo generation",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-04-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01213-z",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41557-026-02135-4",
       "title": "Single-crystal to single-crystal editing of metal–organic frameworks via ligand removal",
       "journal": "Nature Chemistry",
@@ -125595,6 +126135,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01218-8",
+      "title": "Algebraic language models for inverse design of metamaterials via diffusion transformers",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-04-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01218-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41586-026-10547-y",
       "title": "Field re-entrant superconductivity in Eu-doped infinite-layer nickelates",
       "journal": "Nature",
@@ -126766,6 +127318,30 @@
       "published_date": "2026-04-23",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.1789437",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01217-9",
+      "title": "Competing Biases underlie Overconfidence and Underconfidence in LLMs",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-04-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01217-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01216-w",
+      "title": "Molecular deep learning at the edge of chemical space",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-04-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01216-w",
       "sources": [
         "publisher"
       ]
@@ -128350,6 +128926,18 @@
       "published_date": "2026-04-22",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.1702104",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01223-x",
+      "title": "Predicting RNA 3D structure and conformers using a pre-trained secondary structure model and structure-aware attention",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-04-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01223-x",
       "sources": [
         "publisher"
       ]
@@ -140030,6 +140618,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01215-x",
+      "title": "Brain-inspired warm-up training with random noise for uncertainty calibration",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-04-09",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01215-x",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41586-026-10486-8",
       "title": "Ambiphilic cross-coupling with aryl-bismuth reagents",
       "journal": "Nature",
@@ -146871,6 +147471,30 @@
       "published_date": "2026-04-02",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.202516436",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01210-2",
+      "title": "Two-dimensional geometric template diffusion for boosting single-sequence protein structure prediction",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-04-01",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01210-2",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01206-y",
+      "title": "Predicting new research directions in materials science using large language models and concept graphs",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-04-01",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01206-y",
       "sources": [
         "publisher"
       ]
@@ -153841,6 +154465,30 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01204-0",
+      "title": "Reverse predictivity for bidirectional comparison of neural networks and biological brains",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-03-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01204-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01195-y",
+      "title": "Machine learning global atomic representations with Euclidean fast attention",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-03-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01195-y",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41586-026-10336-7",
       "title": "Decadal-scale droughts disrupted the African Humid Period in the Sahara",
       "journal": "Nature",
@@ -156080,6 +156728,18 @@
       "published_date": "2026-03-24",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.202514065",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01194-z",
+      "title": "Computational framework to predict and shape human–machine interactions in closed-loop, co-adaptive neural interfaces",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-03-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01194-z",
       "sources": [
         "publisher"
       ]
@@ -160929,6 +161589,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01200-4",
+      "title": "Sample-efficient generative molecular design using memory manipulation",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-03-17",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01200-4",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41586-026-10402-0",
       "title": "Planar Li deposition and dissolution enable practical anode-free pouch cells",
       "journal": "Nature",
@@ -162136,6 +162808,30 @@
       "published_date": "2026-03-17",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/jcc.70354",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01202-2",
+      "title": "Predicting and interpreting cell-type-specific drug responses in the small-data regime using inductive priors",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-03-16",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01202-2",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01186-z",
+      "title": "A robot operating system framework for using large language models in embodied AI",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-03-16",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01186-z",
       "sources": [
         "publisher"
       ]
@@ -168230,6 +168926,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01189-w",
+      "title": "Learning collision risk proactively from naturalistic driving data at scale",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-03-09",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01189-w",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-70641-7",
       "title": "p38 MAPK orchestrates cross-tissue potassium homeostasis for survival",
       "journal": "Nature Communications",
@@ -171847,6 +172555,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01192-1",
+      "title": "Reinforcement learning-based design of sequential drug treatment targeting the evolving tumour landscape with SequenTx",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-03-04",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01192-1",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41586-026-10327-8",
       "title": "Shared neural substrates of prosocial and parenting behaviours",
       "journal": "Nature",
@@ -175015,6 +175735,30 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01199-8",
+      "title": "A family of large language models for materials research with insights into model adaptability in continued pretraining",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-02-27",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01199-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01196-x",
+      "title": "A universal spin–orbit-coupled Hamiltonian model for accelerated quantum material discovery",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-02-27",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01196-x",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-70152-5",
       "title": "Visualizing molecular diffusion direction and processes in the solid state via dichromatic fluorescent cocrystalization transformation",
       "journal": "Nature Communications",
@@ -177108,6 +177852,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01198-9",
+      "title": "Conditional diffusion with locality-aware modal alignment for generating diverse protein conformational ensembles",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-02-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01198-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41586-026-10217-z",
       "title": "Pivoting colloidal assemblies exhibit mechanical metamaterial behaviour",
       "journal": "Nature",
@@ -178272,6 +179028,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01180-5",
+      "title": "Cardiac health assessment across scenarios and devices using a multimodal foundation model pretrained on data from 1.7 million individuals",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-02-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01180-5",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41586-026-10298-w",
       "title": "Dynamic antigen expression and cytotoxic T cell resistance in HIV reservoir clones",
       "journal": "Nature",
@@ -179251,6 +180019,30 @@
       "published_date": "2026-02-24",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/jcc.70317",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01190-3",
+      "title": "Synthetic X‑ray‑driven tracking and control of miniature medical devices",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-02-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01190-3",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01188-x",
+      "title": "A large-scale randomized study of large language model feedback in peer review",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-02-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01188-x",
       "sources": [
         "publisher"
       ]
@@ -181200,6 +181992,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01182-3",
+      "title": "Preconditioned inexact stochastic ADMM for deep models",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-02-20",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01182-3",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41557-026-02077-x",
       "title": "Formal Diels–Alder reaction of saturated carboxylic acids via C–H activation",
       "journal": "Nature Chemistry",
@@ -182296,6 +183100,18 @@
       "article_type": "Research Article",
       "sources": [
         "science"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-025-01153-0",
+      "title": "Meta-designing quantum experiments with language models",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-02-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-025-01153-0",
+      "sources": [
+        "publisher"
       ]
     },
     {
@@ -184310,6 +185126,18 @@
       "published_date": "2026-02-18",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jcim.5c02488",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01185-0",
+      "title": "Parallel hierarchical encoding of linguistic representations in the human auditory cortex and recurrent automatic speech recognition systems",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-02-17",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01185-0",
       "sources": [
         "publisher"
       ]
@@ -187015,6 +187843,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-025-01176-7",
+      "title": "A flaw in using pretrained protein language models in protein–protein interaction inference models",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-02-13",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-025-01176-7",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41557-026-02068-y",
       "title": "Asymmetric synthesis of enantioenriched lactams from cyclic ketones via Beckmann rearrangement",
       "journal": "Nature Chemistry",
@@ -188030,6 +188870,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-026-01187-y",
+      "title": "Reusability Report: Evaluating the performance of a meta-learning foundation model on predicting the antibacterial activity of natural products",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-02-12",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01187-y",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41467-026-69647-y",
       "title": "Siderophore-producing Bacillus and free-living nematodes are associated with soil suppressiveness to banana root-knot nematodes",
       "journal": "Nature Communications",
@@ -189033,6 +189885,30 @@
       "published_date": "2026-02-12",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jcim.5c02100",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-025-01169-6",
+      "title": "When large language models are reliable for judging empathic communication",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-02-11",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-025-01169-6",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-025-01168-7",
+      "title": "What matters in building vision–language–action models for generalist robots",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-02-11",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-025-01168-7",
       "sources": [
         "publisher"
       ]
@@ -190065,6 +190941,18 @@
       "published_date": "2026-02-11",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/jcc.70319",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01184-1",
+      "title": "A federated graph learning method to realize multi-party collaboration for molecular discovery",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-02-10",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01184-1",
       "sources": [
         "publisher"
       ]
@@ -192837,6 +193725,18 @@
       "published_date": "2026-02-07",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/jcc.70320",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01179-y",
+      "title": "Visual language models show widespread visual deficits on neuropsychological tests",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-02-06",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01179-y",
       "sources": [
         "publisher"
       ]
@@ -200139,6 +201039,18 @@
       ]
     },
     {
+      "doi": "10.1038/s42256-025-01173-w",
+      "title": "A unified predictive and generative solution for liquid electrolyte formulation",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-01-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-025-01173-w",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1038/s41586-025-10071-5",
       "title": "Pre-assembly of biomolecular condensate seeds drives RSV replication",
       "journal": "Nature",
@@ -202462,6 +203374,30 @@
       "published_date": "2026-01-27",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/jcc.70323",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-025-01165-w",
+      "title": "Modelling drug-induced cellular perturbation responses with a biologically informed dual-branch transformer",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-01-26",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-025-01165-w",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-025-01164-x",
+      "title": "Proposing and solving olympiad geometry with guided tree search",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-01-26",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-025-01164-x",
       "sources": [
         "publisher"
       ]
@@ -210988,6 +211924,18 @@
       "published_date": "2026-01-15",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/jcc.70308",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-025-01152-1",
+      "title": "Benchmarking large language models on safety risks in scientific laboratories",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-01-14",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-025-01152-1",
       "sources": [
         "publisher"
       ]
@@ -315117,6 +316065,7 @@
     }
   ],
   "new_dois": [
+    "10.1038/s42256-026-01286-w",
     "10.1038/s41586-026-10988-5",
     "10.1038/s41586-026-10980-z",
     "10.1038/s41586-026-10975-w",

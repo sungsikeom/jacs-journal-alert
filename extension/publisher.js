@@ -1,13 +1,14 @@
 const PUBLISHER_STATE_KEY = "publisherCollectorState";
 const PUBLISHER_CUTOFF = "2026-01-01";
-const PUBLISHER_BUILD = "2.0.1";
+const PUBLISHER_BUILD = "2.0.2";
 const PUBLISHER_MAX_PAGES = 1000;
 const ACS_SEARCH_KEYS = new Set(["jctc", "jcim", "jpcl"]);
-const NATURE_KEYS = new Set(["nature", "nature-main", "nature-chemistry"]);
+const NATURE_KEYS = new Set(["nature", "nature-main", "nature-machine-intelligence", "nature-chemistry"]);
 
 const publisherConfig = (() => {
   if (location.hostname === "www.nature.com" && /^\/ncomms\//i.test(location.pathname)) return { key: "nature", label: "Nature Communications", prefix: "10.1038/s41467-", articleCode: "s41467-", source: "Nature Communications Research Articles" };
   if (location.hostname === "www.nature.com" && /^\/nature\//i.test(location.pathname)) return { key: "nature-main", label: "Nature", prefix: "10.1038/s41586-", source: "Nature Research Articles" };
+  if (location.hostname === "www.nature.com" && /^\/natmachintell\//i.test(location.pathname)) return { key: "nature-machine-intelligence", label: "Nature Machine Intelligence", prefix: "10.1038/s42256-", source: "Nature Machine Intelligence Research Articles" };
   if (location.hostname === "www.nature.com" && /^\/nchem\//i.test(location.pathname)) return { key: "nature-chemistry", label: "Nature Chemistry", prefixes: ["10.1038/s41557-", "10.1038/nchem."], cutoff: "2009-01-01", source: "Nature Chemistry Research Articles" };
   if (location.hostname === "pubs.acs.org" && /^\/jctcce\//i.test(location.pathname)) return { key: "jctc", label: "JCTC", prefix: "10.1021/acs.jctc.", source: "ACS JCTC Article search results" };
   if (location.hostname === "pubs.acs.org" && /^\/jcisd8\//i.test(location.pathname)) return { key: "jcim", label: "JCIM", prefix: "10.1021/acs.jcim.", source: "ACS JCIM Article search results" };
@@ -252,7 +253,7 @@ function openNextPublisherPage() {
     if (NATURE_KEYS.has(publisherConfig.key)) {
       nextUrl.searchParams.set("searchType", "journalSearch");
       nextUrl.searchParams.set("sort", "PubDate");
-      if (publisherConfig.key === "nature-main") nextUrl.searchParams.set("year", "2026");
+      if (publisherConfig.key === "nature-main" || publisherConfig.key === "nature-machine-intelligence") nextUrl.searchParams.set("year", "2026");
       if (publisherConfig.key === "nature-chemistry") nextUrl.searchParams.set("type", "article");
     } else {
       nextUrl.searchParams.set("f_ContentType", "Journal Articles");
@@ -378,8 +379,8 @@ async function startPublisherCollection() {
   if (publisherConfig.key === "nature-chemistry" && new URL(location.href).searchParams.get("type") !== "article") {
     throw new Error("Nature Chemistry Article 필터 주소에서 시작하세요.");
   }
-  if (publisherConfig.key === "nature-main" && new URL(location.href).searchParams.get("year") !== "2026") {
-    throw new Error("Nature 2026 연도 필터 주소에서 시작하세요.");
+  if ((publisherConfig.key === "nature-main" || publisherConfig.key === "nature-machine-intelligence") && new URL(location.href).searchParams.get("year") !== "2026") {
+    throw new Error(`${publisherConfig.label} 2026 연도 필터 주소에서 시작하세요.`);
   }
   if (publisherConfig.key === "chemical-science" && !(/^\/sc\/issue\/\d+\/\d+/i.test(location.pathname) || /latest-articles|advance-articles/i.test(location.pathname))) {
     throw new Error("Chemical Science 최신 논문 또는 Volume/Issue 주소에서 시작하세요.");

@@ -38,6 +38,7 @@ JOURNALS = [
     },
     {"key": "nature-communications", "name": "Nature Communications", "short_name": "Nat Commun", "issn": "2041-1723"},
     {"key": "nature-main", "name": "Nature", "short_name": "Nature", "issn": "1476-4687"},
+    {"key": "nature-machine-intelligence", "name": "Nature Machine Intelligence", "short_name": "Nat Mach Intell", "issn": "2522-5839"},
     {"key": "nature-chemistry", "name": "Nature Chemistry", "short_name": "Nat Chem", "issn": "1755-4349"},
     {"key": "journal-of-computational-chemistry", "name": "Journal of Computational Chemistry", "short_name": "J. Comput. Chem.", "issn": "1096-987X"},
     {"key": "jctc", "name": "Journal of Chemical Theory and Computation", "short_name": "JCTC", "issn": "1549-9626"},
@@ -342,6 +343,7 @@ def update(
     acs_file: Path | None,
     science_file: Path | None,
     publisher_files: dict[str, Path],
+    preserve_issue_body: bool = False,
 ) -> int:
     checked_at = datetime.now(SEOUL).isoformat(timespec="seconds")
     today = datetime.now(SEOUL).date()
@@ -413,10 +415,11 @@ def update(
 
     atomic_write(ARTICLES_PATH, json.dumps(output, ensure_ascii=False, indent=2) + "\n")
     atomic_write(STATE_PATH, json.dumps(state, ensure_ascii=False, indent=2) + "\n")
-    atomic_write(
-        ISSUE_BODY_PATH,
-        issue_markdown(detected_new_articles, checked_at) if detected_new_articles else "",
-    )
+    if not preserve_issue_body:
+        atomic_write(
+            ISSUE_BODY_PATH,
+            issue_markdown(detected_new_articles, checked_at) if detected_new_articles else "",
+        )
 
     github_output = os.environ.get("GITHUB_OUTPUT")
     if github_output:
@@ -438,6 +441,7 @@ def main() -> int:
     parser.add_argument("--science-file", type=Path, help="Include a verified Science Research Article inventory")
     parser.add_argument("--nature-file", type=Path, help="Use the Nature Communications Research Articles inventory")
     parser.add_argument("--nature-main-file", type=Path, help="Use the Nature Research Articles inventory")
+    parser.add_argument("--nature-machine-intelligence-file", type=Path, help="Use the Nature Machine Intelligence Research Articles inventory")
     parser.add_argument("--nature-chemistry-file", type=Path, help="Use the Nature Chemistry Research Articles inventory")
     parser.add_argument("--jctc-file", type=Path, help="Use the ACS JCTC search inventory")
     parser.add_argument("--jcim-file", type=Path, help="Use the ACS JCIM search inventory")
@@ -445,6 +449,11 @@ def main() -> int:
     parser.add_argument("--jcc-file", type=Path, help="Use the Wiley Journal of Computational Chemistry inventory")
     parser.add_argument("--angew-file", type=Path, help="Use the Wiley Angewandte inventory")
     parser.add_argument("--chemical-science-file", type=Path, help="Use the RSC Chemical Science inventory")
+    parser.add_argument(
+        "--preserve-issue-body",
+        action="store_true",
+        help="Do not rewrite data/new_articles.md during a manual inventory merge",
+    )
     args = parser.parse_args()
     try:
         publisher_files = {
@@ -452,6 +461,7 @@ def main() -> int:
             for key, path in {
                 "nature-communications": args.nature_file,
                 "nature-main": args.nature_main_file,
+                "nature-machine-intelligence": args.nature_machine_intelligence_file,
                 "nature-chemistry": args.nature_chemistry_file,
                 "jctc": args.jctc_file,
                 "jcim": args.jcim_file,
@@ -462,7 +472,14 @@ def main() -> int:
             }.items()
             if path is not None
         }
-        return update(args.fixture, args.rows, args.acs_file, args.science_file, publisher_files)
+        return update(
+            args.fixture,
+            args.rows,
+            args.acs_file,
+            args.science_file,
+            publisher_files,
+            preserve_issue_body=args.preserve_issue_body,
+        )
     except (urllib.error.URLError, TimeoutError, OSError, ValueError) as exc:
         print(f"Update failed: {exc}", file=sys.stderr)
         return 1

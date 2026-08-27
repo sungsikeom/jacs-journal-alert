@@ -13,6 +13,7 @@ const IDLE_TIMEOUT_MS = Number(process.env.PUBLISHER_IDLE_TIMEOUT_MS || 180_000)
 const configs = {
   nature: { output: "nature_communications_articles.json", minimum: 5000, url: "https://www.nature.com/ncomms/research-articles#publisher-auto" },
   "nature-main": { output: "nature_articles.json", minimum: 500, expectedPrefixes: ["10.1038/s41586-"], url: "https://www.nature.com/nature/research-articles?year=2026#publisher-auto" },
+  "nature-machine-intelligence": { output: "nature_machine_intelligence_articles.json", minimum: 50, expectedPrefixes: ["10.1038/s42256-"], url: "https://www.nature.com/natmachintell/research-articles?year=2026#publisher-auto" },
   "nature-chemistry": { output: "nature_chemistry_articles.json", minimum: 2000, scopeStart: "2009-01-01", expectedPrefixes: ["10.1038/s41557-", "10.1038/nchem."], url: "https://www.nature.com/nchem/research-articles?type=article#publisher-auto" },
   jctc: { output: "jctc_articles.json", minimum: 300, url: "https://pubs.acs.org/jctcce/search-results?sort=Date+-+Newest+First&f_JournalID=1000064&f_ContentType=Journal+Articles&fl_SiteID=1000123&qb=%7B%22q%22%3A%22%22%7D&page=1#publisher-auto" },
   jcim: { output: "jcim_articles.json", minimum: 200, url: "https://pubs.acs.org/jcisd8/search-results?sort=Date+-+Newest+First&f_ContentType=Journal+Articles&fl_SiteID=1000171&qb=%7B%22q%22%3A%22%22%7D&page=1&f_JournalID=1000088#publisher-auto" },
