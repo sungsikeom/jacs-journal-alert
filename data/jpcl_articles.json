@@ -1,9 +1,141 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-08-24T20:17:58.322Z",
+  "collected_at": "2026-08-27T20:18:01.783Z",
   "scope_start": "2026-01-01",
-  "article_count": 1117,
+  "article_count": 1139,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02411",
+      "title": "Heterometal-Controlled Electron–Vibration Coupling and Carrier Relaxation Dynamics in Au3M2 (M = Cu, Ag) Nanoclusters",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02411"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02360",
+      "title": "High-Performance Two-Dimensional van der Waals Enabled Bipolar Junction Transistors with Current Gain Exceeding 103",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02360"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02346",
+      "title": "Special Issue on Photophysics of Materials",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02346"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02295",
+      "title": "Dipole-Programmed Chiral Porous Superlattice from Triangular Molecular Platforms on Ag(111)",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02295"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02063",
+      "title": "Bilayer of Indium Phthalocyanine Molecules on Pb(001): Structure and Spin States",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02063"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02043",
+      "title": "Smooth CsSnI3 Films for Low-Threshold Optically Pumped Near-Infrared Lasers",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02043"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02005",
+      "title": "Solvent-Controlled Product Branching in Riboflavin Uncovered by Time-Resolved Infrared and Transient Absorption Spectroscopy",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02005"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02462",
+      "title": "Chirality-Induced Exciton Spin Selectivity in Triplet Fusion Photon Upconversion",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02462"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02067",
+      "title": "Universal Interatomic Potentials as Configuration-Space Generators for One-Shot and Iterative Fine-Tuning of Ab Initio-Accurate Material-Specific Models",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02067"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02007",
+      "title": "Direct Precision Measurement of the 4ν3 Band Origin in H216O by Intracavity Two-Photon Absorption",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02007"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01940",
+      "title": "Many-Body Screening Drives Nanoscale Core-Level Variation at the Water Interface",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01940"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01675",
+      "title": "On-Surface Synthesis of Hexabenzocoronenes via a Retro-Büchner Reaction of Heptaarylcycloheptatrienes",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01675"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01596",
+      "title": "Resolving Competing Ultraviolet Photoinduced Ring-Opening and Dissociation Pathways in Iodothiophenes by Ultrafast Electron Diffraction",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01596"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01579",
+      "title": "50 MHz WSe2 Photodetectors from Roll-to-Roll Exfoliated Films",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01579"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02459",
+      "title": "Sb3+-Activated Near-Infrared Circularly Polarized Luminescence in Chiral Zero-Dimensional Hybrid Tin(IV) Chlorides",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02459"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02341",
+      "title": "Negative Ion Photoelectron Spectroscopy of Exotic Gaseous Iron-Cyanide Dianions [Fe(CN)n]2– (n = 4–6): Experiment and Many-Body Perturbation Theory",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02341"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02070",
+      "title": "Conformationally-Gated Interligand Charge Transfer in a Ru-Polypyridine Complex",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02070"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02010",
+      "title": "Theoretical Insights into 4f–3d Synergistic Catalysis in Fe–Light Rare-Earth Atomic-Scale Catalysts for Oxygen Reduction",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02010"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01817",
+      "title": "Electronic Structure and Spectral Properties of Radical Heterocyclocarbon C12N Isomers",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01817"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01804",
+      "title": "Inclined Partial Dislocations in Nitride Semiconductors",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01804"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01658",
+      "title": "Electron–Ion Covariance Reveals Geometry-Resolved Inner-Shell Spectra in CS2 Photodissociation",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01658"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01457",
+      "title": "Reconciling Cryo-EM and Crystallographic Views of RNA Folding through Atomistic Structure-Based Simulations: Roles of Ionic Conditions and Truncation of Flexible Elements",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01457"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02593",
       "title": "Probing Vibrational Properties at MoSe2 Edges and Grain Boundaries Using Tip-Enhanced Raman Spectroscopy",

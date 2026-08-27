@@ -1,11 +1,137 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-08-26T20:01:05.687Z",
+  "collected_at": "2026-08-27T20:01:06.726Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7281,
+  "article_count": 7305,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c16490",
+      "title": "Correction to “Potent Racemic Antimicrobial Polypeptides Uncovered by a Stereochemical Series of Cationic d/l Backbones”",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/jacs.6c16490"
+    },
+    {
+      "doi": "10.1021/jacs.6c14278",
+      "title": "Catalytic Hydroacylation of Alkynes with Aldehydes by a Cp′Mo Catalyst",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/jacs.6c14278"
+    },
+    {
+      "doi": "10.1021/jacs.6c13308",
+      "title": "Noninvasive Photoacoustic and Fluorescence Bimodality Imaging Differentiation of Vulnerable Atherosclerotic Plaques at Different Stages",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/jacs.6c13308"
+    },
+    {
+      "doi": "10.1021/jacs.6c12374",
+      "title": "Monitoring In Crystallo Elementary Steps at Cationic, Site-Isolated Pt Sites Using Solid-State NMR Signatures",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/jacs.6c12374"
+    },
+    {
+      "doi": "10.1021/jacs.6c12134",
+      "title": "Metal-Acid Balance Enables Earth-Abundant Metal Upcycling of Polyolefins to Jet Fuel",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/jacs.6c12134"
+    },
+    {
+      "doi": "10.1021/jacs.6c11283",
+      "title": "Near-Room-Temperature Magnetoelectric Coupling Engineered through Inversion-Breaking Tilts in a Bulk Perovskite Polytype",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/jacs.6c11283"
+    },
+    {
+      "doi": "10.1021/jacs.6c11050",
+      "title": "Domain-Swapped LuxR-Type Quorum Sensing Receptors Reveal Divergent Ligand-Response Mechanisms among Homologues",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/jacs.6c11050"
+    },
+    {
+      "doi": "10.1021/jacs.6c10518",
+      "title": "Crisscross DNA Nanotube Growth with Seed-Programmed Diameter and Nucleation-Directed Pathways",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/jacs.6c10518"
+    },
+    {
+      "doi": "10.1021/jacs.6c10503",
+      "title": "Thermodynamically Stabilized π-Conjugated Nitroxide with SOMO–HOMO Energy Level Inversion",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/jacs.6c10503"
+    },
+    {
+      "doi": "10.1021/jacs.6c10294",
+      "title": "Electric-Field Gating of Dynamic through-Space Conjugation in sp2/sp3-Bridged Molecular Junctions",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/jacs.6c10294"
+    },
+    {
+      "doi": "10.1021/jacs.6c10164",
+      "title": "Microemulsion Electrolytes with Micelle-Encapsulated AI-ISC Structures for High-Safety Sodium-Ion Batteries",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/jacs.6c10164"
+    },
+    {
+      "doi": "10.1021/jacs.6c09491",
+      "title": "Cardiolipin Modulates the Activity of the Intramembrane Protease GlpG Inducing Membrane Restructuring",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/jacs.6c09491"
+    },
+    {
+      "doi": "10.1021/jacs.6c09316",
+      "title": "Enhanced Photocatalytic C–N Coupling by Synergistic Facet and Spin-State Modulation in Mixed-Valent WOx",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/jacs.6c09316"
+    },
+    {
+      "doi": "10.1021/jacs.6c08821",
+      "title": "Allene Cyclopropanation with Fluoroalkyl Carbenes",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/jacs.6c08821"
+    },
+    {
+      "doi": "10.1021/jacs.6c08123",
+      "title": "Proton-Coupled OAT Triggers C2H2 Activation in a Bioinspired Molybdenum Complex",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/jacs.6c08123"
+    },
+    {
+      "doi": "10.1021/jacs.6c08047",
+      "title": "Morphology-Diversified Sn Growth for Aqueous Acidic Batteries",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/jacs.6c08047"
+    },
+    {
+      "doi": "10.1021/jacs.6c07018",
+      "title": "Breaking the Sensitization-Passivation Trade-Off in Dye-Sensitized Upconversion Nanoparticles through LiLuF4-Enabled Directional Energy Transfer",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/jacs.6c07018"
+    },
+    {
+      "doi": "10.1021/jacs.6c06633",
+      "title": "Asymmetric Sulfhydryl-Substituted Squaraine Fluorophores for Sustained SIM Imaging in Live Cells",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/jacs.6c06633"
+    },
+    {
+      "doi": "10.1021/jacs.6c03202",
+      "title": "Oxygen Reduction Intermediates Facilitate Stable and Efficient CO2 Electroreduction to Multicarbon Products in an Acidic Electrolyte",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/jacs.6c03202"
+    },
+    {
+      "doi": "10.1021/jacs.5c19320",
+      "title": "Solvent Leveling Explains Supercharging in Electrospray Ionization Mass Spectrometry",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/jacs.5c19320"
+    },
+    {
+      "doi": "10.1021/jacs.6c13741",
+      "title": "Incorporation of a Hydrazone Base-Pair Analog as a Nucleic Acid Staple: Structure, Stability, Triggered Release, and Ligase Studies",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1021/jacs.6c13741"
+    },
     {
       "doi": "10.1021/jacs.6c13640",
       "title": "Bond Dissociation Energy, Ionization Energy, and Electronic Structure of Thorium Dimer",
@@ -79,6 +205,12 @@
       "url": "https://doi.org/10.1021/jacs.6c10041"
     },
     {
+      "doi": "10.1021/jacs.6c09513",
+      "title": "Direct Access to Poly(amino ester)s with Main-Chain H-Bonding Motifs",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1021/jacs.6c09513"
+    },
+    {
       "doi": "10.1021/jacs.6c09411",
       "title": "Atomistic Origin of Non-equilibrium Surface Restructuring on Copper under Pulsed Potentials",
       "published_date": "2026-08-26",
@@ -89,6 +221,12 @@
       "title": "An Ultrafast-Charging Daniell-Type All-Solid-State Battery",
       "published_date": "2026-08-26",
       "url": "https://doi.org/10.1021/jacs.6c09270"
+    },
+    {
+      "doi": "10.1021/jacs.6c08989",
+      "title": "Blood-Triggered In Vivo Reassembly of Oral Cystine Spherulites with Fasting Synergy Induces Disulfidptosis for Cancer Metabolic Intervention",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1021/jacs.6c08989"
     },
     {
       "doi": "10.1021/jacs.6c08864",
@@ -131,6 +269,12 @@
       "title": "Ir Single-Atom-Induced Localized Oxide Path Mechanism Enables Efficient and Stable Water Oxidation",
       "published_date": "2026-08-26",
       "url": "https://doi.org/10.1021/jacs.6c05762"
+    },
+    {
+      "doi": "10.1021/jacs.6c03436",
+      "title": "Tumor Microenvironment-Triggered Nanocrystal-to-Nanocrystal Transformation for RNA-Boosted Photo-STING Therapy",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1021/jacs.6c03436"
     },
     {
       "doi": "10.1021/jacs.5c22980",

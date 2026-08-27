@@ -1,9 +1,45 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-08-26T20:14:27.932Z",
+  "collected_at": "2026-08-27T20:14:35.186Z",
   "scope_start": "2026-01-01",
-  "article_count": 769,
+  "article_count": 775,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02380",
+      "title": "Mechanism and Origin of Stereoselectivity of Halohydrin Dehalogenase-Catalyzed Ring-Expansion Reaction of Spiro-Epoxides",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02380"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02133",
+      "title": "Multiscale Free-Energy Methods for Protonation-Coupled Light-Responsive Binding of Ionizable Photoswitchable eDHFR Inhibitors",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02133"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01333",
+      "title": "Efficient, Few-Shot Directed Evolution with Energy Rank Alignment",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01333"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01319",
+      "title": "Exploring Protein Conformational Ensembles Using Evolutionary Conditional Diffusion",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01319"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00986",
+      "title": "Halogen-Bonding-like Interactions Complement Hydrogen Bonding in a Human Flavin-Dependent Dehalogenase",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00986"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00136",
+      "title": "Autogenerating a Domain-Specific Question-Answering Data Set to Enable High-Performing Language Models for Magnetic Materials",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00136"
+    },
     {
       "doi": "10.1021/acs.jcim.6c01773",
       "title": "The Chemical Imitation Game: Navigating Spaces of Meaning in Language and Chemistry",

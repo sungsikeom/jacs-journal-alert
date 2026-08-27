@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-08-26T20:04:32.972Z",
+  "collected_at": "2026-08-27T20:04:33.735Z",
   "scope_start": "2026-01-01",
-  "article_count": 8563,
+  "article_count": 8583,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77296-4",
+      "title": "Regulated liquid metal via semiconductor valve toward highly stretchable topological circuits",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1038/s41467-026-77296-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77268-8",
+      "title": "Lipid network crosslinked hydrogels control material dynamics across multiple length scales through lipid movement",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1038/s41467-026-77268-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77263-z",
+      "title": "Atomistic machine learning with irreducible Cartesian natural tensors",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1038/s41467-026-77263-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77228-2",
+      "title": "Catalyst-controlled regiodivergence in enantioselective synthesis of spirocyclic γ- versus δ-lactams",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1038/s41467-026-77228-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77223-7",
+      "title": "Kinetically inert covalent adaptable networks enable holistic resource recovery from high-performance printed circuit boards",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1038/s41467-026-77223-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77220-w",
+      "title": "Iceland-Faroe overflow revealed by in-situ observations",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1038/s41467-026-77220-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77211-x",
+      "title": "Why variant effect predictors and multiplexed assays agree and disagree",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1038/s41467-026-77211-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77202-y",
+      "title": "Quantum nonlinearity for optical neural computing",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1038/s41467-026-77202-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77145-4",
+      "title": "Umbrella-type stretchable electrode arrays for long-term neural recording",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1038/s41467-026-77145-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77140-9",
+      "title": "The endo-lysosomal system drives lumen formation in a human epiblast model",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1038/s41467-026-77140-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77098-8",
+      "title": "A new core-genome MLST approach for Chlamydia trachomatis genomic surveillance and research",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1038/s41467-026-77098-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77093-z",
+      "title": "Reversed marine phosphorus gradient in the Ediacaran Ocean",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1038/s41467-026-77093-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77024-y",
+      "title": "Towards density-optimal DNA storage with practical bijective coding",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1038/s41467-026-77024-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76970-x",
+      "title": "Long-range two-dimensional exciton sensitization of triplet-pair emission",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1038/s41467-026-76970-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-76704-z",
+      "title": "A 3D conductive amorphous unsaturated-ligand MIL-68(Fe) MOF as room-temperature H2S chemiresistive sensor",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1038/s41467-026-76704-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-76624-y",
+      "title": "Direct observation of shock-induced formation of davemaoite, Ca-perovskite",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1038/s41467-026-76624-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76597-y",
+      "title": "A nutrient control on oxygenation dynamics during Earth’s Great Oxidation Episode",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1038/s41467-026-76597-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76398-3",
+      "title": "Gating hole back-transfer with molecular spacers programs rapid micropollutant decontamination",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1038/s41467-026-76398-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76242-8",
+      "title": "Whole-brain, all-optical interrogation of neuronal dynamics underlying gut and vascular interoception in zebrafish",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1038/s41467-026-76242-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-76072-8",
+      "title": "3D printed designer color routers with low refractive index for low-light imaging",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1038/s41467-026-76072-8"
+    },
     {
       "doi": "10.1038/s41467-026-77286-6",
       "title": "Observation of Antichiral Hinge States in a Three-dimensional Gyromagnetic Photonic Crystal",

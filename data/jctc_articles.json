@@ -1,9 +1,33 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-08-26T20:11:11.072Z",
+  "collected_at": "2026-08-27T20:11:18.936Z",
   "scope_start": "2026-01-01",
-  "article_count": 639,
+  "article_count": 644,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01483",
+      "title": "Multi-Reference Configuration Interaction Calculations with Large Active Spaces Based on Matrix Product States for Simulating X-ray Absorption Spectra",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01483"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01381",
+      "title": "Simultaneous Treatment of Electron Correlation and Spin–Orbit Coupling with State-Averaged Driven Similarity Renormalization Group Second-Order Perturbation Theory",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01381"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00735",
+      "title": "MolCryst-MLIPs: A Machine-Learned Interatomic Potentials Database for Molecular Crystals",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00735"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01478",
+      "title": "Detailed Insight into the Chignolin Folding Process from Maximally Informative Low-Resolution Representations of Its Isocommittor Hypersurfaces",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01478"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01152",
       "title": "Optimizing Effective Potentials via Gradient-Enhanced Surrogates for Quantum Embedding",
@@ -15,6 +39,12 @@
       "title": "Nonadiabatic Dynamics of Uracil in Aqueous Solution from QM/MM in Periodic Boundary Conditions Combined with Mixed-Reference Spin-Flip TDDFT",
       "published_date": "2026-08-26",
       "url": "https://doi.org/10.1021/acs.jctc.6c01045"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00914",
+      "title": "From Enhanced Sampling to Human-Readable Representations of Protein Dynamics",
+      "published_date": "2026-08-26",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00914"
     },
     {
       "doi": "10.1021/acs.jctc.6c00862",

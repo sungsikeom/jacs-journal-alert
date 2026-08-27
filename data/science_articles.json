@@ -1,10 +1,143 @@
 {
   "source": "Science tables of contents collected by the local Chrome extension",
-  "collected_at": "2026-08-26T20:01:12.219Z",
+  "collected_at": "2026-08-27T20:01:15.056Z",
   "scope_start": "2026-01-01",
   "article_type": "Research Article",
-  "article_count": 607,
+  "article_count": 626,
   "articles": [
+    {
+      "doi": "10.1126/science.ael7895",
+      "title": "In Other Journals",
+      "published_date": "2026-08-27",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ael7895"
+    },
+    {
+      "doi": "10.1126/science.ael7894",
+      "title": "In Science Journals",
+      "published_date": "2026-08-27",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ael7894"
+    },
+    {
+      "doi": "10.1126/science.ael6254",
+      "title": "Erratum for the Research Article “Roots navigate around decay regions by sensing local pH gradients”",
+      "published_date": "2026-08-27",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ael6254"
+    },
+    {
+      "doi": "10.1126/science.aej0194",
+      "title": "Iron-catalyzed [1+1+1] cyclopropanation by sequential coupling of an ester to two carbenes",
+      "published_date": "2026-08-27",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aej0194"
+    },
+    {
+      "doi": "10.1126/science.aeh7112",
+      "title": "A necroptotic-to-apoptotic signaling axis underlies inflammatory bowel disease",
+      "published_date": "2026-08-27",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeh7112"
+    },
+    {
+      "doi": "10.1126/science.aeh4856",
+      "title": "SGLT2 inhibitors activate pantothenate kinase in the human heart",
+      "published_date": "2026-08-27",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeh4856"
+    },
+    {
+      "doi": "10.1126/science.aeg8955",
+      "title": "High-efficiency, long-lived lead-free perovskite light-emitting diodes",
+      "published_date": "2026-08-27",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeg8955"
+    },
+    {
+      "doi": "10.1126/science.aeg6829",
+      "title": "De novo design of RNA pseudoknots with deep learning",
+      "published_date": "2026-08-27",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeg6829"
+    },
+    {
+      "doi": "10.1126/science.aef8874",
+      "title": "Recovering signatures of archaic hominin introgression using ancestral recombination graphs",
+      "published_date": "2026-08-27",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aef8874"
+    },
+    {
+      "doi": "10.1126/science.aef8268",
+      "title": "Hypervision: An on-chip hyperspectral microsystem for online video-rate computational imaging",
+      "published_date": "2026-08-27",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aef8268"
+    },
+    {
+      "doi": "10.1126/science.aee3132",
+      "title": "Direct evaporation of single-crystal metal contacts for 2D semiconductors",
+      "published_date": "2026-08-27",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aee3132"
+    },
+    {
+      "doi": "10.1126/science.aed9893",
+      "title": "Foreshock productivity and rupture nucleation in injection-induced earthquakes in western Canada",
+      "published_date": "2026-08-27",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aed9893"
+    },
+    {
+      "doi": "10.1126/science.aec5252",
+      "title": "A tripartite genetic conflict system controls hybrid sterility in rice",
+      "published_date": "2026-08-27",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aec5252"
+    },
+    {
+      "doi": "10.1126/science.aec3449",
+      "title": "Genomic predisposition is associated with the direction of sex chromosome evolution",
+      "published_date": "2026-08-27",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aec3449"
+    },
+    {
+      "doi": "10.1126/science.aec2171",
+      "title": "Hierarchical sensory processing in zebrafish thalamocortical-like circuits",
+      "published_date": "2026-08-27",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aec2171"
+    },
+    {
+      "doi": "10.1126/science.aeb5274",
+      "title": "Thermal cycling–induced nitriding increases energy-storage density in titanate ferroelectric films",
+      "published_date": "2026-08-27",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeb5274"
+    },
+    {
+      "doi": "10.1126/science.aeb0054",
+      "title": "Nonviral delivery of chemically modified tRNA rescues nonsense mutations in cystic fibrosis",
+      "published_date": "2026-08-27",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeb0054"
+    },
+    {
+      "doi": "10.1126/science.ady4523",
+      "title": "Autism mutations rewire protein interaction networks to drive neurodevelopmental pathology",
+      "published_date": "2026-08-27",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ady4523"
+    },
+    {
+      "doi": "10.1126/science.adx6059",
+      "title": "Tunnel field-effect transistors exhibiting performance beyond the Boltzmann thermionic limit",
+      "published_date": "2026-08-27",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adx6059"
+    },
     {
       "doi": "10.1126/science.ael5805",
       "title": "In Other Journals",

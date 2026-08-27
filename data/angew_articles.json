@@ -1,9 +1,87 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-08-26T20:24:26.118Z",
+  "collected_at": "2026-08-27T20:24:39.000Z",
   "scope_start": "2026-01-01",
-  "article_count": 2250,
+  "article_count": 2263,
   "articles": [
+    {
+      "doi": "10.1002/anie.9467229",
+      "title": "Dissipative Regenerative Chemiluminescence in Water: A Perylene-Based Out-of-Equilibrium Light-Emitting System",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1002/anie.9467229"
+    },
+    {
+      "doi": "10.1002/anie.7872408",
+      "title": "Maximizing Active Site Density in Tin Single-Site Catalysts for Selective Carbon Dioxide to Formate Electroreduction",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1002/anie.7872408"
+    },
+    {
+      "doi": "10.1002/anie.7118770",
+      "title": "pH-Driven Actuation of Unmodified DNA Origami Rectangles",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1002/anie.7118770"
+    },
+    {
+      "doi": "10.1002/anie.6735869",
+      "title": "Kinetically Trapped High-Density Interstitial Mn2+ Enables Concentration-Quenching-Free Persistent Luminescence in CsCdCl3 Perovskites",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1002/anie.6735869"
+    },
+    {
+      "doi": "10.1002/anie.5354099",
+      "title": "Photoactivated Platinum Complexes: Targeting Membrane Proteins and Organelles for Precision Cancer Therapy",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1002/anie.5354099"
+    },
+    {
+      "doi": "10.1002/anie.4830572",
+      "title": "Geometry-Controlled Cooperativity at Binuclear Fe2–N6 Sites Enables Selective FeIV═OGeneration for Durable Fenton-Like Oxidation",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1002/anie.4830572"
+    },
+    {
+      "doi": "10.1002/anie.4185923",
+      "title": "Accelerating Phosphate Transport Across Membranes via Synergistic Chemical-Electrochemical Carriers",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1002/anie.4185923"
+    },
+    {
+      "doi": "10.1002/anie.3312795",
+      "title": "Harnessing the E3 Ligase KLHL12 for Tumor-Selective Protein Degradation",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1002/anie.3312795"
+    },
+    {
+      "doi": "10.1002/anie.3181079",
+      "title": "SO2-Mediated 2e−, 4e−, and 6e− Reductions: Facile Access to Aryl Amines",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1002/anie.3181079"
+    },
+    {
+      "doi": "10.1002/anie.3083427",
+      "title": "A Mesoionic Platform for Persistent Anionic Nitrogen-Centered Radicals",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1002/anie.3083427"
+    },
+    {
+      "doi": "10.1002/anie.2936884",
+      "title": "A de-novo Approach Towards Divergent [3+2π/σ] Photocycloadditions of Nitrones via Assembly-Controlled Kinetic Electron Transfer Gating",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1002/anie.2936884"
+    },
+    {
+      "doi": "10.1002/anie.2399100",
+      "title": "Philipp Dabringhaus",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1002/anie.2399100"
+    },
+    {
+      "doi": "10.1002/anie.1874384",
+      "title": "Janus Reactivity of a Mononuclear Non-Heme Iron(III)-Peroxo Complex Toward Indole Oxidation",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1002/anie.1874384"
+    },
     {
       "doi": "10.1002/anie.9332776",
       "title": "Thermodynamic and Kinetic Control of Ring–Chain Interconversion in Entropy-Driven Ring-Opening Polymerization of a Macrocyclic Di(Ester-thioester)",
