@@ -1,9 +1,15 @@
 {
   "source": "Nature Chemistry Research Articles",
-  "collected_at": "2026-08-27T20:08:03.561Z",
+  "collected_at": "2026-08-28T20:07:34.688Z",
   "scope_start": "2009-01-01",
-  "article_count": 2499,
+  "article_count": 2500,
   "articles": [
+    {
+      "doi": "10.1038/s41557-026-02238-y",
+      "title": "Programmable regiodivergent light-driven cyclization of acyclic 1,5-dienes unlocks rigid bicyclic architectures",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1038/s41557-026-02238-y"
+    },
     {
       "doi": "10.1038/s41557-026-02228-0",
       "title": "A general strategy towards multicolour fluorogenic peptides for wash-free bioassays",

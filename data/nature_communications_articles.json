@@ -1,9 +1,45 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-08-27T20:04:33.735Z",
+  "collected_at": "2026-08-28T20:04:06.075Z",
   "scope_start": "2026-01-01",
-  "article_count": 8583,
+  "article_count": 8589,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77271-z",
+      "title": "The Labrador Sea as a conduit for AMOC lower-limb transport anomalies on multiple timescales",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1038/s41467-026-77271-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-76994-3",
+      "title": "Cell-inspired dual-tandem catalytic nanoreactors drive targeted hearing protection",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1038/s41467-026-76994-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-76948-9",
+      "title": "CD97/ADGRE5 attenuates the induction of adaptive type 2 immune responses in allergic asthma",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1038/s41467-026-76948-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-76697-9",
+      "title": "A programmable lipid-triggered allosteric site modulates LC3 LIR receptor binding activity",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1038/s41467-026-76697-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-76527-y",
+      "title": "Wireless IoT-enabled microneedle electroceutical for personalized and connected pain management",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1038/s41467-026-76527-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-75458-y",
+      "title": "Carbon distribution in planet Mercury from magma ocean evolution to graphite crust and core composition",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1038/s41467-026-75458-y"
+    },
     {
       "doi": "10.1038/s41467-026-77296-4",
       "title": "Regulated liquid metal via semiconductor valve toward highly stretchable topological circuits",

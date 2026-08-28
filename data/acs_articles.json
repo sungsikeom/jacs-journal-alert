@@ -1,11 +1,101 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-08-27T20:01:06.726Z",
+  "collected_at": "2026-08-28T20:00:38.986Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7305,
+  "article_count": 7321,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c14957",
+      "title": "Sequential Topotactic Transformations Traverse Metastable Phases in Complex Aluminophosphate Frameworks with Tunable Pore Architectures",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/jacs.6c14957"
+    },
+    {
+      "doi": "10.1021/jacs.6c13983",
+      "title": "Cytochrome P450- and Dehydrogenase-Mediated Regiospecific and Stereoselective Formation of β- and γ-Lactones in Drimane-Type Sesquiterpenoid Biosynthesis",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/jacs.6c13983"
+    },
+    {
+      "doi": "10.1021/jacs.6c12462",
+      "title": "Ni–Ir Interaction Enables a Dark Reactive State in Nickel Catalysis",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/jacs.6c12462"
+    },
+    {
+      "doi": "10.1021/jacs.6c12391",
+      "title": "Enantioselective Decarboxylative Synthesis of Chiral α-Silylamines and α-Germylamines",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/jacs.6c12391"
+    },
+    {
+      "doi": "10.1021/jacs.6c11786",
+      "title": "Two-Dimensional MXenes for a Sustainable Future",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/jacs.6c11786"
+    },
+    {
+      "doi": "10.1021/jacs.6c11637",
+      "title": "Ultrafast Proton-Coupled Electron Transfer Reactions at Unit Quantum Yield",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/jacs.6c11637"
+    },
+    {
+      "doi": "10.1021/jacs.6c11012",
+      "title": "Synthesis of Carborane-Modified Sugars and Nucleosides via Pd(II)-Catalyzed B–H Bond Activation",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/jacs.6c11012"
+    },
+    {
+      "doi": "10.1021/jacs.6c10525",
+      "title": "Biphasic Solar Reforming of Lignin to Aromatics and CO for In Situ Carbonylation of Organics",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/jacs.6c10525"
+    },
+    {
+      "doi": "10.1021/jacs.6c09492",
+      "title": "Hexacoordinate Actinide(IV) Compounds: Benchmark Complexes for Magnetism and Electronic Structure Analysis",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/jacs.6c09492"
+    },
+    {
+      "doi": "10.1021/jacs.6c08526",
+      "title": "Mapping and Controlling Dimensional Polymorphism and Bandgap Bowing in Cs3Bi2–xSbxI9",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/jacs.6c08526"
+    },
+    {
+      "doi": "10.1021/jacs.6c08421",
+      "title": "Helical Unwinding Governs Divergent Kinetics in the Reductive Defluorination of Per- and Polyfluoroalkyl Substances",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/jacs.6c08421"
+    },
+    {
+      "doi": "10.1021/jacs.6c08409",
+      "title": "Priming Cells with Modulators of Cellular Signaling Ensures Enhanced Selectivity of HSPG-Specific Protein–Drug Conjugate Delivery",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/jacs.6c08409"
+    },
+    {
+      "doi": "10.1021/jacs.6c06970",
+      "title": "Molecular Approaches to the Mechanism of CO2 Reduction to Methanol by Cobalt Phthalocyanine",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/jacs.6c06970"
+    },
+    {
+      "doi": "10.1021/jacs.6c05129",
+      "title": "Million-Turnover Photocatalysis Enabled by Far-Red-Light-Responsive Gold Nanoclusters",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/jacs.6c05129"
+    },
+    {
+      "doi": "10.1021/jacs.6c01527",
+      "title": "Guest-Induced Vibration Locking and Fluorescence Switching in a Pyrene-Functionalized Covalent Organic Framework (COF) for Perfluorooctanoic Acid (PFOA) Recognition",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/jacs.6c01527"
+    },
     {
       "doi": "10.1021/jacs.6c16490",
       "title": "Correction to “Potent Racemic Antimicrobial Polypeptides Uncovered by a Stereochemical Series of Cationic d/l Backbones”",
@@ -71,6 +161,12 @@
       "title": "Microemulsion Electrolytes with Micelle-Encapsulated AI-ISC Structures for High-Safety Sodium-Ion Batteries",
       "published_date": "2026-08-27",
       "url": "https://doi.org/10.1021/jacs.6c10164"
+    },
+    {
+      "doi": "10.1021/jacs.6c09931",
+      "title": "Total Synthesis and Structural Revision of Rhabdobranin Reveals a Cryptic Gram-Negative Antibiotic",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/jacs.6c09931"
     },
     {
       "doi": "10.1021/jacs.6c09491",

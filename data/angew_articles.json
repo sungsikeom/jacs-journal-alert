@@ -1,9 +1,27 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-08-27T20:24:39.000Z",
+  "collected_at": "2026-08-28T20:23:54.514Z",
   "scope_start": "2026-01-01",
-  "article_count": 2263,
+  "article_count": 2266,
   "articles": [
+    {
+      "doi": "10.1002/anie.6119233",
+      "title": "Single Atom Catalysis Enables Preferential Middle-Ring Dehydrogenation of Perhydro-Dibenzyltoluene for Low-Temperature Hydrogen Production",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1002/anie.6119233"
+    },
+    {
+      "doi": "10.1002/anie.6031066",
+      "title": "Evolving an Aptameric Nose for Synthetic Cannabinoids Through Modular Reprogramming of Specificity",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1002/anie.6031066"
+    },
+    {
+      "doi": "10.1002/anie.4386683",
+      "title": "Orchestrating Anion–π+ Interactions to Accelerate Metal-Free Room-Temperature Phosphorescence",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1002/anie.4386683"
+    },
     {
       "doi": "10.1002/anie.9467229",
       "title": "Dissipative Regenerative Chemiluminescence in Water: A Perylene-Based Out-of-Equilibrium Light-Emitting System",

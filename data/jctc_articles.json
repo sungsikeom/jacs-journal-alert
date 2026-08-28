@@ -1,9 +1,27 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-08-27T20:11:18.936Z",
+  "collected_at": "2026-08-28T20:10:49.748Z",
   "scope_start": "2026-01-01",
-  "article_count": 644,
+  "article_count": 648,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01360",
+      "title": "Application of SAP-X2C to Spectroscopy and Comparison to Screened Nuclear Spin–Orbit Approximations",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01360"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01068",
+      "title": "Translating Spin-Adapted RPA to Spin-Adapted TDDFT",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01068"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00645",
+      "title": "A Residence-Time Approach for Determining Position-Dependent Diffusivities from Biased Molecular Simulations",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00645"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01483",
       "title": "Multi-Reference Configuration Interaction Calculations with Large Active Spaces Based on Matrix Product States for Simulating X-ray Absorption Spectra",
@@ -15,6 +33,12 @@
       "title": "Simultaneous Treatment of Electron Correlation and Spin–Orbit Coupling with State-Averaged Driven Similarity Renormalization Group Second-Order Perturbation Theory",
       "published_date": "2026-08-27",
       "url": "https://doi.org/10.1021/acs.jctc.6c01381"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00751",
+      "title": "Toward High-Throughput Virtual Screening via Quasi-Adiabatic Quantum Geometry Optimization Workflow",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00751"
     },
     {
       "doi": "10.1021/acs.jctc.6c00735",

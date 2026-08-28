@@ -1,9 +1,63 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-08-27T20:14:35.186Z",
+  "collected_at": "2026-08-28T20:14:06.069Z",
   "scope_start": "2026-01-01",
-  "article_count": 775,
+  "article_count": 786,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02530",
+      "title": "Catalytic Mechanism of γ-Elimination and Michael Addition Catalyzed by Pyridoxal-5′-Phosphate-Dependent γ-Substitution Enzyme Fub7 Involved in the Biosynthesis of 5-Alkyl-pipecolic Acid",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02530"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02407",
+      "title": "Artificial Intelligence in the Discovery and Design of Ionic Liquids for Thermal Energy Applications",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02407"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01921",
+      "title": "TvTPPIMI: A Boundary-Aware Dual-View Framework for Predicting PPI-Modulator Interactions",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01921"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01847",
+      "title": "Toward Imbalanced Molecular Property Regression: A Benchmark Study and Interval-Aware Mixture of Experts",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01847"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01399",
+      "title": "TCRspec: A Recognition Interface-Informed Multimodal Method for TCR–pMHC Specificity Prediction",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01399"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00858",
+      "title": "UniPoseScore: A Unified Graphormer3D-Based Framework for Protein–Ligand Binding Pose Scoring and Refinement",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00858"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00826",
+      "title": "Improving Reliability of Machine Learning Interatomic Potentials with Physics-Informed Pretraining",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00826"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00688",
+      "title": "Automated Classification and Representation of sp2–sp2 Atropisomers in the MolBar Identifier",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00688"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00638",
+      "title": "ChemLint: Conversational Cheminformatics with Large Language Models",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00638"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02380",
       "title": "Mechanism and Origin of Stereoselectivity of Halohydrin Dehalogenase-Catalyzed Ring-Expansion Reaction of Spiro-Epoxides",
@@ -15,6 +69,18 @@
       "title": "Multiscale Free-Energy Methods for Protonation-Coupled Light-Responsive Binding of Ionizable Photoswitchable eDHFR Inhibitors",
       "published_date": "2026-08-27",
       "url": "https://doi.org/10.1021/acs.jcim.6c02133"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01562",
+      "title": "Mimotope-Guided Molecular Dynamics Enables Precise Functional Epitope Mapping",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01562"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01404",
+      "title": "PolluCarc-MFSE: A Multi-Fingerprint Stacking Ensemble Learning Model for Chemical Pollutant Carcinogenicity",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01404"
     },
     {
       "doi": "10.1021/acs.jcim.6c01333",
