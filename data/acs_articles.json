@@ -1,11 +1,59 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-08-28T20:00:38.986Z",
+  "collected_at": "2026-08-29T20:00:38.258Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7321,
+  "article_count": 7332,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c14072",
+      "title": "Efficient CO-to-Acetate Conversion Electrocatalyst Screened by Pressurization-Compatible Operando Raman Spectroscopy",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1021/jacs.6c14072"
+    },
+    {
+      "doi": "10.1021/jacs.6c13896",
+      "title": "An Inhalable Hybrid Nitric Oxide Nanogenerator for Lung Adenocarcinoma Treatment via Bioorthogonal-Activated Gas-Immunotherapy",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1021/jacs.6c13896"
+    },
+    {
+      "doi": "10.1021/jacs.6c13856",
+      "title": "The Biosynthesis of a Fungal Flavonoid, Chlorflavonin, Precisely Controlled by Two Types of Equilibrium States",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1021/jacs.6c13856"
+    },
+    {
+      "doi": "10.1021/jacs.6c13780",
+      "title": "Dynamic Electron Redistribution on Rooted-Type High-Entropy Perovskite-Supported Ir Catalysts for Durable Proton-Exchange-Membrane Water Electrolysis",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1021/jacs.6c13780"
+    },
+    {
+      "doi": "10.1021/jacs.6c13508",
+      "title": "Low-Temperature Thermal Depolymerization of Polymethacrylates",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1021/jacs.6c13508"
+    },
+    {
+      "doi": "10.1021/jacs.6c10313",
+      "title": "Ammonia Diverts Ozonolysis from C═C Scission to Nitrogen Incorporation via Competitive Adsorption and Nucleophilic Trapping",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1021/jacs.6c10313"
+    },
+    {
+      "doi": "10.1021/jacs.6c09975",
+      "title": "Enantioselective Organocatalytic Construction of N-Bridged Tricyclic Normorphan Skeleton: Application to the Total Synthesis of (+)-Peduncularine",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1021/jacs.6c09975"
+    },
+    {
+      "doi": "10.1021/jacs.6c06025",
+      "title": "Interfacial Hydrogen-Bond Chain Engineering via Surface-Immobilized Ammonium Cations for Accelerated Alkaline Hydrogen Evolution",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1021/jacs.6c06025"
+    },
     {
       "doi": "10.1021/jacs.6c14957",
       "title": "Sequential Topotactic Transformations Traverse Metastable Phases in Complex Aluminophosphate Frameworks with Tunable Pore Architectures",
@@ -49,10 +97,28 @@
       "url": "https://doi.org/10.1021/jacs.6c11012"
     },
     {
+      "doi": "10.1021/jacs.6c10834",
+      "title": "Spontaneously Piezo- and Pyroelectric Polyacrylonitrile Brushes Prepared via Surface-Initiated Polymerization",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/jacs.6c10834"
+    },
+    {
+      "doi": "10.1021/jacs.6c10619",
+      "title": "Manganese Single-Atom-Engineered TiO2 Enables High-Performance Pt Catalysts for Proton Exchange Membrane Fuel Cells",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/jacs.6c10619"
+    },
+    {
       "doi": "10.1021/jacs.6c10525",
       "title": "Biphasic Solar Reforming of Lignin to Aromatics and CO for In Situ Carbonylation of Organics",
       "published_date": "2026-08-28",
       "url": "https://doi.org/10.1021/jacs.6c10525"
+    },
+    {
+      "doi": "10.1021/jacs.6c10222",
+      "title": "Carrier–Lattice Coupling Drives Oxidative Degradation in Mixed Tin–Lead Halide Perovskites: Machine Learning Combined with Nonadiabatic Molecular Dynamics",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/jacs.6c10222"
     },
     {
       "doi": "10.1021/jacs.6c09492",

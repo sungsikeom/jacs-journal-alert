@@ -1,9 +1,51 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-08-27T20:18:01.783Z",
+  "collected_at": "2026-08-29T20:17:23.078Z",
   "scope_start": "2026-01-01",
-  "article_count": 1139,
+  "article_count": 1147,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02456",
+      "title": "Optical Hyperpolarization of 1H and 19F Spins in Organic Liquids",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02456"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02312",
+      "title": "O2 Adsorption on AunRh+ (n = 3–8) Clusters: A Distinctive δ-like Bonding Interaction at Rh Sites",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02312"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02131",
+      "title": "Molecular Aromaticity from a Magnetic Perspective",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02131"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02595",
+      "title": "From Small Data to High Capacity: Symbolic Learning of Sodium-Ion Cathode Materials",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02595"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02489",
+      "title": "Flexible Capacitive Memristor with Intrinsic Frequency-Domain Perception for Intelligent Mechanical Fault Diagnosis",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02489"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02220",
+      "title": "Electrolyte-Controlled Self-Assembly of Water-Soluble Perylene Bisimides: A Kinetic and Stimulated Raman Study",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02220"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02006",
+      "title": "Quantized Plasmon Modes for Metallic Nanoparticles of Arbitrary Shape with a Generic Dielectric Function",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02006"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02411",
       "title": "Heterometal-Controlled Electron–Vibration Coupling and Carrier Relaxation Dynamics in Au3M2 (M = Cu, Ag) Nanoclusters",
@@ -27,6 +69,12 @@
       "title": "Dipole-Programmed Chiral Porous Superlattice from Triangular Molecular Platforms on Ag(111)",
       "published_date": "2026-08-27",
       "url": "https://doi.org/10.1021/acs.jpclett.6c02295"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02270",
+      "title": "Hydration-Dependent Local Proton Transfer in Confined Ionomer Clusters: Connectivity and Dynamics of the Hydrogen Bond Network",
+      "published_date": "2026-08-27",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02270"
     },
     {
       "doi": "10.1021/acs.jpclett.6c02063",

@@ -1,9 +1,57 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-08-28T20:23:54.514Z",
+  "collected_at": "2026-08-29T20:23:54.647Z",
   "scope_start": "2026-01-01",
-  "article_count": 2266,
+  "article_count": 2282,
   "articles": [
+    {
+      "doi": "10.1002/anie.9891954",
+      "title": "Switching HMF Oxidation Selectivity From FDCA to HMFCA via Carbon-Induced Constructing Strong Metal–Support Interaction Between Gold Nanoparticles and Al2O3",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1002/anie.9891954"
+    },
+    {
+      "doi": "10.1002/anie.7162372",
+      "title": "An Engineering-Editable Hybrid Membrane‑Camouflaged DNA Origami Drug Enables Checkpoint Blockade and Immune Activation for Triple-Negative Breast Cancer Immunotherapy",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1002/anie.7162372"
+    },
+    {
+      "doi": "10.1002/anie.6583201",
+      "title": "Chiral Nanostructured Cobalt Nanoparticles Confined in Zeolite for Syngas Conversion to Liquid Fuels at Low Temperature",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1002/anie.6583201"
+    },
+    {
+      "doi": "10.1002/anie.5529008",
+      "title": "Engineering Atomically Precise Cu4I4 Nanoclusters With Integrated Adsorption and Hydrogenation Functions for Efficient Photocatalytic Nitrate-to-Ammonia Conversion",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1002/anie.5529008"
+    },
+    {
+      "doi": "10.1002/anie.5509453",
+      "title": "Iron-Photocatalyzed Alkene Chloroaminoxylation: A Platform for Orthogonally Activatable Building Blocks",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1002/anie.5509453"
+    },
+    {
+      "doi": "10.1002/anie.4914496",
+      "title": "Conformation-Locking in Thiazole-Rich Mixed-Linkage Covalent Organic Frameworks for Spontaneous Exciton Dissociation and Efficient Photocatalysis",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1002/anie.4914496"
+    },
+    {
+      "doi": "10.1002/anie.3945602",
+      "title": "Enantioselective Total Synthesis of (+)-Dracocephalone A, (+)-Dracocequinone A, and (−)-Dracocequinone B by Oxabridge Construction With Oxygen",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1002/anie.3945602"
+    },
+    {
+      "doi": "10.1002/anie.1576222",
+      "title": "Local Acidity as a Corrosiveness Descriptor of Fluorinated Ether Solvents in Lithium–Metal Batteries",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1002/anie.1576222"
+    },
     {
       "doi": "10.1002/anie.6119233",
       "title": "Single Atom Catalysis Enables Preferential Middle-Ring Dehydrogenation of Perhydro-Dibenzyltoluene for Low-Temperature Hydrogen Production",
@@ -21,6 +69,54 @@
       "title": "Orchestrating Anion–π+ Interactions to Accelerate Metal-Free Room-Temperature Phosphorescence",
       "published_date": "2026-08-28",
       "url": "https://doi.org/10.1002/anie.4386683"
+    },
+    {
+      "doi": "10.1002/anie.4046032",
+      "title": "Carbonyl-Enriched Nonionic Covalent Organic Framework Nanochannels for High-Salinity Ionic Thermoelectrics",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1002/anie.4046032"
+    },
+    {
+      "doi": "10.1002/anie.3451661",
+      "title": "Achieving Near-Unity Glyoxylate Selectivity in Ethylene Glycol Oxidation by Spatiotemporal Coupling of Pulsed Electrolysis and Interface Engineering",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1002/anie.3451661"
+    },
+    {
+      "doi": "10.1002/anie.3093462",
+      "title": "Visible Light-Mediated Photoclick and Thermally Reversible Furanic Dithioacetal Chemistry for Circular 3D Printing",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1002/anie.3093462"
+    },
+    {
+      "doi": "10.1002/anie.3008697",
+      "title": "Active Learning-Accelerated Discovery of Antifungal Polymers With Self-Assembly Capacity for Tackling Invasive Fungal Diseases",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1002/anie.3008697"
+    },
+    {
+      "doi": "10.1002/anie.2883647",
+      "title": "Neural Engineering Tailored by Molecular Motors With Self-Reporting for Neuron Activation and Depression Treatment",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1002/anie.2883647"
+    },
+    {
+      "doi": "10.1002/anie.2006350",
+      "title": "A Plasmonic S-Scheme Heterojunction Achieves Broadband Response and Ultralow Overpotential of Photo-Assisted Li─O2 Batteries",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1002/anie.2006350"
+    },
+    {
+      "doi": "10.1002/anie.1530338",
+      "title": "Modular and Stereoselective Synthesis of Cyclobutane β-Amino Alcohols",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1002/anie.1530338"
+    },
+    {
+      "doi": "10.1002/anie.1329257",
+      "title": "Lysine Oxidation by LOXL2 in Single Strands Versus Triple Helices: Implications for Collagen-Related Diseases",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1002/anie.1329257"
     },
     {
       "doi": "10.1002/anie.9467229",

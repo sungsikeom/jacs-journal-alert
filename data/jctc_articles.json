@@ -1,9 +1,27 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-08-28T20:10:49.748Z",
+  "collected_at": "2026-08-29T20:10:49.565Z",
   "scope_start": "2026-01-01",
-  "article_count": 648,
+  "article_count": 651,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01124",
+      "title": "Bridging Machine Learning and Electron Density Theory with Adaptive Real-Space Integration",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01124"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01051",
+      "title": "Efficient Simulation of Higher-Order Transitions in Resonance Raman Spectroscopy and Its Chiral Extension",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01051"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00852",
+      "title": "r2SCAN-Based Composite Methods for Solid-State Calculations",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00852"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01360",
       "title": "Application of SAP-X2C to Spectroscopy and Comparison to Screened Nuclear Spin–Orbit Approximations",

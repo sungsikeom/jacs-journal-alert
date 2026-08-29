@@ -1,12 +1,18 @@
 {
   "source": "Nature Machine Intelligence Research Articles · 2026 filter",
-  "collected_at": "2026-08-28T20:07:25.475Z",
+  "collected_at": "2026-08-29T20:07:24.829Z",
   "scope_start": "2026-01-01",
-  "official_total": 79,
+  "official_total": 80,
   "collection_mode": "incremental",
   "stopped_on_known_doi": true,
-  "article_count": 79,
+  "article_count": 80,
   "articles": [
+    {
+      "doi": "10.1038/s42256-026-01283-z",
+      "title": "Large language models as uncertainty-calibrated optimizers for experimental discovery",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1038/s42256-026-01283-z"
+    },
     {
       "doi": "10.1038/s42256-026-01286-w",
       "title": "A knowledge-driven framework for predicting single-cell responses for unprofiled drugs",

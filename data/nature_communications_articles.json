@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-08-28T20:04:06.075Z",
+  "collected_at": "2026-08-29T20:04:05.553Z",
   "scope_start": "2026-01-01",
-  "article_count": 8589,
+  "article_count": 8609,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77331-4",
+      "title": "Persistent chromatin alterations and gene expression reprogramming follow widespread DNA damage in glioblastoma",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1038/s41467-026-77331-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77308-3",
+      "title": "Unraveling single-molecule reactions via multiplexed in-situ DNA sequencing",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1038/s41467-026-77308-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77304-7",
+      "title": "Mapping genetic regulation of gene expression to cellular contexts identifies long non-coding RNAs associated with brain disorders",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1038/s41467-026-77304-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77295-5",
+      "title": "Widespread genomic islands are hotspots of genome variations and mosaicism in giant viruses",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1038/s41467-026-77295-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77288-4",
+      "title": "Multiple orthoflaviviruses secrete sfRNA in mosquito saliva to promote transmission by inhibiting MDA5-mediated early interferon response",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1038/s41467-026-77288-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77269-7",
+      "title": "Programmable mesoporous carbon architectures from liquefied wood via reactive-emulsion-mediated self-assembly",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1038/s41467-026-77269-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77257-x",
+      "title": "Nanofibrous aerogels with continuous conductivity gradient for ultrabroadband absorption-dominant electromagnetic interference shielding",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1038/s41467-026-77257-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77219-3",
+      "title": "Gut microbiota-activated PLCγ2 monocytes drive atrial fibrillation",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1038/s41467-026-77219-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77205-9",
+      "title": "Many-body interactions resolve halide distribution at the air/water interface",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1038/s41467-026-77205-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77193-w",
+      "title": "Strong and crack-tolerant elastomers via geometrically confined H-bonding semicarbazides",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1038/s41467-026-77193-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77128-5",
+      "title": "A pre-train and fine-tune framework for adaptive boosting of pre-trained polygenic risk scores",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1038/s41467-026-77128-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77073-3",
+      "title": "The shifting landscape of brain-wide myelination across the human lifespan",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1038/s41467-026-77073-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77032-y",
+      "title": "Woven dECM yarn scaffolds enable volumetric muscle loss regeneration via immunomodulation",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1038/s41467-026-77032-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77021-1",
+      "title": "Partial coherence control delivers skyrmionic topological resilience and transitions",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1038/s41467-026-77021-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76949-8",
+      "title": "Hybrid exosomal nanomotors convert pathological ROS into transport-driving cues to enhance cartilage accumulation in osteoarthritis",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1038/s41467-026-76949-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-76944-z",
+      "title": "Hydrogen Bond-Enabled Carbon Dot-Based Network for Efficient Inverted Organic Solar Cells with Prolonged Photoelectrical-Mechanical-Moist Stability",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1038/s41467-026-76944-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-76436-0",
+      "title": "Six-fold reduction in ocean heat content estimate uncertainty since 1960",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1038/s41467-026-76436-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76159-2",
+      "title": "Injury-transduced oligodendrocytes modulate neuroinflammation and glial activation in diseased and non-diseased central nervous system",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1038/s41467-026-76159-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-76151-w",
+      "title": "Deviations from genetic additivity driven by rare variants at biobank scale",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1038/s41467-026-76151-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-75898-6",
+      "title": "Steric Gating Contributes to the Preferential Ubiquitin Charging of BIRC6 by UBA6 versus UBA1",
+      "published_date": "2026-08-29",
+      "url": "https://doi.org/10.1038/s41467-026-75898-6"
+    },
     {
       "doi": "10.1038/s41467-026-77271-z",
       "title": "The Labrador Sea as a conduit for AMOC lower-limb transport anomalies on multiple timescales",

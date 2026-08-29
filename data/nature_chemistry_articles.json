@@ -1,9 +1,15 @@
 {
   "source": "Nature Chemistry Research Articles",
-  "collected_at": "2026-08-28T20:07:34.688Z",
+  "collected_at": "2026-08-29T20:07:33.998Z",
   "scope_start": "2009-01-01",
-  "article_count": 2500,
+  "article_count": 2501,
   "articles": [
+    {
+      "doi": "10.1038/s41557-026-02227-1",
+      "title": "Cyclopropanol can function as a caged dual-functional warhead for selective electrochemical bioconjugation",
+      "published_date": "2026-08-28",
+      "url": "https://doi.org/10.1038/s41557-026-02227-1"
+    },
     {
       "doi": "10.1038/s41557-026-02238-y",
       "title": "Programmable regiodivergent light-driven cyclization of acyclic 1,5-dienes unlocks rigid bicyclic architectures",
