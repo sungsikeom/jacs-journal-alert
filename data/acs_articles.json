@@ -1,11 +1,23 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-08-29T20:00:38.258Z",
+  "collected_at": "2026-08-30T20:00:36.656Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7332,
+  "article_count": 7334,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c11263",
+      "title": "Breaking Low-Temperature Bottlenecks via p–d–π-Type Local Environment toward High-Performance Polymer-Based All-Solid-State Lithium Battery",
+      "published_date": "2026-08-30",
+      "url": "https://doi.org/10.1021/jacs.6c11263"
+    },
+    {
+      "doi": "10.1021/jacs.6c09046",
+      "title": "Orientational Order of Linkers Controls ZIF-8 Crystallization",
+      "published_date": "2026-08-30",
+      "url": "https://doi.org/10.1021/jacs.6c09046"
+    },
     {
       "doi": "10.1021/jacs.6c14072",
       "title": "Efficient CO-to-Acetate Conversion Electrocatalyst Screened by Pressurization-Compatible Operando Raman Spectroscopy",

@@ -1,9 +1,15 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-08-29T20:17:23.078Z",
+  "collected_at": "2026-08-30T20:17:21.852Z",
   "scope_start": "2026-01-01",
-  "article_count": 1147,
+  "article_count": 1148,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02549",
+      "title": "Unraveling the Molecular Origin of the Unprecedented ortho-Chloride Effect in Cobalt-Catalyzed Asymmetric Hydrogenation of 1,1-Diarylethenes",
+      "published_date": "2026-08-30",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02549"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02456",
       "title": "Optical Hyperpolarization of 1H and 19F Spins in Organic Liquids",

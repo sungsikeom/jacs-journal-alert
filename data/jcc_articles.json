@@ -1,9 +1,57 @@
 {
-  "source": "Wiley Journal of Computational Chemistry official RSS feed",
-  "collected_at": "2026-08-18T01:55:48.686Z",
+  "source": "Wiley Journal of Computational Chemistry search results",
+  "collected_at": "2026-08-30T20:22:42.694Z",
   "scope_start": "2026-01-01",
-  "article_count": 144,
+  "article_count": 152,
   "articles": [
+    {
+      "doi": "10.1002/jcc.70489",
+      "title": "Theoretical Investigation on Pyrene-Based Self-Assembled Molecules Toward Efficient Interface Performance of Perovskite/Transparent Electrode",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1002/jcc.70489"
+    },
+    {
+      "doi": "10.1002/jcc.70488",
+      "title": "Data Compression of the D1200 Suite: Achieving the Optimal Balance Between Size and Accuracy with the Diet-D200 Subset",
+      "published_date": "2026-08-23",
+      "url": "https://doi.org/10.1002/jcc.70488"
+    },
+    {
+      "doi": "10.1002/jcc.70486",
+      "title": "SolvateIt: A Tool for Solvating Molecules. A Case Study of Phloroglucinol in Solution",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1002/jcc.70486"
+    },
+    {
+      "doi": "10.1002/jcc.70482",
+      "title": "PARSEC.py: A Python-Based Real-Space Kohn–Sham Density Functional Theory Code Accelerated by Machine Learned Charge Density",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1002/jcc.70482"
+    },
+    {
+      "doi": "10.1002/jcc.70483",
+      "title": "Accurate Solution-Phase Thermodynamics via Composite Quantum Chemistry and Machine Learning: Application to Biomass Decomposition",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.1002/jcc.70483"
+    },
+    {
+      "doi": "10.1002/jcc.70481",
+      "title": "Efficient Calculation of Absorption Spectra of Platinum Complexes Used as Luminescent Probes for Cancer Detection",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1002/jcc.70481"
+    },
+    {
+      "doi": "10.1002/jcc.70484",
+      "title": "Physically Informed Population Initialization Improves Bonobo Optimizer Searches for Atomic Cluster Global Minima",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.1002/jcc.70484"
+    },
+    {
+      "doi": "10.1002/jcc.70440",
+      "title": "Progressive Dehydrogenation of LiNH2 Materials on Ru(0001) Based on ab initio Interface Models",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.1002/jcc.70440"
+    },
     {
       "doi": "10.1002/jcc.70479",
       "title": "Structure, Stability, Spectroscopy and Chemical Bonding Analyses on the Novel X6 (X = N, P, As, Sb, Bi) Molecules",

@@ -1,9 +1,15 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-08-29T20:04:05.553Z",
+  "collected_at": "2026-08-30T20:04:03.250Z",
   "scope_start": "2026-01-01",
-  "article_count": 8609,
+  "article_count": 8610,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-76503-6",
+      "title": "What one sees depends on how far the eye has moved",
+      "published_date": "2026-08-30",
+      "url": "https://doi.org/10.1038/s41467-026-76503-6"
+    },
     {
       "doi": "10.1038/s41467-026-77331-4",
       "title": "Persistent chromatin alterations and gene expression reprogramming follow widespread DNA damage in glioblastoma",

@@ -1,17 +1,65 @@
 {
-  "checked_at": "2026-08-30T05:30:40+09:00",
+  "checked_at": "2026-08-31T05:32:20+09:00",
   "journal_count": 12,
-  "new_count": 44,
-  "total_count": 26501,
+  "new_count": 4,
+  "total_count": 26513,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-08-30",
+  "scope_end": "2026-08-31",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-76503-6",
+      "title": "What one sees depends on how far the eye has moved",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-08-30",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-76503-6",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c11263",
+      "title": "Breaking Low-Temperature Bottlenecks via p–d–π-Type Local Environment toward High-Performance Polymer-Based All-Solid-State Lithium Battery",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-08-30",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c11263",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c09046",
+      "title": "Orientational Order of Linkers Controls ZIF-8 Crystallization",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-08-30",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c09046",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02549",
+      "title": "Unraveling the Molecular Origin of the Unprecedented ortho-Chloride Effect in Cobalt-Catalyzed Asymmetric Hydrogenation of 1,1-Diarylethenes",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-08-30",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02549",
+      "sources": [
+        "publisher"
+      ]
+    },
     {
       "doi": "10.1038/s41467-026-77331-4",
       "title": "Persistent chromatin alterations and gene expression reprogramming follow widespread DNA damage in glioblastoma",
@@ -4292,6 +4340,18 @@
       ]
     },
     {
+      "doi": "10.1002/jcc.70489",
+      "title": "Theoretical Investigation on Pyrene-Based Self-Assembled Molecules Toward Efficient Interface Performance of Perovskite/Transparent Electrode",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-08-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70489",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1002/anie.8631704",
       "title": "Conjugated Microporous Polymers Bearing Poly(Acrylic Acid) Brushes: Site-Specific Rhodium Immobilization for Efficient and Enzyme-Compatible Photocatalytic NADH Regeneration",
       "journal": "Angewandte Chemie International Edition",
@@ -5367,6 +5427,18 @@
       "published_date": "2026-08-23",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jcim.6c01919",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70488",
+      "title": "Data Compression of the D1200 Suite: Achieving the Optimal Balance Between Size and Accuracy with the Diet-D200 Subset",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-08-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70488",
       "sources": [
         "publisher"
       ]
@@ -7251,6 +7323,30 @@
       "published_date": "2026-08-21",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jcim.6c00489",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70486",
+      "title": "SolvateIt: A Tool for Solvating Molecules. A Case Study of Phloroglucinol in Solution",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-08-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70486",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70482",
+      "title": "PARSEC.py: A Python-Based Real-Space Kohn–Sham Density Functional Theory Code Accelerated by Machine Learned Charge Density",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-08-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70482",
       "sources": [
         "publisher"
       ]
@@ -9178,6 +9274,18 @@
       ]
     },
     {
+      "doi": "10.1002/jcc.70483",
+      "title": "Accurate Solution-Phase Thermodynamics via Composite Quantum Chemistry and Machine Learning: Application to Biomass Decomposition",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-08-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70483",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1002/anie.3729447",
       "title": "Surface-Assisted Cyclodehydrogenation and Annulative Dimerization on TiO2(110): Formation of an Azacoronene and Its Octagon-Fused Dimer",
       "journal": "Angewandte Chemie International Edition",
@@ -10001,6 +10109,18 @@
       "published_date": "2026-08-18",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jcim.6c01056",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70481",
+      "title": "Efficient Calculation of Absorption Spectra of Platinum Complexes Used as Luminescent Probes for Cancer Detection",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-08-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70481",
       "sources": [
         "publisher"
       ]
@@ -10865,6 +10985,30 @@
       "published_date": "2026-08-17",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jcim.6c01736",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70484",
+      "title": "Physically Informed Population Initialization Improves Bonobo Optimizer Searches for Atomic Cluster Global Minima",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-08-17",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70484",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70440",
+      "title": "Progressive Dehydrogenation of LiNH2 Materials on Ru(0001) Based on ab initio Interface Models",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-08-17",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/jcc.70440",
       "sources": [
         "publisher"
       ]
@@ -318652,49 +318796,9 @@
     }
   ],
   "new_dois": [
-    "10.1038/s41467-026-77331-4",
-    "10.1038/s41467-026-77308-3",
-    "10.1038/s41467-026-77304-7",
-    "10.1038/s41467-026-77295-5",
-    "10.1038/s41467-026-77288-4",
-    "10.1038/s41467-026-77269-7",
-    "10.1038/s41467-026-77257-x",
-    "10.1038/s41467-026-77219-3",
-    "10.1038/s41467-026-77205-9",
-    "10.1038/s41467-026-77193-w",
-    "10.1038/s41467-026-77128-5",
-    "10.1038/s41467-026-77073-3",
-    "10.1038/s41467-026-77032-y",
-    "10.1038/s41467-026-77021-1",
-    "10.1038/s41467-026-76949-8",
-    "10.1038/s41467-026-76944-z",
-    "10.1038/s41467-026-76436-0",
-    "10.1038/s41467-026-76159-2",
-    "10.1038/s41467-026-76151-w",
-    "10.1038/s41467-026-75898-6",
-    "10.1021/jacs.6c14072",
-    "10.1021/jacs.6c13896",
-    "10.1021/jacs.6c13856",
-    "10.1021/jacs.6c13780",
-    "10.1021/jacs.6c13508",
-    "10.1021/jacs.6c10313",
-    "10.1021/jacs.6c09975",
-    "10.1021/jacs.6c06025",
-    "10.1021/acs.jpclett.6c02456",
-    "10.1021/acs.jpclett.6c02312",
-    "10.1021/acs.jpclett.6c02131",
-    "10.1021/acs.jctc.6c01124",
-    "10.1021/acs.jctc.6c01051",
-    "10.1021/acs.jctc.6c00852",
-    "10.1021/acs.jcim.6c01644",
-    "10.1021/acs.jcim.6c01189",
-    "10.1002/anie.9891954",
-    "10.1002/anie.7162372",
-    "10.1002/anie.6583201",
-    "10.1002/anie.5529008",
-    "10.1002/anie.5509453",
-    "10.1002/anie.4914496",
-    "10.1002/anie.3945602",
-    "10.1002/anie.1576222"
+    "10.1038/s41467-026-76503-6",
+    "10.1021/jacs.6c11263",
+    "10.1021/jacs.6c09046",
+    "10.1021/acs.jpclett.6c02549"
   ]
 }
