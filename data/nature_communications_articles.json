@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-08-30T20:04:03.250Z",
+  "collected_at": "2026-08-31T20:06:08.020Z",
   "scope_start": "2026-01-01",
-  "article_count": 8610,
+  "article_count": 8630,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77375-6",
+      "title": "Clinical attribute-based risk matrix for prognostication in immunotherapy-treated non-small cell lung cancer",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1038/s41467-026-77375-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77371-w",
+      "title": "Grain boundary segregation of ceramic aerogels for reliable thermal insulation at extreme conditions",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1038/s41467-026-77371-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77368-5",
+      "title": "A lipid transfer-dependent feedback loop activates ATG9A compartments in autophagy initiation",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1038/s41467-026-77368-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77363-w",
+      "title": "Predicting ionic conductivity of sulfide glass solid-state electrolytes using max-flow methodology",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1038/s41467-026-77363-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77325-2",
+      "title": "Perirenal fat β₃-adrenergic signaling alleviates renal fibrosis via regulating Bcat2/BCAA-TNFα pathway in diabetic kidney disease",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1038/s41467-026-77325-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77277-7",
+      "title": "Multidisciplinary intervention in frail elderly patients with cardiovascular diseases: a multicentre, single-blinded, randomised controlled trial",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1038/s41467-026-77277-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77252-2",
+      "title": "Temporal lag in post-mining regrowth amplifies carbon loss in tropical forests during the period 2000–2023",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1038/s41467-026-77252-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77250-4",
+      "title": "An interpretable learning framework for exploring superelastic degradation of NiTi shape memory alloys using multimodal data",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1038/s41467-026-77250-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77216-6",
+      "title": "Dietary protein governs the role of insulin signaling in the postprandial regulation of hepatic mTORC1",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1038/s41467-026-77216-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77215-7",
+      "title": "The global distribution of macroalgal carbon burial in coastal sediments",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1038/s41467-026-77215-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77212-w",
+      "title": "Multi-modal learning with incomplete data",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1038/s41467-026-77212-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77192-x",
+      "title": "RBP-Driven RNA sorting and local translation establish the molecular identities of individual sensory axons",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1038/s41467-026-77192-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77162-3",
+      "title": "OsIDD7 integrates signaling networks for arbuscular mycorrhizal symbiosis",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1038/s41467-026-77162-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77116-9",
+      "title": "Single-cell profiling identifies obesity-disrupted brain glucose sensing",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1038/s41467-026-77116-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77063-5",
+      "title": "Listeria promotes systemic infection by targeting the host deubiquitinase CYLD",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1038/s41467-026-77063-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77041-x",
+      "title": "Neoadjuvant anti-HER2 antibody-drug conjugate SHR-A1811 in Hormone Receptor-positive, HER2-low Breast Cancer: A Phase 2 Clinical Trial (HELEN-015)",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1038/s41467-026-77041-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77022-0",
+      "title": "Calcium-tolerant electrode strategy for efficient hydrogen peroxide electrosynthesis in natural water",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1038/s41467-026-77022-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76979-2",
+      "title": "Chromosome-level Streptochaeta genome elucidates the ancestral karyotype and allopolyploid origin of grasses",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1038/s41467-026-76979-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-76952-z",
+      "title": "The default mode network exhibits circuit-specific selective vulnerability despite widespread amyloid burden in an animal model of Alzheimer’s disease",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1038/s41467-026-76952-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-76686-y",
+      "title": "Subicular spatial codes arise from predictive mapping",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1038/s41467-026-76686-y"
+    },
     {
       "doi": "10.1038/s41467-026-76503-6",
       "title": "What one sees depends on how far the eye has moved",

@@ -1,11 +1,107 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-08-30T20:00:36.656Z",
+  "collected_at": "2026-08-31T20:02:41.181Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7334,
+  "article_count": 7350,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c16270",
+      "title": "Correction to “Bioinspired Amine-Guided Polyphenol Coatings for Selective Bacterial Disruption and Osseointegration on Orthopedic Implants”",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/jacs.6c16270"
+    },
+    {
+      "doi": "10.1021/jacs.6c14548",
+      "title": "Nickel-Electrocatalyzed Anodic Enantioselective Acyloxylation and Cathodic Deacyloxylation of C–O Bonds",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/jacs.6c14548"
+    },
+    {
+      "doi": "10.1021/jacs.6c14333",
+      "title": "A General Photoredox Platform for the Hydroarylation of Olefins",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/jacs.6c14333"
+    },
+    {
+      "doi": "10.1021/jacs.6c14293",
+      "title": "Topological Control of Carbon Nanohoops for Boosted Long-Range Coherent Transport",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/jacs.6c14293"
+    },
+    {
+      "doi": "10.1021/jacs.6c13942",
+      "title": "Mechanistic Insights into Photo-Induced Bond Dissociation of a 2-(4-Nitrophenyl)-1H-indole-3-ylmethyl (NPIM) Derivative: A Case Study on Quantum Spin-Manipulation for Uncaging",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/jacs.6c13942"
+    },
+    {
+      "doi": "10.1021/jacs.6c13439",
+      "title": "Discovery of an Ultrasound-Responsive Arylurea-Dihydrotetrazine Architecture for Ultrasound-Programmed Bioorthogonal Chemistry",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/jacs.6c13439"
+    },
+    {
+      "doi": "10.1021/jacs.6c12039",
+      "title": "Decoupling CO2 Availability from Bulk Solubility via Biohybrid Reaction–Diffusion Nanoconfinement",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/jacs.6c12039"
+    },
+    {
+      "doi": "10.1021/jacs.6c11795",
+      "title": "Anisotropic Defect-Induced Orbital Reordering Enables Coherent Charge Redistribution and Selective Photocatalytic CO2 Reduction in Metal–Organic Frameworks",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/jacs.6c11795"
+    },
+    {
+      "doi": "10.1021/jacs.6c11733",
+      "title": "A Ruthenium Dihydride-Catalyzed Hydrogenation of Thioureas: A Mild and Practical Approach from CS2 to Methanethiol",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/jacs.6c11733"
+    },
+    {
+      "doi": "10.1021/jacs.6c11220",
+      "title": "Whole-Virus Screening Coupled with Uncertainty-Aware Deep Learning Enables Discovery of Virus-Binding scFvs",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/jacs.6c11220"
+    },
+    {
+      "doi": "10.1021/jacs.6c11056",
+      "title": "Light-Triggered Decoding of Hydrophobic Interactions in Living Systems",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/jacs.6c11056"
+    },
+    {
+      "doi": "10.1021/jacs.6c09597",
+      "title": "Correction to “Bridged Boranoanthracenes: Precursors for Free Oxoboranes through Aromatization-Driven Oxidative Extrusion”",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/jacs.6c09597"
+    },
+    {
+      "doi": "10.1021/jacs.6c09441",
+      "title": "Highly Charged Porphyrin Molecular Wires",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/jacs.6c09441"
+    },
+    {
+      "doi": "10.1021/jacs.6c09002",
+      "title": "Computing Nucleation Rates from Confined Equilibria: The Critical Cluster Equivalence Principle",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/jacs.6c09002"
+    },
+    {
+      "doi": "10.1021/jacs.6c05261",
+      "title": "Nickel-Catalyzed Regio-Controllable α- or β-Hydroalkylation of α,β-Unsaturated Amides",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/jacs.6c05261"
+    },
+    {
+      "doi": "10.1021/jacs.6c04096",
+      "title": "Compositional Effects on Proton and Oxygen Ion Transport in BaCoxFe0.8–xZr0.1Y0.1O3−δ (BCFZY)",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/jacs.6c04096"
+    },
     {
       "doi": "10.1021/jacs.6c11263",
       "title": "Breaking Low-Temperature Bottlenecks via p–d–π-Type Local Environment toward High-Performance Polymer-Based All-Solid-State Lithium Battery",

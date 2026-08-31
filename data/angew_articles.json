@@ -1,9 +1,123 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-08-29T20:23:54.647Z",
+  "collected_at": "2026-08-31T20:25:54.418Z",
   "scope_start": "2026-01-01",
-  "article_count": 2282,
+  "article_count": 2301,
   "articles": [
+    {
+      "doi": "10.1002/anie.8268615",
+      "title": "Na2Ti3O7-Assisted Grain-Boundary Tailoring of NASICON Electrolytes for Room-to-Subzero-Temperature All-Solid-State Sodium Metal Batteries",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1002/anie.8268615"
+    },
+    {
+      "doi": "10.1002/anie.7149031",
+      "title": "Photo-Driven Asymmetric Nanopore Electrode Enables Endogenous ROS Monitoring in Single Neuroimmune Cells",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1002/anie.7149031"
+    },
+    {
+      "doi": "10.1002/anie.6061192",
+      "title": "Potential-Controlled Selective Electrocatalytic Reduction of Nitrite to Four Different Products",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1002/anie.6061192"
+    },
+    {
+      "doi": "10.1002/anie.5407928",
+      "title": "Electrochemical Desilylative Fluorination Enables Access to N-Monofluoromethyl Amides and Peptides",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1002/anie.5407928"
+    },
+    {
+      "doi": "10.1002/anie.1258536",
+      "title": "Sequencing 4f–2p Gradient Orbital Coupling Within Guanidinium-Based Coordination Nanoplates to Boost Lithium-Ion Conductivity",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1002/anie.1258536"
+    },
+    {
+      "doi": "10.1002/anie.9003794",
+      "title": "Synergistic Hydrophobic-Polar Microenvironments in Corrugated Channels Enable Exceptional Moisture-Tolerant CO2 Capture",
+      "published_date": "2026-08-30",
+      "url": "https://doi.org/10.1002/anie.9003794"
+    },
+    {
+      "doi": "10.1002/anie.8498677",
+      "title": "Curved B,N-Doped Nanographene Beyond Narrowband Emission",
+      "published_date": "2026-08-30",
+      "url": "https://doi.org/10.1002/anie.8498677"
+    },
+    {
+      "doi": "10.1002/anie.7024563",
+      "title": "A Sonochemically Activatable Pro-Molecular Glue for Spatiotemporally Controlled Targeted Protein Degradation",
+      "published_date": "2026-08-30",
+      "url": "https://doi.org/10.1002/anie.7024563"
+    },
+    {
+      "doi": "10.1002/anie.6759160",
+      "title": "Terminally Fluorinated Polyimide Interphase for Durable Lithium-Rich Layered Oxide Cathodes",
+      "published_date": "2026-08-30",
+      "url": "https://doi.org/10.1002/anie.6759160"
+    },
+    {
+      "doi": "10.1002/anie.6548693",
+      "title": "Pushing the Interconnection Limit in Perovskite-Organic Tandem Solar Cells Through Recombination Channels Delocalization",
+      "published_date": "2026-08-30",
+      "url": "https://doi.org/10.1002/anie.6548693"
+    },
+    {
+      "doi": "10.1002/anie.6219762",
+      "title": "Correction to “Accurate Molecular Sensing based on a Modular and Customizable CRISPR/Cas-Assisted Nanopore Operational Nexus (CANON)”",
+      "published_date": "2026-08-30",
+      "url": "https://doi.org/10.1002/anie.6219762"
+    },
+    {
+      "doi": "10.1002/anie.5881961",
+      "title": "Formaldehyde-Ozone Battery for the Detoxification of Hazardous Wastes and Electricity Generation",
+      "published_date": "2026-08-30",
+      "url": "https://doi.org/10.1002/anie.5881961"
+    },
+    {
+      "doi": "10.1002/anie.5300342",
+      "title": "Molecular Tailoring of Fluorescent Agents Toward SICTERS-Active Raman Probes",
+      "published_date": "2026-08-30",
+      "url": "https://doi.org/10.1002/anie.5300342"
+    },
+    {
+      "doi": "10.1002/anie.5047569",
+      "title": "Ligand Steric Hindrance-Engineered Spatially Asymmetric Single-Atom Catalysts: A New Platform for Electrochemical Oxygen Reduction",
+      "published_date": "2026-08-30",
+      "url": "https://doi.org/10.1002/anie.5047569"
+    },
+    {
+      "doi": "10.1002/anie.4852008",
+      "title": "4.8 V and All-Climate (−60 to 55°C) All-Solid-State Batteries Enabled by Dual-Phase Symbiotic Halide Solid Electrolytes",
+      "published_date": "2026-08-30",
+      "url": "https://doi.org/10.1002/anie.4852008"
+    },
+    {
+      "doi": "10.1002/anie.2982207",
+      "title": "Controllable Dearomative Photocycloaddition of Triplet Benzenes With Allenes",
+      "published_date": "2026-08-30",
+      "url": "https://doi.org/10.1002/anie.2982207"
+    },
+    {
+      "doi": "10.1002/anie.2717326",
+      "title": "Cracking and Self-Healing in a Molecular Crystal Driven by Topochemical Polymerization",
+      "published_date": "2026-08-30",
+      "url": "https://doi.org/10.1002/anie.2717326"
+    },
+    {
+      "doi": "10.1002/anie.2707273",
+      "title": "Unveiling Electrode–Electrolyte Interfacial Synergy in CTAB-Modulated Pd Single-Atom Catalysts for Efficient H2O2 Electrosynthesis",
+      "published_date": "2026-08-30",
+      "url": "https://doi.org/10.1002/anie.2707273"
+    },
+    {
+      "doi": "10.1002/anie.2276045",
+      "title": "Temperature-Dependent Dynamics of Superoxide and Peroxide Anions in Hydrocarbon Catalytic Oxidation Over Single-Atom Pt Catalysts",
+      "published_date": "2026-08-30",
+      "url": "https://doi.org/10.1002/anie.2276045"
+    },
     {
       "doi": "10.1002/anie.9891954",
       "title": "Switching HMF Oxidation Selectivity From FDCA to HMFCA via Carbon-Induced Constructing Strong Metal–Support Interaction Between Gold Nanoparticles and Al2O3",

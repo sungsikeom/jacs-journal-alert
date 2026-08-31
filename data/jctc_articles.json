@@ -1,9 +1,51 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-08-30T20:10:49.852Z",
+  "collected_at": "2026-08-31T20:12:50.076Z",
   "scope_start": "2026-01-01",
-  "article_count": 651,
+  "article_count": 658,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01763",
+      "title": "Correction to “Two-Photon Absorption Strengths of Small Molecules: Reference CC3 Values and Benchmarks”",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01763"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01336",
+      "title": "MOFF2: A Transferable Coarse-Grained Protein Force Field for Predictive Condensate Simulations",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01336"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01114",
+      "title": "An Investigation into the Kinetic Persistence of TiO2 Polymorphs Using Machine-Learning-Driven Pathfinding in Crystal Configuration Space",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01114"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01100",
+      "title": "Uncertainty-Aware Reactive Force Field Potentials for Materials via Physics-Informed Bayesian Optimization",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01100"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00949",
+      "title": "Martini 3 Overestimates Lipid Scrambling by Membrane Proteins",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00949"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00936",
+      "title": "MLIP-Enhanced Thermochemistry Predictions across Organic Chemical Space",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00936"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00678",
+      "title": "Protein Titration Benchmark of CHARMM36, Amber99sb-ildn, Amber14sb, OPLS-AA/M, and Martini 2 Force Fields for Constant pH Molecular Dynamics in GROMACS",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00678"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01124",
       "title": "Bridging Machine Learning and Electron Density Theory with Adaptive Real-Space Integration",

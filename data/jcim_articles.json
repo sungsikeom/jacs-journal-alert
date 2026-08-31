@@ -1,9 +1,33 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-08-30T20:14:05.244Z",
+  "collected_at": "2026-08-31T20:16:06.842Z",
   "scope_start": "2026-01-01",
-  "article_count": 790,
+  "article_count": 794,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02546",
+      "title": "GAPEK: A General Framework for Multiparameter Enzyme Kinetic Prediction with Adaptive Learning",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02546"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02361",
+      "title": "In-Context Learning Meets Small Molecule Property Prediction: Benchmarking Novel Machine Learning Approaches",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02361"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01332",
+      "title": "MolSelector: A Machine Learning Framework for Interpretable Subset Selection from Molecular Science Data Sets",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01332"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00947",
+      "title": "Probe-Atom Distributions Obtained from Mixed-Solvent Molecular Dynamics Improve the Scoring of Docking Calculations",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00947"
+    },
     {
       "doi": "10.1021/acs.jcim.6c01644",
       "title": "SA-MPNN: A Sequence-Aware ThermoMPNN for Accurate Prediction of Mutational Effects on Protein Thermodynamic Stability",
