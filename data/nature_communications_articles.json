@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-08-31T20:06:08.020Z",
+  "collected_at": "2026-09-01T20:04:02.423Z",
   "scope_start": "2026-01-01",
-  "article_count": 8630,
+  "article_count": 8650,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77367-6",
+      "title": "Handling biological replicates in long-read RNA sequencing data by joining or not joining",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1038/s41467-026-77367-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77348-9",
+      "title": "CRACD loss drives hypoxia-induced immune escape in gastric cancer",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1038/s41467-026-77348-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77344-z",
+      "title": "Carbon neutrality strategies modulate air quality effects on solar power generation",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1038/s41467-026-77344-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77335-0",
+      "title": "The Fanconi anemia pathway restrains MLL-rearranged leukemogenesis through suppressing non-homologous end joining-mediated genomic instability",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1038/s41467-026-77335-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77332-3",
+      "title": "A small molecule inhibits Ebola virus entry through glycoprotein stabilization",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1038/s41467-026-77332-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77276-8",
+      "title": "Quinone-heme π-π interactions bridge the biotic-abiotic interface for enhanced methanogenesis",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1038/s41467-026-77276-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77266-w",
+      "title": "Distributed cortical learning through LEC-mediated γ-synchrony",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1038/s41467-026-77266-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77259-9",
+      "title": "Multilayer mesoporous vesosomes of block copolymer",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1038/s41467-026-77259-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77166-z",
+      "title": "Ultrathin nano-layered boron nitride stabilizing perovskite quantum dot-based light-emitting diodes",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1038/s41467-026-77166-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77157-0",
+      "title": "Lyapunov exponents explain disorder-induced polarization and soliton jumping in a mechanical Markov system",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1038/s41467-026-77157-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77122-x",
+      "title": "Submolecular video-imaging of the Smc5/6 complex topologically bound to DNA",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1038/s41467-026-77122-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77117-8",
+      "title": "Hydrogen-helium immiscibility boundary in gas-giant planetary interiors from machine-learning molecular dynamics",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1038/s41467-026-77117-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77049-3",
+      "title": "Efficacy of everolimus and letrozole with or without ribociclib in recurrent endometrial cancer: a phase 2 randomized clinical trial",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1038/s41467-026-77049-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77020-2",
+      "title": "Antichiral hinge states in a higher-order photonic nodal ring semimetal",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1038/s41467-026-77020-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-76672-4",
+      "title": "Cell-type specific analyses in blood and gut identify cis-eQTL matching 140 IBD risk loci and entrectinib as repurposing candidate",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1038/s41467-026-76672-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76622-0",
+      "title": "Shape memory polymer adhesives for on-demand, low-force detachment in skin-interfaced devices",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1038/s41467-026-76622-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76540-1",
+      "title": "Global incidence of esophageal cancer by histological and anatomical subtypes",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1038/s41467-026-76540-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-76492-6",
+      "title": "Bacterial growth under confinement requires transcriptional adaptation to resist turgor pressure build-up",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1038/s41467-026-76492-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-75590-9",
+      "title": "A machine learning method for calculating highly localized protein stabilities",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1038/s41467-026-75590-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-74391-4",
+      "title": "Coulombic surface dipole trapping ionomer for efficient proton exchange membrane fuel cells",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1038/s41467-026-74391-4"
+    },
     {
       "doi": "10.1038/s41467-026-77375-6",
       "title": "Clinical attribute-based risk matrix for prognostication in immunotherapy-treated non-small cell lung cancer",

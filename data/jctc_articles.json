@@ -1,9 +1,15 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-08-31T20:12:50.076Z",
+  "collected_at": "2026-09-01T20:10:45.472Z",
   "scope_start": "2026-01-01",
-  "article_count": 658,
+  "article_count": 659,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01280",
+      "title": "Developing CHARMM Force Field Parameters for the Radical States of Tryptophan and Tyrosine",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01280"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01763",
       "title": "Correction to “Two-Photon Absorption Strengths of Small Molecules: Reference CC3 Values and Benchmarks”",

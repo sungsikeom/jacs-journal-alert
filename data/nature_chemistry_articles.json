@@ -1,9 +1,15 @@
 {
   "source": "Nature Chemistry Research Articles",
-  "collected_at": "2026-08-31T20:09:35.285Z",
+  "collected_at": "2026-09-01T20:07:31.143Z",
   "scope_start": "2009-01-01",
-  "article_count": 2501,
+  "article_count": 2502,
   "articles": [
+    {
+      "doi": "10.1038/s41557-026-02242-2",
+      "title": "Programmable alkene skeleton construction via switchable radical and organometallic sorting",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1038/s41557-026-02242-2"
+    },
     {
       "doi": "10.1038/s41557-026-02227-1",
       "title": "Cyclopropanol can function as a caged dual-functional warhead for selective electrochemical bioconjugation",

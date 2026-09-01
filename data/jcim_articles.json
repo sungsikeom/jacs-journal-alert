@@ -1,9 +1,51 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-08-31T20:16:06.842Z",
+  "collected_at": "2026-09-01T20:14:02.037Z",
   "scope_start": "2026-01-01",
-  "article_count": 794,
+  "article_count": 802,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02252",
+      "title": "Performances and Critical Limitations of Docking and Protein–Ligand Interactions for Efficacy-Driven Virtual Screening Targeting Class A GPCRs",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02252"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02075",
+      "title": "KinEAGER: An Evidence-Aware Multitask Model with Calibrated Uncertainty for Enzyme Kinetics Prediction",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02075"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01905",
+      "title": "A Simulation-Free Topological Basis for Building Compact Koopman Models of Protein Folding",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01905"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01715",
+      "title": "Coupled-Cluster Theory for Water Empowered by Quantum Fragmentation and Deep Learning",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01715"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01547",
+      "title": "PKP-Diffmol: A Physicochemical Knowledge-Prompt Encoding and Latent Diffusion Framework for Molecular Property Prediction",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01547"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01393",
+      "title": "Adaptive Topology-Semantic Fusion Contrastive Learning for Drug Repositioning",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01393"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01049",
+      "title": "Pro-GAT: Reconnecting Fragmented PROTACs Using Graph Attention Transformer",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01049"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02546",
       "title": "GAPEK: A General Framework for Multiparameter Enzyme Kinetic Prediction with Adaptive Learning",
@@ -27,6 +69,12 @@
       "title": "Probe-Atom Distributions Obtained from Mixed-Solvent Molecular Dynamics Improve the Scoring of Docking Calculations",
       "published_date": "2026-08-31",
       "url": "https://doi.org/10.1021/acs.jcim.6c00947"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00582",
+      "title": "Leveraging a Deep Learning Model and Computational Screening for the Discovery of ABCG2 Inhibitors against Drug-Resistant Breast Cancer",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00582"
     },
     {
       "doi": "10.1021/acs.jcim.6c01644",

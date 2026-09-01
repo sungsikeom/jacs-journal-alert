@@ -1,9 +1,159 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-08-31T20:25:54.418Z",
+  "collected_at": "2026-09-01T20:24:01.025Z",
   "scope_start": "2026-01-01",
-  "article_count": 2301,
+  "article_count": 2326,
   "articles": [
+    {
+      "doi": "10.1002/anie.9805066",
+      "title": "Metal Oxides Catalyze Formation of Dehydroamino Acids by Phosphate β-Elimination Under Physiological Conditions",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.9805066"
+    },
+    {
+      "doi": "10.1002/anie.9546971",
+      "title": "Integrated DES-Mediated Extraction and In Situ Polymerization Toward Coal Tar Phenolic-Derived Defective Porous Carbon for High-Energy-Density Zinc-Ion Hybrid Capacitors",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.9546971"
+    },
+    {
+      "doi": "10.1002/anie.9163811",
+      "title": "Organic Metal Chalcogenide Films With Giant Birefringence",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.9163811"
+    },
+    {
+      "doi": "10.1002/anie.8901776",
+      "title": "Covalent Organic Framework Colloids With Core-Shell Donor/Acceptor Architecture and Ultralong-Lived Charge-Separated States",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.8901776"
+    },
+    {
+      "doi": "10.1002/anie.8413238",
+      "title": "Chiral Trigonal Pyramidal Germanium Halides for Enhanced Second Harmonic Generation",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.8413238"
+    },
+    {
+      "doi": "10.1002/anie.8195696",
+      "title": "Hybrid Single-Crystalline Mesoporous Frameworks Merging Metal–Organic and Hydrogen-Bonded Organic Networks",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.8195696"
+    },
+    {
+      "doi": "10.1002/anie.8129050",
+      "title": "Sono-Triggered In Situ Vaccine via a Chlorin-Based Small Molecule Sensitizer for Systemic Cancer Therapy",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.8129050"
+    },
+    {
+      "doi": "10.1002/anie.7517064",
+      "title": "Catalytic Enantioselective Synthesis of Upper-rim-Functionalized Inherently Chiral Calix[4]arenes Through Desymmetrizing Reductive Amination",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.7517064"
+    },
+    {
+      "doi": "10.1002/anie.7495552",
+      "title": "Supramolecular Engineering of Dynamically Interlocked Dual-Stiffness Interphase for Biomimetic Strong and Tough Double Network Aerogel",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.7495552"
+    },
+    {
+      "doi": "10.1002/anie.7017206",
+      "title": "Space-Confined Water Isotope Transport in Conductive MOF Thin Film",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.7017206"
+    },
+    {
+      "doi": "10.1002/anie.7006612",
+      "title": "Aggregation-Enhanced Photocleavage for Time-Resolved Multicolor Fluorescence Encryption and Quaternary Optical Storage",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.7006612"
+    },
+    {
+      "doi": "10.1002/anie.6847901",
+      "title": "Site-Specific Molecular Engineering Redirects Radical Pathways for Selective Photocatalytic Coupling of Methane to C2+ Hydrocarbons",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.6847901"
+    },
+    {
+      "doi": "10.1002/anie.5604332",
+      "title": "Transformative Masked Ortho-Quinone Chemistry: From Direct Guaiacol Activation to Lignin-Based Adhesives",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.5604332"
+    },
+    {
+      "doi": "10.1002/anie.5509036",
+      "title": "Leveraging Protein Dynamics for Selective Inhibition of Threonyl-tRNA Synthetase by Obafluorin Analogs",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.5509036"
+    },
+    {
+      "doi": "10.1002/anie.5199246",
+      "title": "Electrically Switchable Circularly Polarized Light Detection in Optically Active Ferroelectric",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.5199246"
+    },
+    {
+      "doi": "10.1002/anie.4984465",
+      "title": "Spacer Length as a Molecular Cue for Self-Sorting, Living Growth, and Piezoresponse in Peptide Assemblies",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.4984465"
+    },
+    {
+      "doi": "10.1002/anie.4575346",
+      "title": "Co-Assembled Mirror-Image DNA Nanostructure for Effective Alleviation of Acute Kidney Injury",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.4575346"
+    },
+    {
+      "doi": "10.1002/anie.4338333",
+      "title": "Elucidating Photo-Kinetic Control in Photothermal Reverse Water-Gas Shift Reaction",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.4338333"
+    },
+    {
+      "doi": "10.1002/anie.3448513",
+      "title": "Adaptive Induced-Fit via Engineered Linker Regioisomerization in Biomimetic Zeolitic Imidazolate Frameworks for Boosting SF6/N2 Separation",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.3448513"
+    },
+    {
+      "doi": "10.1002/anie.3254251",
+      "title": "Hydroxyl-Bridged Phosphorus Doping-Induced Charge Polarization Enhancing Electron Delocalization for Efficient Photoreduction of CO2",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.3254251"
+    },
+    {
+      "doi": "10.1002/anie.2725970",
+      "title": "Designing Multilayered Photoanodes for Broad-Scope Thiol Trifluoromethylation",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.2725970"
+    },
+    {
+      "doi": "10.1002/anie.2451961",
+      "title": "Radical Sulfinamidation of Alkenes Enabled by a PCET–HAT Relay",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.2451961"
+    },
+    {
+      "doi": "10.1002/anie.1815171",
+      "title": "One-End-Truncated Au52 and Au70 Quantum Rods: High-Quantum-Yield NIR-II Emitters With Aspect-Ratio-Dominated Photophysics",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.1815171"
+    },
+    {
+      "doi": "10.1002/anie.1803920",
+      "title": "Desymmetric Hydroacyloxylation of Paracyclophyne by Catalytic Coordination-Induced Asymmetric Addition",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.1803920"
+    },
+    {
+      "doi": "10.1002/anie.1115640",
+      "title": "Dithiafulvalene-Based Hole Transport Materials Enabling Efficient and Stable n‑i‑p Perovskite Solar Cells via a Robust Doping‑Oxidation Mechanism",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1002/anie.1115640"
+    },
     {
       "doi": "10.1002/anie.8268615",
       "title": "Na2Ti3O7-Assisted Grain-Boundary Tailoring of NASICON Electrolytes for Room-to-Subzero-Temperature All-Solid-State Sodium Metal Batteries",

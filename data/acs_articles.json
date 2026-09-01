@@ -1,11 +1,101 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-08-31T20:02:41.181Z",
+  "collected_at": "2026-09-01T20:00:36.118Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7350,
+  "article_count": 7366,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c16074",
+      "title": "Group Transfer Radical Polymerization of Sulfone-Substituted Aliphatic Alkynes",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/jacs.6c16074"
+    },
+    {
+      "doi": "10.1021/jacs.6c15924",
+      "title": "Mapping the Chemical Space of TADF Sensitizers Coupled with Virtual Screening for Narrowband Hyperfluorescence OLEDs",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/jacs.6c15924"
+    },
+    {
+      "doi": "10.1021/jacs.6c15566",
+      "title": "Reconfiguring Lone-Pair Electrons for High-Performance n-Type SnSe Thermoelectrics",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/jacs.6c15566"
+    },
+    {
+      "doi": "10.1021/jacs.6c14965",
+      "title": "Potassium Amide-Promoted Direct Synthesis of α-Aryl Nitriles from α-Aryl Alkenes",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/jacs.6c14965"
+    },
+    {
+      "doi": "10.1021/jacs.6c12942",
+      "title": "Family of β-Propeller Diels–Alderases Directs cis-Decalin Formation in Polyketide Biosynthesis",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/jacs.6c12942"
+    },
+    {
+      "doi": "10.1021/jacs.6c12612",
+      "title": "Epoxide-Mediated Carbon Dioxide Coupling Yields the Five-Membered Cyclic Carbonate in Cytosporin Biosynthesis",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/jacs.6c12612"
+    },
+    {
+      "doi": "10.1021/jacs.6c11967",
+      "title": "Electrochemical Deoxygenation of a TiIV–Oxo Complex to Enable Catalytic Reductive Oxygen-Atom Transfer from Organic Molecules",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/jacs.6c11967"
+    },
+    {
+      "doi": "10.1021/jacs.6c11903",
+      "title": "Digital Nanopore Counting Enabling Direct Identification of Trace-Level Neoantigens in Native Biological Samples",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/jacs.6c11903"
+    },
+    {
+      "doi": "10.1021/jacs.6c10748",
+      "title": "Simultaneous Site- and Residue-Specific Incorporation of Fluorinated Amino Acids for In-Cell Structural Biology by 19F Magic Angle Spinning NMR Spectroscopy",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/jacs.6c10748"
+    },
+    {
+      "doi": "10.1021/jacs.6c10467",
+      "title": "Wide-Temperature-Range Near-Zero Thermal Expansion via Stuffing-Controlled Dynamics in Diamond-Like Materials",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/jacs.6c10467"
+    },
+    {
+      "doi": "10.1021/jacs.6c10380",
+      "title": "Light-Driven Active Separation Sustains a Transmembrane Proton-Activity Difference for Electrochemical Microenvironment Regulation",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/jacs.6c10380"
+    },
+    {
+      "doi": "10.1021/jacs.6c10067",
+      "title": "Large-Mesopore Covalent Organic Framework Nanoparticles for Small Interfering RNA Delivery toward Cancer Immunotherapy",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/jacs.6c10067"
+    },
+    {
+      "doi": "10.1021/jacs.6c09488",
+      "title": "Electrode Potential in Ionic Liquid Enlightened by Liquid Madelung Theory",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/jacs.6c09488"
+    },
+    {
+      "doi": "10.1021/jacs.6c06602",
+      "title": "Spirobifluorene-Cored Tetrameric Acceptors with a Perpendicular Interlocking Toroidal Topology for Efficient and Stable Organic Solar Cells",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/jacs.6c06602"
+    },
+    {
+      "doi": "10.1021/jacs.6c05613",
+      "title": "3D-to-3D Topotactic Transformation in Extra-Large-Pore Pure-Silica Zeolite",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/jacs.6c05613"
+    },
     {
       "doi": "10.1021/jacs.6c16270",
       "title": "Correction to “Bioinspired Amine-Guided Polyphenol Coatings for Selective Bacterial Disruption and Osseointegration on Orthopedic Implants”",
@@ -41,6 +131,12 @@
       "title": "Discovery of an Ultrasound-Responsive Arylurea-Dihydrotetrazine Architecture for Ultrasound-Programmed Bioorthogonal Chemistry",
       "published_date": "2026-08-31",
       "url": "https://doi.org/10.1021/jacs.6c13439"
+    },
+    {
+      "doi": "10.1021/jacs.6c12925",
+      "title": "Catalytic Regulation of Cluster-Mediated Growth Enables Scalable Synthesis of Shape-Controlled Single-Crystalline Silver Nanocrystals",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/jacs.6c12925"
     },
     {
       "doi": "10.1021/jacs.6c12039",
