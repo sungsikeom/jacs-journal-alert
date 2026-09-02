@@ -1,9 +1,15 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-09-01T20:14:02.037Z",
+  "collected_at": "2026-09-02T20:13:59.875Z",
   "scope_start": "2026-01-01",
-  "article_count": 802,
+  "article_count": 803,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02680",
+      "title": "ChalcoVina: Enhancing Molecular Docking Accuracy by Incorporating Chalcogen Bond-Aware Scoring",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02680"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02252",
       "title": "Performances and Critical Limitations of Docking and Protein–Ligand Interactions for Efficacy-Driven Virtual Screening Targeting Class A GPCRs",

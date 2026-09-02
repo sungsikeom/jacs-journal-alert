@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-01T20:04:02.423Z",
+  "collected_at": "2026-09-02T20:03:58.908Z",
   "scope_start": "2026-01-01",
-  "article_count": 8650,
+  "article_count": 8670,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77476-2",
+      "title": "Common alleles associated with connectivity within and across the brain’s main functional networks",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41467-026-77476-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77457-5",
+      "title": "Interfacial spin-order engineering mitigates the permeability-loss trade-off in amorphous soft magnetic composites",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41467-026-77457-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77443-x",
+      "title": "Gene regulatory network analysis identifies auranofin as an anti-atherosclerotic drug",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41467-026-77443-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77410-6",
+      "title": "Subtyping metabolic dysfunction-associated steatotic liver disease using electronic health record-linked genomic cohorts reveals diverse etiologies and progression",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41467-026-77410-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77394-3",
+      "title": "Biomechanical energy harvesting to improve post-stroke mobility",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41467-026-77394-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77347-w",
+      "title": "Trace Al/Rb regulation stabilizes Cu-Fe5C2 active sites for ambient-pressure photothermal CO2 hydrogenation to C2-C4 olefin",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41467-026-77347-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77341-2",
+      "title": "Trifluoroacetate mediated reduction of atherosclerosis in mice",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41467-026-77341-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77333-2",
+      "title": "Unsupervised discovery of functional sequence patterns from protein language model with MotifAE",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41467-026-77333-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77301-w",
+      "title": "Macrocyclization of native peptides through (thio)urea crosslinking of two amines",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41467-026-77301-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77282-w",
+      "title": "A spin-photon interface in the telecom C-band with long hole spin dephasing time",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41467-026-77282-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77275-9",
+      "title": "Sex- and fiber type-specific remodeling of the muscle proteome implicates CSRP3 in resistance training-induced hypertrophy",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41467-026-77275-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77273-x",
+      "title": "Disentangling cation–polyanion coupling reveals which anion motion dominates cation transport in solid electrolytes",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41467-026-77273-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77207-7",
+      "title": "Molecular basis of nick ligation in the nucleosome by DNA Ligase IIIα",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41467-026-77207-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77181-0",
+      "title": "Selective organ deposition of nanoparticles directed by metal–organic network coatings",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41467-026-77181-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77178-9",
+      "title": "Photon-driven magnetization switching in Fe₃GeTe₂ enables programmable, multilevel magnetic memory",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41467-026-77178-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77148-1",
+      "title": "Unveiling hidden air pollution exposure and impacts with low-cost sensor network-based frameworks",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41467-026-77148-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77108-9",
+      "title": "DNA methylation either antagonizes or promotes Polycomb recruitment at transposable elements in Arabidopsis",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41467-026-77108-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77054-6",
+      "title": "A fully integrated sample-to-answer diagnostic platform enables rapid quantification of post-transplant infection at the point-of-care",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41467-026-77054-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77002-4",
+      "title": "Dual effect of α-synuclein disease variants on condensate formation",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41467-026-77002-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-74841-z",
+      "title": "Observation of a spin-textured nematic Kondo lattice",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41467-026-74841-z"
+    },
     {
       "doi": "10.1038/s41467-026-77367-6",
       "title": "Handling biological replicates in long-read RNA sequencing data by joining or not joining",

@@ -1,9 +1,129 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-01T20:24:01.025Z",
+  "collected_at": "2026-09-02T20:24:00.428Z",
   "scope_start": "2026-01-01",
-  "article_count": 2326,
+  "article_count": 2346,
   "articles": [
+    {
+      "doi": "10.1002/anie.9929915",
+      "title": "Created Ex Nihilo: A Near-Infrared Afterglow Luminescent Framework of Imidazole Derivatives for Bioimaging",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1002/anie.9929915"
+    },
+    {
+      "doi": "10.1002/anie.8800816",
+      "title": "Proton Capture and Relay Codesign Enables a pH-Neutral All-Organic Aqueous Proton Battery",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1002/anie.8800816"
+    },
+    {
+      "doi": "10.1002/anie.7089275",
+      "title": "Transient Regulation of Crystallization via Volatile Additives to Obtain High-Quality Perovskite Films",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1002/anie.7089275"
+    },
+    {
+      "doi": "10.1002/anie.6711809",
+      "title": "Drug-Derived Tetrahydropyrazines for Late-Stage α- and β-Functionalization of Piperazine-Based Pharmaceuticals",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1002/anie.6711809"
+    },
+    {
+      "doi": "10.1002/anie.6219487",
+      "title": "Intramolecular Nickel-Catalyzed Reductive Coupling: Enantioselective Synthesis of Tetrahydroisoquinolines and Related Heterocycles",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1002/anie.6219487"
+    },
+    {
+      "doi": "10.1002/anie.5685998",
+      "title": "Correction to “A Bifunctional Descriptor Inspired by Electron-Donating Ability for Regulating Dendrite Growth and Parasitic Reactions in Zinc-Ion Batteries”",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1002/anie.5685998"
+    },
+    {
+      "doi": "10.1002/anie.5624080",
+      "title": "Polyproline: A Synthetic Polypeptide With Unique Properties",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1002/anie.5624080"
+    },
+    {
+      "doi": "10.1002/anie.5243975",
+      "title": "Dual-Affinity Host Engineering for Highly Reversible Zinc–Iodine Batteries",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1002/anie.5243975"
+    },
+    {
+      "doi": "10.1002/anie.5032409",
+      "title": "2D Covalent Organic Frameworks as Robust n-Type Organic Mixed Ionic-Electronic Conductors for Electrochemical Transistors",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1002/anie.5032409"
+    },
+    {
+      "doi": "10.1002/anie.4674308",
+      "title": "The Part and the Whole: Field-Dependent THz-EPR Spectroscopy Probes Lattice-Dependent Electronic Structure in Iron(II) Spin Crossover",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1002/anie.4674308"
+    },
+    {
+      "doi": "10.1002/anie.3622603",
+      "title": "Self-Amplifying AIE Probe for HClO-Activatable Imaging and Antioxidative/Anti-Inflammatory Therapy of Thoracic Aortic Dissection",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1002/anie.3622603"
+    },
+    {
+      "doi": "10.1002/anie.3543240",
+      "title": "Geometry-Guided Screening of Metal/Oxide Heterointerfaces Enables Superior Sodium Metal Batteries at −40 °C",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1002/anie.3543240"
+    },
+    {
+      "doi": "10.1002/anie.3494903",
+      "title": "Defect Engineering on Amorphous NiFeB Alloys for the Selective Conversion of KA Oil Into Adipic Acid",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1002/anie.3494903"
+    },
+    {
+      "doi": "10.1002/anie.3409471",
+      "title": "Matrix-Activated Aptamer Sensors for Human Serum Analysis",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1002/anie.3409471"
+    },
+    {
+      "doi": "10.1002/anie.2719299",
+      "title": "In Situ Peptide Assembly for Cancer Therapy",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1002/anie.2719299"
+    },
+    {
+      "doi": "10.1002/anie.1803367",
+      "title": "Cascaded Energy Transfer in Supramolecular Assemblies Enables Amplified and Photoswitchable Circularly Polarized Luminescence",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1002/anie.1803367"
+    },
+    {
+      "doi": "10.1002/anie.1799326",
+      "title": "Organic Activatable Afterglow Imaging Probes: From Molecular Design to Biomedical Translation",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1002/anie.1799326"
+    },
+    {
+      "doi": "10.1002/anie.1597082",
+      "title": "Electric/Thermal Coupling Field Promotes Phonon Delocalization to Accelerate Defect-Repair Kinetics in Spent LiFePO4",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1002/anie.1597082"
+    },
+    {
+      "doi": "10.1002/anie.1324586",
+      "title": "Electrochemical Cobalt/Vanadium Relay Catalysis: Enantioselective Markovnikov Hydrooxygenation of Alkenes",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1002/anie.1324586"
+    },
+    {
+      "doi": "10.1002/anie.1190782",
+      "title": "Raising the Mayan Pyramids: Construction of Polyoxothiomolybdates via In Situ Sulfurization for Enhanced Antitumor Therapy",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1002/anie.1190782"
+    },
     {
       "doi": "10.1002/anie.9805066",
       "title": "Metal Oxides Catalyze Formation of Dehydroamino Acids by Phosphate β-Elimination Under Physiological Conditions",

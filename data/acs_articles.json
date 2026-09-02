@@ -1,11 +1,77 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-09-01T20:00:36.118Z",
+  "collected_at": "2026-09-02T20:00:32.252Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7366,
+  "article_count": 7379,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c14185",
+      "title": "5-tBu-Thalidomide Is a Selective Molecular Glue Degrader of the Transcription Factor FLT3 Interacting Zinc Finger 1 (FIZ1)",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/jacs.6c14185"
+    },
+    {
+      "doi": "10.1021/jacs.6c12219",
+      "title": "Anisotropic Lattice Compression Enables Defect-Rich Lithium-Ion Transport Channels for Extremely Fast-Charging Lithium-Ion Batteries",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/jacs.6c12219"
+    },
+    {
+      "doi": "10.1021/jacs.6c11815",
+      "title": "Biosynthesis of YM-216391 Unveils a Bifunctional α-Ketoglutarate-Dependent Enzyme Catalyzes Hydroxylation and Epimerization in RiPPs",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/jacs.6c11815"
+    },
+    {
+      "doi": "10.1021/jacs.6c11313",
+      "title": "Facet Modulation of Interfacial Water Structure Tunes Electrocatalytic Hydrogen Reaction Kinetics",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/jacs.6c11313"
+    },
+    {
+      "doi": "10.1021/jacs.6c10274",
+      "title": "Programmable Organic Quasi-Superlattices with Molecular-Monolayer Precision for Enhanced Photoconductive Response",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/jacs.6c10274"
+    },
+    {
+      "doi": "10.1021/jacs.6c09418",
+      "title": "Enhanced Catalytic Dechlorination of Polyvinyl Chloride (PVC) and H2 Production Enabled by Synergistic Gaδ+/Ga0 Active Sites in Liquid Metal Particles",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/jacs.6c09418"
+    },
+    {
+      "doi": "10.1021/jacs.6c08434",
+      "title": "AbSynth: A Century of Total Syntheses as a Machine-Readable Resource for Analyzing Strategic Logic in Organic Chemistry",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/jacs.6c08434"
+    },
+    {
+      "doi": "10.1021/jacs.6c08089",
+      "title": "Decoupling Local Chemistry and Electrostatics for Scalable and Accurate Prediction of Core-Level Binding Energies",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/jacs.6c08089"
+    },
+    {
+      "doi": "10.1021/jacs.6c07051",
+      "title": "Chiral-4′-Methyl-α-(l)-Threofuranosyl Nucleic Acids: Synthesis, Structure, Binding Affinity, Nuclease Resistance, and Polymerase Recognition",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/jacs.6c07051"
+    },
+    {
+      "doi": "10.1021/jacs.6c04323",
+      "title": "Electrochemical Oxidative Carbonylation: Strong CO Binding Suppresses C–C Coupling and Steers Selectivity to Organic Carbonates",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/jacs.6c04323"
+    },
+    {
+      "doi": "10.1021/jacs.5c21999",
+      "title": "Construction of Orientationally Ordered Organometallic Chains by Directional Noncovalent Interactions",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/jacs.5c21999"
+    },
     {
       "doi": "10.1021/jacs.6c16074",
       "title": "Group Transfer Radical Polymerization of Sulfone-Substituted Aliphatic Alkynes",
@@ -41,6 +107,12 @@
       "title": "Epoxide-Mediated Carbon Dioxide Coupling Yields the Five-Membered Cyclic Carbonate in Cytosporin Biosynthesis",
       "published_date": "2026-09-01",
       "url": "https://doi.org/10.1021/jacs.6c12612"
+    },
+    {
+      "doi": "10.1021/jacs.6c12226",
+      "title": "The Obligate Mutualism in Metal Nanoclusters",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/jacs.6c12226"
     },
     {
       "doi": "10.1021/jacs.6c11967",
@@ -95,6 +167,12 @@
       "title": "3D-to-3D Topotactic Transformation in Extra-Large-Pore Pure-Silica Zeolite",
       "published_date": "2026-09-01",
       "url": "https://doi.org/10.1021/jacs.6c05613"
+    },
+    {
+      "doi": "10.1021/jacs.6c04584",
+      "title": "Native Proteomics Reveals Protease-Mediated Hemophore Release by Bacterial Pathogens",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/jacs.6c04584"
     },
     {
       "doi": "10.1021/jacs.6c16270",

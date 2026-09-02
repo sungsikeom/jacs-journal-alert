@@ -1,9 +1,93 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-08-30T20:17:21.852Z",
+  "collected_at": "2026-09-02T20:17:17.095Z",
   "scope_start": "2026-01-01",
-  "article_count": 1148,
+  "article_count": 1162,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02857",
+      "title": "Correction to “Solvent Engineering of Quasi-2D Dion–Jacobson Perovskites Reveals Narrow Composition Tolerance for Indoor Photovoltaics”",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02857"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02525",
+      "title": "Room-Temperature Raman Enhancement in Colloidal 2D PbS Nanosheets",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02525"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02508",
+      "title": "Real-Time CASSCF Ehrenfest (TD-CASSCF) Modeling of Spintronics in a Tetrathiafulvalene-Based Nitronyl Nitroxide (BTBN) Model: The Competition between Charge Transfer and Spin Permutation",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02508"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02495",
+      "title": "Combining Small-Angle X-ray Scattering with Photoelectron Spectroscopy to Increase the Accuracy of Silica Shell Thickness Measurements on Inorganic Nanocrystals",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02495"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02428",
+      "title": "Electronic Modulation by C60-Fullerene Inhibits Methanol Dehydrogenation on Vanadium Clusters",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02428"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01733",
+      "title": "The Effective Phonon Frequency and Mass Involved in Electron–Phonon Coupling at Metal Surfaces from Helium Atom Scattering",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01733"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02564",
+      "title": "Dipole Orientation Influences Electron Transfer and Carrier Recombination at CH3NH3PbI3/C60 Interface: A Time-Domain Ab Initio Study",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02564"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02454",
+      "title": "Let’s Stalk about Membranes: Committor-Based Enhanced Sampling of Stalk Formation",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02454"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02325",
+      "title": "Fatty Acid Deaggregation and Extraction from Vesicles by Serum Albumin Proceeds Via a Dock-and-Load Mechanism",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02325"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02317",
+      "title": "The Symmetry Principle in Catalysis: A Viewpoint of the Pseudo-Jahn–Teller Effect",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02317"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02223",
+      "title": "Triple Phosphorescence and Rapid Spin Flip Mediated by Ultrafast Electron Transfer in a Spirocyclic Molecule",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02223"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02213",
+      "title": "pH-Induced Potential Shifts Modulate HER Activity Via Interfacial Hydrogen-Bond Networks: First-Principles Molecular Dynamics Simulations",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02213"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02143",
+      "title": "How Mixing Different Components Contributes to the Reduction of Crystal Growth Rate",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02143"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01926",
+      "title": "Model Structures and Electron Transfer Properties of Conductive Nickel-Organic Nanoribbons in Cable Bacteria",
+      "published_date": "2026-08-31",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01926"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02549",
       "title": "Unraveling the Molecular Origin of the Unprecedented ortho-Chloride Effect in Cobalt-Catalyzed Asymmetric Hydrogenation of 1,1-Diarylethenes",

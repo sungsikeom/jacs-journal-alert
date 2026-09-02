@@ -1,9 +1,21 @@
 {
   "source": "Nature Chemistry Research Articles",
-  "collected_at": "2026-09-01T20:07:31.143Z",
+  "collected_at": "2026-09-02T20:07:28.866Z",
   "scope_start": "2009-01-01",
-  "article_count": 2502,
+  "article_count": 2504,
   "articles": [
+    {
+      "doi": "10.1038/s41557-026-02232-4",
+      "title": "Lower-temperature bulk depolymerization of commercial polymethacrylates",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41557-026-02232-4"
+    },
+    {
+      "doi": "10.1038/s41557-026-02226-2",
+      "title": "Palladium-triggered bioorthogonal phenylalanine decaging",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41557-026-02226-2"
+    },
     {
       "doi": "10.1038/s41557-026-02242-2",
       "title": "Programmable alkene skeleton construction via switchable radical and organometallic sorting",
