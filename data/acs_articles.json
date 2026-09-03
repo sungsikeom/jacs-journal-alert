@@ -1,16 +1,130 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-09-02T20:00:32.252Z",
+  "collected_at": "2026-09-03T20:01:06.418Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7379,
+  "article_count": 7399,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c16051",
+      "title": "Neutrophil-Inspired Programmable Bacteria for Pyroptosis-Driven Tumor Eradication",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/jacs.6c16051"
+    },
+    {
+      "doi": "10.1021/jacs.6c15572",
+      "title": "Oxoisoaporphine Half-Sandwich Osmium(II) Derivative: A Catalytic Trigger for Innate Tumor Chemoimmunotherapy",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/jacs.6c15572"
+    },
+    {
+      "doi": "10.1021/jacs.6c13812",
+      "title": "Atomically Precise Pt19: The Largest All-Organic Ligand–Protected Platinum Nanocluster with Enhanced Stability and Electrocatalytic Activity",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/jacs.6c13812"
+    },
+    {
+      "doi": "10.1021/jacs.6c13556",
+      "title": "Cobalt-Catalyzed, Aminoquinoline-Directed Functionalization of Nonactivated C(sp3)-H Bonds under Mild Conditions",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/jacs.6c13556"
+    },
+    {
+      "doi": "10.1021/jacs.6c12194",
+      "title": "Maximizing the Magnetic Anisotropy of Dy Complexes by Fine-Tuning Organic Ligands: A Systematic Multireference High-Throughput Exploration of over 25k Molecules",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/jacs.6c12194"
+    },
+    {
+      "doi": "10.1021/jacs.6c11589",
+      "title": "Polymer Surfactants at the Mesoscale: Packaging Liquid Droplets with Ultrathin Sheets and Filaments",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/jacs.6c11589"
+    },
+    {
+      "doi": "10.1021/jacs.6c11110",
+      "title": "Beyond Funnel-Style High-Throughput Screening: An Expert-Guided Multi-Scale Nexus for Polynary Perovskite Electrocatalyst Exploration",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/jacs.6c11110"
+    },
+    {
+      "doi": "10.1021/jacs.6c10952",
+      "title": "Modular Platform for Directing-Group-Free Radical Dicarbofunctionalization of Unactivated Alkenes via Dual Nickel/Energy-Transfer Catalysis",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/jacs.6c10952"
+    },
+    {
+      "doi": "10.1021/jacs.6c10430",
+      "title": "When Copper Falls: Overriding the Irving–Williams Stability Trend Through Outer-Sphere Hydrogen Bonding",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/jacs.6c10430"
+    },
+    {
+      "doi": "10.1021/jacs.6c10366",
+      "title": "A Host–Guest Strategy to Achieve Selective and Robust CO2-to-CO Electrocatalysis in Aqueous Media",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/jacs.6c10366"
+    },
+    {
+      "doi": "10.1021/jacs.6c10179",
+      "title": "Homogeneous Iron Porphyrin as a Molecular CO Shuttle Enables Electrochemical Multicarbon Product Formation from CO2",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/jacs.6c10179"
+    },
+    {
+      "doi": "10.1021/jacs.6c09537",
+      "title": "Sequence-defined Digital Bottlebrush Polymers for Programmable Oligonucleotide Delivery",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/jacs.6c09537"
+    },
+    {
+      "doi": "10.1021/jacs.6c08648",
+      "title": "Deciphering Electrocatalytic Sulfur Reduction Reactions in Al–S Batteries via Single-Particle Electrodes",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/jacs.6c08648"
+    },
+    {
+      "doi": "10.1021/jacs.6c08110",
+      "title": "Dual-Site Engineering Unlocks Spin Modulation and Local Field-Controlled Charge Switching in Triangulenes",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/jacs.6c08110"
+    },
+    {
+      "doi": "10.1021/jacs.6c04573",
+      "title": "Temperature-Dependent Voltammetry Reveals the Potential-Dependent Formation of Reaction Species and Their Impact on Interfacial Excess Charge during the Ammonia Oxidation Reaction on Pt",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/jacs.6c04573"
+    },
+    {
+      "doi": "10.1021/jacs.6c03647",
+      "title": "Programmable Recognition of Organyl 5′-Phosphates by Human Argonaute-2",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/jacs.6c03647"
+    },
+    {
+      "doi": "10.1021/jacs.6c15050",
+      "title": "Following the Complete Thermal Landscape of a Protein by Neutron Scattering",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/jacs.6c15050"
+    },
     {
       "doi": "10.1021/jacs.6c14185",
       "title": "5-tBu-Thalidomide Is a Selective Molecular Glue Degrader of the Transcription Factor FLT3 Interacting Zinc Finger 1 (FIZ1)",
       "published_date": "2026-09-02",
       "url": "https://doi.org/10.1021/jacs.6c14185"
+    },
+    {
+      "doi": "10.1021/jacs.6c13880",
+      "title": "Interfacial Coupling of Perfluorooctanoic Acid Defluorination with Chromium(VI) Reduction in Aqueous Microdroplets",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/jacs.6c13880"
+    },
+    {
+      "doi": "10.1021/jacs.6c12269",
+      "title": "Activated Migration of Localized Ligand-Field Excitons in Atomically Thin CrCl3",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/jacs.6c12269"
     },
     {
       "doi": "10.1021/jacs.6c12219",
@@ -23,6 +137,12 @@
       "title": "Biosynthesis of YM-216391 Unveils a Bifunctional α-Ketoglutarate-Dependent Enzyme Catalyzes Hydroxylation and Epimerization in RiPPs",
       "published_date": "2026-09-02",
       "url": "https://doi.org/10.1021/jacs.6c11815"
+    },
+    {
+      "doi": "10.1021/jacs.6c11478",
+      "title": "Matching Helical and Supramolecular Chirality in a Perylene Diimide Dimer: Impact on (Chir)Optical Properties",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/jacs.6c11478"
     },
     {
       "doi": "10.1021/jacs.6c11313",

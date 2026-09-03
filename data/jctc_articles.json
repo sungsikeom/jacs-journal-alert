@@ -1,9 +1,51 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-09-01T20:10:45.472Z",
+  "collected_at": "2026-09-03T20:11:16.896Z",
   "scope_start": "2026-01-01",
-  "article_count": 659,
+  "article_count": 666,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01169",
+      "title": "GRACE-OFF: A Machine-Learned Interatomic Potential for Organic Liquids Using the GRACE Architecture",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01169"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01158",
+      "title": "State-Averaged Density Matrix Embedding Theory for Local Excitations",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01158"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01055",
+      "title": "Streaming Molecular Dynamics Simulation Data for On-the-Fly Processing and Analysis",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01055"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01230",
+      "title": "Calculation of NMR Shieldings for Strongly Correlated Molecules Using the Density Matrix Renormalization Group Self-Consistent-Field Method with Large Active Spaces",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01230"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01116",
+      "title": "Developing Explicit Base Stacking Potentials for the IsRNA2+ Coarse-Grained RNA Force Field Using Iterative Reweighting",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01116"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01060",
+      "title": "Tweaking Enzymatic Electric Field Can Evolve CYP450-like Activity in Catalase and CYP-P411 Enzymes",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01060"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00891",
+      "title": "Field-Driven Multipolar Energy Transfer in Plasmonic Near Fields",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00891"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01280",
       "title": "Developing CHARMM Force Field Parameters for the Radical States of Tryptophan and Tyrosine",

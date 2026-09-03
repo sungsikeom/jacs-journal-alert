@@ -1,10 +1,143 @@
 {
   "source": "Science tables of contents collected by the local Chrome extension",
-  "collected_at": "2026-09-02T20:00:38.590Z",
+  "collected_at": "2026-09-03T20:01:21.400Z",
   "scope_start": "2026-01-01",
   "article_type": "Research Article",
-  "article_count": 626,
+  "article_count": 646,
   "articles": [
+    {
+      "doi": "10.1126/science.aem0117",
+      "title": "In Other Journals",
+      "published_date": "2026-09-03",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aem0117"
+    },
+    {
+      "doi": "10.1126/science.aem0116",
+      "title": "In Science Journals",
+      "published_date": "2026-09-03",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aem0116"
+    },
+    {
+      "doi": "10.1126/science.ael9089",
+      "title": "Erratum for the Research Article “Supergene control of chiral development in mirror-image flowers”",
+      "published_date": "2026-09-03",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ael9089"
+    },
+    {
+      "doi": "10.1126/science.ael2773",
+      "title": "Erratum for the Research Article “Hypothalamic clock governs circadian pain”",
+      "published_date": "2026-09-03",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ael2773"
+    },
+    {
+      "doi": "10.1126/science.aeg9547",
+      "title": "Spontaneous polarization in chemical vapor–deposited polymer films creates large electric fields",
+      "published_date": "2026-09-03",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeg9547"
+    },
+    {
+      "doi": "10.1126/science.aee1792",
+      "title": "Programmable design of synthetic plant immune receptors for pathogen protein recognition",
+      "published_date": "2026-09-03",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aee1792"
+    },
+    {
+      "doi": "10.1126/science.aed8723",
+      "title": "Monomer-biased manufacture of industrial-scale colloidal photonic films",
+      "published_date": "2026-09-03",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aed8723"
+    },
+    {
+      "doi": "10.1126/science.aed6452",
+      "title": "Longitudinal dynamics of gene expression and metabolomics in an aging population cohort",
+      "published_date": "2026-09-03",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aed6452"
+    },
+    {
+      "doi": "10.1126/science.aed6035",
+      "title": "An embryo-derived peptide signal directs endosperm polarity in Arabidopsis",
+      "published_date": "2026-09-03",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aed6035"
+    },
+    {
+      "doi": "10.1126/science.aed4911",
+      "title": "Autothermal methane pyrolysis: Scalable heat integration for hydrogen and graphite production",
+      "published_date": "2026-09-03",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aed4911"
+    },
+    {
+      "doi": "10.1126/science.aed2974",
+      "title": "Rising plant extinction rates on European mountain summits",
+      "published_date": "2026-09-03",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aed2974"
+    },
+    {
+      "doi": "10.1126/science.aec6116",
+      "title": "Psilocybin prevents chemotherapy-induced peripheral neuropathy through mitochondrial trafficking preservation",
+      "published_date": "2026-09-03",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aec6116"
+    },
+    {
+      "doi": "10.1126/science.aea4611",
+      "title": "Conformational asymmetry of replicated human chromosomes",
+      "published_date": "2026-09-03",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aea4611"
+    },
+    {
+      "doi": "10.1126/science.adz8203",
+      "title": "Tumor-derived antioxidants suppress immunity by depriving T cells of reactive oxygen species",
+      "published_date": "2026-09-03",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adz8203"
+    },
+    {
+      "doi": "10.1126/science.ady5180",
+      "title": "Thalamic NRXN1-mediated input to human cortical progenitors drives excitatory neurogenesis",
+      "published_date": "2026-09-03",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ady5180"
+    },
+    {
+      "doi": "10.1126/science.ady2886",
+      "title": "Early-life colonization with Clostridioides difficile remodels the developing gut",
+      "published_date": "2026-09-03",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ady2886"
+    },
+    {
+      "doi": "10.1126/science.adx7334",
+      "title": "Measurement of the Λ electric dipole moment with an entangled baryon-antibaryon system",
+      "published_date": "2026-09-03",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adx7334"
+    },
+    {
+      "doi": "10.1126/science.adx3863",
+      "title": "Uneven TCR chain pairing constraints govern epitope recognition",
+      "published_date": "2026-09-03",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adx3863"
+    },
+    {
+      "doi": "10.1126/science.adw0855",
+      "title": "Spatially resolved single-cell atlas reveals the macroevolutionary trajectory of animal hearts",
+      "published_date": "2026-09-03",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adw0855"
+    },
     {
       "doi": "10.1126/science.ael7895",
       "title": "In Other Journals",
@@ -774,6 +907,13 @@
       "published_date": "2026-07-16",
       "article_type": "Research Article",
       "url": "https://doi.org/10.1126/science.aeb0357"
+    },
+    {
+      "doi": "10.1126/science.aea9708",
+      "title": "Helium escaping from the atmosphere of a nearby rocky exoplanet orbiting in a habitable zone",
+      "published_date": "2026-07-16",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aea9708"
     },
     {
       "doi": "10.1126/science.aea9413",

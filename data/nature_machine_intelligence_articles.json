@@ -1,12 +1,24 @@
 {
   "source": "Nature Machine Intelligence Research Articles · 2026 filter",
-  "collected_at": "2026-09-02T20:07:19.279Z",
+  "collected_at": "2026-09-03T20:07:52.775Z",
   "scope_start": "2026-01-01",
-  "official_total": 81,
+  "official_total": 83,
   "collection_mode": "incremental",
   "stopped_on_known_doi": true,
-  "article_count": 81,
+  "article_count": 83,
   "articles": [
+    {
+      "doi": "10.1038/s42256-026-01295-9",
+      "title": "NucleicBERT interprets RNA sequence space through self-supervised language modelling",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1038/s42256-026-01295-9"
+    },
+    {
+      "doi": "10.1038/s42256-026-01289-7",
+      "title": "Quantum neural operators with implicit quadratic frame and expressivity advantages",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1038/s42256-026-01289-7"
+    },
     {
       "doi": "10.1038/s42256-026-01300-1",
       "title": "Implicit-bias-like patterns in reasoning models",

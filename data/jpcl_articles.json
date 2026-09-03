@@ -1,9 +1,39 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-09-02T20:17:17.095Z",
+  "collected_at": "2026-09-03T20:17:50.240Z",
   "scope_start": "2026-01-01",
-  "article_count": 1162,
+  "article_count": 1167,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02614",
+      "title": "X-to-Chemical Energy Conversion Efficiency: A Unified Thermodynamic Definition",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02614"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02569",
+      "title": "Beyond Simply Spinning: Improving 1H Resolution at Fast Magic-Angle-Spinning Frequencies Using Combined Rotation and Multiple-Pulse Spectroscopy",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02569"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02529",
+      "title": "Nuclear Quantum Effects Suppress Nonradiative Recombination in Hybrid Perovskites beyond Isotope Mass Effects",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02529"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02112",
+      "title": "Hydrogen Detachment in Diprotic Aromatics: O–H versus N–H Photodissociation in m-Aminophenol",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02112"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02106",
+      "title": "Tuning Chiroptical Properties of Two-Dimensional Hybrid Perovskites through Organic Spacer and Halide Composition",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02106"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02857",
       "title": "Correction to “Solvent Engineering of Quasi-2D Dion–Jacobson Perovskites Reveals Narrow Composition Tolerance for Indoor Photovoltaics”",

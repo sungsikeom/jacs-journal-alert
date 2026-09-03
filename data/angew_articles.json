@@ -1,9 +1,87 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-02T20:24:00.428Z",
+  "collected_at": "2026-09-03T20:24:22.039Z",
   "scope_start": "2026-01-01",
-  "article_count": 2346,
+  "article_count": 2359,
   "articles": [
+    {
+      "doi": "10.1002/anie.9788311",
+      "title": "Reversible Symmetry Switching, Giant Birefringence, and UV Second-Harmonic Generation in Hybrid Niobium Oxyfluorides",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1002/anie.9788311"
+    },
+    {
+      "doi": "10.1002/anie.9030516",
+      "title": "Oxygen Serves as an Electron Acceptor for Efficient Photocatalytic Acetylene Hydrochlorination in Seawater",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1002/anie.9030516"
+    },
+    {
+      "doi": "10.1002/anie.8387616",
+      "title": "Stabilizing Perovskite/Electrode Interface With Tailored 2D/1D Stacking Layer",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1002/anie.8387616"
+    },
+    {
+      "doi": "10.1002/anie.7705008",
+      "title": "Broad-Spectrum, Cell Envelope-Active Marinocyclin Antibiotics From a Coral-Derived Bacterium Are Effective Against Colistin-Resistant Bacteria",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1002/anie.7705008"
+    },
+    {
+      "doi": "10.1002/anie.6197340",
+      "title": "Polypyridyl Coordination Motifs as Precursors for Ordered Carbonaceous Frameworks Toward High-Density Ru Single-Atom Catalysts",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1002/anie.6197340"
+    },
+    {
+      "doi": "10.1002/anie.6156560",
+      "title": "Dual d–p hybridization in Ternary PtGaGe Enables Concurrent Activity and Stability Enhancement for Alkaline Oxygen Reduction",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1002/anie.6156560"
+    },
+    {
+      "doi": "10.1002/anie.4842714",
+      "title": "A Dual Locking Strategy Enables Highly Selective meta-Xylene Separation With an Aluminum-Pyrrolic Framework",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1002/anie.4842714"
+    },
+    {
+      "doi": "10.1002/anie.4023427",
+      "title": "Ligand-Controlled Chemodivergent Telomerization and Hydrofunctionalization of Isoprene With Hydrazones Under Ni Catalysis",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1002/anie.4023427"
+    },
+    {
+      "doi": "10.1002/anie.2060850",
+      "title": "The Creation of a Dual-End Interface in Li─S Cathode by Anchoring Independent Metal Atoms on Graphdiyne",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1002/anie.2060850"
+    },
+    {
+      "doi": "10.1002/anie.2011872",
+      "title": "Noncanonical Peloruside A Biosynthesis by an Uncultivated Verrucomicrobiota Symbiont",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1002/anie.2011872"
+    },
+    {
+      "doi": "10.1002/anie.1521091",
+      "title": "Modifications of Lysine Residues 294 and 311 Within the Microtubule-Binding Region Alter Tau Aggregation and Tubulin Binding Equilibria",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1002/anie.1521091"
+    },
+    {
+      "doi": "10.1002/anie.1360189",
+      "title": "Crystallization Manipulation Through Buried Pyridinium-Induced Tunable Interactions in Perovskite Solar Cells",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1002/anie.1360189"
+    },
+    {
+      "doi": "10.1002/anie.1197888",
+      "title": "Achieve the Full-Wavelength Photoexcited Pyroelectricity in Perovskite Ferroelectric for Long-Wave Infrared Detection",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1002/anie.1197888"
+    },
     {
       "doi": "10.1002/anie.9929915",
       "title": "Created Ex Nihilo: A Near-Infrared Afterglow Luminescent Framework of Imidazole Derivatives for Bioimaging",

@@ -1,9 +1,27 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-09-02T20:13:59.875Z",
+  "collected_at": "2026-09-03T20:14:33.237Z",
   "scope_start": "2026-01-01",
-  "article_count": 803,
+  "article_count": 806,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02199",
+      "title": "ThermoLIB─A Python Library for Constructing and Post-Processing Free-Energy Surfaces to Extract Thermodynamic and Kinetic Properties",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02199"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02044",
+      "title": "Benchmarking Generative AI and Physics-Based Molecular Simulation for Sampling Conformational Heterogeneity in T4 Lysozyme",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02044"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00140",
+      "title": "Dynamics of Ligand Binding Sites and Chloride Penetration in a Bitter Taste GPCR",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00140"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02680",
       "title": "ChalcoVina: Enhancing Molecular Docking Accuracy by Incorporating Chalcogen Bond-Aware Scoring",

@@ -1,12 +1,102 @@
 {
   "source": "Nature Research Articles · 2026 filter",
-  "collected_at": "2026-09-02T20:07:12.087Z",
+  "collected_at": "2026-09-03T20:07:47.359Z",
   "scope_start": "2026-01-01",
-  "official_total": 916,
+  "official_total": 931,
   "collection_mode": "incremental",
   "stopped_on_known_doi": true,
-  "article_count": 916,
+  "article_count": 931,
   "articles": [
+    {
+      "doi": "10.1038/s41586-026-10992-9",
+      "title": "Robust inference and correlates from genetic associations with personality",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41586-026-10992-9"
+    },
+    {
+      "doi": "10.1038/s41586-026-10987-6",
+      "title": "3D epigenome of glial cell types in developing human cortex",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41586-026-10987-6"
+    },
+    {
+      "doi": "10.1038/s41586-026-10986-7",
+      "title": "Probing far-from-equilibrium dynamics of electrical double layers",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41586-026-10986-7"
+    },
+    {
+      "doi": "10.1038/s41586-026-10983-w",
+      "title": "Atmospheric CH4 plateau sustained by NOx emission rise and southward shift",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41586-026-10983-w"
+    },
+    {
+      "doi": "10.1038/s41586-026-10982-x",
+      "title": "Functional chimeric mRNAs encode proteins in mammalian immunity",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41586-026-10982-x"
+    },
+    {
+      "doi": "10.1038/s41586-026-10981-y",
+      "title": "Intracellular complement factor H protects neurons during CNS inflammation",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41586-026-10981-y"
+    },
+    {
+      "doi": "10.1038/s41586-026-10969-8",
+      "title": "Pines grow faster and are more drought resilient in the Southern Hemisphere",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41586-026-10969-8"
+    },
+    {
+      "doi": "10.1038/s41586-026-10962-1",
+      "title": "Rewiring the ribosome to translate proteins encoded in its own RNA",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41586-026-10962-1"
+    },
+    {
+      "doi": "10.1038/s41586-026-10952-3",
+      "title": "Creating bottom-up RNA transfer vehicles from synthetic protein assemblies",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41586-026-10952-3"
+    },
+    {
+      "doi": "10.1038/s41586-026-10950-5",
+      "title": "Explainable deep learning improves human mental models of self-driving cars",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41586-026-10950-5"
+    },
+    {
+      "doi": "10.1038/s41586-026-10940-7",
+      "title": "Late-life semaglutide treatment slows ageing and extends lifespan in female mice",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41586-026-10940-7"
+    },
+    {
+      "doi": "10.1038/s41586-026-10937-2",
+      "title": "Structure and operating principles of a monkeypox virus replisome",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41586-026-10937-2"
+    },
+    {
+      "doi": "10.1038/s41586-026-10908-7",
+      "title": "The nutritional value of invertebrate aquatic foods",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41586-026-10908-7"
+    },
+    {
+      "doi": "10.1038/s41586-026-10818-8",
+      "title": "Exploring baryon semileptonic decays through polarization and entanglement",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41586-026-10818-8"
+    },
+    {
+      "doi": "10.1038/s41586-026-10690-6",
+      "title": "Connectome analysis of a cerebellum-like circuit for sensory prediction",
+      "published_date": "2026-09-02",
+      "url": "https://doi.org/10.1038/s41586-026-10690-6"
+    },
     {
       "doi": "10.1038/s41586-026-10988-5",
       "title": "Video reconstruction of variable VLBI observations with neural fields",
