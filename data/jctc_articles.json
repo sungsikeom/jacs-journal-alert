@@ -1,9 +1,15 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-09-03T20:11:16.896Z",
+  "collected_at": "2026-09-04T20:10:45.509Z",
   "scope_start": "2026-01-01",
-  "article_count": 666,
+  "article_count": 667,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01363",
+      "title": "Coarse-Grained Nonadiabatic Dynamics in Disordered Condensed Phases",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01363"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01169",
       "title": "GRACE-OFF: A Machine-Learned Interatomic Potential for Organic Liquids Using the GRACE Architecture",

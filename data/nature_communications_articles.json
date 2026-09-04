@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-03T20:04:33.027Z",
+  "collected_at": "2026-09-04T20:04:00.191Z",
   "scope_start": "2026-01-01",
-  "article_count": 8690,
+  "article_count": 8710,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77575-0",
+      "title": "Manipulating Peierls-Nabarro stress to realize extraordinary thermoelectric performance in n-type PbTe",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1038/s41467-026-77575-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77543-8",
+      "title": "Twinned-magnesium metal negative electrodes enable reversible magnesium electrodeposition",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1038/s41467-026-77543-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77523-y",
+      "title": "Ultrahigh-sensitivity adaptive solar-blind organic neuromorphic sensors for robust corona discharge monitoring",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1038/s41467-026-77523-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77490-4",
+      "title": "Monolithically integrated silicon photonic biaxial FMCW LiDAR system",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1038/s41467-026-77490-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77482-4",
+      "title": "Cobalt-catalyzed Markovnikov-selective hydrophosphonylation of unactivated alkenes enabled by phthalimidyl phosphite reagents",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1038/s41467-026-77482-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77467-3",
+      "title": "Cadonilimab plus lenvatinib in advanced endometrial cancer: the multicenter single-arm phase II CLEAR-EC trial",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1038/s41467-026-77467-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77464-6",
+      "title": "Phenological fluctuations induce seasonal asymmetric warming in boreal forests",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1038/s41467-026-77464-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77445-9",
+      "title": "Global lake tipping vulnerability under sustained agricultural exposure",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1038/s41467-026-77445-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77435-x",
+      "title": "Probing electron transport and thermodynamic properties in expanded warm dense matter",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1038/s41467-026-77435-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77407-1",
+      "title": "Unified down-stream analysis of crosslinking mass spectrometry results with pyXLMS",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1038/s41467-026-77407-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77400-8",
+      "title": "Hippocampal mechanisms underlying the resolution of competition in memory and perception",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1038/s41467-026-77400-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77398-z",
+      "title": "Entropy engineering for advanced microwave ceramics",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1038/s41467-026-77398-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77364-9",
+      "title": "Toward efficient green methanol from biomass and renewable power",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1038/s41467-026-77364-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77319-0",
+      "title": "Astrocytic PI3Kα controls synaptic plasticity and cognitive function via serine metabolism",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1038/s41467-026-77319-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77306-5",
+      "title": "System-wide investments generate health and enhance HIV, TB and malaria control in Malawi",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1038/s41467-026-77306-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77299-1",
+      "title": "Ubiquity and seasonality of deep submesoscales in the Southern Ocean revealed by elephant seals",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1038/s41467-026-77299-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77195-8",
+      "title": "Phosphorylation-dependent control of transcription factor activity regulates temporal patterning of cortical cell fate specification",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1038/s41467-026-77195-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77184-x",
+      "title": "Stereoselective synthesis of E-shaped double helicene analogues via organocatalytic intermolecular cycloaddition",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1038/s41467-026-77184-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77127-6",
+      "title": "Correlating metabolites, lipids, and N-glycans in murine kidney microstructures via integrative mass spectrometry imaging",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1038/s41467-026-77127-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76382-x",
+      "title": "Multimodal radiopathomics model predicts postoperative metachronous liver metastasis in gastric cancer",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1038/s41467-026-76382-x"
+    },
     {
       "doi": "10.1038/s41467-026-77429-9",
       "title": "Increased encoding of aversive stimuli by lateral habenula neurons during Δ9-tetrahydrocannabinol withdrawal",

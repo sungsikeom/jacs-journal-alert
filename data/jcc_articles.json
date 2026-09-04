@@ -1,9 +1,27 @@
 {
   "source": "Wiley Journal of Computational Chemistry search results",
-  "collected_at": "2026-08-30T20:22:42.694Z",
+  "collected_at": "2026-09-04T20:22:38.453Z",
   "scope_start": "2026-01-01",
-  "article_count": 152,
+  "article_count": 155,
   "articles": [
+    {
+      "doi": "10.1002/jcc.70494",
+      "title": "A Fast and Parallelized Procedure for Checking Molecular Dynamics 3D Structure",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1002/jcc.70494"
+    },
+    {
+      "doi": "10.1002/jcc.70493",
+      "title": "Precursor Design Principles for Area-Selective Atomic Layer Deposition of Alumina: Quantifying the Role of Lewis Acidity, Steric Repulsion, and Dimerization in Surface Adsorption",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1002/jcc.70493"
+    },
+    {
+      "doi": "10.1002/jcc.70490",
+      "title": "Computational Design and Theoretical Evaluation of Novel Heterocyclic Energetic Materials Based on 5-H-Imidazo-[4,5-c]-Pyridazine and 1,2,4-Triazolo-[4,3-a]-Pyrazine Scaffolds",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1002/jcc.70490"
+    },
     {
       "doi": "10.1002/jcc.70489",
       "title": "Theoretical Investigation on Pyrene-Based Self-Assembled Molecules Toward Efficient Interface Performance of Perovskite/Transparent Electrode",

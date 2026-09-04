@@ -1,9 +1,33 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-09-03T20:14:33.237Z",
+  "collected_at": "2026-09-04T20:14:01.354Z",
   "scope_start": "2026-01-01",
-  "article_count": 806,
+  "article_count": 810,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c01334",
+      "title": "Synergistic Effects of pH and Temperature on Dengue Virus Envelope Dimers: Insights from Microsecond Molecular Dynamics Simulations",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01334"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01258",
+      "title": "Current–Voltage Characteristics of K+ Channels Estimated by MD Simulations and Markov State Models",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01258"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01211",
+      "title": "FMM-AutoOpt: A Python Tool for Automated GROMACS FMM Parameter Optimization",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01211"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01012",
+      "title": "Quantum-Chemically Informed Representation Learning for Molecular Crystal Property Prediction via Multimodal Graph Neural Networks",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01012"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02199",
       "title": "ThermoLIB─A Python Library for Constructing and Post-Processing Free-Energy Surfaces to Extract Thermodynamic and Kinetic Properties",

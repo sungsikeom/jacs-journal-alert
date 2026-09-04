@@ -1,12 +1,18 @@
 {
   "source": "Nature Research Articles · 2026 filter",
-  "collected_at": "2026-09-03T20:07:47.359Z",
+  "collected_at": "2026-09-04T20:07:14.258Z",
   "scope_start": "2026-01-01",
-  "official_total": 931,
+  "official_total": 932,
   "collection_mode": "incremental",
   "stopped_on_known_doi": true,
-  "article_count": 931,
+  "article_count": 932,
   "articles": [
+    {
+      "doi": "10.1038/s41586-026-11091-5",
+      "title": "Ketone homologation via palladium-catalysed decarboxylative rearrangement",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1038/s41586-026-11091-5"
+    },
     {
       "doi": "10.1038/s41586-026-10992-9",
       "title": "Robust inference and correlates from genetic associations with personality",

@@ -1,9 +1,63 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-09-03T20:17:50.240Z",
+  "collected_at": "2026-09-04T20:17:17.903Z",
   "scope_start": "2026-01-01",
-  "article_count": 1167,
+  "article_count": 1176,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02740",
+      "title": "Nonaqueous Contact-Electro-Chemistry Enables C–N Coupling",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02740"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02516",
+      "title": "Oleic Acid Binding and Exchange Dynamics on NaYF4 Nanocrystals",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02516"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02504",
+      "title": "Integrating Local and Normal Modes for Multilevel Vibrational Spectroscopy",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02504"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02479",
+      "title": "Revealing Spectral Characteristics of Shared Protons in Deprotonated Glutamic Acid Using Cryogenic Ion Trap Spectroscopy and Anharmonic Calculations",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02479"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02471",
+      "title": "Computational Design of N-Heterocyclic Carbene Mechanocatalysts",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02471"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02353",
+      "title": "Coherent Pulsed Dynamic Nuclear Polarization with Endogenous Metal Ions",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02353"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02323",
+      "title": "Binary Nanoparticle Superlattices Assembled via Hydrogen Bonding of Block Copolymer Micelles and Colloidal Silica",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02323"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02157",
+      "title": "Kinetic Monte Carlo–Ising Machine Optimization for Atomistic Inverse Design of Solid Electrolytes",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02157"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01784",
+      "title": "High-Speed Atomic Force Microscopy Reveals Single-Molecule Dynamics of Fulvestrant-Bound Estrogen Receptor α",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01784"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02614",
       "title": "X-to-Chemical Energy Conversion Efficiency: A Unified Thermodynamic Definition",
