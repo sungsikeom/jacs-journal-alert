@@ -1,9 +1,105 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-04T20:04:00.191Z",
+  "collected_at": "2026-09-05T20:04:00.366Z",
   "scope_start": "2026-01-01",
-  "article_count": 8710,
+  "article_count": 8726,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77599-6",
+      "title": "A divergent betacoronavirus with a functional furin cleavage site in South American bats",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1038/s41467-026-77599-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77570-5",
+      "title": "Optical excitation of nonreciprocal antiferromagnetic magnons at sub-terahertz frequencies",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1038/s41467-026-77570-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77568-z",
+      "title": "All-electrical magnetisation switching via tilting spin propagation and polarization in MnTe spin source",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1038/s41467-026-77568-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77519-8",
+      "title": "Operando electrochemiluminescence imaging of intermediate evolution and kinetics in electrocatalytic nitrate reduction",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1038/s41467-026-77519-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77517-w",
+      "title": "Directing Ru-based acidic oxygen evolution catalysts toward a universal dual-site pathway",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1038/s41467-026-77517-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77516-x",
+      "title": "Interfacial engineering strategies and sustainability assessment for direct electrolysis of dilute CO2 streams",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1038/s41467-026-77516-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77500-5",
+      "title": "Benchmarking copy number alteration inference methods for spatial transcriptomics",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1038/s41467-026-77500-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77433-z",
+      "title": "Neoadjuvant PD1 plus CTLA-4 immune checkpoint blockade in surgically resectable recurrent glioblastoma: a randomized surgical window-of-opportunity trial",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1038/s41467-026-77433-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77406-2",
+      "title": "Metabolic engineering and deep learning-driven protein engineering for N-Acetylneuraminic acid biosynthesis in Escherichia coli",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1038/s41467-026-77406-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77389-0",
+      "title": "Whole genome sequencing of 1427 Mexican individuals from the oriGen cohort",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1038/s41467-026-77389-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77379-2",
+      "title": "OXR1 is a dual redox–mitochondrial checkpoint governing osteoclast differentiation and bone loss in an osteoporosis mouse model",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1038/s41467-026-77379-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77377-4",
+      "title": "Ternary Neurexin-T178-PTPR complexes represent a pre-synaptic core-module of neuronal synapse organization",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1038/s41467-026-77377-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77370-x",
+      "title": "Human-guided continual learning for multifaceted improvement of self-driving vehicles",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1038/s41467-026-77370-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77312-7",
+      "title": "Steric control of signaling bias in the immunometabolic receptor GPR84",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1038/s41467-026-77312-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77247-z",
+      "title": "Selectively intraparticle oxygen dissociation and metalloid mineralization for long-term groundwater remediation",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1038/s41467-026-77247-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77151-6",
+      "title": "Suppressing glutamate dehydrogenase guides hematopoietic stem cell divisions into self-renewal",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1038/s41467-026-77151-6"
+    },
     {
       "doi": "10.1038/s41467-026-77575-0",
       "title": "Manipulating Peierls-Nabarro stress to realize extraordinary thermoelectric performance in n-type PbTe",

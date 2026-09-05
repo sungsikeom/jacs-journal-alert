@@ -1,9 +1,21 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-09-04T20:14:01.354Z",
+  "collected_at": "2026-09-05T20:14:00.114Z",
   "scope_start": "2026-01-01",
-  "article_count": 810,
+  "article_count": 812,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c01530",
+      "title": "Thermodynamics and Unbinding Kinetics of A22 at Multiple Actin-Binding Sites Revealed by Enhanced Sampling Simulations",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01530"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02460",
+      "title": "Persistent Local Laplacian Prediction of Protein–Ligand Binding Affinities",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02460"
+    },
     {
       "doi": "10.1021/acs.jcim.6c01334",
       "title": "Synergistic Effects of pH and Temperature on Dengue Virus Envelope Dimers: Insights from Microsecond Molecular Dynamics Simulations",

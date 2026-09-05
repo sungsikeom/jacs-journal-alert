@@ -1,9 +1,231 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-03T20:24:22.039Z",
+  "collected_at": "2026-09-05T20:23:59.774Z",
   "scope_start": "2026-01-01",
-  "article_count": 2359,
+  "article_count": 2396,
   "articles": [
+    {
+      "doi": "10.1002/anie.5826310",
+      "title": "BO-Fusion Modulates Excited-State Energetics to Enable Heavy-Atom-Free Photosensitization",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1002/anie.5826310"
+    },
+    {
+      "doi": "10.1002/anie.3879182",
+      "title": "A Silicon/Sulfur Analog of an Acyl Anion With Ambident Reactivity",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1002/anie.3879182"
+    },
+    {
+      "doi": "10.1002/anie.2086577",
+      "title": "Beyond [N]Phenylenes: Synthesis and Investigation of Linear [4] and [5]Naphthylenes Incorporating Multiple Four-Membered Rings",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1002/anie.2086577"
+    },
+    {
+      "doi": "10.1002/anie.9905804",
+      "title": "Hydrogen-Trapping Cage Engineering Enables Mild-Condition, Direct Proton Conversion to Functional Metal Hydrides",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.9905804"
+    },
+    {
+      "doi": "10.1002/anie.9696366",
+      "title": "Rational Design of a Synthetic Galliphore for the Diagnostic Nuclear Imaging and Treatment of Bacterial Infections",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.9696366"
+    },
+    {
+      "doi": "10.1002/anie.9579523",
+      "title": "Light- and pH-Gated Reversible Modulation of Peptide Coacervates via Noncovalent Integration of Spiropyran Photoswitches",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.9579523"
+    },
+    {
+      "doi": "10.1002/anie.9254918",
+      "title": "Light-Gated Chirality in a Supramolecular Cavitand",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.9254918"
+    },
+    {
+      "doi": "10.1002/anie.8891303",
+      "title": "Discovery of the Cyclic Form of MRI pH-Sensor Z-OMPD Enables >5% 13C Hyperpolarization by SABRE",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.8891303"
+    },
+    {
+      "doi": "10.1002/anie.8355145",
+      "title": "Dual-Interfacial Stabilization via Spatial-Charge Synergistic Modulation for Durable Zinc-Iodine Batteries",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.8355145"
+    },
+    {
+      "doi": "10.1002/anie.8312975",
+      "title": "Liquid Metal Molecular Medicine",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.8312975"
+    },
+    {
+      "doi": "10.1002/anie.8092854",
+      "title": "Synthesis of Aminocyclopropanes by Redox-Neutral Aminoalkylation",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.8092854"
+    },
+    {
+      "doi": "10.1002/anie.7970747",
+      "title": "Regulating H-Aggregation via a Thiazole-Modified Acceptor-Based Packing Reshaper Toward Highly Efficient and Stable Organic Solar Cells",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.7970747"
+    },
+    {
+      "doi": "10.1002/anie.7792190",
+      "title": "Modulating Covalent Organic Framework Nanochannel Microenvironments for Sustainable Hydrogen Peroxide Photosynthesis",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.7792190"
+    },
+    {
+      "doi": "10.1002/anie.7195803",
+      "title": "Host-Directed Discovery of Dynamic-Covalent Guests From Dynamic Combinatorial Libraries",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.7195803"
+    },
+    {
+      "doi": "10.1002/anie.6788295",
+      "title": "Self-Assembly and Molecular Recognition by Synthetic Receptors at the Oil-Water Interface in Aqueous Microdroplets",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.6788295"
+    },
+    {
+      "doi": "10.1002/anie.6595038",
+      "title": "Linker-Mediated Trade-Off Between Acceptor Aggregation and Donor–Acceptor Mixing Enables Organic Solar Cells With Efficiencies Exceeding 20.5%",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.6595038"
+    },
+    {
+      "doi": "10.1002/anie.6571996",
+      "title": "Effects of Phase-Transition-Enabled Atomic Shuttling Between Nanoparticles and Single-Atom Sites for Boosted Formic Acid Electro-Oxidation",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.6571996"
+    },
+    {
+      "doi": "10.1002/anie.6552551",
+      "title": "A microRNA-21-Activatable Two-Stage Signal Amplification Probe for Catalytic Photodynamic Therapy",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.6552551"
+    },
+    {
+      "doi": "10.1002/anie.6168208",
+      "title": "High-Tg Polythioesters From Isomerization Ring-Opening Polymerization of a Renewable Oxanorbornane-Fused Thionolactone",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.6168208"
+    },
+    {
+      "doi": "10.1002/anie.6004957",
+      "title": "Fusing Multi-Resonance Framework with Platinum(II) Complex via Cyclometalation for Narrowband Blue TADF",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.6004957"
+    },
+    {
+      "doi": "10.1002/anie.5966944",
+      "title": "Mechanochemical Synthesis of Flexible Ionic Covalent Organic Frameworks With Antibacterial Activity",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.5966944"
+    },
+    {
+      "doi": "10.1002/anie.5705848",
+      "title": "Bistable Switching of π-Conjugation in a Dithienylethene-Bridged Luminescent Trityl Diradicaloid",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.5705848"
+    },
+    {
+      "doi": "10.1002/anie.5423925",
+      "title": "Axially Chiral Nonalternant Polycyclic Aromatic Hydrocarbon With Consecutive Pentagons Exhibiting Large Spin-Polarized Current",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.5423925"
+    },
+    {
+      "doi": "10.1002/anie.5283597",
+      "title": "Synergic Regulation of Active Site Electron Polarization and Interlayer Electron Coupling in COFs for Photocatalytic Hydrogen Peroxide Synthesis",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.5283597"
+    },
+    {
+      "doi": "10.1002/anie.5246689",
+      "title": "Machine Learning-Driven Alloy Anode Accompanied by Interfacial Kinetic Compensation Design Toward High-Rate Zinc Pouch Cells",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.5246689"
+    },
+    {
+      "doi": "10.1002/anie.3992841",
+      "title": "Radical-Integrated Phosphorus-Containing Ionic Organic Cage for Efficient Gold Recovery From Complex Liquids",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.3992841"
+    },
+    {
+      "doi": "10.1002/anie.3932816",
+      "title": "A-Site Engineering of Aurivillius Bi4Ti3O12 for Enhanced Ferroelectric Polarization and Photocatalytic Overall Water Splitting",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.3932816"
+    },
+    {
+      "doi": "10.1002/anie.3926577",
+      "title": "A Chemically Selective Fluorescent Probe Visualizes the Non-Monotonic Evolution of the NaF-Rich Interphase in Sodium-Metal Batteries",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.3926577"
+    },
+    {
+      "doi": "10.1002/anie.2703109",
+      "title": "Programming Transition-Metal Reactivity With Dicationic Tetrylene Z-Type Ligands",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.2703109"
+    },
+    {
+      "doi": "10.1002/anie.2435246",
+      "title": "Symmetry Reconstruction Breaks the Trade-Off Between Spectral Redshift and Broadening in Long-Wavelength Multiple Resonance Emitters",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.2435246"
+    },
+    {
+      "doi": "10.1002/anie.2368387",
+      "title": "Nickel/Photoredox-Catalyzed Dicarbofunctionalization of Alkenes via Ketone C─C Bond Cleavage: Access to an Enantioselective Variant",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.2368387"
+    },
+    {
+      "doi": "10.1002/anie.1980531",
+      "title": "Catalytic Enantioselective Addition of Aryl, Heteroaryl, and Alkenyl Halides to Aliphatic Aldehydes",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.1980531"
+    },
+    {
+      "doi": "10.1002/anie.1445925",
+      "title": "Operando X-ray Spectroscopy Unveils Light-Driven Redox Selectivity for Photo-Assisted Li–S Batteries",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.1445925"
+    },
+    {
+      "doi": "10.1002/anie.1344095",
+      "title": "Accessing all Four Stereoisomers of β-Fluoroamines by Engineered Imine Reductase-Mediated Dynamic Kinetic Reductive Amination",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.1344095"
+    },
+    {
+      "doi": "10.1002/anie.1224416",
+      "title": "Dual-Site Covalent Targeting Enables BD2-Selective BET Inhibition With Potent Antitumor Activity in Mice",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.1224416"
+    },
+    {
+      "doi": "10.1002/anie.1172928",
+      "title": "A Dynamic Hydrogen-Bonded Organic Framework With Giant OFF–ON Birefringence",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.1172928"
+    },
+    {
+      "doi": "10.1002/anie.1142645",
+      "title": "Ion‑Programmed In Situ J‑Aggregates Overcome Concentration-Dependence for On-Demand Phototherapy of Diabetic Bacterial Infections",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1002/anie.1142645"
+    },
     {
       "doi": "10.1002/anie.9788311",
       "title": "Reversible Symmetry Switching, Giant Birefringence, and UV Second-Harmonic Generation in Hybrid Niobium Oxyfluorides",

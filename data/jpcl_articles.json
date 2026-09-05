@@ -1,9 +1,15 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-09-04T20:17:17.903Z",
+  "collected_at": "2026-09-05T20:17:16.535Z",
   "scope_start": "2026-01-01",
-  "article_count": 1176,
+  "article_count": 1178,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c01721",
+      "title": "Bridging Interfacial Water Structure and Reactivity in Photocatalytic Hydrogen Evolution at TiO2 Interfaces",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01721"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02740",
       "title": "Nonaqueous Contact-Electro-Chemistry Enables C–N Coupling",
@@ -51,6 +57,12 @@
       "title": "Kinetic Monte Carlo–Ising Machine Optimization for Atomistic Inverse Design of Solid Electrolytes",
       "published_date": "2026-09-04",
       "url": "https://doi.org/10.1021/acs.jpclett.6c02157"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01870",
+      "title": "Halogen-Bonding-Steered Thermal Reassembly into Brickwork Packing Motifs Enhances Electron Transport in Naphthalenediimides",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01870"
     },
     {
       "doi": "10.1021/acs.jpclett.6c01784",
