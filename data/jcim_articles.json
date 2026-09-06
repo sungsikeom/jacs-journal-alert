@@ -1,9 +1,21 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-09-05T20:14:00.114Z",
+  "collected_at": "2026-09-06T20:14:31.801Z",
   "scope_start": "2026-01-01",
-  "article_count": 812,
+  "article_count": 814,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02115",
+      "title": "Ranking-Based Surrogate Modeling for Bayesian Optimization under Small-Data Conditions",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02115"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01437",
+      "title": "Extending Partition Coefficient Predictions from Key Solvent Systems to Biological and Environmental Systems via Linear Solvation Energy Relationship",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01437"
+    },
     {
       "doi": "10.1021/acs.jcim.6c01530",
       "title": "Thermodynamics and Unbinding Kinetics of A22 at Multiple Actin-Binding Sites Revealed by Enhanced Sampling Simulations",

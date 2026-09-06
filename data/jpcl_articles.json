@@ -1,9 +1,21 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-09-05T20:17:16.535Z",
+  "collected_at": "2026-09-06T20:17:48.225Z",
   "scope_start": "2026-01-01",
-  "article_count": 1178,
+  "article_count": 1180,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02327",
+      "title": "Modulating Charge Transfer Dynamics in Titanium Metal–Organic Frameworks via Conjugated Linker Engineering for Enhanced Photocatalytic Hydrogen Evolution",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02327"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02215",
+      "title": "Twisted Raman: Orbital Angular Momentum Control of Raman Optical Activity",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02215"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c01721",
       "title": "Bridging Interfacial Water Structure and Reactivity in Photocatalytic Hydrogen Evolution at TiO2 Interfaces",

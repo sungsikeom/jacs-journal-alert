@@ -1,11 +1,173 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-09-05T20:00:34.475Z",
+  "collected_at": "2026-09-06T20:01:05.674Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7399,
+  "article_count": 7428,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c14791",
+      "title": "Stepwise Hydration Switches Electronic Structure in a Bifunctional Organocatalyst through Double Hydrogen Bonding",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1021/jacs.6c14791"
+    },
+    {
+      "doi": "10.1021/jacs.6c11512",
+      "title": "Structural Elucidation and Revised Biosynthetic Pathway of the Membrane Vesicle–Associated Antifungal Compound AFC-BC11",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1021/jacs.6c11512"
+    },
+    {
+      "doi": "10.1021/jacs.6c09932",
+      "title": "Spatial Programming of Redox Pathways for Z-Scheme Photocatalytic Water Splitting",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1021/jacs.6c09932"
+    },
+    {
+      "doi": "10.1021/jacs.6c09137",
+      "title": "A Nonheme μ-1,2-Peroxo Dicobalt(III) Complex Acting as a Key Intermediate for Selective Two-Electron/Two-Proton Catalytic Reduction of Dioxygen to Hydrogen Peroxide",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1021/jacs.6c09137"
+    },
+    {
+      "doi": "10.1021/jacs.6c13325",
+      "title": "Surface Atomic Arrangements on High-Entropy-Alloy Nanocrystals Govern Alkaline Hydrogen Oxidation via Symmetry-Selected Multi-Atom Ensembles",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1021/jacs.6c13325"
+    },
+    {
+      "doi": "10.1021/jacs.6c11612",
+      "title": "Staggered Quadruple-Rutile Oxides as Low-Strain and High-Power Anodes for Lithium-Ion Batteries",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1021/jacs.6c11612"
+    },
+    {
+      "doi": "10.1021/jacs.6c11390",
+      "title": "Enantioselective and Divergent Synthesis of Propargylamides and Allenamides from Alkynyl Diazoketones and Anilines via Organocatalytic Wolff Rearrangements",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1021/jacs.6c11390"
+    },
+    {
+      "doi": "10.1021/jacs.6c09503",
+      "title": "Synthesis and Application of 3,3-Difluoro Sialic Acid as a Sialyltransferase and Neuraminidase Inhibitor",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1021/jacs.6c09503"
+    },
+    {
+      "doi": "10.1021/jacs.6c15677",
+      "title": "Low–Energy Metastable Ensemble–Involving Ostwald Ripening of Au Nanoclusters on Anatase TiO2(101) under Oxidizing Conditions",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/jacs.6c15677"
+    },
+    {
+      "doi": "10.1021/jacs.6c15438",
+      "title": "Correction to “Structural Evolution in Disordered Rock Salt Cathodes”",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/jacs.6c15438"
+    },
+    {
+      "doi": "10.1021/jacs.6c14365",
+      "title": "CatESO: Differentiable Enzyme Sequence Optimization Guided by Substrate-Aware Kcat Prediction",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/jacs.6c14365"
+    },
+    {
+      "doi": "10.1021/jacs.6c14212",
+      "title": "Exploiting Bridged Conformations for Precise Molecular Recognition in the Design of KRAS-Selective, Orally Available Macrocyclic Peptides",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/jacs.6c14212"
+    },
+    {
+      "doi": "10.1021/jacs.6c13446",
+      "title": "Low-Temperature Synthesis of α,β-Unsaturated Carbonyl Compounds: Key Intermediates in Interstellar Organic Chemistry",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/jacs.6c13446"
+    },
+    {
+      "doi": "10.1021/jacs.6c13080",
+      "title": "Biomimetic Nanofluidic Synapse with Programmable DNA Ion Gating for Neuromorphic Sensing and Computing",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/jacs.6c13080"
+    },
+    {
+      "doi": "10.1021/jacs.6c12994",
+      "title": "Local pH Control Promotes Oxygen-Atom Transfer Electrosynthesis",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/jacs.6c12994"
+    },
+    {
+      "doi": "10.1021/jacs.6c12516",
+      "title": "Solvent-Free Catalysis Unlocks Bulky-Molecule Oxidation within Titanosilicate Micropores",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/jacs.6c12516"
+    },
+    {
+      "doi": "10.1021/jacs.6c12376",
+      "title": "Vinylene-Linked Woven Covalent Organic Frameworks for the Oxygen Reduction Reaction",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/jacs.6c12376"
+    },
+    {
+      "doi": "10.1021/jacs.6c11811",
+      "title": "Formaldehyde as a Hydrogen Shuttle: Redefining Spillover Pathways on Nonreducible Oxide Surfaces",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/jacs.6c11811"
+    },
+    {
+      "doi": "10.1021/jacs.6c11666",
+      "title": "Core-Regenerating Atom-Pair Exchange Enables Skeletal Carbon Isotope Incorporation into Pyridines",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/jacs.6c11666"
+    },
+    {
+      "doi": "10.1021/jacs.6c11524",
+      "title": "Chemistry of Evaporating Charged Alcohol Microdroplets in Humid Environments",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/jacs.6c11524"
+    },
+    {
+      "doi": "10.1021/jacs.6c10581",
+      "title": "A Radical Spin Ladder",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/jacs.6c10581"
+    },
+    {
+      "doi": "10.1021/jacs.6c10069",
+      "title": "TPOP: A Laser-Based, Peroxide-Free Approach for Microsecond Hydroxyl Radical Protein Footprinting in Water",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/jacs.6c10069"
+    },
+    {
+      "doi": "10.1021/jacs.6c09780",
+      "title": "Intermolecular Carbon–Carbon Bond Formation by a Chorismate-Converting Enzyme",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/jacs.6c09780"
+    },
+    {
+      "doi": "10.1021/jacs.6c09174",
+      "title": "Bypassing Thermalization Losses through Ultrafast Interfacial Charge Transfer in Plasmonic Nanocavities for Water Oxidation",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/jacs.6c09174"
+    },
+    {
+      "doi": "10.1021/jacs.6c08753",
+      "title": "Catalyst-Free Urea Synthesis from Methanol and Nitrogen via Radical-Mediated Redox Coupling on Aqueous Microdroplets",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/jacs.6c08753"
+    },
+    {
+      "doi": "10.1021/jacs.6c07079",
+      "title": "Denitrative Cyanation of Nitroalkanes by Nucleophilic Substitution through Anion–Radical Coupling",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/jacs.6c07079"
+    },
+    {
+      "doi": "10.1021/jacs.5c19089",
+      "title": "Nuclear Localization Signals Enable the Cellular Delivery of an Anti-CRISPR Protein to Control Genome Editing",
+      "published_date": "2026-09-04",
+      "url": "https://doi.org/10.1021/jacs.5c19089"
+    },
     {
       "doi": "10.1021/jacs.6c16051",
       "title": "Neutrophil-Inspired Programmable Bacteria for Pyroptosis-Driven Tumor Eradication",
@@ -35,6 +197,18 @@
       "title": "Maximizing the Magnetic Anisotropy of Dy Complexes by Fine-Tuning Organic Ligands: A Systematic Multireference High-Throughput Exploration of over 25k Molecules",
       "published_date": "2026-09-03",
       "url": "https://doi.org/10.1021/jacs.6c12194"
+    },
+    {
+      "doi": "10.1021/jacs.6c11881",
+      "title": "Distinct Active-Site Dynamics of Primitive Catalytic Amyloids Revealed by Two-Dimensional Infrared Spectroscopy",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/jacs.6c11881"
+    },
+    {
+      "doi": "10.1021/jacs.6c11696",
+      "title": "From Dehydrogenation to Derivatization: Functionalization of Alkanes and Alkyl Groups by Molecular Catalysis",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1021/jacs.6c11696"
     },
     {
       "doi": "10.1021/jacs.6c11589",

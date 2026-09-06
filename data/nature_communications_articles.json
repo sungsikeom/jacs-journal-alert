@@ -1,9 +1,15 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-05T20:04:00.366Z",
+  "collected_at": "2026-09-06T20:04:31.431Z",
   "scope_start": "2026-01-01",
-  "article_count": 8726,
+  "article_count": 8727,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77155-2",
+      "title": "PRMT7 restricts CD8+ T cells expansion via the NF-ΚB pathway",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1038/s41467-026-77155-2"
+    },
     {
       "doi": "10.1038/s41467-026-77599-6",
       "title": "A divergent betacoronavirus with a functional furin cleavage site in South American bats",
