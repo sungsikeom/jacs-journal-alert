@@ -1,9 +1,39 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-09-06T20:17:48.225Z",
+  "collected_at": "2026-09-07T20:17:50.079Z",
   "scope_start": "2026-01-01",
-  "article_count": 1180,
+  "article_count": 1185,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02704",
+      "title": "HfO2/Y2O3 Bilayer Memristor with Gradual Conductance Modulation for Neuromorphic Computing and Artificial Synapse",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02704"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02606",
+      "title": "Spiral-Twisted Poly(ether imide) Copolymer Dielectrics with Synergistically Modulated Interchain Spacing and Charge Transfer for High-Temperature Capacitive Energy Storage",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02606"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02271",
+      "title": "Triple-Functional Hybrid Self-Assembled Monolayer for Efficient and Stable Inverted Wide-Bandgap Perovskite Solar Cells with Suppressed Lead Leakage",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02271"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02184",
+      "title": "Lipid Composition Modulates Secondary Structure at the Biocondensate–Membrane Interface",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02184"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01427",
+      "title": "DNA i-Motifs Reversibly Disperse and Modulate the Photophysical Properties of an Aggregated Zinc Phthalocyanine Photosensitizer, Triggered by pH and Temperature",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01427"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02327",
       "title": "Modulating Charge Transfer Dynamics in Titanium Metal–Organic Frameworks via Conjugated Linker Engineering for Enhanced Photocatalytic Hydrogen Evolution",

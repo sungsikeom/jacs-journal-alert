@@ -1,9 +1,147 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-06T20:24:20.732Z",
+  "collected_at": "2026-09-07T20:24:33.445Z",
   "scope_start": "2026-01-01",
-  "article_count": 2396,
+  "article_count": 2419,
   "articles": [
+    {
+      "doi": "10.1002/anie.9907362",
+      "title": "Ambient-Pressure Polyolefin Upcycling With Earth-Abundant Catalyst",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.9907362"
+    },
+    {
+      "doi": "10.1002/anie.9228845",
+      "title": "Host–Guest Chemistry Creates an Oriented Shuttle Channel to Overcome Mass Transport Limitations in Electrocatalytic Hydrogenation",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.9228845"
+    },
+    {
+      "doi": "10.1002/anie.9113894",
+      "title": "Homo/Heterogeneous Dual Active Centers Enable Selective Electrochemical C─N Coupling of CO2 and Nitrate to Formamide",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.9113894"
+    },
+    {
+      "doi": "10.1002/anie.8735110",
+      "title": "Flexible Room-Temperature Phosphorescent Materials With Matrix-Independent Luminescence Enabled by Host–Guest Encapsulation",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.8735110"
+    },
+    {
+      "doi": "10.1002/anie.8641524",
+      "title": "Electrothermal Tandem Catalysis for Acetaldehyde Synthesis From CO2 and Water",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.8641524"
+    },
+    {
+      "doi": "10.1002/anie.8019471",
+      "title": "Stable Breakdown-Resistant Molecular Antiferroelectric Triggered by Confinement-Dependent Atomic Displacement",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.8019471"
+    },
+    {
+      "doi": "10.1002/anie.7959451",
+      "title": "Helical Single Crystals of Porous Hydrogen-Bonded Organic Frameworks as a Candidate for Morphologically Functional Organic Materials",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.7959451"
+    },
+    {
+      "doi": "10.1002/anie.7711870",
+      "title": "Up to 16% Optical Carbon-13 Hyperpolarization of Donor–Acceptor Molecules at 14.1 T",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.7711870"
+    },
+    {
+      "doi": "10.1002/anie.7699472",
+      "title": "Supramolecular Mechanophore Additives Enable Mechanochromic Hydrogels",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.7699472"
+    },
+    {
+      "doi": "10.1002/anie.7443715",
+      "title": "Large-Pore 3D Covalent Organic Frameworks with Light-Sensitized Synergy for Efficient Photocatalytic Antibacterial Therapies and Wound Healing",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.7443715"
+    },
+    {
+      "doi": "10.1002/anie.5591090",
+      "title": "Ultrafast 4-Azidopyridinium-Based Staudinger (UApS) Ligation for Bioorthogonal Labeling and Imaging",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.5591090"
+    },
+    {
+      "doi": "10.1002/anie.4789078",
+      "title": "A Dual Redox Mediator Concept to Catalyze Both Reaction Directions of the Two-Electron Transfer Path of MnO2 Cathodes for Aqueous Zn Batteries",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.4789078"
+    },
+    {
+      "doi": "10.1002/anie.4338297",
+      "title": "A Modular Tecton Matrix for Mechanosynthesis of Large-Pore Hydrogen-Bonded Organic Frameworks With Programmable Pore Environments",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.4338297"
+    },
+    {
+      "doi": "10.1002/anie.3793785",
+      "title": "Modulating *CO Adsorption Behavior: A Mechanistic Strategy for High-Efficiency C–N Coupling in Urea Electrochemical Synthesis",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.3793785"
+    },
+    {
+      "doi": "10.1002/anie.3567206",
+      "title": "Isoform-Selective Targeting of Akt Through Covalent Allosteric Inhibition",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.3567206"
+    },
+    {
+      "doi": "10.1002/anie.3448039",
+      "title": "Methanol Decomposition on TiO2 Under Ambient Conditions: Cooperative Proton Transfer at Hydrated Interfaces",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.3448039"
+    },
+    {
+      "doi": "10.1002/anie.3374480",
+      "title": "Coordination of Electron Transfer and Proton Supply in Conjugated Polymer Frameworks for Efficient Hydrogen Peroxide Photosynthesis",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.3374480"
+    },
+    {
+      "doi": "10.1002/anie.2931090",
+      "title": "Mechanically Coupled Supramolecular Scissors Govern Photomechanical and Elastic Responses in Molecular Crystals",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.2931090"
+    },
+    {
+      "doi": "10.1002/anie.2810076",
+      "title": "Molecularly Engineered Self-Assembled Molecular Layer for pH-Tolerant CO2 Electroreduction With Enhanced Activity and Stability",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.2810076"
+    },
+    {
+      "doi": "10.1002/anie.2495859",
+      "title": "Pyridinium Cations Act as Charge Reservoirs in Expanded Halide Perovskite Analogs at High Pressure",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.2495859"
+    },
+    {
+      "doi": "10.1002/anie.2236309",
+      "title": "Redox-Neutral Vicinal Dialkylation of Aryl Boronic Esters via the Palladium/Norbornene Cooperative Catalysis",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.2236309"
+    },
+    {
+      "doi": "10.1002/anie.2050497",
+      "title": "SOLiD-MaP: A Photoproximity Labeling Platform for Small Molecule Binding Site Mapping on RNA",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.2050497"
+    },
+    {
+      "doi": "10.1002/anie.1583116",
+      "title": "Breaking of π-Continuity by σ-Linkers in Covalent Organic Frameworks for Efficient Photoreduction and Recovery of Gold From Electronic Waste",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1002/anie.1583116"
+    },
     {
       "doi": "10.1002/anie.5826310",
       "title": "BO-Fusion Modulates Excited-State Energetics to Enable Heavy-Atom-Free Photosensitization",

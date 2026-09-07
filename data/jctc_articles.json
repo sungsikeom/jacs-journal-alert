@@ -1,9 +1,33 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-09-06T20:11:15.149Z",
+  "collected_at": "2026-09-07T20:11:17.944Z",
   "scope_start": "2026-01-01",
-  "article_count": 668,
+  "article_count": 672,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01401",
+      "title": "A Continuous Transferable Core–Valence Geometry Correction",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01401"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01078",
+      "title": "Accelerated Global Potential Energy Landscape Discovery: A Hybrid Genetic Algorithm and Stochastic Surface Walking Approach",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01078"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01009",
+      "title": "Convergence Mechanisms of Generative Models in Molecular Conformational Sampling",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01009"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00777",
+      "title": "Marginal Girsanov Reweighting: Stable Variance Reduction for Long-Time-Scale Dynamics from Biased Simulation",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00777"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01186",
       "title": "Spherical Metadensity Functional Learning for Inhomogeneous Classical Fluids",

@@ -1,11 +1,191 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-09-06T20:01:05.674Z",
+  "collected_at": "2026-09-07T20:01:08.221Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7428,
+  "article_count": 7458,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c17322",
+      "title": "Correction to “An Electronically Coupled Interfacial Energy Descriptor for Predicting Coulombic Efficiency in Aqueous Zinc Batteries”",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c17322"
+    },
+    {
+      "doi": "10.1021/jacs.6c17045",
+      "title": "Online Quantification of Lattice Sodium for O3-Type Cathode Diagnostics during Scalable Manufacturing",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c17045"
+    },
+    {
+      "doi": "10.1021/jacs.6c15828",
+      "title": "De Novo Design of Targeted Drugs by Precisely Programming Multiple Molecular Binding",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c15828"
+    },
+    {
+      "doi": "10.1021/jacs.6c15721",
+      "title": "Redox-Driven Antiaromaticity Enables Multistate Conductance in 1D Topological Insulators",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c15721"
+    },
+    {
+      "doi": "10.1021/jacs.6c15684",
+      "title": "Highly Water-Soluble Visible-Light-Responsive Azo Photoswitch",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c15684"
+    },
+    {
+      "doi": "10.1021/jacs.6c15120",
+      "title": "Defect-Engineered Alumina Stabilizes Metallic Platinum Nanoclusters for Interfacial O2 Activation in Oxidation Catalysis",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c15120"
+    },
+    {
+      "doi": "10.1021/jacs.6c14940",
+      "title": "Cobalt-Catalyzed Enantioselective Intermolecular C–H Carboamination with Racemic Allenes",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c14940"
+    },
+    {
+      "doi": "10.1021/jacs.6c14457",
+      "title": "Quantifying the Interfacial Energy Gap for Reversible Lithium–Metal Anodes",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c14457"
+    },
+    {
+      "doi": "10.1021/jacs.6c14447",
+      "title": "Rewiring the Target Landscape of Bioactive Natural Products by Photocatalytic Single-Atom Editing",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c14447"
+    },
+    {
+      "doi": "10.1021/jacs.6c13817",
+      "title": "An Isolable Terminal Imido Complex of Platinum",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c13817"
+    },
+    {
+      "doi": "10.1021/jacs.6c13759",
+      "title": "Boosting Industrial Hydrogen Evolution via OH– Spillover on Ru Single Atoms Enabled by a Hierarchical Ni@Ni3C Core–Shell Architecture",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c13759"
+    },
+    {
+      "doi": "10.1021/jacs.6c13572",
+      "title": "Tuning the Frontier Molecular Orbitals of Aromatic Radicals via Chalcogen Substitution and Heterocyclic Stabilization",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c13572"
+    },
+    {
+      "doi": "10.1021/jacs.6c13294",
+      "title": "Amphiphilicity Controls Nanostructure in Surfactant-Free Ionic Liquid Microemulsions",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c13294"
+    },
+    {
+      "doi": "10.1021/jacs.6c12678",
+      "title": "Disentangling Electronic and Geometric Effects in Ternary NiFeX Layered Double Hydroxide Catalysts for Oxygen Evolution",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c12678"
+    },
+    {
+      "doi": "10.1021/jacs.6c12506",
+      "title": "Cu-Catalyzed Funneling Oxidation Enables C–C Bond Cleavage in Lignin-derived Compounds",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c12506"
+    },
+    {
+      "doi": "10.1021/jacs.6c12274",
+      "title": "Bio-Inspired Chain Capping Selectively Inhibits Elongation to Direct Secondary Pathways in Supramolecular Polymers",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c12274"
+    },
+    {
+      "doi": "10.1021/jacs.6c11491",
+      "title": "Design and Structure of Protein Cages Based on Helical Fusion and Machine Learning",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c11491"
+    },
+    {
+      "doi": "10.1021/jacs.6c11301",
+      "title": "Engineered Multivariate Metal-Organic Frameworks for Magnetic Resonance Molecular Imaging Signal Enhancement",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c11301"
+    },
+    {
+      "doi": "10.1021/jacs.6c10597",
+      "title": "Emergent Hf-Selective Precipitation of Aqueous (Zr,Hf) Thiocyanate Molecules through Nuclearity Control",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c10597"
+    },
+    {
+      "doi": "10.1021/jacs.6c10362",
+      "title": "Copper-Catalyzed Cross-Nucleophile Coupling of Organoboranes",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c10362"
+    },
+    {
+      "doi": "10.1021/jacs.6c10291",
+      "title": "Redox-Dependent Intersite Coupling in Fe/Co/Se Clusters",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c10291"
+    },
+    {
+      "doi": "10.1021/jacs.6c10210",
+      "title": "n-Butane Capture Accompanied by a Colorimetric Response in a Flexible Thiazolothiazole Metal–Organic Framework",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c10210"
+    },
+    {
+      "doi": "10.1021/jacs.6c09868",
+      "title": "Direct Observation of a Cross-Coupling Catalyst Intermediate via Single-Molecule Spectroscopy",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c09868"
+    },
+    {
+      "doi": "10.1021/jacs.6c09748",
+      "title": "Overcoming the Oxygen Activation Barrier: Dual-Functional Ce–OH Sites for Methanol Adsorption and Oxidation",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c09748"
+    },
+    {
+      "doi": "10.1021/jacs.6c08586",
+      "title": "Ubiquitin Chloromethylketone Probe Enables Activity-Based Protein Profiling of E2 Ubiquitin Conjugating Enzymes",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c08586"
+    },
+    {
+      "doi": "10.1021/jacs.6c08246",
+      "title": "Electrostatic Regulation of Alpha-Synuclein Membrane Binding Couples Conformational Release to Aggregation Kinetics",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c08246"
+    },
+    {
+      "doi": "10.1021/jacs.6c08135",
+      "title": "A Three-Descriptor Framework for Solvation Design of Low-Temperature Electrolytes in Lithium Batteries",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c08135"
+    },
+    {
+      "doi": "10.1021/jacs.6c07875",
+      "title": "Hierarchical Hybrid Assembly: Programming Structural Complexity in Crystalline Materials",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c07875"
+    },
+    {
+      "doi": "10.1021/jacs.6c04115",
+      "title": "Elucidate the Metal-Catalyzed Decarboxylative Coupling of Carboxylic Acids on Metal Surfaces",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c04115"
+    },
+    {
+      "doi": "10.1021/jacs.6c02077",
+      "title": "Quantum Field Approaches to Chemical Systems",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c02077"
+    },
     {
       "doi": "10.1021/jacs.6c14791",
       "title": "Stepwise Hydration Switches Electronic Structure in a Bifunctional Organocatalyst through Double Hydrogen Bonding",

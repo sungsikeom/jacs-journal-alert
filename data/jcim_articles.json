@@ -1,9 +1,39 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-09-06T20:14:31.801Z",
+  "collected_at": "2026-09-07T20:14:33.750Z",
   "scope_start": "2026-01-01",
-  "article_count": 814,
+  "article_count": 819,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02770",
+      "title": "AquaTox-Predictor: An MMoE-Enhanced Multimodal Deep Learning Framework for Aquatic Ecotoxicity Prediction",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02770"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02160",
+      "title": "Systematic Evaluation of Graph Neural Networks for Ligand-Based Virtual Screening on ChEMBL Datasets",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02160"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02086",
+      "title": "Adaptive Data Splitting Strategy to Enhance Knowledge Learning for Phosphorescence Lifetime Prediction",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02086"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01810",
+      "title": "Navigating Large Chemical Spaces Using Graph Theory and Integer Programming",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01810"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01396",
+      "title": "DIME: Dynamics Inferred from Monte Carlo Ensembles via Continuous-Time Markov Chains",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01396"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02115",
       "title": "Ranking-Based Surrogate Modeling for Bayesian Optimization under Small-Data Conditions",

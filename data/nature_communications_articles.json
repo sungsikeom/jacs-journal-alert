@@ -1,9 +1,87 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-06T20:04:31.431Z",
+  "collected_at": "2026-09-07T20:04:34.924Z",
   "scope_start": "2026-01-01",
-  "article_count": 8727,
+  "article_count": 8740,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77632-8",
+      "title": "The Hidden Health and Climate Burden of Black Carbon under China’s Dual Carbon Strategy",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1038/s41467-026-77632-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77595-w",
+      "title": "Divergent microbial functional pathways and declining redundancy in lake sediments across eutrophication gradients",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1038/s41467-026-77595-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77589-8",
+      "title": "Safe electrolyte design with isolated solvation nanoclusters for high-energy lithium metal batteries",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1038/s41467-026-77589-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77577-y",
+      "title": "Extreme-bandwidth valley photonic metamaterials approaching Dirac velocity",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1038/s41467-026-77577-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77574-1",
+      "title": "Superior flexibility merges high power density in single-crystal Bi2Te3 film thermoelectric generators",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1038/s41467-026-77574-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77566-1",
+      "title": "Symmetry breaking induces room-temperature interface ferroelectricity in two-dimensional metastable mosaic-like heterostructures",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1038/s41467-026-77566-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77530-z",
+      "title": "Gate-level three-dimensional integration of two-dimensional logic cells",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1038/s41467-026-77530-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77475-3",
+      "title": "Spatiotemporal dynamics of tire wear particles reveal escalating emission inequalities across China’s road network",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1038/s41467-026-77475-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77422-2",
+      "title": "Harvesting environmental circadian oscillations for energy autonomy of soft robots",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1038/s41467-026-77422-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77391-6",
+      "title": "Dynamic coupling enables impulsive ejection in a hydrogel catapult",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1038/s41467-026-77391-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77310-9",
+      "title": "Telomere variant sequences encode the genetic blueprint for allele-specific telomere length",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1038/s41467-026-77310-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-76790-z",
+      "title": "Ultrafast directional hot carrier transfer in bilayer perovskite heterojunctions",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1038/s41467-026-76790-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-76570-9",
+      "title": "Programmable CAR-engaging particles rewire human CAR T-cell signaling for sustainable ex vivo expansion",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1038/s41467-026-76570-9"
+    },
     {
       "doi": "10.1038/s41467-026-77155-2",
       "title": "PRMT7 restricts CD8+ T cells expansion via the NF-ΚB pathway",
