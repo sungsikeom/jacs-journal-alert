@@ -1,9 +1,15 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-09-07T20:17:50.079Z",
+  "collected_at": "2026-09-08T20:17:47.717Z",
   "scope_start": "2026-01-01",
-  "article_count": 1185,
+  "article_count": 1186,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02467",
+      "title": "Pressure-Driven Interfacial Microenvironment Regulation for Highly Selective Acidic CO2 Electroreduction",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02467"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02704",
       "title": "HfO2/Y2O3 Bilayer Memristor with Gradual Conductance Modulation for Neuromorphic Computing and Artificial Synapse",

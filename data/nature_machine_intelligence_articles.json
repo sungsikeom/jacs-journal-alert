@@ -1,12 +1,18 @@
 {
   "source": "Nature Machine Intelligence Research Articles · 2026 filter",
-  "collected_at": "2026-09-07T20:07:52.944Z",
+  "collected_at": "2026-09-08T20:07:50.574Z",
   "scope_start": "2026-01-01",
-  "official_total": 83,
+  "official_total": 84,
   "collection_mode": "incremental",
   "stopped_on_known_doi": true,
-  "article_count": 83,
+  "article_count": 84,
   "articles": [
+    {
+      "doi": "10.1038/s42256-026-01293-x",
+      "title": "Causal evidence that language models use confidence to drive behaviour",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1038/s42256-026-01293-x"
+    },
     {
       "doi": "10.1038/s42256-026-01295-9",
       "title": "NucleicBERT interprets RNA sequence space through self-supervised language modelling",

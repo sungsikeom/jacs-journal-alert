@@ -1,9 +1,33 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-09-07T20:14:33.750Z",
+  "collected_at": "2026-09-08T20:14:31.211Z",
   "scope_start": "2026-01-01",
-  "article_count": 819,
+  "article_count": 824,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02529",
+      "title": "SynOmega: Simplifying Retrosynthesis for Efficient Synthesizability Scoring",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02529"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02414",
+      "title": "Mechanistically Informed Open-World Enzyme Retrieval with a Dual-Tower Graph-Sequence Model",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02414"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02039",
+      "title": "MultiRSF: A Deep Learning Approach for Predicting RNA-Small-Molecule Binding Sites Using Surface Characteristics",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02039"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01356",
+      "title": "Distinct Lipid Binding Dynamics and Sodium Ion Coordination in the TRAP Transporter HiSiaQM Revealed by Multiscale Molecular Dynamics Simulations",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01356"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02770",
       "title": "AquaTox-Predictor: An MMoE-Enhanced Multimodal Deep Learning Framework for Aquatic Ecotoxicity Prediction",
@@ -33,6 +57,12 @@
       "title": "DIME: Dynamics Inferred from Monte Carlo Ensembles via Continuous-Time Markov Chains",
       "published_date": "2026-09-07",
       "url": "https://doi.org/10.1021/acs.jcim.6c01396"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00371",
+      "title": "Deep3DCCS: Geometry-Driven Collision Cross Section Prediction from Multi-View Molecular Projection Tensors",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00371"
     },
     {
       "doi": "10.1021/acs.jcim.6c02115",

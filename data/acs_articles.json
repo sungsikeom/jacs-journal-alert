@@ -1,11 +1,131 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-09-07T20:01:08.221Z",
+  "collected_at": "2026-09-08T20:01:05.330Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7458,
+  "article_count": 7479,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c17620",
+      "title": "Correction to “Side-Chain Free Semiconducting Polymer for High-Performance n-Type Organic Electrochemical Transistors”",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/jacs.6c17620"
+    },
+    {
+      "doi": "10.1021/jacs.6c16881",
+      "title": "Mitochondrial Dyes with Balanced Permeability-Fixability for Live, Fixed, and Expanded Multicellular Imaging",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/jacs.6c16881"
+    },
+    {
+      "doi": "10.1021/jacs.6c16443",
+      "title": "Correction to “Protein Tyrosine Amination: Detection, Imaging, and Chemoproteomic Profiling with Synthetic Probes”",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/jacs.6c16443"
+    },
+    {
+      "doi": "10.1021/jacs.6c15211",
+      "title": "Machine-Learning-Guided Molecular Design for Dynamic Self-Activating Interface toward Ah-Level Anode-Free Zn–I2 Pouch Cells",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/jacs.6c15211"
+    },
+    {
+      "doi": "10.1021/jacs.6c14431",
+      "title": "Precise Construction of Heterobimetallic Covalent Organic Frameworks for Cooperative Photocatalysis of Defluorination",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/jacs.6c14431"
+    },
+    {
+      "doi": "10.1021/jacs.6c13996",
+      "title": "Ultrasound-Synchronized In Situ Crystallization Locks Transient High-Activity Enzyme Conformations within Covalent Organic Frameworks",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/jacs.6c13996"
+    },
+    {
+      "doi": "10.1021/jacs.6c13377",
+      "title": "Cr/Ir Dual-Atom-Doped Cr0.2Ir0.1Ru0.7O2 Electrocatalysts for Overcoming the Activity–Stability Trade-Off in Acidic Water Electrolysis",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/jacs.6c13377"
+    },
+    {
+      "doi": "10.1021/jacs.6c13173",
+      "title": "Molecular and Surface W-Sites through 31P-Detected and Dynamic Nuclear Polarization Surface-Enhanced 183W NMR Spectroscopy across Olefin Metathesis Catalysts",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/jacs.6c13173"
+    },
+    {
+      "doi": "10.1021/jacs.6c12647",
+      "title": "Ligand Recognition Directs Functional Ionic Layer Construction on Metal Nanoclusters for Electrocatalysis",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/jacs.6c12647"
+    },
+    {
+      "doi": "10.1021/jacs.6c11667",
+      "title": "Engineering a Fast Li+-Diffusion Secondary Phase in Sn Anodes for Low-Pressure All-Solid-State Batteries",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/jacs.6c11667"
+    },
+    {
+      "doi": "10.1021/jacs.6c11534",
+      "title": "Stereoselective C2′-Alkylation of Nucleosides Enabled by Electrochemical Ni-Catalyzed C(sp3)–C(sp3) Cross-Coupling",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/jacs.6c11534"
+    },
+    {
+      "doi": "10.1021/jacs.6c11498",
+      "title": "Tuning H2O-Engaged Redox Reaction Pathway via Water Orientation in Aqueous Batteries",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/jacs.6c11498"
+    },
+    {
+      "doi": "10.1021/jacs.6c11205",
+      "title": "Systematic Ligand Modification Tunes the Stability and Reactivity of Copper Complexes for the Electrocatalytic Reduction of Carbon Dioxide",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/jacs.6c11205"
+    },
+    {
+      "doi": "10.1021/jacs.6c11100",
+      "title": "Nickel–Zinc Catalysts Favor CO Production via Carbide Formation in CO2 Hydrogenation",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/jacs.6c11100"
+    },
+    {
+      "doi": "10.1021/jacs.6c09969",
+      "title": "Singlet Photoredox Catalysis via Supramolecular Host–Guest Interactions",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/jacs.6c09969"
+    },
+    {
+      "doi": "10.1021/jacs.6c09936",
+      "title": "“Store-and-Release” Strategy Enables Nickel-Catalyzed Deaminative Migratory Arylation of Aliphatic Amines",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/jacs.6c09936"
+    },
+    {
+      "doi": "10.1021/jacs.6c09528",
+      "title": "Cation-Mediated Proton Transfer Enhances Acidic CO2 Electrolysis on a Molecular Catalyst",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/jacs.6c09528"
+    },
+    {
+      "doi": "10.1021/jacs.6c08457",
+      "title": "In Situ Gas-Cell Electron Microscopy Reveals Pressure-Selected Restructuring Pathways in AuRu Ammonia Catalysts",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/jacs.6c08457"
+    },
+    {
+      "doi": "10.1021/jacs.6c06920",
+      "title": "Flow-Guided Chemical Language Modeling for Linker Design in Reticular Chemistry",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/jacs.6c06920"
+    },
+    {
+      "doi": "10.1021/jacs.5c19722",
+      "title": "Cobalt–Copper Single-Atom Alloy Catalyst for Electrochemical Nitric Oxide Reduction to Ammonia",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/jacs.5c19722"
+    },
     {
       "doi": "10.1021/jacs.6c17322",
       "title": "Correction to “An Electronically Coupled Interfacial Energy Descriptor for Predicting Coulombic Efficiency in Aqueous Zinc Batteries”",
@@ -29,6 +149,12 @@
       "title": "Redox-Driven Antiaromaticity Enables Multistate Conductance in 1D Topological Insulators",
       "published_date": "2026-09-07",
       "url": "https://doi.org/10.1021/jacs.6c15721"
+    },
+    {
+      "doi": "10.1021/jacs.6c15685",
+      "title": "Ultrasound-Induced Valence Varying of Single-Atom Fe in Sub-Nanospiral Alternating Heterostructures for Tumor Pyroptosis and Immunotherapy",
+      "published_date": "2026-09-07",
+      "url": "https://doi.org/10.1021/jacs.6c15685"
     },
     {
       "doi": "10.1021/jacs.6c15684",

@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-07T20:04:34.924Z",
+  "collected_at": "2026-09-08T20:04:31.937Z",
   "scope_start": "2026-01-01",
-  "article_count": 8740,
+  "article_count": 8760,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77665-z",
+      "title": "Deep learning CT signature for predicting early liver metastases in pancreatic ductal adenocarcinoma",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-77665-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77639-1",
+      "title": "Structural insights into a dual-substrate O-methyltransferase reveal the enzymatic mechanism of parallel paeonol biosynthesis",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-77639-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77631-9",
+      "title": "Sarcandra glabra genome unveils functional conservation and divergence of O-methyltransferases catalyzing isofraxidin biosynthesis in angiosperms",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-77631-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77613-x",
+      "title": "Supramolecular janus eutectic engineered from panthenol and bisabolol overcomes transdermal delivery paradoxes",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-77613-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77586-x",
+      "title": "A cytoskeleton-associated Plasmodium protein critical for organelle segregation",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-77586-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77579-w",
+      "title": "Acoustic topological Jackiw–Rebbi states at symmetry broken interfaces",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-77579-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77544-7",
+      "title": "Generation of GPC-3-targeted radicals for precise therapy of hepatocellular carcinoma",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-77544-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77521-0",
+      "title": "Interface-induced tensile strain stabilizes ruthenium oxide for high-performance acidic water oxidation",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-77521-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77506-z",
+      "title": "Late Permian core-surface-magnetosphere conditions revealed by single crystal paleointensities from the Emeishan large igneous province",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-77506-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77499-9",
+      "title": "Gut microbiota composition outperforms chronological age in predicting systemic inflammation and incident disease risk",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-77499-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77486-0",
+      "title": "Symmetry-cooperative optical-field engineering for ultrabroadband bulk photovoltaic photodetection",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-77486-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77440-0",
+      "title": "900°C thermal-force coupling carbonization tailoring hard carbon microstructures enables high performance sodium-ion pouch batteries",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-77440-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77430-2",
+      "title": "Ki-67 regulates heterochromatin organization in neurons and forms condensates with heterochromatic components",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-77430-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77383-6",
+      "title": "Arginine metabolism as a mutualistic strategy in the interaction between Porphyromonas gingivalis and Filifactor alocis",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-77383-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77362-x",
+      "title": "Near-term increased exposure to political risk for African power trades",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-77362-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77357-8",
+      "title": "Contact percolation governs collective motility via mechano-chemical feedback in heterogeneous breast cancer",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-77357-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77356-9",
+      "title": "Geometry of braided DNA dictates supercoiling partitioning",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-77356-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77316-3",
+      "title": "Natural variation in GmRVE4d facilitates soybean latitudinal adaptation by regulating GmPRR5a-dependent flowering and maturity",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-77316-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77270-0",
+      "title": "Periodic polar vortices in BaTiO3/SrTiO3 superlattices monolithically grown on silicon",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-77270-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76761-4",
+      "title": "A core transcriptional regulatory circuitry controls super-enhancer-driven activation of LGR5 in colorectal cancer",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-76761-4"
+    },
     {
       "doi": "10.1038/s41467-026-77632-8",
       "title": "The Hidden Health and Climate Burden of Black Carbon under China’s Dual Carbon Strategy",

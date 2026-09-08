@@ -1,9 +1,45 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-09-07T20:11:17.944Z",
+  "collected_at": "2026-09-08T20:11:14.587Z",
   "scope_start": "2026-01-01",
-  "article_count": 672,
+  "article_count": 678,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01368",
+      "title": "Geometric Cutoff Features and Active Learning Extend Orbital Cluster Expansions across Halide Perovskites, Metal–Organic Frameworks, Two-Dimensional Carbon Allotropes, and Biomolecular Conformers",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01368"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01278",
+      "title": "Environment-Conditioned Design of α-Helical Peptides",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01278"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01128",
+      "title": "Static Effective Hamiltonians for Molecular Systems through RPA-Based Downfolding",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01128"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01034",
+      "title": "Periodic GFN2-xTB in CP2K: Multipolar Ewald Electrostatics, k-Point Sampling, and Transferability Benchmarks for Solids",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01034"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00988",
+      "title": "Reinforcement Learning-Assisted Quantum Simulation of Many-Body Excited States and Real-Time Dynamics",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00988"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00601",
+      "title": "Relativistic Prolapse-Free Gaussian Basis Sets of Double- and Triple-ζ Quality for f-Block Elements: (aug-)RPF-2Z and (aug-)RPF-3Z",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00601"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01401",
       "title": "A Continuous Transferable Core–Valence Geometry Correction",

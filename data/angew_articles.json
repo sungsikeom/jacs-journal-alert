@@ -1,9 +1,15 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-07T20:24:33.445Z",
+  "collected_at": "2026-09-08T20:24:19.477Z",
   "scope_start": "2026-01-01",
-  "article_count": 2419,
+  "article_count": 2420,
   "articles": [
+    {
+      "doi": "10.1002/anie.202522019",
+      "title": "Heme Peroxo Reaction Intermediates: Mimicking Biological Structure and Reactivity With Synthetic Model Systems",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1002/anie.202522019"
+    },
     {
       "doi": "10.1002/anie.9907362",
       "title": "Ambient-Pressure Polyolefin Upcycling With Earth-Abundant Catalyst",
