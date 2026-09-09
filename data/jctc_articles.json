@@ -1,9 +1,51 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-09-08T20:11:14.587Z",
+  "collected_at": "2026-09-09T20:10:50.170Z",
   "scope_start": "2026-01-01",
-  "article_count": 678,
+  "article_count": 686,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01542",
+      "title": "Automated Space Group Determination for Periodic Volumetric Data",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01542"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01006",
+      "title": "Torsionator: Dihedral Parameterization and Conformer Search Made Easy",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01006"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00994",
+      "title": "Quantum Chemical Microsolvation via Free Energy–Based Solvation Site Identification",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00994"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00987",
+      "title": "Unraveling Lithium Dynamics in Solid Electrolyte Interphase: From Graph Contrastive Learning to Transport Pathways",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00987"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00825",
+      "title": "Local Variational Graph Coarsening for Machine Learning Coarse-Grained Molecular Dynamics Simulations",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00825"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00750",
+      "title": "Predictive Modeling of Paracetamol Polymorphs: Linking Basis Set and Hamiltonian Effects to an Optimized Quasi-Harmonic Lattice Dynamics Workflow",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00750"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00552",
+      "title": "Molecular Simulation and Multistate Analysis for Efficient Property Estimation in Polymeric Systems: A Case Study on PIM-1",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00552"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01368",
       "title": "Geometric Cutoff Features and Active Learning Extend Orbital Cluster Expansions across Halide Perovskites, Metal–Organic Frameworks, Two-Dimensional Carbon Allotropes, and Biomolecular Conformers",
@@ -27,6 +69,12 @@
       "title": "Periodic GFN2-xTB in CP2K: Multipolar Ewald Electrostatics, k-Point Sampling, and Transferability Benchmarks for Solids",
       "published_date": "2026-09-08",
       "url": "https://doi.org/10.1021/acs.jctc.6c01034"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01017",
+      "title": "Generative Active Learning for Molecular Design with REINVENT: Balancing Binding Affinity and Synthetic Accessibility",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01017"
     },
     {
       "doi": "10.1021/acs.jctc.6c00988",

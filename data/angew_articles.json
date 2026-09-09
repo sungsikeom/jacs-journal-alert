@@ -1,14 +1,110 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-08T20:24:19.477Z",
+  "collected_at": "2026-09-09T20:23:55.655Z",
   "scope_start": "2026-01-01",
-  "article_count": 2420,
+  "article_count": 2436,
   "articles": [
+    {
+      "doi": "10.1002/anie.9880949",
+      "title": "Adenylation Domain Engineering Enables Biosynthesis of an Improved Polymyxin Antibiotic",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1002/anie.9880949"
+    },
+    {
+      "doi": "10.1002/anie.9391687",
+      "title": "Discovery and Characterization of Conserved N-Oxide-Forming Function of FAD-Dependent Monooxygenases for Fungal Prenylated Indole Alkaloid Biosynthesis",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1002/anie.9391687"
+    },
+    {
+      "doi": "10.1002/anie.9322658",
+      "title": "Catalyst–Electrolyte Synergy Enables Ultrafast and Long-Life Two-Electron Aqueous Zinc–Iodine Batteries",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1002/anie.9322658"
+    },
+    {
+      "doi": "10.1002/anie.8175512",
+      "title": "High Entropy Regulation of Electrostatic Repulsion and Structural Design in Layered Oxide Cathodes for Sodium-Ion Batteries",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1002/anie.8175512"
+    },
+    {
+      "doi": "10.1002/anie.7244229",
+      "title": "Active Electrochemical Regulation Strategies Based on Dynamic Response Mechanisms for Secondary Batteries",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1002/anie.7244229"
+    },
+    {
+      "doi": "10.1002/anie.6078477",
+      "title": "Fluorinated Self-Assembled Monolayers for Highly Reversible Anode-Free Zinc Batteries",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1002/anie.6078477"
+    },
+    {
+      "doi": "10.1002/anie.4794052",
+      "title": "Engineering Directional Ion Transport Channels in Three-Dimensional Covalent Organic Frameworks for High-Performance Sodium-Ion Batteries",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1002/anie.4794052"
+    },
+    {
+      "doi": "10.1002/anie.2096522",
+      "title": "Redirecting Regioselectivity in Cytochrome P450 ApPT for B-Ring Functionalization of Pentacyclic Triterpenoids",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1002/anie.2096522"
+    },
+    {
+      "doi": "10.1002/anie.1799115",
+      "title": "1-Azabicyclo[1.1.0]butanes (ABBs) on the Map: Mechanistic Pathways for Catalytic Ring Opening and Functionalizations",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1002/anie.1799115"
+    },
+    {
+      "doi": "10.1002/anie.1291856",
+      "title": "Toward Cell-Specific Molecular MRI: Modulating Chemical Exchange Saturation Transfer Contrast With Manganese",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1002/anie.1291856"
+    },
     {
       "doi": "10.1002/anie.202522019",
       "title": "Heme Peroxo Reaction Intermediates: Mimicking Biological Structure and Reactivity With Synthetic Model Systems",
       "published_date": "2026-09-08",
       "url": "https://doi.org/10.1002/anie.202522019"
+    },
+    {
+      "doi": "10.1002/anie.1770267",
+      "title": "De Novo Design of RNA Switches for Conditional Transcription Repression",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1002/anie.1770267"
+    },
+    {
+      "doi": "10.1002/anie.1763311",
+      "title": "Direct Experimental Evidence of Hot-Exciton Channels via Anti-Kasha T2 Phosphorescence in High-Efficiency Red OLEDs",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1002/anie.1763311"
+    },
+    {
+      "doi": "10.1002/anie.1513379",
+      "title": "Site-Specific Functioning of CuN3–PdS3 Janus Dual-Atom Sites Enable Near-Unity Faradaic Efficiency for Nitrate Electroreduction to Ammonia",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1002/anie.1513379"
+    },
+    {
+      "doi": "10.1002/anie.1416251",
+      "title": "Mesogen-Mimetic Anisotropic Crosslinkers for Load-Bearing Liquid Crystal Elastomer Artificial Muscles",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1002/anie.1416251"
+    },
+    {
+      "doi": "10.1002/anie.1220783",
+      "title": "Radical Ring-Opening (Co)Polymerization of Vinyl Oxiranes: Toward Acid-Degradable Backbone Oxygenated-Polystyrene and Polybutadienes",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1002/anie.1220783"
+    },
+    {
+      "doi": "10.1002/anie.1174732",
+      "title": "Redox-Modulated σ-Bond Reactivity in a Radical-Anion Dimer",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1002/anie.1174732"
     },
     {
       "doi": "10.1002/anie.9907362",

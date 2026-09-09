@@ -1,9 +1,33 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-09-08T20:14:31.211Z",
+  "collected_at": "2026-09-09T20:14:06.197Z",
   "scope_start": "2026-01-01",
-  "article_count": 824,
+  "article_count": 828,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02664",
+      "title": "Mechanism-Guided Antimicrobial Peptide Design through Membrane-Surface Fingerprinting and Graph Diffusion",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02664"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01708",
+      "title": "ActiveFusion: Fused Representations Improve Active Learning for Molecular Property Prediction",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01708"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01621",
+      "title": "ProAlign-DDI: A Zero-Shot Drug–Drug Interaction Event Prediction Framework with Prototype Alignment",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01621"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01230",
+      "title": "QSAR as a Small-Deformation Theory of Effective Free-Energy Landscapes",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01230"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02529",
       "title": "SynOmega: Simplifying Retrosynthesis for Efficient Synthesizability Scoring",

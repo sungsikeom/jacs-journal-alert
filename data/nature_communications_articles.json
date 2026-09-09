@@ -1,9 +1,117 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-08T20:04:31.937Z",
+  "collected_at": "2026-09-09T20:04:06.017Z",
   "scope_start": "2026-01-01",
-  "article_count": 8760,
+  "article_count": 8780,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77719-2",
+      "title": "Mechanisms of Femtosecond Laser-Induced Structural Reconfiguration in Fluoride Glasses",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41467-026-77719-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77636-4",
+      "title": "Multi-interface electrical double layers dynamics as a unified platform for power generation and environmental intelligence",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41467-026-77636-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77623-9",
+      "title": "A nested case-control study of air pollution and congenital heart defects via circulating proteins",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41467-026-77623-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77581-2",
+      "title": "Real-space spin-orbit interaction from quarter-wave plate nonuniformity",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41467-026-77581-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77551-8",
+      "title": "Single cell multi-omics guided hydrogel enables closed-loop therapy for renal osteodystrophy",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41467-026-77551-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77548-3",
+      "title": "A dual-site oral nanovaccine programs anti-colorectal tumor immunity from small intestinal priming to large intestinal boosting",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41467-026-77548-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77545-6",
+      "title": "Divergent Multimodal Age-Association Profiles Across the Human Brain",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41467-026-77545-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77503-2",
+      "title": "End processing in NHEJ by Polymerase λ and PNKP is coordinated during short-range synapsis",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41467-026-77503-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77469-1",
+      "title": "Pervasive weak incompatibilities shape phenotypic variation and genome evolution in yeast hybrids",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41467-026-77469-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77448-6",
+      "title": "Hydrothermal regimes regulate microbiome patterns across vertical profile and their responses to alpine permafrost degradation",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41467-026-77448-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77444-w",
+      "title": "Genome-directed discovery of an octalin-containing polyether ionophore improves diabetic skin wound healing",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41467-026-77444-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77421-3",
+      "title": "Repeatable, low-drift recordings in behaving nonhuman primates using flexible microelectrodes",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41467-026-77421-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77412-4",
+      "title": "Loss-engineered reconfigurable polaritons",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41467-026-77412-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77343-0",
+      "title": "Explainable data generation from observed small samples by matrix tri-factorization",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41467-026-77343-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76836-2",
+      "title": "An elite allele TaNPF7.6-A1mod enhances nitrogen use efficiency and grain yield in wheat",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41467-026-76836-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-76820-w",
+      "title": "Unexpectedly rapid SO2 heterogeneous reaction on the surface of vehicular brake wear particles",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41467-026-76820-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-76474-8",
+      "title": "Genome-wide analysis of 439 mass spectrometry-based proteomic profiles in a population of 15,035 Scottish individuals",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41467-026-76474-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-72182-5",
+      "title": "Recurrent mechanisms of biallelic epigenetic inactivation reveal new putative tumour suppressor genes in prostate cancer",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41467-026-72182-5"
+    },
     {
       "doi": "10.1038/s41467-026-77665-z",
       "title": "Deep learning CT signature for predicting early liver metastases in pancreatic ductal adenocarcinoma",
@@ -65,6 +173,12 @@
       "url": "https://doi.org/10.1038/s41467-026-77499-9"
     },
     {
+      "doi": "10.1038/s41467-026-77493-1",
+      "title": "On-chip 3D printing of metal microinductors for radio frequency electronics",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-77493-1"
+    },
+    {
       "doi": "10.1038/s41467-026-77486-0",
       "title": "Symmetry-cooperative optical-field engineering for ultrabroadband bulk photovoltaic photodetection",
       "published_date": "2026-09-08",
@@ -81,6 +195,12 @@
       "title": "Ki-67 regulates heterochromatin organization in neurons and forms condensates with heterochromatic components",
       "published_date": "2026-09-08",
       "url": "https://doi.org/10.1038/s41467-026-77430-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77399-y",
+      "title": "Temporal prediction captures retinal spiking responses across animal species",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1038/s41467-026-77399-y"
     },
     {
       "doi": "10.1038/s41467-026-77383-6",

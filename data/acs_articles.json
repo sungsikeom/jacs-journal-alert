@@ -1,11 +1,89 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-09-08T20:01:05.330Z",
+  "collected_at": "2026-09-09T20:00:39.130Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7479,
+  "article_count": 7492,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c15105",
+      "title": "Fulvalene- and [3]Cumulene-Bridged Conjugated Organoboranes: Pentagon Annulation and Olefination Enabled by One-Step Alkyne Cyclization",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/jacs.6c15105"
+    },
+    {
+      "doi": "10.1021/jacs.6c14403",
+      "title": "Ion-Mediated Configuration Regulation and Chiralization in Cu(I) Cluster-Based Metallic Cages",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/jacs.6c14403"
+    },
+    {
+      "doi": "10.1021/jacs.6c14068",
+      "title": "Noncarbohydrate Inhibitors of Sialic Acid-Binding Immunomodulatory-Type Lectin-7 (Siglec-7) Discovered from Genetically Encoded Bicyclic Peptide Libraries",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/jacs.6c14068"
+    },
+    {
+      "doi": "10.1021/jacs.6c13855",
+      "title": "Abstracting Complementarity for the Design of Stereoselective Acid Catalysts",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/jacs.6c13855"
+    },
+    {
+      "doi": "10.1021/jacs.6c13259",
+      "title": "Hydrazine Photorelease from Ru(II) Chugaev-Type Dicarbene Complexes",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/jacs.6c13259"
+    },
+    {
+      "doi": "10.1021/jacs.6c12621",
+      "title": "Hybrid Benzimidazole–Imidazole Carbodicarbene Ligands Control Deep-Red Emission from Photostable Borenium Ions",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/jacs.6c12621"
+    },
+    {
+      "doi": "10.1021/jacs.6c11724",
+      "title": "Direct and Selective 8e–/8H+ Electrochemical Reduction of CO2 to CH4 in an Aqueous Medium by an Iron Porphyrin with Distal Amine Groups in the 2nd Sphere",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/jacs.6c11724"
+    },
+    {
+      "doi": "10.1021/jacs.6c11716",
+      "title": "Chirality-Dependent Electrical Characteristics of MoS2 Nanoscroll Transistors",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/jacs.6c11716"
+    },
+    {
+      "doi": "10.1021/jacs.6c11246",
+      "title": "Conformational Dynamics for Catalysis beyond the Sabatier Limit",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/jacs.6c11246"
+    },
+    {
+      "doi": "10.1021/jacs.6c10012",
+      "title": "Decoupling Triplet Population from Intersystem Crossing in TADF Materials",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/jacs.6c10012"
+    },
+    {
+      "doi": "10.1021/jacs.6c09470",
+      "title": "4f/5d Electron-Governed Plasmonics in Monodisperse Rare-Earth Hexaboride Nanocrystals for Low-Energy Near-Infrared Photocatalysis",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/jacs.6c09470"
+    },
+    {
+      "doi": "10.1021/jacs.6c08138",
+      "title": "Elucidating Sodium-Ion Storage Mechanisms in Bowl-Shaped Hierarchical Porous Carbon Anodes: A Combined Solid-State NMR and EPR Approach",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/jacs.6c08138"
+    },
+    {
+      "doi": "10.1021/jacs.6c07607",
+      "title": "Development of a Tunable Photoreactor for High-Throughput Experimentation",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/jacs.6c07607"
+    },
     {
       "doi": "10.1021/jacs.6c17620",
       "title": "Correction to “Side-Chain Free Semiconducting Polymer for High-Performance n-Type Organic Electrochemical Transistors”",
