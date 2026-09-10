@@ -1,10 +1,129 @@
 {
   "source": "Science tables of contents collected by the local Chrome extension",
-  "collected_at": "2026-09-09T20:00:47.886Z",
+  "collected_at": "2026-09-10T20:00:45.265Z",
   "scope_start": "2026-01-01",
   "article_type": "Research Article",
-  "article_count": 646,
+  "article_count": 663,
   "articles": [
+    {
+      "doi": "10.1126/science.aem1230",
+      "title": "In Other Journals",
+      "published_date": "2026-09-10",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aem1230"
+    },
+    {
+      "doi": "10.1126/science.aem1229",
+      "title": "In Science Journals",
+      "published_date": "2026-09-10",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aem1229"
+    },
+    {
+      "doi": "10.1126/science.aeh3697",
+      "title": "Giant tunneling electroresistance in sliding ferroelectrics",
+      "published_date": "2026-09-10",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeh3697"
+    },
+    {
+      "doi": "10.1126/science.aeh1348",
+      "title": "Manipulation of protein translation and stem cell self-renewal by CRISPR activation of rRNA transcription",
+      "published_date": "2026-09-10",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeh1348"
+    },
+    {
+      "doi": "10.1126/science.aeg4851",
+      "title": "Mechanism of membrane perforation in rotavirus cell entry",
+      "published_date": "2026-09-10",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeg4851"
+    },
+    {
+      "doi": "10.1126/science.aed0430",
+      "title": "Paleogenomics and habitat modeling reveal temperate Eurasian origins of woolly rhinoceroses",
+      "published_date": "2026-09-10",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aed0430"
+    },
+    {
+      "doi": "10.1126/science.aec8866",
+      "title": "Growth rate overrides the benefit of extended growing season from boreal to semiarid conifers",
+      "published_date": "2026-09-10",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aec8866"
+    },
+    {
+      "doi": "10.1126/science.aec7337",
+      "title": "Endurance beyond 10 billion cycles in wurtzite ferroelectrics by confining nitrogen vacancies",
+      "published_date": "2026-09-10",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aec7337"
+    },
+    {
+      "doi": "10.1126/science.aec0002",
+      "title": "Chronic type II interferon promotes tumor growth through mitochondrial RNA–induced type I interferon and prostaglandin synthesis",
+      "published_date": "2026-09-10",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aec0002"
+    },
+    {
+      "doi": "10.1126/science.aeb4487",
+      "title": "Hydroclimatic-driven pulse enrichment amplifies riverine microplastic export in developing countries",
+      "published_date": "2026-09-10",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeb4487"
+    },
+    {
+      "doi": "10.1126/science.aea4287",
+      "title": "Lean adipocyte oxylipin signaling restrains breast cancer through ferroptosis",
+      "published_date": "2026-09-10",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aea4287"
+    },
+    {
+      "doi": "10.1126/science.aea2249",
+      "title": "The complete telomere-to-telomere sequence of a mouse Y chromosome",
+      "published_date": "2026-09-10",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aea2249"
+    },
+    {
+      "doi": "10.1126/science.ady4670",
+      "title": "Discovery of an intrinsic non-Hermitian phase transition in a bulk condensed-matter system",
+      "published_date": "2026-09-10",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ady4670"
+    },
+    {
+      "doi": "10.1126/science.ady0339",
+      "title": "Extensive and differential platinum chemotherapy mutagenesis in livers of children",
+      "published_date": "2026-09-10",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ady0339"
+    },
+    {
+      "doi": "10.1126/science.adw4498",
+      "title": "The parent bodies of Ryugu and Ivuna formed before those of other carbonaceous chondrites",
+      "published_date": "2026-09-10",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adw4498"
+    },
+    {
+      "doi": "10.1126/science.adt9365",
+      "title": "Unphosphorylated tyrosines mediate PD-1 inhibition of T cell signaling condensate formation",
+      "published_date": "2026-09-10",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adt9365"
+    },
+    {
+      "doi": "10.1126/science.adp3564",
+      "title": "Open framework–based Brønsted acid–Lewis base interfaces boost proton transfer in the fuel cells",
+      "published_date": "2026-09-10",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adp3564"
+    },
     {
       "doi": "10.1126/science.aem0117",
       "title": "In Other Journals",

@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-09T20:04:06.017Z",
+  "collected_at": "2026-09-10T20:04:03.279Z",
   "scope_start": "2026-01-01",
-  "article_count": 8780,
+  "article_count": 8800,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77718-3",
+      "title": "Site-specific protein functionalization by late-stage reversible cysteine masking",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1038/s41467-026-77718-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77706-7",
+      "title": "Visible light suppresses carbon formation on Ni/CeO2 catalyst in methane dry reforming reaction",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1038/s41467-026-77706-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77690-y",
+      "title": "ATAD-3 couples plasma membrane injury to mitochondrial Ca2+ signaling",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1038/s41467-026-77690-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77661-3",
+      "title": "Autonomous robotic operation controlled by wave-based neuromorphic hardware",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1038/s41467-026-77661-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77646-2",
+      "title": "Bacterial inoculation elicits changes to the coral epigenome",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1038/s41467-026-77646-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77618-6",
+      "title": "Berry curvature multipoles in Kagome superconductor CsV3Sb5",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1038/s41467-026-77618-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77594-x",
+      "title": "Oxidative stress-responsive cell wall remodeling depends on phosphate in Candida albicans",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1038/s41467-026-77594-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77541-w",
+      "title": "Human testis-specific TTRP regulates circadian clock as an evolutionarily young natural antisense transcript of PER2",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1038/s41467-026-77541-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77528-7",
+      "title": "Gap-tuned exceptional skin effect in non-Hermitian flat bands",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1038/s41467-026-77528-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77527-8",
+      "title": "Strong coupling between RF photons and plasmons of electrons on liquid helium",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1038/s41467-026-77527-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77515-y",
+      "title": "Spontaneous formation of picoliter water bridges",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1038/s41467-026-77515-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77511-2",
+      "title": "Decoding the genomic repertoire of fosfomycin resistance genes in staphylococci",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1038/s41467-026-77511-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77473-5",
+      "title": "Rapid spontaneous generation of organosulfur from inorganic sulfur in atmospheric microdroplets",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1038/s41467-026-77473-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77455-7",
+      "title": "Fecal microbiota transplantation for the decolonization of mucosal adherent-invasive Escherichia coli in Crohn’s disease: an open-label pilot study",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1038/s41467-026-77455-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77402-6",
+      "title": "Rapid changes in risk attitudes originate from Bayesian inference on parietal magnitude representations",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1038/s41467-026-77402-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77395-2",
+      "title": "ROS-autocatalytic nanoplatform interfering astrocyte-cancer crosstalk and enhancing glioblastoma therapy",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1038/s41467-026-77395-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77160-5",
+      "title": "Plasma radicals control synthesis of platinum supported on nitrogen-doped graphitic carbon for ambient-pressure ammonia synthesis",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1038/s41467-026-77160-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77139-2",
+      "title": "The kinase SPE-55 promotes localized assembly of the major sperm protein in Caenorhabditis elegans spermatocytes",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1038/s41467-026-77139-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77082-2",
+      "title": "A pathway towards decentralized studies of radioactive post-lead elements and their applications in beyond standard model physics",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1038/s41467-026-77082-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-76415-5",
+      "title": "Directionality of transcriptional regulatory elements",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1038/s41467-026-76415-5"
+    },
     {
       "doi": "10.1038/s41467-026-77719-2",
       "title": "Mechanisms of Femtosecond Laser-Induced Structural Reconfiguration in Fluoride Glasses",

@@ -1,9 +1,21 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-09-09T20:10:50.170Z",
+  "collected_at": "2026-09-10T20:10:47.771Z",
   "scope_start": "2026-01-01",
-  "article_count": 686,
+  "article_count": 688,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01219",
+      "title": "Gradient-Based Curvature-Only Time-Derivative Coupling for Surface Hopping and Coherent Switching with Decay of Mixing: Application to SO2 and Molecular Tully Models",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01219"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01120",
+      "title": "Theoretical Analysis and Optimization of Peak Memory Usage in PyPWDFT for Heterogeneous GPU High-Performance Computing",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01120"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01542",
       "title": "Automated Space Group Determination for Periodic Volumetric Data",

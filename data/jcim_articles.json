@@ -1,9 +1,27 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-09-09T20:14:06.197Z",
+  "collected_at": "2026-09-10T20:14:03.705Z",
   "scope_start": "2026-01-01",
-  "article_count": 828,
+  "article_count": 831,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02659",
+      "title": "A Task-Adaptive Multimodal Pretrained Framework for Antibiotic Virtual Screening with Joint Activity and Cytotoxicity Prediction",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02659"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02073",
+      "title": "Seamless QM/MM Simulations via a GROMACS-CP2K Interface",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02073"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01439",
+      "title": "Early-Enrichment Hit Discovery via Reversible-Work c(t) Estimation in Metadynamics (CTMD)",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01439"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02664",
       "title": "Mechanism-Guided Antimicrobial Peptide Design through Membrane-Surface Fingerprinting and Graph Diffusion",

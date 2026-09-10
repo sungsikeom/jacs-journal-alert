@@ -1,9 +1,135 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-09T20:23:55.655Z",
+  "collected_at": "2026-09-10T20:24:06.526Z",
   "scope_start": "2026-01-01",
-  "article_count": 2436,
+  "article_count": 2457,
   "articles": [
+    {
+      "doi": "10.1002/anie.9441573",
+      "title": "Vanadium-Vacancy-Induced Atomically Polarized Heterojunctions for Synergistic Bioenergetic Pathogen Disruption and Peripheral Nerve Regeneration",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1002/anie.9441573"
+    },
+    {
+      "doi": "10.1002/anie.9107214",
+      "title": "Heteroleptic Dicopper Molecular Design Unlocks Distinct Dual Synergies in Electrocatalytic Hydrodimerization of Dilute Acetylene to 1,3-Butadiene",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1002/anie.9107214"
+    },
+    {
+      "doi": "10.1002/anie.8298635",
+      "title": "Bright Ideas From Biology Transforming Synthesis: 59th Bürgenstock Conference",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1002/anie.8298635"
+    },
+    {
+      "doi": "10.1002/anie.7683916",
+      "title": "Insights on Dual-Functional Ionic Liquid Interfacial Layer for Efficient CO2 Electroreduction to C2+ Products in Acid",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1002/anie.7683916"
+    },
+    {
+      "doi": "10.1002/anie.7341167",
+      "title": "Hierarchical Membrane for Photoelectrostatically Gated Monovalent-Divalent Ion Separation",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1002/anie.7341167"
+    },
+    {
+      "doi": "10.1002/anie.7072655",
+      "title": "Manfred Manßen",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1002/anie.7072655"
+    },
+    {
+      "doi": "10.1002/anie.6774558",
+      "title": "Regulating What We Cannot Yet Measure? A Scientific Perspective on Polymeric PFASs, Total Fluorine, and the PFAS Fluorine Gap",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1002/anie.6774558"
+    },
+    {
+      "doi": "10.1002/anie.6392855",
+      "title": "Coarse-Grained Simulations Rationalize Thermosensitivity and Hydrolytic Degradation of Vinyl Copolymers Obtained by Radical Ring-Opening Polymerization",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1002/anie.6392855"
+    },
+    {
+      "doi": "10.1002/anie.6265402",
+      "title": "Tandem Hydroalumination/Oxidation Enables In-Chain Hydroxyl Functionalization of Polydienes",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1002/anie.6265402"
+    },
+    {
+      "doi": "10.1002/anie.6217043",
+      "title": "All-in-One Stretchable Flexible Zinc–Air Battery Enabled by Eutectogel-Derived Electrolyte and Electrodes",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1002/anie.6217043"
+    },
+    {
+      "doi": "10.1002/anie.3901165",
+      "title": "Automated Spin-Assisted Layer-by-Layer Epitaxy Produces Highly Oriented Mixed-Linker MOF Thin Films",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1002/anie.3901165"
+    },
+    {
+      "doi": "10.1002/anie.3566490",
+      "title": "Triazine Crosslinking Enables Nitrogen-Enriched Carbon Molecular Sieve Membranes for Precision 1,3-Butadiene/n-Butane Separation",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1002/anie.3566490"
+    },
+    {
+      "doi": "10.1002/anie.3413163",
+      "title": "Five-Boron Multiple-Resonance TADF Emitter With Accelerated Reverse Intersystem Crossing for High-Performance Narrowband Green OLEDs",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1002/anie.3413163"
+    },
+    {
+      "doi": "10.1002/anie.3298028",
+      "title": "Sequential Topochemical Reactions Through an Evolving Reaction Lattice",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1002/anie.3298028"
+    },
+    {
+      "doi": "10.1002/anie.3221634",
+      "title": "Yuwei Gu",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1002/anie.3221634"
+    },
+    {
+      "doi": "10.1002/anie.2928007",
+      "title": "Electrochemically In Situ Formed Inverse-Honeycomb Local Ordering for Low-Voltage-Hysteresis Oxygen Redox in Na/Li Layered Oxide Cathodes",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1002/anie.2928007"
+    },
+    {
+      "doi": "10.1002/anie.2829162",
+      "title": "Interfacial OH− Dynamic Modulation by Alternating Current Enables Precipitation-Suppressed Direct Seawater Electrolysis for Hydrogen Production",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1002/anie.2829162"
+    },
+    {
+      "doi": "10.1002/anie.2432431",
+      "title": "Precise and Rapid Prelithiation of Hard Carbon Anodes via Tuning the Solution Chemistry of Aryl–Lithium Reagents",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1002/anie.2432431"
+    },
+    {
+      "doi": "10.1002/anie.2408877",
+      "title": "A High-Voltage Mild Alkaline Zinc-Iodine Battery Enabled by Tailored Redox Couples",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1002/anie.2408877"
+    },
+    {
+      "doi": "10.1002/anie.1794764",
+      "title": "Hydraulicity in Organic Polymers Enabled by Hydrophobization Upon Water-Triggered Curing of Hydrophilic Chains",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1002/anie.1794764"
+    },
+    {
+      "doi": "10.1002/anie.1508038",
+      "title": "The Multi-Scale Paradigm: An Integrated Design Logic for Nonlinear Optical Crystals",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1002/anie.1508038"
+    },
     {
       "doi": "10.1002/anie.9880949",
       "title": "Adenylation Domain Engineering Enables Biosynthesis of an Improved Polymyxin Antibiotic",

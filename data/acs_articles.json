@@ -1,11 +1,65 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-09-09T20:00:39.130Z",
+  "collected_at": "2026-09-10T20:00:36.740Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7492,
+  "article_count": 7501,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c16552",
+      "title": "Dynamic Supramolecular Helicity in a Multi-Aluminum Porphyrin Catalyst Enables Stereocontrolled Synthesis of Ultrahigh-Molecular-Weight Isotactic Poly(propylene oxide)",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1021/jacs.6c16552"
+    },
+    {
+      "doi": "10.1021/jacs.6c15649",
+      "title": "Unveiling the Active Aluminum Sites and Confinement Effects of Zeolites for N2O Decomposition",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1021/jacs.6c15649"
+    },
+    {
+      "doi": "10.1021/jacs.6c14737",
+      "title": "In Situ Multiscale Imaging Reveals Cellular Selection and Remodeling of Peptide Assemblies from Membrane Perturbation to Actin Dysregulation",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1021/jacs.6c14737"
+    },
+    {
+      "doi": "10.1021/jacs.6c12383",
+      "title": "Thiophenol-Based Designer Enzymes for Asymmetric Hydrogen/Deuterium Atom Transfer",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1021/jacs.6c12383"
+    },
+    {
+      "doi": "10.1021/jacs.6c12198",
+      "title": "Neural-Network-Based Molecular Dynamics Unravel Generic Multitransition States in CVD Growth of Planar Honeycomb 2D Lattices",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1021/jacs.6c12198"
+    },
+    {
+      "doi": "10.1021/jacs.6c11727",
+      "title": "Self-Inhibiting Corrosion Protection through Dynamic Oxyanion Interfacial Regulation for Industrial Seawater Electrolysis",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1021/jacs.6c11727"
+    },
+    {
+      "doi": "10.1021/jacs.6c09639",
+      "title": "The Birth of Crystals in Solution at Submillisecond Time Scales: Spinodal Decomposition into a Transient Viscoelastic Reactant-Rich Liquid",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1021/jacs.6c09639"
+    },
+    {
+      "doi": "10.1021/jacs.6c09095",
+      "title": "Mechanical Quantification of Molecular Interactions Reveals Spatiotemporal Fluctuations on the Cell Surface",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1021/jacs.6c09095"
+    },
+    {
+      "doi": "10.1021/jacs.6c07761",
+      "title": "Reservoir Neuromorphic Computing Based on Spin-Orbit Coupling in an Organic Crystal Resonator",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1021/jacs.6c07761"
+    },
     {
       "doi": "10.1021/jacs.6c15105",
       "title": "Fulvalene- and [3]Cumulene-Bridged Conjugated Organoboranes: Pentagon Annulation and Olefination Enabled by One-Step Alkyne Cyclization",

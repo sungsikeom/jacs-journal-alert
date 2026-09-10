@@ -1,12 +1,126 @@
 {
   "source": "Nature Research Articles · 2026 filter",
-  "collected_at": "2026-09-09T20:07:19.138Z",
+  "collected_at": "2026-09-10T20:07:17.386Z",
   "scope_start": "2026-01-01",
-  "official_total": 932,
+  "official_total": 951,
   "collection_mode": "incremental",
   "stopped_on_known_doi": true,
-  "article_count": 932,
+  "article_count": 951,
   "articles": [
+    {
+      "doi": "10.1038/s41586-026-11118-x",
+      "title": "Highly efficient base editing at PCSK9 and normal human embryo development",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41586-026-11118-x"
+    },
+    {
+      "doi": "10.1038/s41586-026-11039-9",
+      "title": "Within-family effect of ancestry on complex traits in a Mexican population",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41586-026-11039-9"
+    },
+    {
+      "doi": "10.1038/s41586-026-11025-1",
+      "title": "Breaking timescales with generative sampling of conformational transitions",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41586-026-11025-1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11008-2",
+      "title": "Anodic Pd membrane H2 extraction enhances thermochemical dehydrogenation",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41586-026-11008-2"
+    },
+    {
+      "doi": "10.1038/s41586-026-11005-5",
+      "title": "Predicting genome-wide functional constraints with GPN-Star",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41586-026-11005-5"
+    },
+    {
+      "doi": "10.1038/s41586-026-11004-6",
+      "title": "Advancing conflict research and response through satellite-derived data",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41586-026-11004-6"
+    },
+    {
+      "doi": "10.1038/s41586-026-11003-7",
+      "title": "Proximity-guided graph learning reveals tumour-associated proximity antigens",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41586-026-11003-7"
+    },
+    {
+      "doi": "10.1038/s41586-026-11002-8",
+      "title": "A serpin–myeloid axis in pancreatic cancer heterogeneity and immune evasion",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41586-026-11002-8"
+    },
+    {
+      "doi": "10.1038/s41586-026-11001-9",
+      "title": "An operational perturbation proteomics-based virtual cell model",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41586-026-11001-9"
+    },
+    {
+      "doi": "10.1038/s41586-026-10998-3",
+      "title": "TRI-611, a selective, brain-penetrant molecular glue degrader of ALK",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41586-026-10998-3"
+    },
+    {
+      "doi": "10.1038/s41586-026-10997-4",
+      "title": "Denisovans from southwestern China and their subsistence strategies",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41586-026-10997-4"
+    },
+    {
+      "doi": "10.1038/s41586-026-10993-8",
+      "title": "TM184C is a GPCR-like regulator of intercellular exchange and autophagy",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41586-026-10993-8"
+    },
+    {
+      "doi": "10.1038/s41586-026-10990-x",
+      "title": "Mobile education builds resilience during shocks in five countries",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41586-026-10990-x"
+    },
+    {
+      "doi": "10.1038/s41586-026-10979-6",
+      "title": "Imaging cellular activity across all organs reveals body-wide circuits",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41586-026-10979-6"
+    },
+    {
+      "doi": "10.1038/s41586-026-10976-9",
+      "title": "Ancient proteins identify various Denisovan remains from Southwest China",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41586-026-10976-9"
+    },
+    {
+      "doi": "10.1038/s41586-026-10968-9",
+      "title": "Foaming photopolymers as a high-resolution biomimetic printing platform",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41586-026-10968-9"
+    },
+    {
+      "doi": "10.1038/s41586-026-10954-1",
+      "title": "PLA2G2D in tumour-draining lymph nodes regulates anti-tumour immunity",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41586-026-10954-1"
+    },
+    {
+      "doi": "10.1038/s41586-026-10876-y",
+      "title": "Neocortical long-range inhibition promotes cortical synchrony and sleep",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41586-026-10876-y"
+    },
+    {
+      "doi": "10.1038/s41586-026-10468-w",
+      "title": "Integrated signatures define mutational processes in prostate cancer",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1038/s41586-026-10468-w"
+    },
     {
       "doi": "10.1038/s41586-026-11091-5",
       "title": "Ketone homologation via palladium-catalysed decarboxylative rearrangement",
