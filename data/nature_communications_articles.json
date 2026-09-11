@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-10T20:04:03.279Z",
+  "collected_at": "2026-09-11T20:04:04.693Z",
   "scope_start": "2026-01-01",
-  "article_count": 8800,
+  "article_count": 8820,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77737-0",
+      "title": "Predictability can be dynamically constructed in deterministic systems",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1038/s41467-026-77737-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77708-5",
+      "title": "Efficient conversion of syngas into sustainable aviation fuel",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1038/s41467-026-77708-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77682-y",
+      "title": "A neural circuit of food sight-promoted feeding and contextual memory in mice",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1038/s41467-026-77682-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77680-0",
+      "title": "Discovery of an antagonist nanobody targeting the oxytocin receptor with tocolytic effect in mice",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1038/s41467-026-77680-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77676-w",
+      "title": "Selective O3/SPC oxidation minimizes the carbon footprint of concentrated aromatic remediation via in situ endogenous carbon",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1038/s41467-026-77676-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77669-9",
+      "title": "Experimental realization of the topologically nontrivial phase in monolayer Si2Te2",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1038/s41467-026-77669-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77655-1",
+      "title": "Co-optimized volumetric muscle design for large dynamic deformations in versatile biohybrid robots",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1038/s41467-026-77655-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77624-8",
+      "title": "Mitigating tin ion migration and reinforcing buried interface via synergistic polymer-modified tin oxide",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1038/s41467-026-77624-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77620-y",
+      "title": "RAISE quantifies RNA binding protein activity via transcriptomic profiling",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1038/s41467-026-77620-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77609-7",
+      "title": "Cardiac fibroblast deletion of PTBP1 modulates the profibrotic response by alternative splicing",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1038/s41467-026-77609-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77601-1",
+      "title": "Surface dynamics of glassy polymers with different molecular weight distributions",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1038/s41467-026-77601-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77588-9",
+      "title": "SLC4A7/NBCn1 maintains intracellular pH to support mTORC1 activity and antibody-secreting cell differentiation",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1038/s41467-026-77588-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77565-2",
+      "title": "CReP-mediated control of eIF2α phosphorylation is a critical node in MYC-driven medulloblastoma",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1038/s41467-026-77565-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77495-z",
+      "title": "In vivo CRISPR screens identify dual functions of DNMT3A in mediating tumor immune evasion",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1038/s41467-026-77495-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77485-1",
+      "title": "Proteasome inhibition alleviates proteinuria in Lmx1b knock-in mice with dysfunctional LIM domains",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1038/s41467-026-77485-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77441-z",
+      "title": "Three-dimensional reconstruction of glacier-derived freshwater in East Antarctica using an end-member-independent hydrographic parameterization",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1038/s41467-026-77441-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77401-7",
+      "title": "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1038/s41467-026-77401-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77346-x",
+      "title": "Chromosome-scale genomes and population resequencing resolve subgenome diversity and halophyte adaptation in Salicornia",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1038/s41467-026-77346-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77291-9",
+      "title": "Nd doping enables efficient and durable manganese-based water oxidation catalysts under acidic conditions",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1038/s41467-026-77291-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-76387-6",
+      "title": "A cryptic symmetry switch allosterically controls how the PF4 self-protein turns into a pathogenic antigen",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1038/s41467-026-76387-6"
+    },
     {
       "doi": "10.1038/s41467-026-77718-3",
       "title": "Site-specific protein functionalization by late-stage reversible cysteine masking",

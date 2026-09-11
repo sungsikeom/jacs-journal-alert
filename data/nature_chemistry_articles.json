@@ -1,9 +1,15 @@
 {
   "source": "Nature Chemistry Research Articles",
-  "collected_at": "2026-09-10T20:07:33.266Z",
+  "collected_at": "2026-09-11T20:07:33.521Z",
   "scope_start": "2009-01-01",
-  "article_count": 2506,
+  "article_count": 2507,
   "articles": [
+    {
+      "doi": "10.1038/s41557-026-02245-z",
+      "title": "Nanoscale visualization of plasmon-enhanced hydrogen activation on a Pt(111) surface",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1038/s41557-026-02245-z"
+    },
     {
       "doi": "10.1038/s41557-026-02248-w",
       "title": "Ionic clusters as high-connectivity secondary building units for crystalline porous organic salts",

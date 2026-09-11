@@ -1,14 +1,104 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-09-08T20:17:47.717Z",
+  "collected_at": "2026-09-11T20:17:21.481Z",
   "scope_start": "2026-01-01",
-  "article_count": 1186,
+  "article_count": 1201,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02728",
+      "title": "Mixed-Anion-Induced Asymmetric Orbital Hybridization Governs Carrier Transport and Photoresponse in Monolayer TiOS",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02728"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02574",
+      "title": "Shifting the Product Pathway of N2 and CO Electro-Coupling from Urea to Formamide and Ammonia on 3d Dual-Atom Catalysts",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02574"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02440",
+      "title": "Increasing Room-Temperature Ferromagnetic Magnetization of Bilayer Graphene Nanoribbons by High-Concentration Pure Semi-ionic Fluorine Functionalization",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02440"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02047",
+      "title": "Preresonant Coherent IR-hyper-Raman Spectroscopy of FAPbBr3",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02047"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01772",
+      "title": "Influence of Ligand Sterics on Electrocatalytic Oxygen Evolution Reaction in Molecular Half-Sandwich Nickel(II) N-Heterocyclic Carbene Complexes: Experimental and DFT Insights",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01772"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01623",
+      "title": "Inducing Room Temperature Ferromagnetism in Phyllosilicates via Iron Implantation",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01623"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01430",
+      "title": "Entropic Control of Ethylene and Acetylene Uptake in Silicon-Functionalized Ionic Liquids? An Experimental and Molecular Dynamics Study",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01430"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02954",
+      "title": "Correction to “Negative Ion Photoelectron Spectroscopy of Exotic Gaseous Iron-Cyanide Dianions [Fe(CN)n]2– (n = 4–6): Experiment and Many-Body Perturbation Theory”",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02954"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02441",
+      "title": "Co-Activated Interfacial Water Facilitates Proton Supply in CO2-to-Methane Electroreduction on a CuCo Single-Atom Alloy",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02441"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02487",
+      "title": "Switchable Visible-Frequency Monochromatic Focusing via a Liquid-Tunable Metalens",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02487"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02483",
+      "title": "Anisotropic Organic Charge-Transfer Cocrystal-Based Near-Infrared Polarized Photodetectors",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02483"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02379",
+      "title": "Thiourea-Mediated Photoinduced Electron Transfer in Water",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02379"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02322",
+      "title": "A Free-Energy Upper-Bound Criterion for Entropy-Active Element Counts in High-Entropy Materials",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02322"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01834",
+      "title": "Microsecond Barrier-Crossing Collapse in Cytochrome c Folding Revealed by Two-Dimensional Fluorescence Lifetime Correlation Spectroscopy",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01834"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02467",
       "title": "Pressure-Driven Interfacial Microenvironment Regulation for Highly Selective Acidic CO2 Electroreduction",
       "published_date": "2026-09-08",
       "url": "https://doi.org/10.1021/acs.jpclett.6c02467"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02134",
+      "title": "Real-Time Simulation of Low-Energy Quantum Scattering with Quantum Circuits",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02134"
     },
     {
       "doi": "10.1021/acs.jpclett.6c02704",

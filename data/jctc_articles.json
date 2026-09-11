@@ -1,9 +1,39 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-09-10T20:10:47.771Z",
+  "collected_at": "2026-09-11T20:10:49.413Z",
   "scope_start": "2026-01-01",
-  "article_count": 688,
+  "article_count": 693,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01539",
+      "title": "ORACLE: A Persistent Chemical State for Reproducible Molecular Workflows",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01539"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01206",
+      "title": "Semiclassical Molecular Dynamics for Condensed Phase NMR Spectroscopy",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01206"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01063",
+      "title": "Learning Memory and Transferability in Coarse-Grained Dynamics",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01063"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01013",
+      "title": "Dynamic Electron Correlation Energy for Multireference Wave Function Methods from One- and Two-Electron Reduced Density Matrices",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01013"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00965",
+      "title": "Benchmarking Core-Level X-ray Absorption with MRSF-TDDFT, RASPT2, and Stochastic GAS Using the XABOOM Set",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00965"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01219",
       "title": "Gradient-Based Curvature-Only Time-Derivative Coupling for Surface Hopping and Coherent Switching with Decay of Mixing: Application to SO2 and Molecular Tully Models",

@@ -1,11 +1,101 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-09-10T20:00:36.740Z",
+  "collected_at": "2026-09-11T20:00:38.101Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7501,
+  "article_count": 7517,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c15268",
+      "title": "Crystal Structures and Covalent Hg–O Bonding in Alkali Metal Oxidomercurates: Linking Hg(II) and Hg(0)",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/jacs.6c15268"
+    },
+    {
+      "doi": "10.1021/jacs.6c15204",
+      "title": "Acid-Gated Interfacial Conversion of Aerosol Nitrate to Organic Nitrates Driven by Adsorbed Aldehydes",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/jacs.6c15204"
+    },
+    {
+      "doi": "10.1021/jacs.6c15045",
+      "title": "Unlocking Hidden Potential via Reprogrammed Mineral Structures: How Anionic Transformation Achieves Ultraviolet Nonlinear Optical Performance",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/jacs.6c15045"
+    },
+    {
+      "doi": "10.1021/jacs.6c14649",
+      "title": "Flexible Microfluidic Surface-Enhanced Raman Scattering Devices Integrated with Interpretable Machine Learning for Metabolic Fatigue Monitoring",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/jacs.6c14649"
+    },
+    {
+      "doi": "10.1021/jacs.6c13463",
+      "title": "Doubly Reduced Arene as a Platform for Th(II) and Zr(II) Synthons: M–Arene δ-Bonding Governs Divergent Two-Electron Reactivity",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/jacs.6c13463"
+    },
+    {
+      "doi": "10.1021/jacs.6c13064",
+      "title": "Through-Space-Conjugated Viologen Cyclophanes for Single-Molecule Junctions",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/jacs.6c13064"
+    },
+    {
+      "doi": "10.1021/jacs.6c12791",
+      "title": "Tracking Topology-Synergistic Adaptive Emergence in Non-equilibrium Silica Surface Growth on Liquid Metals",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/jacs.6c12791"
+    },
+    {
+      "doi": "10.1021/jacs.6c12507",
+      "title": "Photochemistry with Plane-Polarized Light: Controlling Photochemical Reactions via Selective Choice of Excited States and Breaking Kasha’s Rule",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/jacs.6c12507"
+    },
+    {
+      "doi": "10.1021/jacs.6c12458",
+      "title": "Disentangling Lithium Failure Mechanisms in Liquid Electrolytes by 2D Exchange Solid-State NMR",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/jacs.6c12458"
+    },
+    {
+      "doi": "10.1021/jacs.6c11599",
+      "title": "A Triply Negatively Curved Graphenic Macrocycle",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/jacs.6c11599"
+    },
+    {
+      "doi": "10.1021/jacs.6c11237",
+      "title": "Mixed-Linker Metal–Organic Frameworks Modified Separators as Li+-Transport Accelerators for Wide-Temperature and Long-Cycling Lithium Metal Batteries",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/jacs.6c11237"
+    },
+    {
+      "doi": "10.1021/jacs.6c09601",
+      "title": "Achieving Distributed and Flexible Hydrogenation of Aromatics with Crude Hydrogen from Electrolyzers",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/jacs.6c09601"
+    },
+    {
+      "doi": "10.1021/jacs.6c09323",
+      "title": "Hydration Topology Governs the H–O–O–H Dihedral Angle in Hydrogen Peroxide as Unveiled by Rotational Spectroscopy",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/jacs.6c09323"
+    },
+    {
+      "doi": "10.1021/jacs.6c08636",
+      "title": "Grignard Reagents Unlock Three-Dimensional Nitrogen Heterocycles via Single-Carbon-Atom Insertion",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/jacs.6c08636"
+    },
+    {
+      "doi": "10.1021/jacs.6c07049",
+      "title": "SuFEx Cyclization Enables DNA-Encoded Macrocyclic Peptide Libraries for Drug Discovery",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1021/jacs.6c07049"
+    },
     {
       "doi": "10.1021/jacs.6c16552",
       "title": "Dynamic Supramolecular Helicity in a Multi-Aluminum Porphyrin Catalyst Enables Stereocontrolled Synthesis of Ultrahigh-Molecular-Weight Isotactic Poly(propylene oxide)",
@@ -17,6 +107,12 @@
       "title": "Unveiling the Active Aluminum Sites and Confinement Effects of Zeolites for N2O Decomposition",
       "published_date": "2026-09-10",
       "url": "https://doi.org/10.1021/jacs.6c15649"
+    },
+    {
+      "doi": "10.1021/jacs.6c15534",
+      "title": "Triplet Excimer Regulates Triplet Sensitization Efficiency of Semiconductor Quantum Dots",
+      "published_date": "2026-09-10",
+      "url": "https://doi.org/10.1021/jacs.6c15534"
     },
     {
       "doi": "10.1021/jacs.6c14737",
