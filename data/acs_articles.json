@@ -1,11 +1,101 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-09-11T20:00:38.101Z",
+  "collected_at": "2026-09-12T20:00:34.727Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7517,
+  "article_count": 7532,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c16358",
+      "title": "A Click-Triggered Bioorthogonal Strategy for Dual Activation of Covalent Warheads and Reporter Payloads",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1021/jacs.6c16358"
+    },
+    {
+      "doi": "10.1021/jacs.6c14611",
+      "title": "Direct Photocatalytic Anaerobic Conversion of Methane and Water to Acetone over RhPd Alloy-Modified TiO2",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1021/jacs.6c14611"
+    },
+    {
+      "doi": "10.1021/jacs.6c13959",
+      "title": "A Remarkably Similar Oxygen Electronic Structure in CO-Treated CeO2 and Gd-Doped CeO2 Is Revealed by X-ray Raman Spectroscopy",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1021/jacs.6c13959"
+    },
+    {
+      "doi": "10.1021/jacs.6c13704",
+      "title": "Complementary-Ligand Pair Strategy toward High-Performance Sub-Kelvin Magnetic Refrigerants",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1021/jacs.6c13704"
+    },
+    {
+      "doi": "10.1021/jacs.6c13648",
+      "title": "Kinetic-Controlled Ultrafast Synthesis of Ordered Intermetallic Nanoparticles",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1021/jacs.6c13648"
+    },
+    {
+      "doi": "10.1021/jacs.6c13528",
+      "title": "CO-Mediated Relay Catalysis Affords Selective CO2 Hydrogenation to Methanol",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1021/jacs.6c13528"
+    },
+    {
+      "doi": "10.1021/jacs.6c12740",
+      "title": "Copper-Catalyzed Late-Stage C(sp3)–H Amination of N-Terminal Glycine Peptides with Secondary Alkylamines",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1021/jacs.6c12740"
+    },
+    {
+      "doi": "10.1021/jacs.6c11510",
+      "title": "Chemical Editing Reveals Atomic-Level Control of Supramolecular Structure in Self-Assembling Peptides",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1021/jacs.6c11510"
+    },
+    {
+      "doi": "10.1021/jacs.6c11369",
+      "title": "Ethanol-Switchable Silane Crosslinking of Hydrogels",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1021/jacs.6c11369"
+    },
+    {
+      "doi": "10.1021/jacs.6c10662",
+      "title": "A Bacterial Pathway for Homotaurine Catabolism via Sulfopropanoate",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1021/jacs.6c10662"
+    },
+    {
+      "doi": "10.1021/jacs.6c10614",
+      "title": "Curvature-Enhanced and Chirality-Modulated Anomalous Thermal Transport in Pentagonal Covalent Organic Framework Nanotubes",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1021/jacs.6c10614"
+    },
+    {
+      "doi": "10.1021/jacs.6c10605",
+      "title": "Mechanistic Diversity of Mg(I)-Mediated 2–6-CO Coupling Revealed through Computational Reaction Path Exploration",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1021/jacs.6c10605"
+    },
+    {
+      "doi": "10.1021/jacs.6c10183",
+      "title": "Synthesis of Siccanin by Computational Subtarget Selection",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1021/jacs.6c10183"
+    },
+    {
+      "doi": "10.1021/jacs.6c08967",
+      "title": "Hydration Asymmetry and Solvent-Mediated Charge Balancing in Microporous Carbons: An NMR Study of Aqueous and Organic Electrosorption",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1021/jacs.6c08967"
+    },
+    {
+      "doi": "10.1021/jacs.6c08623",
+      "title": "Electrolyte Lubricants for Solid-State Batteries",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1021/jacs.6c08623"
+    },
     {
       "doi": "10.1021/jacs.6c15268",
       "title": "Crystal Structures and Covalent Hg–O Bonding in Alkali Metal Oxidomercurates: Linking Hg(II) and Hg(0)",

@@ -1,9 +1,153 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-11T20:23:53.234Z",
+  "collected_at": "2026-09-12T20:24:00.782Z",
   "scope_start": "2026-01-01",
-  "article_count": 2457,
+  "article_count": 2481,
   "articles": [
+    {
+      "doi": "10.1002/anie.5747023",
+      "title": "Π-Conjugated Polyphenols Regulate Interfacial Charge to Stabilize Lattice Oxygen in High-Voltage Ni-Rich Cathodes",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1002/anie.5747023"
+    },
+    {
+      "doi": "10.1002/anie.5617321",
+      "title": "Synergistic Silylium-Ion and Palladium Catalysis Enables Migratory Alkene Silylation With Allylsilanes by Formal C–H/C–Si Metathesis",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1002/anie.5617321"
+    },
+    {
+      "doi": "10.1002/anie.5076332",
+      "title": "Regulating Sodium Deposition Behavior via Polar Functional Group-Based Interfacial Engineering on an Industrial-Scale Anode for High-Performance Na-CO2 Batteries",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1002/anie.5076332"
+    },
+    {
+      "doi": "10.1002/anie.5070160",
+      "title": "Catalytic Insertion of Pd–Vinylidenes Into B─H Bonds",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1002/anie.5070160"
+    },
+    {
+      "doi": "10.1002/anie.4923622",
+      "title": "Diblock Copolymer Nanoparticles Act as Nanoreactors for the Synthesis of Sterically-Stabilized Inorganic Oxide Particles in Non-polar Media",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1002/anie.4923622"
+    },
+    {
+      "doi": "10.1002/anie.4008632",
+      "title": "Bio-Magnetically Tailored Spin Configurations in Ni-Doped FeS Pre-Catalysts for Alkaline Water Splitting",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1002/anie.4008632"
+    },
+    {
+      "doi": "10.1002/anie.2370748",
+      "title": "A Sphere−Sheet Hetero−Interlayer With Mechanoadaptivity and Li+ Selectivity for High Performance Anode Free Lithium Sulfur Batteries",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1002/anie.2370748"
+    },
+    {
+      "doi": "10.1002/anie.1966926",
+      "title": "Anion Coordination Field Enables Ni/Mn Spin-Orbital Reconstruction for Stable High-Voltage Sodium Layer-Structured Cathodes",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1002/anie.1966926"
+    },
+    {
+      "doi": "10.1002/anie.1755692",
+      "title": "Two-Dimensional fes-Topology Covalent Organic Frameworks With Intrinsic Paramagnetic Semiconducting Properties",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1002/anie.1755692"
+    },
+    {
+      "doi": "10.1002/anie.1167313",
+      "title": "Breaking the Diffusion–Dispersion Trade-Off: Subnanometric MoO3 Clusters in Interzeolite Transformation Intermediates for Oxidative Desulfurization With H2O2",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1002/anie.1167313"
+    },
+    {
+      "doi": "10.1002/anie.9239356",
+      "title": "Rational Construction of Fluoride Crystals With Record Birefringence via Water-Regulated Hydrogen-Bond Network Reconfiguration",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1002/anie.9239356"
+    },
+    {
+      "doi": "10.1002/anie.9212238",
+      "title": "Hypothesis-and-Refinement Learning of Organic Structures From Multimodal Spectroscopic Data",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1002/anie.9212238"
+    },
+    {
+      "doi": "10.1002/anie.8333945",
+      "title": "1,2-Bis(boronate) Arenes by Borylation Directed Borylation",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1002/anie.8333945"
+    },
+    {
+      "doi": "10.1002/anie.7486858",
+      "title": "A Mechanical sp2-Jail for C60 Fullerene",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1002/anie.7486858"
+    },
+    {
+      "doi": "10.1002/anie.6262238",
+      "title": "A Conserved Isoleucine Gates the Diffusion of CO and O2 to the Active Site of NiFe CO-Dehydrogenase",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1002/anie.6262238"
+    },
+    {
+      "doi": "10.1002/anie.5828764",
+      "title": "Domain-Defined Coordination Modulation of Vanadium Oxide Cathodes for Wide-Temperature-Tolerant Aqueous Zinc-Ion Batteries",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1002/anie.5828764"
+    },
+    {
+      "doi": "10.1002/anie.5828543",
+      "title": "Trace Amorphous FeOx Steers O2 Activation From Charge Transfer to Energy Transfer for Singlet-Oxygen-Mediated Biomass Valorization",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1002/anie.5828543"
+    },
+    {
+      "doi": "10.1002/anie.5688540",
+      "title": "Sono-Tribocatalytic Whole Tumor Cell Vaccine Enables Ultrasound-Controlled Immune Boosting for Enhanced Anti-Tumor Immunity",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1002/anie.5688540"
+    },
+    {
+      "doi": "10.1002/anie.4538316",
+      "title": "Access to N-Fused Acyl Aziridines for Modular Difunctionalization of Olefins by Ruthenium-Catalyzed Nitrenoid Transfer",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1002/anie.4538316"
+    },
+    {
+      "doi": "10.1002/anie.3651820",
+      "title": "Cluster-Directed Solvation Engineering for Dual-Interface Stabilized Gel Polymer Electrolytes Enabling High-Voltage and Fast-Charging Lithium-Ion Batteries",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1002/anie.3651820"
+    },
+    {
+      "doi": "10.1002/anie.2539581",
+      "title": "Late-Stage Annulative Imidazolation for Expanding Histidine-Analogous Side Chains in Peptides and Proteins",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1002/anie.2539581"
+    },
+    {
+      "doi": "10.1002/anie.1544949",
+      "title": "Loose Al3+ Solvation Aggregates Enable Reversible Aluminum Anodes in Chlorine-Free Electrolyte",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1002/anie.1544949"
+    },
+    {
+      "doi": "10.1002/anie.1147906",
+      "title": "Expanding the DNA Nanotechnology Toolbox: Hierarchical Assembly and Self-Sorting of DNA Tiles With Precisely Controlled Hydrophobic Behavior",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1002/anie.1147906"
+    },
+    {
+      "doi": "10.1002/anie.1064201",
+      "title": "31P Solid-State NMR-Enabled Development of a Pt/Aluminum Tripolyphosphate Catalyst for Selective C─O Bond Hydrogenolysis of Phenols",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1002/anie.1064201"
+    },
     {
       "doi": "10.1002/anie.9441573",
       "title": "Vanadium-Vacancy-Induced Atomically Polarized Heterojunctions for Synergistic Bioenergetic Pathogen Disruption and Peripheral Nerve Regeneration",

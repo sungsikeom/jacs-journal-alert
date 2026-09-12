@@ -1,9 +1,21 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-09-11T20:14:05.113Z",
+  "collected_at": "2026-09-12T20:14:02.177Z",
   "scope_start": "2026-01-01",
-  "article_count": 834,
+  "article_count": 836,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02785",
+      "title": "Geometric–Chemical Distance between Protein Surfaces",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02785"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00874",
+      "title": "Efficient Discovery of Potent AKR1B10 Inhibitors Using Co-folding Model Boltz-2",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00874"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02052",
       "title": "Physics-Inspired Multi-Body Descriptors Enable Interpretable Density Prediction of Energetic Ionic Salts",

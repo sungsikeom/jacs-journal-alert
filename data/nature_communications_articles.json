@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-11T20:04:04.693Z",
+  "collected_at": "2026-09-12T20:04:00.938Z",
   "scope_start": "2026-01-01",
-  "article_count": 8820,
+  "article_count": 8840,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77807-3",
+      "title": "H2S-induced surface reconstruction enables efficient CsPbI3 QLEDs with ultralow roll-off",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1038/s41467-026-77807-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77786-5",
+      "title": "Disentangling the effect of space and electric field on photoelectrochemical water splitting",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1038/s41467-026-77786-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77752-1",
+      "title": "Polyploid frequency decreases with elevation but increases with distance to glacial refugia in the Eastern European Alps",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1038/s41467-026-77752-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77748-x",
+      "title": "Global brain activity links subcortical degeneration to cortical tau progressively across Braak regions over early Alzheimer’s disease stages",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1038/s41467-026-77748-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77693-9",
+      "title": "PKM2 AP: a micropeptide inhibits vascular calcification via molecular glue-mediated ubiquitination of PKM2",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1038/s41467-026-77693-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77687-7",
+      "title": "CG14075/Mmt promotes amino acid catabolism and cooperates with AKH during starvation in Drosophila",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1038/s41467-026-77687-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77657-z",
+      "title": "Leveraging high-throughput proteomics and AI-based protein folding to accelerate VAV1 molecular glue discovery",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1038/s41467-026-77657-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77608-8",
+      "title": "The 11-hydroxy-jasmonic acid pathway expands jasmonate catabolic repertoire for stress-specific hormone attenuation in Arabidopsis",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1038/s41467-026-77608-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77587-w",
+      "title": "TET2 loss triggers ssDNA gap accumulation and heightened PARP inhibitor sensitivity",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1038/s41467-026-77587-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77557-2",
+      "title": "Functional alignment of protein language models via reinforcement learning",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1038/s41467-026-77557-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77501-4",
+      "title": "Widespread declines of formerly common species reshape local assemblages over time",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1038/s41467-026-77501-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77474-4",
+      "title": "Huntington’s disease vasculopathy is barrier-type-selective and arteriolar-dominant with spatially-coupled astrogliosis and reversible by S1pr1 stimulation",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1038/s41467-026-77474-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77461-9",
+      "title": "Tumor-targeted IL-10 synergizes with IL-2 to enhance antitumor immunity while minimizing immune-related adverse events",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1038/s41467-026-77461-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77436-w",
+      "title": "Catalytic Asymmetric Spiroannulation to Access Polycyclic Spiro Enones via Transient Axial-to-Point Chirality Induction and Transfer",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1038/s41467-026-77436-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77393-4",
+      "title": "A single-nucleus atlas of ligular region uncovers brassinosteroid-driven cell fate transitions controlling leaf angle in maize",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1038/s41467-026-77393-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77326-1",
+      "title": "Multiple Argonaute complexes orchestrate epigenetic silencing in the Arabidopsis germline",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1038/s41467-026-77326-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77279-5",
+      "title": "A local structural basis to distinguish amorphous ices",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1038/s41467-026-77279-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77221-9",
+      "title": "Robust biexciton preparation for entangled photon-pair generation by single-shot Floquet driving",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1038/s41467-026-77221-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-76876-8",
+      "title": "Loss of oxytocin receptor function disrupts neural signatures of pair bonding and fidelity in the nucleus accumbens",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1038/s41467-026-76876-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-76736-5",
+      "title": "Optical phased array LiDAR chips towards polarization-resolved 4D sensing",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1038/s41467-026-76736-5"
+    },
     {
       "doi": "10.1038/s41467-026-77737-0",
       "title": "Predictability can be dynamically constructed in deterministic systems",

@@ -1,9 +1,21 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-09-11T20:17:21.481Z",
+  "collected_at": "2026-09-12T20:17:18.802Z",
   "scope_start": "2026-01-01",
-  "article_count": 1201,
+  "article_count": 1203,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02370",
+      "title": "Activating Photoreaction of Indazole Metastable-State Photoacid through Two-Photon Excitation",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02370"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02146",
+      "title": "From Clusters to Nanocrystals: The Continuous Evolution of Copper Clusters Revealed by Machine Learning",
+      "published_date": "2026-09-12",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02146"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02728",
       "title": "Mixed-Anion-Induced Asymmetric Orbital Hybridization Governs Carrier Transport and Photoresponse in Monolayer TiOS",
