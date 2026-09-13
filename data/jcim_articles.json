@@ -1,9 +1,15 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-09-12T20:14:02.177Z",
+  "collected_at": "2026-09-13T20:14:03.604Z",
   "scope_start": "2026-01-01",
-  "article_count": 836,
+  "article_count": 837,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02573",
+      "title": "Evolutionary Weighted Hodge Laplacian Descriptors for rs-fMRI Brain Networks",
+      "published_date": "2026-09-13",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02573"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02785",
       "title": "Geometric–Chemical Distance between Protein Surfaces",
