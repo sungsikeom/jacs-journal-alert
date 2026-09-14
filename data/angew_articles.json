@@ -1,9 +1,141 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-13T20:23:52.907Z",
+  "collected_at": "2026-09-14T20:24:01.977Z",
   "scope_start": "2026-01-01",
-  "article_count": 2481,
+  "article_count": 2503,
   "articles": [
+    {
+      "doi": "10.1002/anie.9252872",
+      "title": "Precise Molecular Design of TADF Sensitizer With Balanced Exciton Dynamics for High-Performance Narrowband Hyperfluorescence OLEDs",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.9252872"
+    },
+    {
+      "doi": "10.1002/anie.8734072",
+      "title": "High-Temperature Inorganic Ionic Thermoelectrics Enabled by an Oxygen-Mediated Operational Mode",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.8734072"
+    },
+    {
+      "doi": "10.1002/anie.8475331",
+      "title": "Pore Mouth Engineering: An Insulating Strategy to Dictate Interfacial Chemistry in Hard Carbon Anodes",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.8475331"
+    },
+    {
+      "doi": "10.1002/anie.7739547",
+      "title": "Hard Lewis Acid Mo6+ Orchestrates N-End Urea Adsorption to Steer Highly Selective Nitrite Electrosynthesis",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.7739547"
+    },
+    {
+      "doi": "10.1002/anie.6791821",
+      "title": "Accelerated Charge Recombination in MOF Cocrystals Enables Efficient NIR-Driven Photothermal Polymerization",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.6791821"
+    },
+    {
+      "doi": "10.1002/anie.6440082",
+      "title": "Engineering Interfacial Chemistry of Spinel Indium Sulfides via Iron-Substitution-Mediated Selective Catalysis for High-Performance Sodium-Ion Batteries",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.6440082"
+    },
+    {
+      "doi": "10.1002/anie.6212058",
+      "title": "Deciphering the Role of Energy Transfer Configuration in PFAS Recognition by Metal-Organic Frameworks",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.6212058"
+    },
+    {
+      "doi": "10.1002/anie.6045865",
+      "title": "To Dope Mo3+ in Colloidal Nanocrystals",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.6045865"
+    },
+    {
+      "doi": "10.1002/anie.5012045",
+      "title": "Covalent-Organic Framework-Manipulated Multi-Reactant Activation Enables Polystyrene Electrodegradation in Tandem With Over-Oxidation Product Upgrading",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.5012045"
+    },
+    {
+      "doi": "10.1002/anie.4582039",
+      "title": "Umpolung at the meta-Positions of Oxazino-Pyridines Enabling Nucleophilic Pyridine Functionalization",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.4582039"
+    },
+    {
+      "doi": "10.1002/anie.4407622",
+      "title": "Practical Computational Exploration of Chemical Reaction Space: Assessing the Chemical Stability of Active Pharmaceutical Ingredients Under Acidic Conditions",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.4407622"
+    },
+    {
+      "doi": "10.1002/anie.4062963",
+      "title": "Diamondiyne: A 3D Carbon Allotrope With Mixed sp–sp3 Hybridization",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.4062963"
+    },
+    {
+      "doi": "10.1002/anie.3990758",
+      "title": "Synthesis of a Stable Crystalline Dibenzopentacene Triplet Diradical via a Protection–Oxidation–Protection Strategy",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.3990758"
+    },
+    {
+      "doi": "10.1002/anie.3649572",
+      "title": "Dynamic Asymmetry in O/N-Coordinated Zn Single-Atom Catalysts Promotes Sabatier-Favorable Urea and Urea Peroxide Electrosynthesis",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.3649572"
+    },
+    {
+      "doi": "10.1002/anie.3552561",
+      "title": "Isothiazologuanosine (tzG) as Environmentally Sensitive Fluorescent Reporter in RNA",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.3552561"
+    },
+    {
+      "doi": "10.1002/anie.3172220",
+      "title": "Activation of Metal Complexes With Ultrasound Waves for Targeted Anticancer Therapy",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.3172220"
+    },
+    {
+      "doi": "10.1002/anie.3109518",
+      "title": "Interpenetration Transformation of Diacetylene Metal–Organic Frameworks for Topochemical Polymerization",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.3109518"
+    },
+    {
+      "doi": "10.1002/anie.2517884",
+      "title": "Emerging Strategies for Comprehensive Analysis of Per- and Polyfluoroalkyl Substances (PFAS) in Complex Product and Industrial Matrices",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.2517884"
+    },
+    {
+      "doi": "10.1002/anie.1857480",
+      "title": "Advances in the Biosynthesis of Noncanonical Amino Acids for Genetic Code Expansion",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.1857480"
+    },
+    {
+      "doi": "10.1002/anie.1652124",
+      "title": "π-Contraction Induces High‑Spin Co Centers in 2D Conductive MOFs for Efficient Oxygen Reduction",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.1652124"
+    },
+    {
+      "doi": "10.1002/anie.1597140",
+      "title": "Flexible Linker Engineering of Dimeric Acceptors Enables Synergistic Modulation of Dielectric Constant and Spatial Conjugation for Organic Solar Cells Exceeding 20% Efficiency",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.1597140"
+    },
+    {
+      "doi": "10.1002/anie.1298188",
+      "title": "Photochromic Hybrid Organic-Inorganic Metal Halide Glasses",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/anie.1298188"
+    },
     {
       "doi": "10.1002/anie.5747023",
       "title": "Π-Conjugated Polyphenols Regulate Interfacial Charge to Stabilize Lattice Oxygen in High-Voltage Ni-Rich Cathodes",

@@ -1,9 +1,27 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-09-13T20:10:47.971Z",
+  "collected_at": "2026-09-14T20:10:45.635Z",
   "scope_start": "2026-01-01",
-  "article_count": 694,
+  "article_count": 697,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01251",
+      "title": "Impurity-Preserved Density Matrix Embedding Theory for Local Electronic Excitations",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01251"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01195",
+      "title": "Analyzing Initialization Strategies for the Local Unitary Cluster Jastrow Ansatz within the Quantum-Centric Supercomputing Framework",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01195"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00809",
+      "title": "Locally Updated Bootstrap Embedding",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00809"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01438",
       "title": "Pathway-Dependent Energetics of SLC15A4–TASL Engagement: Single-Protomer Switching and Dimer-Interface Remodeling",

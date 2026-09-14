@@ -1,9 +1,21 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-09-13T20:14:03.604Z",
+  "collected_at": "2026-09-14T20:14:01.937Z",
   "scope_start": "2026-01-01",
-  "article_count": 837,
+  "article_count": 839,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02729",
+      "title": "Application Notes in JCIM: A Home for Data, Software, and Web-Based Services in Cheminformatics and Molecular Modeling",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02729"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02385",
+      "title": "Assay-Level Modeling and External Validation of Antibody Developability Using Physicochemical Descriptors and Sequence Embeddings",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02385"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02573",
       "title": "Evolutionary Weighted Hodge Laplacian Descriptors for rs-fMRI Brain Networks",

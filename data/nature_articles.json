@@ -1,12 +1,18 @@
 {
   "source": "Nature Research Articles · 2026 filter",
-  "collected_at": "2026-09-13T20:07:16.503Z",
+  "collected_at": "2026-09-14T20:07:16.640Z",
   "scope_start": "2026-01-01",
-  "official_total": 951,
+  "official_total": 952,
   "collection_mode": "incremental",
   "stopped_on_known_doi": true,
-  "article_count": 951,
+  "article_count": 952,
   "articles": [
+    {
+      "doi": "10.1038/s41586-026-11124-z",
+      "title": "Encoded and non-genetic protein variants expand human functional proteome",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1038/s41586-026-11124-z"
+    },
     {
       "doi": "10.1038/s41586-026-11118-x",
       "title": "Highly efficient base editing at PCSK9 and normal human embryo development",

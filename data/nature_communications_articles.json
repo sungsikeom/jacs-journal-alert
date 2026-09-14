@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-13T20:04:00.852Z",
+  "collected_at": "2026-09-14T20:04:04.120Z",
   "scope_start": "2026-01-01",
-  "article_count": 8840,
+  "article_count": 8860,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77793-6",
+      "title": "Built-in electric field-boosted attomolar Pb²⁺ sensing on carboxylated black phosphorene",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1038/s41467-026-77793-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77775-8",
+      "title": "Deciphering the mechanisms of macrophage polarization through comprehensive analysis of cellular and cell-surface protein glycosylation",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1038/s41467-026-77775-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77739-y",
+      "title": "Difunctionalization of unsaturated hydrocarbons via EDA complexes to access pentafluorosulfanyl thioethers",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1038/s41467-026-77739-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77736-1",
+      "title": "Tackling chlorine poisoning for robust upcycling of PVC-contaminated plastic streams",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1038/s41467-026-77736-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77732-5",
+      "title": "Mineral-integrated electrochemical system enabling membrane-free pH swing and active chlorine species generation for urine valorization",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1038/s41467-026-77732-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77722-7",
+      "title": "RICTOR regulates an interspecies crosstalk that influences longevity through a methionine cycle-mitophagy axis",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1038/s41467-026-77722-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77648-0",
+      "title": "Studying the failure mechanism in Li-metal electrode by a reversible fluorescence analysis methodology",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1038/s41467-026-77648-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77638-2",
+      "title": "Preclinical and clinical investigation of VES001, an oral small molecule sortilin receptor inhibitor for the treatment of frontotemporal dementia: a first-in-human randomized placebo-controlled phase 1 trial",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1038/s41467-026-77638-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77612-y",
+      "title": "Predicting phase transitions across temperature, pressure, and chemical potential using exponentially tilted thermodynamic maps",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1038/s41467-026-77612-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77600-2",
+      "title": "Metamaterial-enabled battery-free wireless sensor networks for unencumbered human-machine interactions",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1038/s41467-026-77600-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77591-0",
+      "title": "Privacy-preserving pangenome graphs",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1038/s41467-026-77591-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77538-5",
+      "title": "scTransMIL bridges patient-level disease states and single-cell transcriptomics for cancer screening and heterogeneity inference",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1038/s41467-026-77538-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77525-w",
+      "title": "BRAINCELL modelling platform for stochastic nanoscale organisation and dynamic extracellular signalling among neurons and glia",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1038/s41467-026-77525-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77481-5",
+      "title": "Angiotensin II exacerbates intracerebral hemorrhage in mice via heparin-like antithrombin activation and coagulation dysfunction",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1038/s41467-026-77481-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77414-2",
+      "title": "Telomere length of both parents contributes to heritable POT1 cancer-predisposition syndrome",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1038/s41467-026-77414-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77381-8",
+      "title": "GLM-Prior: a genomic language model for transferable sequence-derived priors in gene regulatory network inference",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1038/s41467-026-77381-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77137-4",
+      "title": "Next-generation functional diagnostic paradigm for musculoskeletal diseases based on live SWIR imaging",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1038/s41467-026-77137-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76910-9",
+      "title": "Hos2-mediated KatG1 decrotonylation orchestrates ROS scavenging in rice blast infection",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1038/s41467-026-76910-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-76657-3",
+      "title": "Antagonistic roles of histone H3 lysine methyltransferases dictate tumor immune surveillance",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1038/s41467-026-76657-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-74896-y",
+      "title": "Early coconut oil exposure suppresses chronic experimental Crohn’s disease via myristic acid and enhanced regulatory T cells",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1038/s41467-026-74896-y"
+    },
     {
       "doi": "10.1038/s41467-026-77807-3",
       "title": "H2S-induced surface reconstruction enables efficient CsPbI3 QLEDs with ultralow roll-off",
