@@ -1,9 +1,99 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-09-12T20:17:18.802Z",
+  "collected_at": "2026-09-16T20:20:29.748Z",
   "scope_start": "2026-01-01",
-  "article_count": 1203,
+  "article_count": 1218,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02786",
+      "title": "Enthalpy–Entropy Synergy Governs Cation-Mediated Interfacial Water Activation on Cu(111)",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02786"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02620",
+      "title": "Impact of Inhibitor Size and Flexibility on the Binding Pathways to c-Src Kinase",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02620"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02547",
+      "title": "Ultrathin and Stable Aromatic Monolayers on Naturally Oxidized Aluminum: The Role of Type and Number of Anchoring Groups",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02547"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02274",
+      "title": "Crystal Growth, Noncoplanar Magnetism, and Topological Hall Response in Dual-Intercalated (Fe,Cr)1/3NbS2",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02274"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02609",
+      "title": "Dipole-Bound-State Spectroscopy Reveals the Vibrational Structure of a Strongly Reorganized Radical and an Unusual Regime of Anharmonic Autodetachment",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02609"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02604",
+      "title": "Curved Reaction–Diffusion Fronts Generate Quasi-Symmetric Phyllotaxis in a Chemical Turing System",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02604"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02542",
+      "title": "Synergistic Process Optimization and Surface Passivation for High-Performance Electrodeposited Perovskite Solar Cells",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02542"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02212",
+      "title": "Substituent Engineering Couples Photocathode Interfacial Energetics with Ni–N4 Electronic Structure for Solar CO2 Reduction",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02212"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02053",
+      "title": "Learning Interpretable Activity Descriptors Directly from Measurement Features in Heterogeneous Catalysis",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02053"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02881",
+      "title": "Correction to “Difference between Conduction Band Minimum and Flat-Band Potential in Mott–Schottky Analysis of Anatase TiO2”",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02881"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02757",
+      "title": "Quantitative Model of Transcriptional Noise Regulation by mRNA Condensates",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02757"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02651",
+      "title": "Lead-Free FABi3I10 Self-Rectifying Memristors for In-Memory Security and Reservoir Computing",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02651"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02493",
+      "title": "Binding Does Not Mean Stabilizing: High-Affinity Porphyrins Exhibit Opposite Effects on G-Quadruplex Stability",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02493"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02388",
+      "title": "Field- and Confinement-Modulated Unconventional Electroosmotic Flow in Two-Dimensional Graphene Nanochannels",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02388"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02185",
+      "title": "Facet-Dependent Properties of Mercury Telluride for Infrared Optoelectronics",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02185"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02370",
       "title": "Activating Photoreaction of Indazole Metastable-State Photoacid through Two-Photon Excitation",

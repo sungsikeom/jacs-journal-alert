@@ -1,9 +1,333 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-14T20:24:01.977Z",
+  "collected_at": "2026-09-16T20:27:23.908Z",
   "scope_start": "2026-01-01",
-  "article_count": 2503,
+  "article_count": 2557,
   "articles": [
+    {
+      "doi": "10.1002/anie.9709775",
+      "title": "Chlorination-Driven BODIPY Fluorescent Probes for the Selective Monitoring of Myeloperoxidase Activity in Cells and Inflamed Mouse Models",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1002/anie.9709775"
+    },
+    {
+      "doi": "10.1002/anie.9140872",
+      "title": "Asymmetrically Coordinated p-Block Aluminum Single-Atom Sites for Stable Na─S Batteries",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1002/anie.9140872"
+    },
+    {
+      "doi": "10.1002/anie.8536600",
+      "title": "Direct Observation of Radical-Mediated Oxide-to-Alloy Transformation in Solution Under Pulsed Laser Irradiation",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1002/anie.8536600"
+    },
+    {
+      "doi": "10.1002/anie.3455687",
+      "title": "Precise Manipulation of Discrete Lanthanide Complexes Vitrification via Flexible Chains and Rigid Modules: Accessing Near-Unity Photoluminescence Quantum Yields, Upconversion Luminescence, and Ultra-Bright X-ray Scintillators",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1002/anie.3455687"
+    },
+    {
+      "doi": "10.1002/anie.3352626",
+      "title": "Reusable Polyphenol Building Blocks Enable Recyclable Epoxy-Amine Thermosets via Methanolysis",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1002/anie.3352626"
+    },
+    {
+      "doi": "10.1002/anie.2797694",
+      "title": "Günther Jung (1937–2026): A Pioneer of Molecular Immunology",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1002/anie.2797694"
+    },
+    {
+      "doi": "10.1002/anie.2483808",
+      "title": "Hydrogen-Bonding Order Associated With Radical Delocalization in Layered Organic Cathode Materials",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1002/anie.2483808"
+    },
+    {
+      "doi": "10.1002/anie.1898181",
+      "title": "Reprocessable, Creep-Resistant and Fully Biobased Thermosets for Power Semiconductor Packaging",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1002/anie.1898181"
+    },
+    {
+      "doi": "10.1002/anie.9751771",
+      "title": "Evidence for BINAP-Stabilized Gold(II) Species in a Catalytic Bromination Reaction of Terminal Alkynes",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.9751771"
+    },
+    {
+      "doi": "10.1002/anie.9566713",
+      "title": "Incorporation of Graphdiyne-Based sp-Carbon Into the First Coordination Sphere of a Metal Complex for the Electrocatalysis of Nitric Oxide to Ammonia",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.9566713"
+    },
+    {
+      "doi": "10.1002/anie.8928500",
+      "title": "Transient Potential-Driven Ir-Site Response Regulates Lattice-Oxygen Participation",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.8928500"
+    },
+    {
+      "doi": "10.1002/anie.8789956",
+      "title": "One-Step Intermolecular Oxidative Coupling and Cyclodehydration Strategy for Pure-Green B,N,O-Embedded Hetero[9]Helicene Emitter",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.8789956"
+    },
+    {
+      "doi": "10.1002/anie.8789610",
+      "title": "Axial Boron Coordination Reconstructs Stereostructure of Cu Single-Atom Nanozymes for Efficient Water-Phase Chemical Sensing",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.8789610"
+    },
+    {
+      "doi": "10.1002/anie.8581956",
+      "title": "Breaking the Activity-Stability Trade-Off in Dry Reforming of Methane via Heteroenergetic Support Engineering",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.8581956"
+    },
+    {
+      "doi": "10.1002/anie.8380013",
+      "title": "Correction to “Boron Cluster Anions Dissolve En Masse in Lipids Causing Membrane Expansion and Thinning”",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.8380013"
+    },
+    {
+      "doi": "10.1002/anie.8355248",
+      "title": "Biocompatible Polysaccharides Enable Sustainable Wearable Seawater-Based Zinc–Sulfur Pouch Cells",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.8355248"
+    },
+    {
+      "doi": "10.1002/anie.8317130",
+      "title": "Monomicellar Assembly for Hierarchically Meso‑Macroporous Spheres",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.8317130"
+    },
+    {
+      "doi": "10.1002/anie.8141705",
+      "title": "Windmill-Type π-Extension Within Donor Moiety of Covalent Organic Framework Boosts Overall Photocatalytic Hydrogen Peroxide Production",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.8141705"
+    },
+    {
+      "doi": "10.1002/anie.7913188",
+      "title": "Orientationally Coherent Chiral Nanoparticle Superlattices With Emergent and Tunable Collective Chiroptical Activity",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.7913188"
+    },
+    {
+      "doi": "10.1002/anie.7813699",
+      "title": "Deuterated Multi-Color Probes for Reaction-Resolved Mapping of Intracellular Redox Pathways With Magnetic Resonance",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.7813699"
+    },
+    {
+      "doi": "10.1002/anie.7714055",
+      "title": "Substrate-Dependent Crosslinking by the Cytochrome P450 From Aminopyruvatide Biosynthesis",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.7714055"
+    },
+    {
+      "doi": "10.1002/anie.7599397",
+      "title": "Co-Assembled Helical Polymer Nanofibers Enable Efficient CO2 Photoreduction Through Interchain Energy Transfer",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.7599397"
+    },
+    {
+      "doi": "10.1002/anie.7101768",
+      "title": "Controlled Cationic Ring-Opening Polymerization Enables Chemically Recyclable Polyacetal-Based Polyurethanes",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.7101768"
+    },
+    {
+      "doi": "10.1002/anie.6117838",
+      "title": "Luminescence Vapochromism of a Cu(I)/Na Phosphane Iodide Assembly Based on a Secondary-Sphere Sodium Response",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.6117838"
+    },
+    {
+      "doi": "10.1002/anie.5830758",
+      "title": "Integrating Rigidity and Regular Packing in Ag6 Clusters via Ligand Fluorination: Toward High-Efficiency Low-Loss Optical Waveguiding",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.5830758"
+    },
+    {
+      "doi": "10.1002/anie.5745701",
+      "title": "Molecular Engineering of a Mixed-Spacer System Toward High-Performance Polycarbazole Anion-Exchange Membranes",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.5745701"
+    },
+    {
+      "doi": "10.1002/anie.5744163",
+      "title": "Stabilizing Zinc Anodes via a Zeolite-Induced Localized Supersaturated Electrolyte Interface",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.5744163"
+    },
+    {
+      "doi": "10.1002/anie.5293145",
+      "title": "In Vitro Selection of Functional Neoproteins Containing Highly Fluorinated Cores",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.5293145"
+    },
+    {
+      "doi": "10.1002/anie.5050030",
+      "title": "FePO4/FeF3 Composites as High-Capacity, Highly Reversible Cathodes for Li-Ion Batteries",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.5050030"
+    },
+    {
+      "doi": "10.1002/anie.5041475",
+      "title": "DMSO-Modulated Divergent Fluoroalcohol Addition to Alkenes via Cooperative Iron/Disulfide Photocatalysis",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.5041475"
+    },
+    {
+      "doi": "10.1002/anie.4841198",
+      "title": "Ligand-Mediated Microenvironment in COFs Incorporating Ion-Pair Motifs and Atomically Dispersed Copper Sites for Cascade CO2 Conversion",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.4841198"
+    },
+    {
+      "doi": "10.1002/anie.4777081",
+      "title": "A Covalent Brush-on-Brush Polymer Programs Ordered Intracellular Activation of a Mitochondria-Disrupting Peptide",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.4777081"
+    },
+    {
+      "doi": "10.1002/anie.4744683",
+      "title": "Engineering Ferrimagnetic Interactions in Molecular Quantum Systems",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.4744683"
+    },
+    {
+      "doi": "10.1002/anie.4614965",
+      "title": "Homogeneous Positive Surface Charge via Interfacial Amino-yne Polymerization for Efficient Li+/Mg2+ Separation",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.4614965"
+    },
+    {
+      "doi": "10.1002/anie.4551056",
+      "title": "Proximal Symmetry-Enhanced Single-Atom Ni and In Situ Evolved Co Nanoparticle in MOFs for Synergistically Boosted Electrocatalytic Urea Synthesis",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.4551056"
+    },
+    {
+      "doi": "10.1002/anie.3990578",
+      "title": "S-Scheme Charge Separation Enables Photocarrier-Regulated Aqueous NH4+ Storage in g-C3N4@WO3 Heterojunctions",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.3990578"
+    },
+    {
+      "doi": "10.1002/anie.3844270",
+      "title": "Homologous Fluorination Enables Asymmetric Dynamic Interfacial Coupling for Efficient and Sustainable Blade-Coated Perovskite Solar Cells",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.3844270"
+    },
+    {
+      "doi": "10.1002/anie.3830778",
+      "title": "Franziska R. Traube",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.3830778"
+    },
+    {
+      "doi": "10.1002/anie.3816467",
+      "title": "Lattice Strain and Charge Transfer Induced by the Ru@RuO2 Core–Shell Heterostructure Enable Efficient and Durable Acidic Water Oxidation",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.3816467"
+    },
+    {
+      "doi": "10.1002/anie.3751410",
+      "title": "Ligand-Directed Nitrate Incorporation Into Reconstructed Oxyhydroxides for Durable Seawater Electrolysis",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.3751410"
+    },
+    {
+      "doi": "10.1002/anie.3734382",
+      "title": "Proton-Transfer Inhibition by Imine-Linked Covalent Organic Frameworks Enables Efficient C2+ Production From Acidic CO2 Electroreduction",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.3734382"
+    },
+    {
+      "doi": "10.1002/anie.3230584",
+      "title": "Phase-Change-Induced Dual Electric Fields Over Atomically Bonded MicCu2O@Cu-TCPP Heterojunctions for Synergistic Photocatalysis",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.3230584"
+    },
+    {
+      "doi": "10.1002/anie.3224934",
+      "title": "Overcoming Salt Precipitation in CO2 Reduction Membrane Electrode Assembly Electrolyzer Enables Over 4200 Hours Stable Operation",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.3224934"
+    },
+    {
+      "doi": "10.1002/anie.2953141",
+      "title": "Thinking Outside the Binding Site: A Self-Encapsulating Kinase Inhibitor Remodels Its Pocket to Achieve Selectivity",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.2953141"
+    },
+    {
+      "doi": "10.1002/anie.2874510",
+      "title": "Dilute Interstitial Carbon Stabilization of Highly Strained Metastable HCP Nickel for Enhanced Electrocatalysis",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.2874510"
+    },
+    {
+      "doi": "10.1002/anie.2546246",
+      "title": "Redefining Photosensitizers Functionality Through Consensus-Assisted Integration of Orthogonal Antibacterial Mechanisms",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.2546246"
+    },
+    {
+      "doi": "10.1002/anie.2229119",
+      "title": "Single-Stranded Interruptions in the T7 Promoter Non-Template Strand Exhibit Unexpected Transcription Behavior",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.2229119"
+    },
+    {
+      "doi": "10.1002/anie.2218878",
+      "title": "Chemoenzymatic Assembly of Branch-Selective Sulfated N- and O-Glycans to Decode Glycan-Binding Protein Recognition",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.2218878"
+    },
+    {
+      "doi": "10.1002/anie.2196422",
+      "title": "Electron Bridge Enhanced Charge Polarization Enables Efficient and Ultra-Long Stable Urea Electrosynthesis",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.2196422"
+    },
+    {
+      "doi": "10.1002/anie.2001254",
+      "title": "Inverse Solid-State Photoluminescence and Electrochemiluminescence of Isostructural Nanoclusters: Unveiling the Critical Role of Intermolecular Charge Migration",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.2001254"
+    },
+    {
+      "doi": "10.1002/anie.1866514",
+      "title": "Ru Single-Atom Anchored Zeolite for Selective Upcycling of Polyolefins Into Butanes",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.1866514"
+    },
+    {
+      "doi": "10.1002/anie.1708018",
+      "title": "BrIS: Visualizing Internal Standards at the MS1 Level via Bromine Fingerprint for Sensitive and Robust Proteomics Quality Control",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.1708018"
+    },
+    {
+      "doi": "10.1002/anie.1633031",
+      "title": "Self-Pillared Pentasil Zeolite Microspheres as Self-Supported Catalysts With Enhanced Molecular Diffusion for Waste Plastic Upcycling",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.1633031"
+    },
+    {
+      "doi": "10.1002/anie.1626004",
+      "title": "Constructing p-d Orbital Hybridization via In Situ Generation of Bi19Br3S27/NiSx for Highly Selective Photothermal CO2 Reduction to C2H4",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1002/anie.1626004"
+    },
     {
       "doi": "10.1002/anie.9252872",
       "title": "Precise Molecular Design of TADF Sensitizer With Balanced Exciton Dynamics for High-Performance Narrowband Hyperfluorescence OLEDs",

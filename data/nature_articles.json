@@ -1,12 +1,18 @@
 {
   "source": "Nature Research Articles · 2026 filter",
-  "collected_at": "2026-09-14T20:07:16.640Z",
+  "collected_at": "2026-09-16T20:10:24.387Z",
   "scope_start": "2026-01-01",
-  "official_total": 952,
+  "official_total": 953,
   "collection_mode": "incremental",
   "stopped_on_known_doi": true,
-  "article_count": 952,
+  "article_count": 953,
   "articles": [
+    {
+      "doi": "10.1038/s41586-026-11139-6",
+      "title": "Quality control of glycogen through direct ubiquitylation by RNF213",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1038/s41586-026-11139-6"
+    },
     {
       "doi": "10.1038/s41586-026-11124-z",
       "title": "Encoded and non-genetic protein variants expand human functional proteome",

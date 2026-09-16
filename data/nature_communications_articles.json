@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-14T20:04:04.120Z",
+  "collected_at": "2026-09-16T20:07:11.219Z",
   "scope_start": "2026-01-01",
-  "article_count": 8860,
+  "article_count": 8880,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77907-0",
+      "title": "Robust valley-polarized excitonic Mott states and doublons enabled by stacking-controlled moiré geometry",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41467-026-77907-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77901-6",
+      "title": "Three-dimensional chromatin architecture is rapidly restored after DNA replication",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41467-026-77901-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77831-3",
+      "title": "MAP2-mediated integrin dysregulation reprograms cancer cell plasticity in hepatocellular carcinoma",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41467-026-77831-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77821-5",
+      "title": "Sparse X-ray spectro-tomography for high-sensitivity three-dimensional chemical imaging at the nanoscale",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41467-026-77821-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77799-0",
+      "title": "Laminar architecture of a decision circuit in the mouse orbitofrontal cortex",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41467-026-77799-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77791-8",
+      "title": "WLG coordinates multi-stress tolerance in rice by regulating DST-dependent H2O2 homeostasis and stomatal aperture",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41467-026-77791-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77749-w",
+      "title": "A hypothalamic circuit links high-fat diet exposure to anxiety-like behavior and anxiety-associated hyperphagia",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41467-026-77749-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77743-2",
+      "title": "Leveraging design for collective phototaxis in morphological swarm robotics",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41467-026-77743-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77664-0",
+      "title": "Nonlinear spectral modeling and control of soft-robotic muscles from data",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41467-026-77664-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77610-0",
+      "title": "GSNO-functionalized hydroxyapatite nanofertilizer for prolonged delivery, detoxification, and yield improvement in maize",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41467-026-77610-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77558-1",
+      "title": "Structural and functional insights into a Zn2+-transporting P-type ATPase",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41467-026-77558-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77549-2",
+      "title": "Insight into phase-sensitive optical coherence tomography displacement measurement",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41467-026-77549-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77522-z",
+      "title": "Epithelial-mesenchymal Wnt crosstalk directs planar cell polarity in the developing cochlea",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41467-026-77522-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77419-x",
+      "title": "Genetic architecture of MRI-derived cervical spinal cord morphology reveals sensory-motor axis and systemic disease associations",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41467-026-77419-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77411-5",
+      "title": "Dynamical signatures of conventional and asymptotic quantum many-body scars on a trapped ion simulator",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41467-026-77411-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77405-3",
+      "title": "Efficient Hamiltonian, structure and trace distance learning of Gaussian states",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41467-026-77405-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77226-4",
+      "title": "First principles reactive flux theory for surface reactions revealing multiple channels and recrossing dynamics",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41467-026-77226-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77183-y",
+      "title": "Deep learning coupled with scalable domain-specific structural validation expands RNA virus discovery from metatranscriptomes",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41467-026-77183-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-76235-7",
+      "title": "Practical synthesis of 3-Oxa/Aza-bicyclo[3.1.1]heptanes from 3-Oxa/Aza[3.1.1]propellanes",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41467-026-76235-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-75727-w",
+      "title": "Learning stochasticity via a nonparametric approach to state-dependent noise estimation",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41467-026-75727-w"
+    },
     {
       "doi": "10.1038/s41467-026-77793-6",
       "title": "Built-in electric field-boosted attomolar Pb²⁺ sensing on carboxylated black phosphorene",

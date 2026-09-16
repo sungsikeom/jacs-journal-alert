@@ -1,9 +1,81 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-09-14T20:14:01.937Z",
+  "collected_at": "2026-09-16T20:17:13.319Z",
   "scope_start": "2026-01-01",
-  "article_count": 839,
+  "article_count": 852,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02895",
+      "title": "The Synthesizability Gap Has Moved: Route Existence Is Not Chemistry",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02895"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02706",
+      "title": "KRstereo: Predicting β-Hydroxy Stereochemistry in Polyketides Using Protein Language Models",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02706"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01759",
+      "title": "HelixDTA: Dual-Branch Sequence–Structure Learning with Complete Target Structures for Robust and Interpretable Drug–Target Affinity Prediction",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01759"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01654",
+      "title": "The Scope Concept: Defined Chemical Space for Identifying Ligand-Efficient, Tractable Hits Applied to Drug Discovery Targets Trypanosomal CLK1, 14–3–3/Estrogen Receptor-α, and SARS-CoV-2 Mpro",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01654"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01148",
+      "title": "Measuring AI Progress in Drug Discovery: A Reproducible Leaderboard for the Tox21 Challenge",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01148"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00987",
+      "title": "STELLAR: A Fragment-Based Docking Workflow for Highly Flexible Long-Chain Biopolymers",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00987"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02689",
+      "title": "VizChemoton: Visualization of Quantum Chemical Reaction Networks and Their Cheminformatics Features",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02689"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02284",
+      "title": "AI Accelerated Chemical Screening Integrates ChemBERTa to Identify Repositionable CASP4 Inhibitors via MD Simulations and MM/PBSA Analysis",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02284"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02102",
+      "title": "An AI-Driven Chemogenomics Knowledgebase for Human-Transmissible Pathogens: A Platform for Antimicrobial Drug Discovery",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02102"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01823",
+      "title": "Binding of Anthracyclines Within DNA–Topoisomerase ΙΙ Cleavage Complexes: Thermodynamics and Interactions",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01823"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01584",
+      "title": "Semi-Automated Discovery of Structural Elements Controlling GPCR Function",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01584"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01177",
+      "title": "Decoding Molecular Binding Equilibria through Uncertainty-Aware Memory Retrieval",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01177"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02729",
       "title": "Application Notes in JCIM: A Home for Data, Software, and Web-Based Services in Cheminformatics and Molecular Modeling",
@@ -15,6 +87,12 @@
       "title": "Assay-Level Modeling and External Validation of Antibody Developability Using Physicochemical Descriptors and Sequence Embeddings",
       "published_date": "2026-09-14",
       "url": "https://doi.org/10.1021/acs.jcim.6c02385"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01275",
+      "title": "MoaNet: Learning Protein–Ligand Mechanism of Action from Transcriptional Profiles and Sequence Information",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01275"
     },
     {
       "doi": "10.1021/acs.jcim.6c02573",

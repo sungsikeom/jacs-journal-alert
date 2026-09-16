@@ -1,9 +1,27 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-09-14T20:10:45.635Z",
+  "collected_at": "2026-09-16T20:13:56.811Z",
   "scope_start": "2026-01-01",
-  "article_count": 697,
+  "article_count": 700,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01257",
+      "title": "Machine Learning Meets Spin–Orbit Coupling: Reconstruction of Spin–Orbit-Mixed Potential Energy Curves in MgCa",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01257"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01233",
+      "title": "Mechanistic Dissection of Conformational Transitions in a Bicyclic Peptide via Molecular Modeling and Deep Learning",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01233"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01082",
+      "title": "Developing the Atom-Bond Electronegativity Equalization Method Polarizable Force Field for Zinc Metalloproteins and Their Simulations",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01082"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01251",
       "title": "Impurity-Preserved Density Matrix Embedding Theory for Local Electronic Excitations",
