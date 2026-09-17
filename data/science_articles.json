@@ -1,10 +1,129 @@
 {
   "source": "Science tables of contents collected by the local Chrome extension",
-  "collected_at": "2026-09-16T20:03:50.413Z",
+  "collected_at": "2026-09-17T20:00:40.443Z",
   "scope_start": "2026-01-01",
   "article_type": "Research Article",
-  "article_count": 663,
+  "article_count": 680,
   "articles": [
+    {
+      "doi": "10.1126/science.aem4011",
+      "title": "In Other Journals",
+      "published_date": "2026-09-17",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aem4011"
+    },
+    {
+      "doi": "10.1126/science.aem4010",
+      "title": "In Science Journals",
+      "published_date": "2026-09-17",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aem4010"
+    },
+    {
+      "doi": "10.1126/science.aei3472",
+      "title": "VIPR RNA-guided DNA recognition by noncontiguous geometric triplex formation",
+      "published_date": "2026-09-17",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aei3472"
+    },
+    {
+      "doi": "10.1126/science.aei0498",
+      "title": "A noncontiguous code for RNA-guided DNA recognition at the origin of CRISPR-Cas",
+      "published_date": "2026-09-17",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aei0498"
+    },
+    {
+      "doi": "10.1126/science.aeh7535",
+      "title": "Quantum jumps of sound",
+      "published_date": "2026-09-17",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeh7535"
+    },
+    {
+      "doi": "10.1126/science.aeg3946",
+      "title": "Disorder-promoted stability",
+      "published_date": "2026-09-17",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeg3946"
+    },
+    {
+      "doi": "10.1126/science.aec7230",
+      "title": "Splenic regulation of systemic platelet activation state",
+      "published_date": "2026-09-17",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aec7230"
+    },
+    {
+      "doi": "10.1126/science.aec6129",
+      "title": "An expert-level generalist AI for abdominal CT diagnosis",
+      "published_date": "2026-09-17",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aec6129"
+    },
+    {
+      "doi": "10.1126/science.aec4071",
+      "title": "Atmospheric methane lifetime during the Last Glacial Maximum was reduced owing to dust-mediated chlorine chemistry",
+      "published_date": "2026-09-17",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aec4071"
+    },
+    {
+      "doi": "10.1126/science.aec0473",
+      "title": "Germline EGFR T790M mutation and lung cancer risk",
+      "published_date": "2026-09-17",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aec0473"
+    },
+    {
+      "doi": "10.1126/science.adz9952",
+      "title": "Fast, continuous, and coherent atom reloading in a neutral-atom qubit array",
+      "published_date": "2026-09-17",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adz9952"
+    },
+    {
+      "doi": "10.1126/science.adz6688",
+      "title": "Transcriptome-based classification in mice with ASD-risk mutations",
+      "published_date": "2026-09-17",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adz6688"
+    },
+    {
+      "doi": "10.1126/science.adz0521",
+      "title": "Extreme loss suppression in an ultracold molecular gas with widely tunable dipolar interactions",
+      "published_date": "2026-09-17",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adz0521"
+    },
+    {
+      "doi": "10.1126/science.ady6372",
+      "title": "Multi-organelle signatures map cell-state diversity and metabolic adaptation in tissues",
+      "published_date": "2026-09-17",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ady6372"
+    },
+    {
+      "doi": "10.1126/science.adx9928",
+      "title": "Protecting tropical forests is more cost-effective for biodiversity and climate than restoration",
+      "published_date": "2026-09-17",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adx9928"
+    },
+    {
+      "doi": "10.1126/science.adx5917",
+      "title": "Nuclear tests at Mt. Mantap have reactivated intraplate faults",
+      "published_date": "2026-09-17",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adx5917"
+    },
+    {
+      "doi": "10.1126/science.adv1295",
+      "title": "Ancient DNA unveils distinctive ancestries in the Bronze and Iron Ages of East Tianshan",
+      "published_date": "2026-09-17",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adv1295"
+    },
     {
       "doi": "10.1126/science.aem1230",
       "title": "In Other Journals",

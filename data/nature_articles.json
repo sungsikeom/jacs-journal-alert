@@ -1,12 +1,162 @@
 {
   "source": "Nature Research Articles · 2026 filter",
-  "collected_at": "2026-09-16T20:10:24.387Z",
+  "collected_at": "2026-09-17T20:07:20.438Z",
   "scope_start": "2026-01-01",
-  "official_total": 953,
+  "official_total": 978,
   "collection_mode": "incremental",
   "stopped_on_known_doi": true,
-  "article_count": 953,
+  "article_count": 978,
   "articles": [
+    {
+      "doi": "10.1038/s41586-026-11123-0",
+      "title": "Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11123-0"
+    },
+    {
+      "doi": "10.1038/s41586-026-11057-7",
+      "title": "Sex without crossovers mimics clonal reproduction in Rhynchospora tenuis",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11057-7"
+    },
+    {
+      "doi": "10.1038/s41586-026-11055-9",
+      "title": "Identification of broadly tumour-reactive γδ TCRs from multiple myeloma",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11055-9"
+    },
+    {
+      "doi": "10.1038/s41586-026-11045-x",
+      "title": "Rapid patient-specific neural networks for X-ray to volume registration",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11045-x"
+    },
+    {
+      "doi": "10.1038/s41586-026-11044-y",
+      "title": "Reimagining research papers as interactive and reliable AI agents",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11044-y"
+    },
+    {
+      "doi": "10.1038/s41586-026-11042-0",
+      "title": "Electroluminescent photoresists extending lithographic scaling to OLEDs",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11042-0"
+    },
+    {
+      "doi": "10.1038/s41586-026-11035-z",
+      "title": "Evolution and heterogeneity of lethal metastatic bladder cancer subtypes",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11035-z"
+    },
+    {
+      "doi": "10.1038/s41586-026-11034-0",
+      "title": "Cohesin reshapes replication fork contacts to aid fork slowing and reversal",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11034-0"
+    },
+    {
+      "doi": "10.1038/s41586-026-11032-2",
+      "title": "Developmental xenocortication using human-derived organoids in mice",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11032-2"
+    },
+    {
+      "doi": "10.1038/s41586-026-11030-4",
+      "title": "Mutational constraints on RSV F and its neutralization by antibodies",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11030-4"
+    },
+    {
+      "doi": "10.1038/s41586-026-11026-0",
+      "title": "Topographic structure and function of locus coeruleus noradrenaline neurons",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11026-0"
+    },
+    {
+      "doi": "10.1038/s41586-026-11024-2",
+      "title": "Targeted genomic integration and rearrangement using prime assembly",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11024-2"
+    },
+    {
+      "doi": "10.1038/s41586-026-11021-5",
+      "title": "Transcriptional activation of plant immunity by salicylic acid",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11021-5"
+    },
+    {
+      "doi": "10.1038/s41586-026-11020-6",
+      "title": "Mitochondrial fission factor senses and governs ferroptosis",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11020-6"
+    },
+    {
+      "doi": "10.1038/s41586-026-11019-z",
+      "title": "Road transport of trapped antiprotons",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11019-z"
+    },
+    {
+      "doi": "10.1038/s41586-026-11018-0",
+      "title": "Predictors and prevalence of support for white nationalism in the United States",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11018-0"
+    },
+    {
+      "doi": "10.1038/s41586-026-11015-3",
+      "title": "Electrically controllable superconducting memory effect in UTe2",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11015-3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11014-4",
+      "title": "A retinoic acid autoregulatory loop governing prefrontal–motor arealization",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11014-4"
+    },
+    {
+      "doi": "10.1038/s41586-026-11013-5",
+      "title": "Development of a random background to understand ligand optimization",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11013-5"
+    },
+    {
+      "doi": "10.1038/s41586-026-11012-6",
+      "title": "Scalable near-real-time Bayesian phylogenetics for outbreaks with Delphy",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11012-6"
+    },
+    {
+      "doi": "10.1038/s41586-026-11011-7",
+      "title": "Continuous-wave laser absorption spectroscopy of the thorium-229 nucleus",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11011-7"
+    },
+    {
+      "doi": "10.1038/s41586-026-11000-w",
+      "title": "Heterogeneous photonic integration of single-crystalline nanomembranes",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-11000-w"
+    },
+    {
+      "doi": "10.1038/s41586-026-10996-5",
+      "title": "A thermodynamically favoured molecular computer",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-10996-5"
+    },
+    {
+      "doi": "10.1038/s41586-026-10985-8",
+      "title": "Overmassive black holes and little red dots naturally form in simulations",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-10985-8"
+    },
+    {
+      "doi": "10.1038/s41586-026-10948-z",
+      "title": "Molecular-level observation of the self-assembly of a virus-like particle",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1038/s41586-026-10948-z"
+    },
     {
       "doi": "10.1038/s41586-026-11139-6",
       "title": "Quality control of glycogen through direct ubiquitylation by RNF213",

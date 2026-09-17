@@ -1,11 +1,113 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-09-16T20:03:44.090Z",
+  "collected_at": "2026-09-17T20:00:34.214Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7578,
+  "article_count": 7596,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c14521",
+      "title": "Reconstruction of a 30,000-Year-Old Biosynthetic Gene Cluster Reveals Lasso Peptides Formed by a Highly Tolerant Cyclase",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/jacs.6c14521"
+    },
+    {
+      "doi": "10.1021/jacs.6c14417",
+      "title": "Electronic Effects Modulated Hemilabile Carboxylate Coordination of Ruthenium Complexes for Electrocatalytic Ammonia Oxidation",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/jacs.6c14417"
+    },
+    {
+      "doi": "10.1021/jacs.6c13989",
+      "title": "Decagram-Scale Synthesis of GB13 and Remodeling to the Galbulimima Alkaloids",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/jacs.6c13989"
+    },
+    {
+      "doi": "10.1021/jacs.6c13687",
+      "title": "Oxidation-Enabled Assembly Forms a Diatomic Catalyst for Propane Dehydrogenation",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/jacs.6c13687"
+    },
+    {
+      "doi": "10.1021/jacs.6c13635",
+      "title": "Direct Decarboxylative Borylation",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/jacs.6c13635"
+    },
+    {
+      "doi": "10.1021/jacs.6c13561",
+      "title": "Overcoming Challenges and Limitations of Electrochemical Gas-Starved Systems: Nanobubble-Engineered Enhancement of the CO2 Reduction Reaction",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/jacs.6c13561"
+    },
+    {
+      "doi": "10.1021/jacs.6c13549",
+      "title": "Skeletal Distortion Manipulation in 2D–3D-Fused Boron Clusters Enables Solid-State Luminescence and Photothermal Conversion",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/jacs.6c13549"
+    },
+    {
+      "doi": "10.1021/jacs.6c13098",
+      "title": "Atmospheric Fate of Acyloxyl Radicals: Decomposition versus Isomerization",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/jacs.6c13098"
+    },
+    {
+      "doi": "10.1021/jacs.6c12466",
+      "title": "Unraveling the Biosynthesis and Anti-Inflammatory Bioactivity of Tripdiolide from Tripterygium wilfordii",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/jacs.6c12466"
+    },
+    {
+      "doi": "10.1021/jacs.6c12109",
+      "title": "Second-Sphere Protonation Imparts a Biologically Relevant Potential Shift in a Chlorophyll Model Compound",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/jacs.6c12109"
+    },
+    {
+      "doi": "10.1021/jacs.6c12077",
+      "title": "Structural Mass Spectrometry Resolves the Conformational Dynamics of Semaglutide Oligomerization",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/jacs.6c12077"
+    },
+    {
+      "doi": "10.1021/jacs.6c11739",
+      "title": "Lanthanide-Enabled Lattice Engineering of Copper(I) Cluster Scintillators",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/jacs.6c11739"
+    },
+    {
+      "doi": "10.1021/jacs.6c10488",
+      "title": "Revealing Non-Steady-State Structure–Performance Relationship in Plateau-Capacity-Dominated Hard Carbon Anodes for High-Rate Reversible Sodium Storage",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/jacs.6c10488"
+    },
+    {
+      "doi": "10.1021/jacs.6c10187",
+      "title": "A Twisted σ-Bond Mediated by a Lone-Pair in Elemental Sulfur",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/jacs.6c10187"
+    },
+    {
+      "doi": "10.1021/jacs.6c10078",
+      "title": "Femtosecond X-ray Tracking of Oxygen Vacancy-Driven Shallow-to-Deep Trap Transition and Its Impact on Charge Carrier Dynamics in Blue TiO2",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/jacs.6c10078"
+    },
+    {
+      "doi": "10.1021/jacs.6c08663",
+      "title": "Diastereo- and Enantioselective Photobiocatalytic α-Alkylation of α-Heteroaryl Amines Enabled by Pyridoxal Photochemistry",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/jacs.6c08663"
+    },
+    {
+      "doi": "10.1021/jacs.6c06384",
+      "title": "Interconnected Pore Channels with Sieving Windows Deliver Ultrafast Propylene Purification",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/jacs.6c06384"
+    },
     {
       "doi": "10.1021/jacs.6c15694",
       "title": "Enantioselective Cross-Coupling of an Unbiased Carbon Radical Enabled by Perfluoroaryl Semicorrin Ligands",
@@ -59,6 +161,12 @@
       "title": "Direct Observation of Radical-Arene Contact Complexes Provides Structural Insights into Selectivity in Radical Reactions",
       "published_date": "2026-09-16",
       "url": "https://doi.org/10.1021/jacs.6c11563"
+    },
+    {
+      "doi": "10.1021/jacs.6c11427",
+      "title": "Elucidating the Role of Energy- and Electron-Transfer Processes and the Route to Highly Reduced Products in the Dual IrIII/FeIII Photocatalyzed CO2 Reduction Reaction",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1021/jacs.6c11427"
     },
     {
       "doi": "10.1021/jacs.6c11402",

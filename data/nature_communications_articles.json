@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-16T20:07:11.219Z",
+  "collected_at": "2026-09-17T20:04:01.164Z",
   "scope_start": "2026-01-01",
-  "article_count": 8880,
+  "article_count": 8900,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77860-y",
+      "title": "Proximity biotinylation at the host-Shigella interface reveals UFMylation as an antibacterial pathway",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1038/s41467-026-77860-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77825-1",
+      "title": "Nano-NucleOTAC-mediated Z-DNA transformation disrupts mycobacterium tuberculosis biofilms and activates antibacterial immunity",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1038/s41467-026-77825-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77824-2",
+      "title": "Methodological Variations in Environmental Justice Screening Tools and Their Impact on Disadvantaged Community Designations",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1038/s41467-026-77824-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77822-4",
+      "title": "Towards a quantitative description of nanostructured order in amorphous diamond-like carbon",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1038/s41467-026-77822-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77805-5",
+      "title": "Enzyme-mimicking peripheral substituents beyond the second coordination sphere tune single-atom catalysts for periodate activation",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1038/s41467-026-77805-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77785-6",
+      "title": "Divergent genome fractionation and adaptation following polyploidy in the Araliaceae",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1038/s41467-026-77785-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77784-7",
+      "title": "Multiplexed embryo profiling links cellular state to zygotic genome activation in single cells",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1038/s41467-026-77784-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77780-x",
+      "title": "Functional characterization of viral transcriptional regulators reveals extensive rewiring of host pathways",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1038/s41467-026-77780-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77772-x",
+      "title": "Climate urgency enables political alignment for Latin American power integration",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1038/s41467-026-77772-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77760-1",
+      "title": "Omaveloxolone functions as a molecular crowbar-like degrader of STING to alleviate aging-related inflammation",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1038/s41467-026-77760-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77759-8",
+      "title": "Mammalian DNA maintenance methylation depends on histone but not PAF15 ubiquitination",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1038/s41467-026-77759-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77725-4",
+      "title": "Absence of a prolonged macrophage and B cell response inhibits heart regeneration in the Mexican cavefish",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1038/s41467-026-77725-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77697-5",
+      "title": "A lipoprotein-biomimetic nanoplatform for oncogenic KRAS mutation-specific lysosome-targeting protein degradation",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1038/s41467-026-77697-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77674-y",
+      "title": "Suspended thin-film lithium niobate modulator for broadband mid-infrared light modulation and frequency comb generation",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1038/s41467-026-77674-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77667-x",
+      "title": "Solvent polarizability governs Li⁺ transport kinetics for high energy lithium metal batteries",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1038/s41467-026-77667-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77650-6",
+      "title": "Electron delocalization-driven high dielectric electrolyte for solid-state lithium metal batteries",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1038/s41467-026-77650-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77593-y",
+      "title": "Nano-wrinkle waveguides for programmable polariton channeling",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1038/s41467-026-77593-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77080-4",
+      "title": "Data-driven massive reaction networks reveal mechanistic pathways underlying catalytic CO2 hydrogenation",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1038/s41467-026-77080-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-76839-z",
+      "title": "The brain of the female Anopheles gambiae mosquito at spatial and single-cell resolution",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1038/s41467-026-76839-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-76599-w",
+      "title": "Behaviorally-relevant features of observed actions dominate cortical representational geometry in natural vision",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1038/s41467-026-76599-w"
+    },
     {
       "doi": "10.1038/s41467-026-77907-0",
       "title": "Robust valley-polarized excitonic Mott states and doublons enabled by stacking-controlled moiré geometry",

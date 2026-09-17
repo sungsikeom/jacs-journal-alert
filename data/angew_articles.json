@@ -1,8 +1,8 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-16T20:27:23.908Z",
+  "collected_at": "2026-09-17T20:24:06.125Z",
   "scope_start": "2026-01-01",
-  "article_count": 2557,
+  "article_count": 2559,
   "articles": [
     {
       "doi": "10.1002/anie.9709775",
@@ -51,6 +51,18 @@
       "title": "Reprocessable, Creep-Resistant and Fully Biobased Thermosets for Power Semiconductor Packaging",
       "published_date": "2026-09-16",
       "url": "https://doi.org/10.1002/anie.1898181"
+    },
+    {
+      "doi": "10.1002/anie.1677569",
+      "title": "The Stubborn Persistence of Toxic Solvents in Chemical Synthesis",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1002/anie.1677569"
+    },
+    {
+      "doi": "10.1002/anie.1537547",
+      "title": "Nonnative Thiol and Aniline Methylation, Including Enantioselective Dithiol Desymmetrization, by Multicomponent Cobamide-Dependent Methyltransferases Using Unactivated Methyl Donors",
+      "published_date": "2026-09-16",
+      "url": "https://doi.org/10.1002/anie.1537547"
     },
     {
       "doi": "10.1002/anie.9751771",

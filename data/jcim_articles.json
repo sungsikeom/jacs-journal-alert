@@ -1,9 +1,51 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-09-16T20:17:13.319Z",
+  "collected_at": "2026-09-17T20:14:06.906Z",
   "scope_start": "2026-01-01",
-  "article_count": 852,
+  "article_count": 859,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c03072",
+      "title": "25 Years of Cardiac Ion Channel QSAR: From hERG Dominance to Multi-Channel Modeling",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/acs.jcim.6c03072"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02911",
+      "title": "Diff-SelfA-PepGSI: A Diffusion-Based Framework for De Novo Generation, Screening, and Morphological Identification of Self-Assembled Peptide Sequences",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02911"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02866",
+      "title": "CDGA: A Host-Based Alignment and Descriptor Analysis Tool for Cyclodextrin Inclusion Complexes",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02866"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02388",
+      "title": "Charge-Driven Fibril Recognition and Covalent Disruption of Aβ42 by Paddlewheel Diruthenium Complexes",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02388"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02031",
+      "title": "APDB: A Large-Scale Repository of Predicted 2D and 3D Aptamer Structures",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02031"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01872",
+      "title": "Explainable Artificial Intelligence to Unveil Patterns of Antioxidant Peptides for Free Radical Regulation",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01872"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00961",
+      "title": "In-Context Molecular Property Prediction with LLMs: A Blinding Study on Memorization and Knowledge Conflicts",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00961"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02895",
       "title": "The Synthesizability Gap Has Moved: Route Existence Is Not Chemistry",

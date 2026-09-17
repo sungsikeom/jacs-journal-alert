@@ -1,9 +1,33 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-09-16T20:20:29.748Z",
+  "collected_at": "2026-09-17T20:17:23.470Z",
   "scope_start": "2026-01-01",
-  "article_count": 1218,
+  "article_count": 1222,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02710",
+      "title": "Beyond Band-Edge Effective Mass: Ultrahigh On-State Current and Electron-Hole Transport Asymmetry in Monolayer PbS MOSFETs",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02710"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02098",
+      "title": "How β-Ionone Ring Dynamics and Conformational Heterogeneity Control Carotenoid Photophysics",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02098"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02069",
+      "title": "The Heat Capacity of Bulk Supercooled Water between 185 and 205 K",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02069"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01875",
+      "title": "Counteranion-Driven Dealkylation of Photoluminescent Cationic Chromophores",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01875"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02786",
       "title": "Enthalpy–Entropy Synergy Governs Cation-Mediated Interfacial Water Activation on Cu(111)",
