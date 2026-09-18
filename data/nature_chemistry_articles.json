@@ -1,9 +1,15 @@
 {
   "source": "Nature Chemistry Research Articles",
-  "collected_at": "2026-09-17T20:07:35.962Z",
+  "collected_at": "2026-09-18T20:10:17.821Z",
   "scope_start": "2009-01-01",
-  "article_count": 2507,
+  "article_count": 2508,
   "articles": [
+    {
+      "doi": "10.1038/s41557-026-02256-w",
+      "title": "F-centre charge state and dynamism govern oxide electrocatalytic selectivity",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1038/s41557-026-02256-w"
+    },
     {
       "doi": "10.1038/s41557-026-02245-z",
       "title": "Nanoscale visualization of plasmon-enhanced hydrogen activation on a Pt(111) surface",

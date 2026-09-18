@@ -1,9 +1,111 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-17T20:24:06.125Z",
+  "collected_at": "2026-09-18T20:26:09.269Z",
   "scope_start": "2026-01-01",
-  "article_count": 2559,
+  "article_count": 2576,
   "articles": [
+    {
+      "doi": "10.1002/anie.8911828",
+      "title": "Access to Axially Chiral Diaryl Ethers via Catalytic Atroposelective [2+2+2] Cycloaddition of Alkynyloxybenzenes",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1002/anie.8911828"
+    },
+    {
+      "doi": "10.1002/anie.8409117",
+      "title": "Geometric Accommodation of Atom Repulsions Enables Sub-10 nm Ultra-Narrowband Multi-Resonance Blue Emitters",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1002/anie.8409117"
+    },
+    {
+      "doi": "10.1002/anie.8252739",
+      "title": "NHC-Copper(I)-Mediated Functionalization of White Phosphorus",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1002/anie.8252739"
+    },
+    {
+      "doi": "10.1002/anie.7346886",
+      "title": "Intermolecular Interaction-Facilitated Unimolecular Dehydration of Cyclohexanol on Rutile TiO2(110) Surface",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1002/anie.7346886"
+    },
+    {
+      "doi": "10.1002/anie.6992524",
+      "title": "Deaminative Allylation of Primary Amines",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1002/anie.6992524"
+    },
+    {
+      "doi": "10.1002/anie.6472829",
+      "title": "Alkali Metal Cation-Regulated Interfacial Electric Fields Enable Selective C─H Oxidation via Reactive Oxygen Species",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1002/anie.6472829"
+    },
+    {
+      "doi": "10.1002/anie.5852828",
+      "title": "De Novo Design and Structural Optimization of Mn(salen)-Based Artificial Metalloenzymes for Asymmetric Sulfoxidation",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1002/anie.5852828"
+    },
+    {
+      "doi": "10.1002/anie.5734835",
+      "title": "Transformation of Active Sites on Cobalt Sulfide Nanoclusters With Similar Nuclearities",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1002/anie.5734835"
+    },
+    {
+      "doi": "10.1002/anie.5409854",
+      "title": "Deciphering Dynamic Self-Healing for Crystallinity Control in β-Ketoenamine-Linked Covalent Organic Frameworks",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1002/anie.5409854"
+    },
+    {
+      "doi": "10.1002/anie.4780761",
+      "title": "Effect of Structural Similarity Between Dopants and Matrices in Organic Room-Temperature Phosphorescence Materials: “Like Dissolves Like”",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1002/anie.4780761"
+    },
+    {
+      "doi": "10.1002/anie.4761895",
+      "title": "Environment-Regulated Crystal-Structure Reconfiguration of Hybrid Halide Scintillators Enables Tunable STE Emission Toward Intelligent X-Ray Imaging",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1002/anie.4761895"
+    },
+    {
+      "doi": "10.1002/anie.3165931",
+      "title": "Cobalt-Catalyzed C─N Bond Formation via Metal-Hydride Hydrogen Atom Transfer (MHAT)",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1002/anie.3165931"
+    },
+    {
+      "doi": "10.1002/anie.2998568",
+      "title": "Access to Unsupported Iminobismuthane and Tetraazabismole Species Enabled by a Rigid and Bulky Organobismuthinidene",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1002/anie.2998568"
+    },
+    {
+      "doi": "10.1002/anie.2505284",
+      "title": "Intermolecular Carbon–Carbon Naphthalene Coupling Involves a Radical Mechanism Driven by Cytochrome P450 in Alternaria alternata",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1002/anie.2505284"
+    },
+    {
+      "doi": "10.1002/anie.2501599",
+      "title": "Correction to “Achieving over 20% Efficiency in Laminated HTM-Free Carbon Electrode Perovskite Solar Cells through In Situ Interface Reconstruction”",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1002/anie.2501599"
+    },
+    {
+      "doi": "10.1002/anie.1859339",
+      "title": "Chirality-Matched Piezoelectric Responsiveness and Energy Transfer in Supramolecular Co-Assembly of Dipeptides",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1002/anie.1859339"
+    },
+    {
+      "doi": "10.1002/anie.1584222",
+      "title": "Carbohydrate-Directed Labeling Probes for UV-Independent Chemoproteomic Profiling of Carbohydrate–Protein Interactions",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1002/anie.1584222"
+    },
     {
       "doi": "10.1002/anie.9709775",
       "title": "Chlorination-Driven BODIPY Fluorescent Probes for the Selective Monitoring of Myeloperoxidase Activity in Cells and Inflamed Mouse Models",

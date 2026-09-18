@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-17T20:04:01.164Z",
+  "collected_at": "2026-09-18T20:06:49.780Z",
   "scope_start": "2026-01-01",
-  "article_count": 8900,
+  "article_count": 8920,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77930-1",
+      "title": "ReScale4DL: balancing pixel and contextual information for enhanced bioimage segmentation",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1038/s41467-026-77930-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77920-3",
+      "title": "Genome-wide cross-trait analysis to compare genetic architecture between Parkinson’s disease and kidney-related traits",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1038/s41467-026-77920-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77914-1",
+      "title": "Large strain and high reversible dielectric tunability in Sm-modified PMN-PT ceramics",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1038/s41467-026-77914-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77876-4",
+      "title": "Cell-type-specific surfaceome profiling of 100-500 isolated cells using a droplet-based Magnetic Affinity Purification System",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1038/s41467-026-77876-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77872-8",
+      "title": "The DNMT1 CXXC domain senses CpG islands for DNA methylation inhibition",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1038/s41467-026-77872-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77870-w",
+      "title": "A temporal single cell atlas of dynamic chromatin accessibility during murine lung maturation",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1038/s41467-026-77870-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77862-w",
+      "title": "Wafer-scale conformal metasurface optics",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1038/s41467-026-77862-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77849-7",
+      "title": "Coordination-mediated cold quenching for the synthesis of strongly quantum-confined FAPbI3 quantum dots",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1038/s41467-026-77849-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77838-w",
+      "title": "BEAR-GRN: Systematic assessment of single-cell multi-omics-based gene regulatory network inference methods",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1038/s41467-026-77838-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77802-8",
+      "title": "Uncoupling of the allosteric signalling network in the β1-adrenergic receptor by a negative allosteric modulator",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1038/s41467-026-77802-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77787-4",
+      "title": "Microglia and border-associated macrophages play opposite roles in cerebrovascular and leukocyte responses under systemic inflammation in male mice",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1038/s41467-026-77787-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77747-y",
+      "title": "Massive release of predominantly magmatic carbon drove an Early Jurassic hyperthermal",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1038/s41467-026-77747-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77745-0",
+      "title": "Spatiotemporal metabolic networks in a preclinical model of pancreatic cancer and associated cachexia",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1038/s41467-026-77745-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77728-1",
+      "title": "Imaging nanoscopic co-assemblies of α-synuclein and Tau in human samples",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1038/s41467-026-77728-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77705-8",
+      "title": "Ociperlimab and tislelizumab in advanced esophageal squamous cell carcinoma (AdvanTIG-203): a phase II study",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1038/s41467-026-77705-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77645-3",
+      "title": "Learning chemical-induced gene expression perturbations with WAVE",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1038/s41467-026-77645-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77641-7",
+      "title": "Distinct migratory dendritic cell subsets cooperate to prime tissue-resident memory-like CD8⁺ T cells in mouse tumors",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1038/s41467-026-77641-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77605-x",
+      "title": "Characterization of recombinase-based genetic parts and circuits using nanopore sequencing",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1038/s41467-026-77605-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77553-6",
+      "title": "Modular assembly of arterial organoids enables rapid blood perfusion to ameliorate ischemic diseases",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1038/s41467-026-77553-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-76586-1",
+      "title": "Resonating-valence-bond superconductor from small Fermi surface in twisted bilayer graphene",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1038/s41467-026-76586-1"
+    },
     {
       "doi": "10.1038/s41467-026-77860-y",
       "title": "Proximity biotinylation at the host-Shigella interface reveals UFMylation as an antibacterial pathway",
