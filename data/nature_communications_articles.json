@@ -1,9 +1,105 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-18T20:06:49.780Z",
+  "collected_at": "2026-09-19T20:06:33.101Z",
   "scope_start": "2026-01-01",
-  "article_count": 8920,
+  "article_count": 8936,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-77992-1",
+      "title": "Dosing and delivery of bacteriophage therapy in a murine wound infection model",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1038/s41467-026-77992-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77985-0",
+      "title": "Checkerboard-type Zhang-Rice states in overdoped cuprate superconductors",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1038/s41467-026-77985-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77922-1",
+      "title": "Dynamics-informed machine learning for recovering extensive missing systems dynamics",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1038/s41467-026-77922-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77898-y",
+      "title": "Spatial partitioning of NSD2 defines H3K36me2 as an active mark for repetitive sequence activation",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1038/s41467-026-77898-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77880-8",
+      "title": "Kirigami-actuated reconfigurable topological photonic crystals",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1038/s41467-026-77880-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77864-8",
+      "title": "Resonance-enhanced integrated acousto-optic beam steering",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1038/s41467-026-77864-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77851-z",
+      "title": "Record-high efficiency in 1.54 µm electroluminescent diodes based on lead-free Cs3CrBr6: Er3+ semiconductor nanocrystals",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1038/s41467-026-77851-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77847-9",
+      "title": "The EF1α promoter of cilta-cel drives a highly effective GZMK+ transcriptional program",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1038/s41467-026-77847-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77823-3",
+      "title": "Cryo-EM structure of ex vivo Sup35 yeast prion and the factors defining prion phenotype",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1038/s41467-026-77823-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77798-1",
+      "title": "Disruption of SWI/SNF ATPases in the mouse liver impairs diurnal gene expression associated with specific promoter features",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1038/s41467-026-77798-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77768-7",
+      "title": "Bayesian bilevel operator learning with low-rank adaptation for efficient uncertainty quantification of PDE inverse problems",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1038/s41467-026-77768-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77700-z",
+      "title": "Scalable molecular representations enabled by multimodal fusion and sequence distillation",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1038/s41467-026-77700-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77675-x",
+      "title": "Extending single-cell proteomics from HeLa to small primary human immune cells",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1038/s41467-026-77675-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77550-9",
+      "title": "Single-fiber hyperspectral imaging via nanophotonic disordered dispersion",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1038/s41467-026-77550-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77463-7",
+      "title": "Virtual sensing to enable real-time monitoring of inaccessible locations & unmeasurable parameters",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1038/s41467-026-77463-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77027-9",
+      "title": "Anti-thymocyte globulin triggers TNF-dependent cell death in T-cell acute lymphoblastic leukemia",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1038/s41467-026-77027-9"
+    },
     {
       "doi": "10.1038/s41467-026-77930-1",
       "title": "ReScale4DL: balancing pixel and contextual information for enhanced bioimage segmentation",

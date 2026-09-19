@@ -1,8 +1,8 @@
 {
-  "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-18T20:26:09.269Z",
+  "source": "Wiley Journal of Computational Chemistry search results",
+  "collected_at": "2026-09-19T20:26:45.821Z",
   "scope_start": "2026-01-01",
-  "article_count": 2576,
+  "article_count": 2594,
   "articles": [
     {
       "doi": "10.1002/anie.8911828",
@@ -105,6 +105,18 @@
       "title": "Carbohydrate-Directed Labeling Probes for UV-Independent Chemoproteomic Profiling of Carbohydrate–Protein Interactions",
       "published_date": "2026-09-18",
       "url": "https://doi.org/10.1002/anie.1584222"
+    },
+    {
+      "doi": "10.1002/jcc.70505",
+      "title": "Polarizability of 79 Monatomic Cations In Vacuo: Periodic Trends and Correlations With Other Ion-Specific Properties",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1002/jcc.70505"
+    },
+    {
+      "doi": "10.1002/jcc.70492",
+      "title": "Optimized M-SHAKE Constraint Implementations for GPU-Accelerated Molecular Dynamics: Balancing Precision and Performance Across Architectures",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1002/jcc.70492"
     },
     {
       "doi": "10.1002/anie.9709775",
@@ -443,6 +455,18 @@
       "url": "https://doi.org/10.1002/anie.1626004"
     },
     {
+      "doi": "10.1002/jcc.70508",
+      "title": "A Graph-Based Machine Learning Framework to Assign Empirical Interaction Parameters for Novel Molecules",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/jcc.70508"
+    },
+    {
+      "doi": "10.1002/jcc.70498",
+      "title": "Breaking the Ceiling of Boron-Boron Bonds: Understanding and Fine-Tuning Basicity in Diborane(4) Complexes",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1002/jcc.70498"
+    },
+    {
       "doi": "10.1002/anie.9252872",
       "title": "Precise Molecular Design of TADF Sensitizer With Balanced Exciton Dynamics for High-Performance Narrowband Hyperfluorescence OLEDs",
       "published_date": "2026-09-14",
@@ -633,6 +657,30 @@
       "title": "Breaking the Diffusion–Dispersion Trade-Off: Subnanometric MoO3 Clusters in Interzeolite Transformation Intermediates for Oxidative Desulfurization With H2O2",
       "published_date": "2026-09-12",
       "url": "https://doi.org/10.1002/anie.1167313"
+    },
+    {
+      "doi": "10.1002/jcc.70509",
+      "title": "Boosting CO2 Hydrogenation to Formic Acid Through Secondary Metal Promotion in Fe3O-Based MOF Catalysts",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1002/jcc.70509"
+    },
+    {
+      "doi": "10.1002/jcc.70507",
+      "title": "CO and NO Detection by MN4@SWCNT in Background Gases: Multiscale DFT, Microkinetic, Boltzmann Transport Study",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1002/jcc.70507"
+    },
+    {
+      "doi": "10.1002/jcc.70500",
+      "title": "Substituent Effects on the Stability of Pd–NHC Complexes: Switching From Molecular to “Cocktail-Type” Catalysis",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1002/jcc.70500"
+    },
+    {
+      "doi": "10.1002/jcc.70495",
+      "title": "Benchmark Reference Data and Computational Protocols for Predicting Excitation Energies of Thioindigoid Photoswitches",
+      "published_date": "2026-09-11",
+      "url": "https://doi.org/10.1002/jcc.70495"
     },
     {
       "doi": "10.1002/anie.9239356",
@@ -845,6 +893,12 @@
       "url": "https://doi.org/10.1002/anie.1508038"
     },
     {
+      "doi": "10.1002/jcc.70503",
+      "title": "Predicting the Stepwise Growth of Lithium Clusters Around Sulfur Species (S and S2) From the Topology of the Electron Localization Function",
+      "published_date": "2026-09-09",
+      "url": "https://doi.org/10.1002/jcc.70503"
+    },
+    {
       "doi": "10.1002/anie.9880949",
       "title": "Adenylation Domain Engineering Enables Biosynthesis of an Improved Polymyxin Antibiotic",
       "published_date": "2026-09-09",
@@ -903,6 +957,18 @@
       "title": "Toward Cell-Specific Molecular MRI: Modulating Chemical Exchange Saturation Transfer Contrast With Manganese",
       "published_date": "2026-09-09",
       "url": "https://doi.org/10.1002/anie.1291856"
+    },
+    {
+      "doi": "10.1002/jcc.70501",
+      "title": "DL_FFLUX Refactored: Accelerating Quantum Chemical Topology Simulations With Optimized Parallelization",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1002/jcc.70501"
+    },
+    {
+      "doi": "10.1002/jcc.70491",
+      "title": "Natural Atomic Orbitals at the Complete-Basis-Set Limit: A Frozen Natural-Minimal-Basis Construction",
+      "published_date": "2026-09-08",
+      "url": "https://doi.org/10.1002/jcc.70491"
     },
     {
       "doi": "10.1002/anie.202522019",
@@ -1083,6 +1149,12 @@
       "title": "Breaking of π-Continuity by σ-Linkers in Covalent Organic Frameworks for Efficient Photoreduction and Recovery of Gold From Electronic Waste",
       "published_date": "2026-09-07",
       "url": "https://doi.org/10.1002/anie.1583116"
+    },
+    {
+      "doi": "10.1002/jcc.70497",
+      "title": "Deployment-Matched Allocation of PBE, mBJ, and HSE06 for Band-Gap Screening Under Chemical and Protocol Shifts",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1002/jcc.70497"
     },
     {
       "doi": "10.1002/anie.5826310",
@@ -1305,6 +1377,24 @@
       "title": "Ion‑Programmed In Situ J‑Aggregates Overcome Concentration-Dependence for On-Demand Phototherapy of Diabetic Bacterial Infections",
       "published_date": "2026-09-04",
       "url": "https://doi.org/10.1002/anie.1142645"
+    },
+    {
+      "doi": "10.1002/jcc.70494",
+      "title": "A Fast and Parallelized Procedure for Checking Molecular Dynamics 3D Structure",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1002/jcc.70494"
+    },
+    {
+      "doi": "10.1002/jcc.70493",
+      "title": "Precursor Design Principles for Area-Selective Atomic Layer Deposition of Alumina: Quantifying the Role of Lewis Acidity, Steric Repulsion, and Dimerization in Surface Adsorption",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1002/jcc.70493"
+    },
+    {
+      "doi": "10.1002/jcc.70490",
+      "title": "Computational Design and Theoretical Evaluation of Novel Heterocyclic Energetic Materials Based on 5-H-Imidazo-[4,5-c]-Pyridazine and 1,2,4-Triazolo-[4,3-a]-Pyrazine Scaffolds",
+      "published_date": "2026-09-03",
+      "url": "https://doi.org/10.1002/jcc.70490"
     },
     {
       "doi": "10.1002/anie.9788311",
@@ -2093,6 +2183,12 @@
       "url": "https://doi.org/10.1002/anie.1230832"
     },
     {
+      "doi": "10.1002/jcc.70489",
+      "title": "Theoretical Investigation on Pyrene-Based Self-Assembled Molecules Toward Efficient Interface Performance of Perovskite/Transparent Electrode",
+      "published_date": "2026-08-25",
+      "url": "https://doi.org/10.1002/jcc.70489"
+    },
+    {
       "doi": "10.1002/anie.8631704",
       "title": "Conjugated Microporous Polymers Bearing Poly(Acrylic Acid) Brushes: Site-Specific Rhodium Immobilization for Efficient and Enzyme-Compatible Photocatalytic NADH Regeneration",
       "published_date": "2026-08-25",
@@ -2241,6 +2337,12 @@
       "title": "An Iridium Distannylidyne – Expanding the Scope of Tetrylidyne Transition Metal Coordination Chemistry",
       "published_date": "2026-08-24",
       "url": "https://doi.org/10.1002/anie.1048718"
+    },
+    {
+      "doi": "10.1002/jcc.70488",
+      "title": "Data Compression of the D1200 Suite: Achieving the Optimal Balance Between Size and Accuracy with the Diet-D200 Subset",
+      "published_date": "2026-08-23",
+      "url": "https://doi.org/10.1002/jcc.70488"
     },
     {
       "doi": "10.1002/anie.5077478",
@@ -2535,6 +2637,12 @@
       "title": "Paramagnetic d-Block Metal Organic Cages as MRI or Chemical Shift Probes",
       "published_date": "2026-08-22",
       "url": "https://doi.org/10.1002/anie.1137232"
+    },
+    {
+      "doi": "10.1002/jcc.70482",
+      "title": "PARSEC.py: A Python-Based Real-Space Kohn–Sham Density Functional Theory Code Accelerated by Machine Learned Charge Density",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.1002/jcc.70482"
     },
     {
       "doi": "10.1002/anie.5578716",

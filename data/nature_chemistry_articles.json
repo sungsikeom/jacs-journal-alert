@@ -1,9 +1,15 @@
 {
   "source": "Nature Chemistry Research Articles",
-  "collected_at": "2026-09-18T20:10:17.821Z",
+  "collected_at": "2026-09-19T20:10:00.983Z",
   "scope_start": "2009-01-01",
-  "article_count": 2508,
+  "article_count": 2509,
   "articles": [
+    {
+      "doi": "10.1038/s41557-026-02240-4",
+      "title": "Autonomous migration of a phosphate group along glycerol and inositol scaffolds driven by a phosphodiester reaction cycle",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1038/s41557-026-02240-4"
+    },
     {
       "doi": "10.1038/s41557-026-02256-w",
       "title": "F-centre charge state and dynamism govern oxide electrocatalytic selectivity",
