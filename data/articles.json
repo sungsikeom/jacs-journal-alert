@@ -1,17 +1,29 @@
 {
-  "checked_at": "2026-09-20T05:33:21+09:00",
+  "checked_at": "2026-09-21T05:32:17+09:00",
   "journal_count": 12,
-  "new_count": 16,
-  "total_count": 27731,
+  "new_count": 1,
+  "total_count": 27746,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-09-20",
+  "scope_end": "2026-09-21",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-76272-2",
+      "title": "Memristive singular value decomposition",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-20",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-76272-2",
+      "sources": [
+        "publisher"
+      ]
+    },
     {
       "doi": "10.1038/s41467-026-77992-1",
       "title": "Dosing and delivery of bacteriophage therapy in a murine wound infection model",
@@ -200,6 +212,174 @@
       "published_date": "2026-09-19",
       "indexed_at": null,
       "url": "https://doi.org/10.1038/s41467-026-77027-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.9361104",
+      "title": "Catalytic Anionic Substituents Effects as Selectivity Mediators in Photocatalytic Hydrogen Atom Transfers",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.9361104",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.9229523",
+      "title": "Noncovalent Biomolecular Glass Platform for Ultralong Room-Temperature Phosphorescence",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.9229523",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.9043892",
+      "title": "Electrochemically Self-Driven Interfacial Selenium Transfer Reshapes Sulfur Redox Pathway in Lithium–Sulfur Batteries",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.9043892",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.5950356",
+      "title": "Chemical Switching Between B2N and B2C Homoaromaticity",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.5950356",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.5865467",
+      "title": "Coordinating Mesopore Geometry and Interfacial Water Dynamics for Iron-Site Evolution in Nitrate Electroreduction",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.5865467",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.4940262",
+      "title": "A Descriptor for Non-Arrhenius Ion Transport Enables Design of Sulfide Superionic Conductors",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.4940262",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.4300417",
+      "title": "Borosulfates Hosting Se42+ Ions—Crystal Structures, Chemical Bonding, Optical Spectroscopy, and Magnetism",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.4300417",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.4084841",
+      "title": "Divergent Single-Oxygen Transmutation of Furans",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.4084841",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.3793292",
+      "title": "Low-Crystalline Ag1.2V3O8: A Zinc-Ion Storage Cathode With an Ultrahigh Capacity of 525 mAh g−1 Enabled by Oxygen-Vacancy-Rich Coordination Environments",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.3793292",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.3185665",
+      "title": "Methane Activation by B5+ Toward a CB5H2+ Isomer Containing a Planar Tetracoordinate Carbon Atom",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.3185665",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.3092581",
+      "title": "Taming the Flexible Eight-Membered Ring: Enantioselective Synthesis of Inherently Chiral Dibenzo[a,e]cyclooctatetraenes Enabled by Pd-Catalyzed Suzuki–Miyaura Cross-Coupling",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.3092581",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.2911991",
+      "title": "Breaking Charge Symmetry in Co–Zn Dual‑Atom Catalyst With Axial Sulfur Coordination for Efficient Oxygen Reduction Reaction",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.2911991",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.2735155",
+      "title": "Bio-Inspired Bidirectional Proton Regulatory Mechanisms by Anhydride-Based Hydrogel Electrolytes for High-Performance Aqueous Zinc-Ion Batteries",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.2735155",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.2000678",
+      "title": "Superoxide-Anion-Dominated Labeling of Graphene Defects in an Interfacial Nanoreactor of Electron-Donated Substrate",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.2000678",
       "sources": [
         "publisher"
       ]
@@ -333466,21 +333646,6 @@
     }
   ],
   "new_dois": [
-    "10.1038/s41467-026-77992-1",
-    "10.1038/s41467-026-77985-0",
-    "10.1038/s41467-026-77922-1",
-    "10.1038/s41467-026-77898-y",
-    "10.1038/s41467-026-77880-8",
-    "10.1038/s41467-026-77864-8",
-    "10.1038/s41467-026-77851-z",
-    "10.1038/s41467-026-77847-9",
-    "10.1038/s41467-026-77823-3",
-    "10.1038/s41467-026-77798-1",
-    "10.1038/s41467-026-77768-7",
-    "10.1038/s41467-026-77700-z",
-    "10.1038/s41467-026-77675-x",
-    "10.1038/s41467-026-77550-9",
-    "10.1038/s41467-026-77463-7",
-    "10.1038/s41467-026-77027-9"
+    "10.1038/s41467-026-76272-2"
   ]
 }
