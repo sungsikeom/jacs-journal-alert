@@ -1,9 +1,99 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-20T20:25:51.997Z",
+  "collected_at": "2026-09-21T20:25:52.949Z",
   "scope_start": "2026-01-01",
-  "article_count": 2608,
+  "article_count": 2623,
   "articles": [
+    {
+      "doi": "10.1002/anie.8471593",
+      "title": "Methoxy-Directed, Lithium-Free One-Shot Borylation for Tetraboron-, Pyridinic and Amino Nitrogen-Integrated PAHs With Ultra-Narrowband Thermally Activated Delayed Fluorescence",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1002/anie.8471593"
+    },
+    {
+      "doi": "10.1002/anie.8290035",
+      "title": "Synthesis of Large- and Medium-Sized Heterobiaryl Atropisomeric Rings and Atropopeptides by Catalytic Intramolecular SNAr",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1002/anie.8290035"
+    },
+    {
+      "doi": "10.1002/anie.7907592",
+      "title": "Bidentate Phosphonate Bridges Enable Buried Interface Reconstruction for Thermomechanically Robust Sn–Pb Perovskite Solar Cells",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1002/anie.7907592"
+    },
+    {
+      "doi": "10.1002/anie.7868412",
+      "title": "Electron-Donating Aminosilane Bridging Enables General Access to Full-Color Aqueous Phosphorescent Nanospheres",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1002/anie.7868412"
+    },
+    {
+      "doi": "10.1002/anie.7271276",
+      "title": "Unlocking High-Performance Te-Free p-Type Thermoelectrics via Cu Doping in Entropy-Engineered Cd0.5Zn0.5Sb Zintl",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1002/anie.7271276"
+    },
+    {
+      "doi": "10.1002/anie.6605459",
+      "title": "Two-Dimensional SnS2 Interlayers Enable Vacancy-Guided Ion Migration for Stable Diffusive Memristors and Bioinspired Nociception",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1002/anie.6605459"
+    },
+    {
+      "doi": "10.1002/anie.6455772",
+      "title": "Role of Graphene Oxide in the Nucleation and Growth of Gold Nanoparticles Revealed by Operando Time-Resolved Studies",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1002/anie.6455772"
+    },
+    {
+      "doi": "10.1002/anie.6095254",
+      "title": "Regeneration-Optimized Chemisorbents: Evaluating Hybrid Coordination Networks for Atmospheric Water Harvesting",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1002/anie.6095254"
+    },
+    {
+      "doi": "10.1002/anie.5600863",
+      "title": "Beyond Physical Protection Paradigm: Surface-bonded Molecular Integration for Durable High-voltage LiCoO2",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1002/anie.5600863"
+    },
+    {
+      "doi": "10.1002/anie.4453766",
+      "title": "Tailoring and Unraveling Surface Functionalization of Nanomaterials via Self-Reporting NIR-Induced Upconversion Energy Transfer Process",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1002/anie.4453766"
+    },
+    {
+      "doi": "10.1002/anie.3685338",
+      "title": "A Ruthenium(CAAC-5) Olefin Metathesis Catalyst for Bioconjugation",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1002/anie.3685338"
+    },
+    {
+      "doi": "10.1002/anie.2898522",
+      "title": "Small Molecule Modulation of TERRA RNA Quadruplex Reprograms ALT-Telomere Maintenance",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1002/anie.2898522"
+    },
+    {
+      "doi": "10.1002/anie.1615351",
+      "title": "Pressure-Induced Single-Molecule Deformation Enables 208-Fold Photoluminescence-Intensity Enhancement in Zero-Dimensional Copper Iodide Hybrids",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1002/anie.1615351"
+    },
+    {
+      "doi": "10.1002/anie.1404527",
+      "title": "From Stable Radicals to Radical‑Trapping Antioxidants: Blatter Radicals Potently Inhibit Autoxidation and Suppress Ferroptosis",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1002/anie.1404527"
+    },
+    {
+      "doi": "10.1002/anie.1222129",
+      "title": "Glutaredoxins Rapidly Reduce Glutathione Hydroper- and Polysulfides",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1002/anie.1222129"
+    },
     {
       "doi": "10.1002/anie.9361104",
       "title": "Catalytic Anionic Substituents Effects as Selectivity Mediators in Photocatalytic Hydrogen Atom Transfers",

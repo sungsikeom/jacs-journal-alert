@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-20T20:06:33.227Z",
+  "collected_at": "2026-09-21T20:06:34.579Z",
   "scope_start": "2026-01-01",
-  "article_count": 8937,
+  "article_count": 8957,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78006-w",
+      "title": "A foldable small-scale soft electromagnetic robot for multimodal navigation in confined and unstructured environments",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1038/s41467-026-78006-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-78003-z",
+      "title": "Inductive charging systems empowered by stress-annealed nanocrystalline alloys with high induced magnetic anisotropy",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1038/s41467-026-78003-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77998-9",
+      "title": "A phage DUF669 protein mediates post-cleavage DNA repair against host CRISPR immunity",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1038/s41467-026-77998-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77946-7",
+      "title": "Integrative structure of norovirus NS3 suggests a role in RNA transport",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1038/s41467-026-77946-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77943-w",
+      "title": "Structure of Blm10:13S proteasome intermediate reveals parallel assembly pathways for the proteasome core particle",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1038/s41467-026-77943-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77928-9",
+      "title": "Five-country analysis of geographic and dietary drivers of gut microbiome composition and genomic variation",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1038/s41467-026-77928-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77913-2",
+      "title": "Creation of ferroelectric flux-closure transistor array for non-volatile field-effect memory",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1038/s41467-026-77913-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77910-5",
+      "title": "Single-oocyte proteome-transcriptome co-profiling reveals a role of dysregulated lactate metabolism in oocyte aging",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1038/s41467-026-77910-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77892-4",
+      "title": "Real-world mileage and survival of electric vehicles in Britain and implications for lifecycle emissions",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1038/s41467-026-77892-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77881-7",
+      "title": "RIPK3 acts as a molecular switch between neuroprotection and neuropathology during herpes simplex encephalitis",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1038/s41467-026-77881-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77830-4",
+      "title": "Live imaging and interactome analysis of Zika and chikungunya viral RNAs via dual-action aptamer tag",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1038/s41467-026-77830-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77808-2",
+      "title": "Combinatorial targeting of the miR-379/miR-410 cluster normalizes glucose and lipid homeostasis in male models of diabetes and obesity",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1038/s41467-026-77808-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77763-y",
+      "title": "Vacuum ultraviolet dual-comb spectroscopy",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1038/s41467-026-77763-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77746-z",
+      "title": "Learning for micro-scale mechano-flow co-manipulation",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1038/s41467-026-77746-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77626-6",
+      "title": "Post-2020 conservation priorities are threatened by global mining",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1038/s41467-026-77626-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77607-9",
+      "title": "Generating protein hydrogels with customizable stress relaxation behavior via deep learning-driven entanglement design",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1038/s41467-026-77607-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77537-6",
+      "title": "Multichannel, biomimetic scaffolds improve functional connectivity following traumatic long-gap peripheral nerve injury",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1038/s41467-026-77537-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77453-9",
+      "title": "Genetic variants associated with cell-type-specific intra-individual gene expression variability reveal mechanisms of genome regulation",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1038/s41467-026-77453-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77409-z",
+      "title": "Design of white circularly polarized luminescence with high glum across entire visible regions by dual-loop active learning",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1038/s41467-026-77409-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77186-9",
+      "title": "Wafer-scale 2D MoS₂ transistors with sub-5 nm channel length and subthreshold performance beyond the silicon limit",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1038/s41467-026-77186-9"
+    },
     {
       "doi": "10.1038/s41467-026-76272-2",
       "title": "Memristive singular value decomposition",
