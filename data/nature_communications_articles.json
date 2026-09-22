@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-21T20:06:34.579Z",
+  "collected_at": "2026-09-22T20:06:34.090Z",
   "scope_start": "2026-01-01",
-  "article_count": 8957,
+  "article_count": 8977,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78037-3",
+      "title": "Stabilizing ruthenium atom layer neighbors through molecular and metal support interactions for water electrolyzers",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41467-026-78037-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77991-2",
+      "title": "Structure and functional divergence of the non-canonical BoNT-like toxin PG1 and PG2",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41467-026-77991-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77975-2",
+      "title": "Structural basis of laminin mimicry by E. coli CNF1 and its therapeutic potential for cancer immunotherapy",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41467-026-77975-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77972-5",
+      "title": "Strong acoustic meta-aerogels enabled by nanoconfined directional freezing and in-situ polymerization",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41467-026-77972-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77940-z",
+      "title": "Host-pathogen pyrimidine metabolism drives cystic fibrosis lung disease",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41467-026-77940-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77935-w",
+      "title": "Cross-talk of filter gate and lower helices drives polymodal regulation and disease in TREK channels",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41467-026-77935-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77931-0",
+      "title": "Risk stratification for MDR/RR-TB: a comprehensive integrated patient-level analysis from TB programs and contemporary clinical trials",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41467-026-77931-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77904-3",
+      "title": "Histone deacetylase inhibition induces an antitumor IRF8-dependent trained immunity-like status in macrophages",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41467-026-77904-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77897-z",
+      "title": "Attractin-like protein 1 is an essential partner of MC4R to regulate body weight",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41467-026-77897-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77895-1",
+      "title": "Microglial protein kinase CK2 prevents obesity in mice potentially through NLRP3 inflammasome activation",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41467-026-77895-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77878-2",
+      "title": "Transport evidence for the orbital Nernst effect",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41467-026-77878-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77868-4",
+      "title": "p38α orchestrates BRAFV600E-melanoma progression and immunotherapy response via tumor fitness and immune microenvironment modulation",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41467-026-77868-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77867-5",
+      "title": "Resilience of blue carbon microbiomes in response to ecological and anthropogenic filtering",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41467-026-77867-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77858-6",
+      "title": "EpOME functionally antagonises prostaglandin signalling in Spodoptera exigua via a specific GPCR conserved across metazoans",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41467-026-77858-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77827-z",
+      "title": "Unveiling structural determinants of peptide recognition by public and private SARS-CoV-2-specific T-cell receptors",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41467-026-77827-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77685-9",
+      "title": "Short-term memory of past caspase activity biases cell elimination in vivo",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41467-026-77685-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77652-4",
+      "title": "Giant In-Plane Bulk Photovoltaic Response in γ-type Indium Selenide from Pressure-Induced Symmetry Breaking",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41467-026-77652-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77330-5",
+      "title": "Patient-derived separation-of-function mutations reveal specific role for BRCA1 coiled coil domain in genome stability",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41467-026-77330-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-76274-0",
+      "title": "Long-range interdependencies aware signal analysis for rapid and accurate obstructive sleep apnea prediction",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41467-026-76274-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-75976-9",
+      "title": "Actionable genetic landscape and dynamics in circulating DNA from 12,827 patients with metastatic breast cancer",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41467-026-75976-9"
+    },
     {
       "doi": "10.1038/s41467-026-78006-w",
       "title": "A foldable small-scale soft electromagnetic robot for multimodal navigation in confined and unstructured environments",

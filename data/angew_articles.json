@@ -1,9 +1,81 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-21T20:25:52.949Z",
+  "collected_at": "2026-09-22T20:25:51.138Z",
   "scope_start": "2026-01-01",
-  "article_count": 2623,
+  "article_count": 2635,
   "articles": [
+    {
+      "doi": "10.1002/anie.9111260",
+      "title": "Deciphering the Multifunctions of Bicarbonate in Acidic CO2 Electrochemical Reduction With Multiscale Simulations",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1002/anie.9111260"
+    },
+    {
+      "doi": "10.1002/anie.7210262",
+      "title": "Highly Efficient and Water-Resistant Copper–Iodide Emitters Toward Underwater X-Ray Imaging",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1002/anie.7210262"
+    },
+    {
+      "doi": "10.1002/anie.6564456",
+      "title": "Persistent Chiral Diradicals via SUMO–LUMO Inversion: Modular Synthesis, Electronic Structures, and Redox-Switching Properties",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1002/anie.6564456"
+    },
+    {
+      "doi": "10.1002/anie.6529490",
+      "title": "Mechanical Signatures of Nucleic Acid Trefoil Knot Topology",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1002/anie.6529490"
+    },
+    {
+      "doi": "10.1002/anie.6397678",
+      "title": "Unlocking the Catalytic Potential of PFAS: Upcycling Forever Chemicals Into Effective Catalysts",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1002/anie.6397678"
+    },
+    {
+      "doi": "10.1002/anie.4451248",
+      "title": "Ratiometric Luminescent Thermo-Hygrometry, Metal-Dependent Second Harmonic Generation, and Humidity-Variable Magnetic Relaxation in a Manganese(II)-Doped Zinc(II) Molecular Halide",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1002/anie.4451248"
+    },
+    {
+      "doi": "10.1002/anie.4212622",
+      "title": "Hydrogen-Bonding-Stabilized Organic Piezoelectric Nanofibers for Immunogenic Sonopiezodynamic Therapy of Metastatic Tumors",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1002/anie.4212622"
+    },
+    {
+      "doi": "10.1002/anie.3611480",
+      "title": "Highly Efficient Au1Pd Single-Atom Alloy Catalyzing Reversible Formate/Bicarbonate Interconversion: Proof-of-Concept for Formate-Salt Cavern Hydrogen Storage",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1002/anie.3611480"
+    },
+    {
+      "doi": "10.1002/anie.2946344",
+      "title": "Mechanical Programming of Hollow DNA Nanocapsules Rewires In Vivo Trafficking",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1002/anie.2946344"
+    },
+    {
+      "doi": "10.1002/anie.2561729",
+      "title": "Alkoxyethyl Acetate Electrolytes for High-Voltage Lithium Metal Batteries",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1002/anie.2561729"
+    },
+    {
+      "doi": "10.1002/anie.2211678",
+      "title": "Structure and Biosynthesis of Mangotoxin Produced by the Plant Pathogen Pseudomonas syringae",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1002/anie.2211678"
+    },
+    {
+      "doi": "10.1002/anie.1298760",
+      "title": "Logic-Gated DNA Cascade Amplification Enables High-Fidelity Intercellular Communication in Synthetic Protocells",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1002/anie.1298760"
+    },
     {
       "doi": "10.1002/anie.8471593",
       "title": "Methoxy-Directed, Lithium-Free One-Shot Borylation for Tetraboron-, Pyridinic and Amino Nitrogen-Integrated PAHs With Ultra-Narrowband Thermally Activated Delayed Fluorescence",
