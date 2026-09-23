@@ -1,17 +1,401 @@
 {
-  "checked_at": "2026-09-23T05:32:36+09:00",
+  "checked_at": "2026-09-24T05:32:17+09:00",
   "journal_count": 12,
-  "new_count": 32,
-  "total_count": 27814,
+  "new_count": 30,
+  "total_count": 27846,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-09-23",
+  "scope_end": "2026-09-24",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78120-9",
+      "title": "The phosphorus analogues of diazomethane and isomeric diazirine",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78120-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78108-5",
+      "title": "Stiffen and toughen poly(vinyl alcohol) gels via synergistic dehydration and salting out",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78108-5",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78015-9",
+      "title": "Solid–vapor synthesis of dynamic crystalline one-dimensional supramolecular polymers from amorphous macrocycles",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78015-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77996-x",
+      "title": "Inducible chronic NAD deficiency in mice reveals multi-systemic phenotypical, metabolic, and transcriptional changes",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77996-x",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77984-1",
+      "title": "Efficient field-free magnetization switching through orbital-current-enhanced magnon torque",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77984-1",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77961-8",
+      "title": "Gα12/13 deficiency attenuates obesity-associated adipose tissue inflammation and promotes energy expenditure",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77961-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77944-9",
+      "title": "Enhanced alkene productivity in methanol-to-hydrocarbons conversion using a secondary catalyst component and hydrogen co-feeds",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77944-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77932-z",
+      "title": "Hydrogen sulfide engages catalytic zinc in HDAC6 to modulate an alternative deacetylation pathway",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77932-z",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77912-3",
+      "title": "Iodide-bridged interfacial hydrogen bonds enable ampere-level electrosynthesis of deuterated acetic acid",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77912-3",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77877-3",
+      "title": "The elongation of Mest transcript into MestXL sustains, but does not initiate, the maternal allele bias of its convergent gene Copg2 during neurogenesis",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77877-3",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77874-6",
+      "title": "A spatiotemporal single-cell transcriptomic atlas reveals fertilization-induced auxin signaling driving strawberry fruit set and development",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77874-6",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77866-6",
+      "title": "Expandable and scalable production of cellulose nanofibrils via highly efficient swelling-modification in deep eutectic solvent",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77866-6",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77813-5",
+      "title": "A principal-stress rule for cell division in epithelia",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77813-5",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77789-2",
+      "title": "Stress-engineered 0.34 nm graphene memristors for low-power probabilistic computing",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77789-2",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77765-w",
+      "title": "The biogeography of giant viruses and interactions with Eukaryotes across European lakes",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77765-w",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77756-x",
+      "title": "Elevated ozone activates maternal immunity to drive offspring IgG-mediated anaphylaxis through IgG glycosylation alterations",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77756-x",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77742-3",
+      "title": "Chromium isotope constraints on deep mantle oxidation from the Early Archean to Paleoproterozoic",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77742-3",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77741-4",
+      "title": "Ghost Neuron preparation unlocks high-resolution structural mapping of intracellular architecture in axons",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77741-4",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77546-5",
+      "title": "Neoadjuvant chemotherapy interferes with tertiary lymphoid structure formation in Epstein-Barr virus-associated gastric cancer",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77546-5",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77390-7",
+      "title": "Biocompatible piezoionic eutectogel sensor for self-powered physiological monitoring",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77390-7",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.7409022",
+      "title": "Aromaticity Regulation in Isostructural Metal-Organic Frameworks for Propyne Storage and Propylene Purification",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.7409022",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.7127460",
+      "title": "Low-Threshold Red Lasing in Diketopyrrolopyrrole-Based Organic Semiconductor Films",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.7127460",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.6314537",
+      "title": "Noncovalent-Interaction–Driven Single-Molecule Exchange Enables Enantiomer Discrimination of Selected Amino Acids in a Nanopore",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.6314537",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.4407565",
+      "title": "Engineering van der Waals Heterojunctions Within a 2D Hydrogen-Bonded Organic Framework for Boosting CO2 Electroreduction",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.4407565",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.4098089",
+      "title": "Tandem Interphase Design Achieves Two-Year Cycling of Aqueous Zinc Metal Batteries Under Extreme Conditions",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.4098089",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.2971119",
+      "title": "Oleylamine-Assisted Construction of Bi-Bi2O2CO3 Heterojunction With a Self-Release-Replenishing Mars-van Krevelen-Type Mechanism for Efficient CO2 Electroreduction",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.2971119",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.2372199",
+      "title": "Heavy-Atom Tunneling at Room Temperature Revealed by Instanton Theory",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.2372199",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.1975103",
+      "title": "Biomimetic Confined Crystallization of Large-Sized Single-Crystalline Multicomponent Mesoporous Metal Oxides",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.1975103",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.1885847",
+      "title": "Second-Sphere Aromatic Substitutions That Tune H-Atom Transfer Reactivity Observed for a Series of S = 1 Nonheme FeIV=O Complexes: An Enthalpy-Entropy Compensation Effect",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.1885847",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.1050964",
+      "title": "Complete Pathway Refactoring and Combinatorial Biosynthesis of Anthracyclines for Modulation of Histone Eviction and DNA Damage Bioactivities",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.1050964",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02258-8",
+      "title": "De novo synthesis of threofuranoses via a triple-carbonylation cascade of aldehydes",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02258-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02235-1",
+      "title": "Secondary-sphere hydrogen bonding promotes catalytic nitrate reduction at iron",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02235-1",
+      "sources": [
+        "publisher"
+      ]
+    },
     {
       "doi": "10.1038/s41467-026-78037-3",
       "title": "Stabilizing ruthenium atom layer neighbors through molecular and metal support interactions for water electrolyzers",
@@ -334462,37 +334846,35 @@
     }
   ],
   "new_dois": [
-    "10.1038/s41467-026-78037-3",
-    "10.1038/s41467-026-77991-2",
-    "10.1038/s41467-026-77975-2",
-    "10.1038/s41467-026-77972-5",
-    "10.1038/s41467-026-77940-z",
-    "10.1038/s41467-026-77935-w",
-    "10.1038/s41467-026-77931-0",
-    "10.1038/s41467-026-77904-3",
-    "10.1038/s41467-026-77897-z",
-    "10.1038/s41467-026-77895-1",
-    "10.1038/s41467-026-77878-2",
-    "10.1038/s41467-026-77868-4",
-    "10.1038/s41467-026-77867-5",
-    "10.1038/s41467-026-77858-6",
-    "10.1038/s41467-026-77827-z",
-    "10.1038/s41467-026-77685-9",
-    "10.1038/s41467-026-77652-4",
-    "10.1038/s41467-026-77330-5",
-    "10.1038/s41467-026-76274-0",
-    "10.1038/s41467-026-75976-9",
-    "10.1002/anie.9111260",
-    "10.1002/anie.7210262",
-    "10.1002/anie.6564456",
-    "10.1002/anie.6529490",
-    "10.1002/anie.6397678",
-    "10.1002/anie.4451248",
-    "10.1002/anie.4212622",
-    "10.1002/anie.3611480",
-    "10.1002/anie.2946344",
-    "10.1002/anie.2561729",
-    "10.1002/anie.2211678",
-    "10.1002/anie.1298760"
+    "10.1038/s41467-026-78120-9",
+    "10.1038/s41467-026-78108-5",
+    "10.1038/s41467-026-78015-9",
+    "10.1038/s41467-026-77996-x",
+    "10.1038/s41467-026-77984-1",
+    "10.1038/s41467-026-77961-8",
+    "10.1038/s41467-026-77944-9",
+    "10.1038/s41467-026-77932-z",
+    "10.1038/s41467-026-77912-3",
+    "10.1038/s41467-026-77877-3",
+    "10.1038/s41467-026-77874-6",
+    "10.1038/s41467-026-77866-6",
+    "10.1038/s41467-026-77813-5",
+    "10.1038/s41467-026-77789-2",
+    "10.1038/s41467-026-77765-w",
+    "10.1038/s41467-026-77756-x",
+    "10.1038/s41467-026-77742-3",
+    "10.1038/s41467-026-77741-4",
+    "10.1038/s41467-026-77546-5",
+    "10.1038/s41467-026-77390-7",
+    "10.1002/anie.7409022",
+    "10.1002/anie.7127460",
+    "10.1002/anie.6314537",
+    "10.1002/anie.4407565",
+    "10.1002/anie.4098089",
+    "10.1002/anie.2971119",
+    "10.1002/anie.2372199",
+    "10.1002/anie.1975103",
+    "10.1002/anie.1885847",
+    "10.1002/anie.1050964"
   ]
 }

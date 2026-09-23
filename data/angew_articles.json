@@ -1,9 +1,69 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-22T20:25:51.138Z",
+  "collected_at": "2026-09-23T20:25:51.336Z",
   "scope_start": "2026-01-01",
-  "article_count": 2635,
+  "article_count": 2645,
   "articles": [
+    {
+      "doi": "10.1002/anie.7409022",
+      "title": "Aromaticity Regulation in Isostructural Metal-Organic Frameworks for Propyne Storage and Propylene Purification",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1002/anie.7409022"
+    },
+    {
+      "doi": "10.1002/anie.7127460",
+      "title": "Low-Threshold Red Lasing in Diketopyrrolopyrrole-Based Organic Semiconductor Films",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1002/anie.7127460"
+    },
+    {
+      "doi": "10.1002/anie.6314537",
+      "title": "Noncovalent-Interaction–Driven Single-Molecule Exchange Enables Enantiomer Discrimination of Selected Amino Acids in a Nanopore",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1002/anie.6314537"
+    },
+    {
+      "doi": "10.1002/anie.4407565",
+      "title": "Engineering van der Waals Heterojunctions Within a 2D Hydrogen-Bonded Organic Framework for Boosting CO2 Electroreduction",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1002/anie.4407565"
+    },
+    {
+      "doi": "10.1002/anie.4098089",
+      "title": "Tandem Interphase Design Achieves Two-Year Cycling of Aqueous Zinc Metal Batteries Under Extreme Conditions",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1002/anie.4098089"
+    },
+    {
+      "doi": "10.1002/anie.2971119",
+      "title": "Oleylamine-Assisted Construction of Bi-Bi2O2CO3 Heterojunction With a Self-Release-Replenishing Mars-van Krevelen-Type Mechanism for Efficient CO2 Electroreduction",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1002/anie.2971119"
+    },
+    {
+      "doi": "10.1002/anie.2372199",
+      "title": "Heavy-Atom Tunneling at Room Temperature Revealed by Instanton Theory",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1002/anie.2372199"
+    },
+    {
+      "doi": "10.1002/anie.1975103",
+      "title": "Biomimetic Confined Crystallization of Large-Sized Single-Crystalline Multicomponent Mesoporous Metal Oxides",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1002/anie.1975103"
+    },
+    {
+      "doi": "10.1002/anie.1885847",
+      "title": "Second-Sphere Aromatic Substitutions That Tune H-Atom Transfer Reactivity Observed for a Series of S = 1 Nonheme FeIV=O Complexes: An Enthalpy-Entropy Compensation Effect",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1002/anie.1885847"
+    },
+    {
+      "doi": "10.1002/anie.1050964",
+      "title": "Complete Pathway Refactoring and Combinatorial Biosynthesis of Anthracyclines for Modulation of Histone Eviction and DNA Damage Bioactivities",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1002/anie.1050964"
+    },
     {
       "doi": "10.1002/anie.9111260",
       "title": "Deciphering the Multifunctions of Bicarbonate in Acidic CO2 Electrochemical Reduction With Multiscale Simulations",

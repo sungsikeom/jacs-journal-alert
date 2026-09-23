@@ -1,9 +1,21 @@
 {
   "source": "Nature Chemistry Research Articles",
-  "collected_at": "2026-09-22T20:10:00.314Z",
+  "collected_at": "2026-09-23T20:10:00.678Z",
   "scope_start": "2009-01-01",
-  "article_count": 2509,
+  "article_count": 2511,
   "articles": [
+    {
+      "doi": "10.1038/s41557-026-02258-8",
+      "title": "De novo synthesis of threofuranoses via a triple-carbonylation cascade of aldehydes",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41557-026-02258-8"
+    },
+    {
+      "doi": "10.1038/s41557-026-02235-1",
+      "title": "Secondary-sphere hydrogen bonding promotes catalytic nitrate reduction at iron",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1038/s41557-026-02235-1"
+    },
     {
       "doi": "10.1038/s41557-026-02240-4",
       "title": "Autonomous migration of a phosphate group along glycerol and inositol scaffolds driven by a phosphodiester reaction cycle",

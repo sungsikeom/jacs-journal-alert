@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-22T20:06:34.090Z",
+  "collected_at": "2026-09-23T20:06:33.689Z",
   "scope_start": "2026-01-01",
-  "article_count": 8977,
+  "article_count": 8997,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78120-9",
+      "title": "The phosphorus analogues of diazomethane and isomeric diazirine",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41467-026-78120-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-78108-5",
+      "title": "Stiffen and toughen poly(vinyl alcohol) gels via synergistic dehydration and salting out",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41467-026-78108-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-78015-9",
+      "title": "Solid–vapor synthesis of dynamic crystalline one-dimensional supramolecular polymers from amorphous macrocycles",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41467-026-78015-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77996-x",
+      "title": "Inducible chronic NAD deficiency in mice reveals multi-systemic phenotypical, metabolic, and transcriptional changes",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41467-026-77996-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77984-1",
+      "title": "Efficient field-free magnetization switching through orbital-current-enhanced magnon torque",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41467-026-77984-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77961-8",
+      "title": "Gα12/13 deficiency attenuates obesity-associated adipose tissue inflammation and promotes energy expenditure",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41467-026-77961-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77944-9",
+      "title": "Enhanced alkene productivity in methanol-to-hydrocarbons conversion using a secondary catalyst component and hydrogen co-feeds",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41467-026-77944-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77932-z",
+      "title": "Hydrogen sulfide engages catalytic zinc in HDAC6 to modulate an alternative deacetylation pathway",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41467-026-77932-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77912-3",
+      "title": "Iodide-bridged interfacial hydrogen bonds enable ampere-level electrosynthesis of deuterated acetic acid",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41467-026-77912-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77877-3",
+      "title": "The elongation of Mest transcript into MestXL sustains, but does not initiate, the maternal allele bias of its convergent gene Copg2 during neurogenesis",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41467-026-77877-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77874-6",
+      "title": "A spatiotemporal single-cell transcriptomic atlas reveals fertilization-induced auxin signaling driving strawberry fruit set and development",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41467-026-77874-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77866-6",
+      "title": "Expandable and scalable production of cellulose nanofibrils via highly efficient swelling-modification in deep eutectic solvent",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41467-026-77866-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77813-5",
+      "title": "A principal-stress rule for cell division in epithelia",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41467-026-77813-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77789-2",
+      "title": "Stress-engineered 0.34 nm graphene memristors for low-power probabilistic computing",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41467-026-77789-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77765-w",
+      "title": "The biogeography of giant viruses and interactions with Eukaryotes across European lakes",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41467-026-77765-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77756-x",
+      "title": "Elevated ozone activates maternal immunity to drive offspring IgG-mediated anaphylaxis through IgG glycosylation alterations",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41467-026-77756-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77742-3",
+      "title": "Chromium isotope constraints on deep mantle oxidation from the Early Archean to Paleoproterozoic",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41467-026-77742-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77741-4",
+      "title": "Ghost Neuron preparation unlocks high-resolution structural mapping of intracellular architecture in axons",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41467-026-77741-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77546-5",
+      "title": "Neoadjuvant chemotherapy interferes with tertiary lymphoid structure formation in Epstein-Barr virus-associated gastric cancer",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41467-026-77546-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77390-7",
+      "title": "Biocompatible piezoionic eutectogel sensor for self-powered physiological monitoring",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41467-026-77390-7"
+    },
     {
       "doi": "10.1038/s41467-026-78037-3",
       "title": "Stabilizing ruthenium atom layer neighbors through molecular and metal support interactions for water electrolyzers",
