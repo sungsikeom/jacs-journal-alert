@@ -1,9 +1,81 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-23T20:25:51.336Z",
+  "collected_at": "2026-09-24T20:25:57.978Z",
   "scope_start": "2026-01-01",
-  "article_count": 2645,
+  "article_count": 2658,
   "articles": [
+    {
+      "doi": "10.1002/anie.9169593",
+      "title": "Spinel-Based Solid-State Reactions: From Spinel Oxides to Lithium or Sodium Layered Oxides",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1002/anie.9169593"
+    },
+    {
+      "doi": "10.1002/anie.9026373",
+      "title": "Oxygen-Tolerant, Controlled Synthesis of Degradable and Water-Soluble Poly(Vinyl Amide)s via Radical Ring-Opening Copolymerization of Cyclic Dithiothreitol",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1002/anie.9026373"
+    },
+    {
+      "doi": "10.1002/anie.8746400",
+      "title": "Product-Triggered Adaptive Evolution From a Pd4L2 to a Pd6L3 Conjoined Cage via Catalytic Dehydration of p‑Quinone Methide Precursors",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1002/anie.8746400"
+    },
+    {
+      "doi": "10.1002/anie.8661735",
+      "title": "Divergent Chiral Self-Sorting of Covalent Organic Pillars Switched by Subtle Conformational Preferences",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1002/anie.8661735"
+    },
+    {
+      "doi": "10.1002/anie.8543657",
+      "title": "Influence of Substitution on the Interplay of Photochemical Switching and Phase Transitions in Azobenzene-Based Molecular Materials",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1002/anie.8543657"
+    },
+    {
+      "doi": "10.1002/anie.5859599",
+      "title": "Dual-Site Interaction Tailoring Dynamic Reconstruction of Pt-Ni Dual-Site Catalysts for Advanced Zn-Urea-Air Batteries",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1002/anie.5859599"
+    },
+    {
+      "doi": "10.1002/anie.5181266",
+      "title": "Photochemical Oxygen-Atom-Transfer Reactivity of Platinum(II) Peroxycarbonates",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1002/anie.5181266"
+    },
+    {
+      "doi": "10.1002/anie.5038244",
+      "title": "Photoswitchable Ambiphilicity: Light-Gated Frustrated Lewis Pair Reactivity and Z-Type Interaction",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1002/anie.5038244"
+    },
+    {
+      "doi": "10.1002/anie.4693701",
+      "title": "Pushpita Ghosh",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1002/anie.4693701"
+    },
+    {
+      "doi": "10.1002/anie.3256491",
+      "title": "Site Density Governs Switching Reactivity Regimes During Aerobic C─H Oxidation in Mn Single-Atom Photocatalysts",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1002/anie.3256491"
+    },
+    {
+      "doi": "10.1002/anie.2509086",
+      "title": "Working Mechanism of Chlorine-Containing Electrolyte in Conversion-Type Cathode Materials for Rechargeable Magnesium-Ion Batteries",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1002/anie.2509086"
+    },
+    {
+      "doi": "10.1002/anie.2026-m1509073700",
+      "title": "Correction to “Achieving Stable and Fast Ion Transport in Regenerated LiFePO4 Via Vacancy-Mediated Upcycling”",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1002/anie.2026-m1509073700"
+    },
     {
       "doi": "10.1002/anie.7409022",
       "title": "Aromaticity Regulation in Isostructural Metal-Organic Frameworks for Propyne Storage and Propylene Purification",
@@ -63,6 +135,12 @@
       "title": "Complete Pathway Refactoring and Combinatorial Biosynthesis of Anthracyclines for Modulation of Histone Eviction and DNA Damage Bioactivities",
       "published_date": "2026-09-23",
       "url": "https://doi.org/10.1002/anie.1050964"
+    },
+    {
+      "doi": "10.1002/anie.1044891",
+      "title": "Electrified Acetylene Removal From Ethylene Streams Enabled by Facet-Engineered Cu–TiO2 Interfaces",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1002/anie.1044891"
     },
     {
       "doi": "10.1002/anie.9111260",

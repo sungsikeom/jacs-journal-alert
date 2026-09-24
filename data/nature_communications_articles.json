@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-23T20:06:33.689Z",
+  "collected_at": "2026-09-24T20:06:33.772Z",
   "scope_start": "2026-01-01",
-  "article_count": 8997,
+  "article_count": 9017,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78091-x",
+      "title": "Mechanically resilient, hybrid silicone aerogel for thermal insulation, daytime radiative cooling and sustained flame protection",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1038/s41467-026-78091-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-78085-9",
+      "title": "Surface-displayed cholesterol enhances penetration and anti-tumor activity of a platinum nanodrug by targeting NPC1L1-expressing cancer associated fibroblasts",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1038/s41467-026-78085-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-78075-x",
+      "title": "UpTCR: a unified progressive knowledge transfer foundation model for robust T-cell receptor-antigen binding recognition",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1038/s41467-026-78075-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-78061-3",
+      "title": "SATB1 lowers the T cell receptor signaling threshold for thymocyte positive selection via super-enhancer reprogramming",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1038/s41467-026-78061-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-78059-x",
+      "title": "High-throughput label-free single-cell proteomics enabled by multicolumn NanoLC",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1038/s41467-026-78059-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-78041-7",
+      "title": "Li+ Shuttle bus enables safe fast ion transport in solid polymer electrolytes",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1038/s41467-026-78041-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-78029-3",
+      "title": "End-to-end design for full-color and large field-of-view computational holographic displays",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1038/s41467-026-78029-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-78005-x",
+      "title": "Wing-tail coordination balances efficient cruising and maneuvering flight in an avian-inspired flapping robot",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1038/s41467-026-78005-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-78001-1",
+      "title": "Record stack durability in industrial solid oxide steam electrolysis through operational control",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1038/s41467-026-78001-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77988-x",
+      "title": "Approaching Landauer’s limit in a single superconducting vortex memory bit",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1038/s41467-026-77988-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77926-x",
+      "title": "Reoviridae-derived short trimerization domain for stabilizing homo-trimerization of vaccine immunogens and therapeutic proteins",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1038/s41467-026-77926-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77923-0",
+      "title": "Chronic stress activates a hypothalamic vagal circuit to promote hepatocellular carcinoma progression in male mice",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1038/s41467-026-77923-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77916-z",
+      "title": "Reversible photolithography of quantum dots achieves high-performance electroluminescence",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1038/s41467-026-77916-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77909-y",
+      "title": "Structural evolution-induced strong-coupling in CuRu-Cu2O nanocomposite enables low-overpotential electrocatalytic ammonia synthesis",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1038/s41467-026-77909-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77908-z",
+      "title": "DR-GEM enables self-supervised machine learning for single-cell embeddings and annotations",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1038/s41467-026-77908-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77888-0",
+      "title": "Identification of substrates of the human mitochondrial ClpXP protease and its implications for Perrault syndrome",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1038/s41467-026-77888-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77885-3",
+      "title": "Navigational strategy dictates hippocampal representation of space in an everyday memory task",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1038/s41467-026-77885-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77873-7",
+      "title": "Spatiotemporal delivery of immune-synapse-stabilizing NK cells for postoperative tumor therapy",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1038/s41467-026-77873-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77753-0",
+      "title": "Abrupt pH changes overestimate the responses of Chaetoceros muelleri to ocean acidification",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1038/s41467-026-77753-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76844-2",
+      "title": "Jamming-controlled stochasticity in metal-insulator switching",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1038/s41467-026-76844-2"
+    },
     {
       "doi": "10.1038/s41467-026-78120-9",
       "title": "The phosphorus analogues of diazomethane and isomeric diazirine",

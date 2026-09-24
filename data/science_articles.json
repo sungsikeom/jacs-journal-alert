@@ -1,10 +1,143 @@
 {
   "source": "Science tables of contents collected by the local Chrome extension",
-  "collected_at": "2026-09-23T20:03:14.821Z",
+  "collected_at": "2026-09-24T20:03:13.285Z",
   "scope_start": "2026-01-01",
   "article_type": "Research Article",
-  "article_count": 680,
+  "article_count": 699,
   "articles": [
+    {
+      "doi": "10.1126/science.aem6086",
+      "title": "In Other Journals",
+      "published_date": "2026-09-24",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aem6086"
+    },
+    {
+      "doi": "10.1126/science.aem6085",
+      "title": "In Science Journals",
+      "published_date": "2026-09-24",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aem6085"
+    },
+    {
+      "doi": "10.1126/science.aem2402",
+      "title": "Erratum for the Research Article “Modeling of late-onset Alzheimer’s disease neuropathology via direct neuronal reprogramming”",
+      "published_date": "2026-09-24",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aem2402"
+    },
+    {
+      "doi": "10.1126/science.aej5896",
+      "title": "Targeting an atypical G protein–coupled receptor signaling pathway for cardiac fibrosis therapy",
+      "published_date": "2026-09-24",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aej5896"
+    },
+    {
+      "doi": "10.1126/science.aei2836",
+      "title": "Conformal oxides decouple chemical stability and energetics at NiOx/perovskite interfaces",
+      "published_date": "2026-09-24",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aei2836"
+    },
+    {
+      "doi": "10.1126/science.aei0062",
+      "title": "Fibroblasts restrain gut inflammation by IGF1-dependent regulation of innate lymphocytes",
+      "published_date": "2026-09-24",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aei0062"
+    },
+    {
+      "doi": "10.1126/science.aeh3441",
+      "title": "Escape of the BC200 gene to a human poxvirus reveals its persistent transposition in primates",
+      "published_date": "2026-09-24",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeh3441"
+    },
+    {
+      "doi": "10.1126/science.aeg4791",
+      "title": "Senescence-directed nanotherapy ameliorates fibrosis and overcomes immune exclusion in cancer",
+      "published_date": "2026-09-24",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeg4791"
+    },
+    {
+      "doi": "10.1126/science.aef5487",
+      "title": "Prussian blue regulates ion dynamics in perovskite solar cells",
+      "published_date": "2026-09-24",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aef5487"
+    },
+    {
+      "doi": "10.1126/science.aef3511",
+      "title": "Embracing triplet nitrenes for C-to-N replacement of complex bicyclic (hetero)aryl azides",
+      "published_date": "2026-09-24",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aef3511"
+    },
+    {
+      "doi": "10.1126/science.aee1630",
+      "title": "Unlocking cycle life of lithium metal batteries",
+      "published_date": "2026-09-24",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aee1630"
+    },
+    {
+      "doi": "10.1126/science.aec5473",
+      "title": "Mammals produce cyclo-octasulfur to suppress lipid peroxidation and ferroptosis",
+      "published_date": "2026-09-24",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aec5473"
+    },
+    {
+      "doi": "10.1126/science.adz6415",
+      "title": "How 8 years of social and individual learning interact to shape ecological competence in orangutans",
+      "published_date": "2026-09-24",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adz6415"
+    },
+    {
+      "doi": "10.1126/science.adz5300",
+      "title": "An in-body networking system for communication between wearable and implantable therapeutics",
+      "published_date": "2026-09-24",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adz5300"
+    },
+    {
+      "doi": "10.1126/science.adw8520",
+      "title": "Ceramide synthesis mediates colorectal cancer metastasis through a YAP-driven regenerative program",
+      "published_date": "2026-09-24",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adw8520"
+    },
+    {
+      "doi": "10.1126/science.adw7709",
+      "title": "Neural evidence that dogs segment the speech they hear with a humanlike consonant bias",
+      "published_date": "2026-09-24",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adw7709"
+    },
+    {
+      "doi": "10.1126/science.adu2107",
+      "title": "Two-dimensional topological quantum chemistry and catalog of topological materials",
+      "published_date": "2026-09-24",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adu2107"
+    },
+    {
+      "doi": "10.1126/science.adu1550",
+      "title": "2D theoretically twistable material database",
+      "published_date": "2026-09-24",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adu1550"
+    },
+    {
+      "doi": "10.1126/science.adq7553",
+      "title": "Ancient introgression drives wild boar expansion and phenotypic diversification of domestic pigs",
+      "published_date": "2026-09-24",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adq7553"
+    },
     {
       "doi": "10.1126/science.aem4011",
       "title": "In Other Journals",

@@ -1,12 +1,180 @@
 {
   "source": "Nature Research Articles · 2026 filter",
-  "collected_at": "2026-09-23T20:09:47.100Z",
+  "collected_at": "2026-09-24T20:09:53.859Z",
   "scope_start": "2026-01-01",
-  "official_total": 979,
+  "official_total": 1007,
   "collection_mode": "incremental",
   "stopped_on_known_doi": true,
-  "article_count": 979,
+  "article_count": 1007,
   "articles": [
+    {
+      "doi": "10.1038/s41586-026-11169-0",
+      "title": "Chiral oxazolidinones via biocatalytic aziridination of unactivated alkenes",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11169-0"
+    },
+    {
+      "doi": "10.1038/s41586-026-11102-5",
+      "title": "A quadruped robot designed to complete a marathon on a single battery charge",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11102-5"
+    },
+    {
+      "doi": "10.1038/s41586-026-11074-6",
+      "title": "Organic two-dimensional van der Waals heterostructures",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11074-6"
+    },
+    {
+      "doi": "10.1038/s41586-026-11072-8",
+      "title": "Lu+ optical frequency references with accuracy verified at the 19th digit",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11072-8"
+    },
+    {
+      "doi": "10.1038/s41586-026-11069-3",
+      "title": "Stacking-induced direct band gap in CVD-grown 1H MoS2 bilayers",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11069-3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11059-5",
+      "title": "Targeting ZMYND8 unleashes IL-2 signalling to override T cell exhaustion",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11059-5"
+    },
+    {
+      "doi": "10.1038/s41586-026-11058-6",
+      "title": "The anthropogenic fingerprint on emerging infectious diseases",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11058-6"
+    },
+    {
+      "doi": "10.1038/s41586-026-11056-8",
+      "title": "A design approach for bitopic kinase inhibitors",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11056-8"
+    },
+    {
+      "doi": "10.1038/s41586-026-11054-w",
+      "title": "mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11054-w"
+    },
+    {
+      "doi": "10.1038/s41586-026-11053-x",
+      "title": "The gene-regulatory evolution of the human skeleton",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11053-x"
+    },
+    {
+      "doi": "10.1038/s41586-026-11052-y",
+      "title": "TRAM promotes Toll-like-receptor-free myddosome signal transduction",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11052-y"
+    },
+    {
+      "doi": "10.1038/s41586-026-11051-z",
+      "title": "Hepatocytes promote liver metastasis of pancreatic cancer by providing serine",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11051-z"
+    },
+    {
+      "doi": "10.1038/s41586-026-11050-0",
+      "title": "The lipidomic architecture of the mouse brain",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11050-0"
+    },
+    {
+      "doi": "10.1038/s41586-026-11049-7",
+      "title": "Banking records reveal characteristics of financial abuse",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11049-7"
+    },
+    {
+      "doi": "10.1038/s41586-026-11048-8",
+      "title": "MMEJ repair of breaks at TA repeats maintains ecDNA and cancer fitness",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11048-8"
+    },
+    {
+      "doi": "10.1038/s41586-026-11046-w",
+      "title": "The mutational dynamics of the Arabidopsis centromeres",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11046-w"
+    },
+    {
+      "doi": "10.1038/s41586-026-11041-1",
+      "title": "Neuronal detection of social actions directs collective escape behaviour",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11041-1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11040-2",
+      "title": "Agricultural liming is a carbon sink in the Mississippi River Basin",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11040-2"
+    },
+    {
+      "doi": "10.1038/s41586-026-11033-1",
+      "title": "Anomalous metal and superconducting phases in rhombohedral graphene",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11033-1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11031-3",
+      "title": "Lsp2 links early-life diet to adult translation and lifespan in Drosophila",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11031-3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11029-x",
+      "title": "Lsp2 links mTORC1 to TOP mRNA translation and lifespan in Drosophila",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11029-x"
+    },
+    {
+      "doi": "10.1038/s41586-026-11028-y",
+      "title": "A methanogen hydrolase reveals the structure of archaeal peptidoglycan",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11028-y"
+    },
+    {
+      "doi": "10.1038/s41586-026-11016-2",
+      "title": "Sequence-encoded hexagonal lattices in multichannel peptide nanofibrils",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11016-2"
+    },
+    {
+      "doi": "10.1038/s41586-026-11007-3",
+      "title": "Reference genomes and fossils revise bat family phylogeny and biogeography",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-11007-3"
+    },
+    {
+      "doi": "10.1038/s41586-026-10999-2",
+      "title": "Gravitational torque drives multidecadal variations in length of day",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-10999-2"
+    },
+    {
+      "doi": "10.1038/s41586-026-10836-6",
+      "title": "Single-nucleus transcriptome-wide association study of human brain disorders",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-10836-6"
+    },
+    {
+      "doi": "10.1038/s41586-026-10271-7",
+      "title": "Lifespan single-cell transcriptomic atlas of the human prefrontal cortex",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-026-10271-7"
+    },
+    {
+      "doi": "10.1038/s41586-025-09573-z",
+      "title": "Single-cell atlas of transcriptomic vulnerability across brain disorders",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41586-025-09573-z"
+    },
     {
       "doi": "10.1038/s41586-026-11160-9",
       "title": "Chemist-aligned retrosynthesis by ensembling diverse inductive bias models",

@@ -1,12 +1,18 @@
 {
   "source": "Nature Machine Intelligence Research Articles · 2026 filter",
-  "collected_at": "2026-09-23T20:09:52.325Z",
+  "collected_at": "2026-09-24T20:09:58.776Z",
   "scope_start": "2026-01-01",
-  "official_total": 85,
+  "official_total": 86,
   "collection_mode": "incremental",
   "stopped_on_known_doi": true,
-  "article_count": 85,
+  "article_count": 86,
   "articles": [
+    {
+      "doi": "10.1038/s42256-026-01304-x",
+      "title": "Guiding large language models to predict edit sequences for molecular synthesizability optimization",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s42256-026-01304-x"
+    },
     {
       "doi": "10.1038/s42256-026-01298-6",
       "title": "A collaborative agent with two lightweight synergistic models for autonomous crystal materials research",

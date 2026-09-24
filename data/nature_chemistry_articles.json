@@ -1,9 +1,27 @@
 {
   "source": "Nature Chemistry Research Articles",
-  "collected_at": "2026-09-23T20:10:00.678Z",
+  "collected_at": "2026-09-24T20:10:07.335Z",
   "scope_start": "2009-01-01",
-  "article_count": 2511,
+  "article_count": 2514,
   "articles": [
+    {
+      "doi": "10.1038/s41557-026-02267-7",
+      "title": "An open-framework boron allotrope exhibiting high conductivity and plasticity",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41557-026-02267-7"
+    },
+    {
+      "doi": "10.1038/s41557-026-02261-z",
+      "title": "Sterically gated Lewis acid and base pairs enable orthogonal defect passivation in perovskite solar cells",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41557-026-02261-z"
+    },
+    {
+      "doi": "10.1038/s41557-026-02247-x",
+      "title": "Divergent ring opening and functionalization of N-alkyl aziridines via boryl radical fragmentation",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1038/s41557-026-02247-x"
+    },
     {
       "doi": "10.1038/s41557-026-02258-8",
       "title": "De novo synthesis of threofuranoses via a triple-carbonylation cascade of aldehydes",
