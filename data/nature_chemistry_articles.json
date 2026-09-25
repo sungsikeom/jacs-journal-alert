@@ -1,9 +1,15 @@
 {
   "source": "Nature Chemistry Research Articles",
-  "collected_at": "2026-09-24T20:10:07.335Z",
+  "collected_at": "2026-09-25T20:10:00.856Z",
   "scope_start": "2009-01-01",
-  "article_count": 2514,
+  "article_count": 2515,
   "articles": [
+    {
+      "doi": "10.1038/s41557-026-02251-1",
+      "title": "Programming semiconducting two-dimensional conjugated metal–organic frameworks via anisotropic reticular chemistry",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1038/s41557-026-02251-1"
+    },
     {
       "doi": "10.1038/s41557-026-02267-7",
       "title": "An open-framework boron allotrope exhibiting high conductivity and plasticity",

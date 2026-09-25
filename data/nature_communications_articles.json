@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-24T20:06:33.772Z",
+  "collected_at": "2026-09-25T20:06:33.115Z",
   "scope_start": "2026-01-01",
-  "article_count": 9017,
+  "article_count": 9037,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78191-8",
+      "title": "ATHENA: a dynamic metabolic hub balancing carbon economy and energy supply in microbial synthesis",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1038/s41467-026-78191-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-78181-w",
+      "title": "Self-aggregated photo-heterostructures enhancing fluorescence for cancer diagnosis and treatment monitoring",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1038/s41467-026-78181-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-78160-1",
+      "title": "A global mitochondrial genomic atlas illuminates freshwater microeukaryote diversity",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1038/s41467-026-78160-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-78145-0",
+      "title": "Cryo-EM structures of autoinhibited and RNA-activated ZNFX1 helicase",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1038/s41467-026-78145-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78139-y",
+      "title": "High-sensitivity deep shortwave infrared organic photodetectors enabled by selenium-integrated quinoidal molecular semiconductor",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1038/s41467-026-78139-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-78063-1",
+      "title": "A structure-informed deep learning framework for modeling TCR-peptide-HLA interactions",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1038/s41467-026-78063-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-78056-0",
+      "title": "Holistic co-design of fibre-optic distributed acoustic sensing and coherent communication",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1038/s41467-026-78056-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78034-6",
+      "title": "Distinct inflammatory marker profiles of adolescents and young adults among the HIV risk, infection, and treatment spectrum",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1038/s41467-026-78034-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-78032-8",
+      "title": "Molecular basis of DNA polymerase ζ’s reverse transcriptase activity",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1038/s41467-026-78032-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77980-5",
+      "title": "Model-data synthesis of benthic isotopes suggests a warmer Miocene Climatic Optimum",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1038/s41467-026-77980-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77937-8",
+      "title": "Independent basal ganglia neural populations encode speech production and ambient-noise levels",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1038/s41467-026-77937-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77911-4",
+      "title": "Combatting nonidentifiability to infer motor cortex inputs yields similar encoding of initial and corrective movements",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1038/s41467-026-77911-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77890-6",
+      "title": "Multiplexed deep visual proteomics resolves spatial heterogeneity and rare endocrine states in human pancreatic islets",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1038/s41467-026-77890-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77879-1",
+      "title": "A cross-species atlas platform for comparative neuroscience in teleost fish",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1038/s41467-026-77879-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77713-8",
+      "title": "In situ structure of the flagellar export apparatus reveals membrane remodeling and lipid-mediated coupling between FlhA and the export gate",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1038/s41467-026-77713-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77681-z",
+      "title": "Emergent memory in cell-like active systems",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1038/s41467-026-77681-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77671-1",
+      "title": "Pathway to optical-cycle dynamic photonics: extreme electron temperatures in transparent conducting oxides",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1038/s41467-026-77671-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77640-8",
+      "title": "Topological memory of nonreciprocal scattering singularities",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1038/s41467-026-77640-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77604-y",
+      "title": "Lattice distortion strain modulation of twin-defective noble-metal-free high-entropy alloy electrocatalyst for Li−O2 batteries",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1038/s41467-026-77604-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77446-8",
+      "title": "Microrings as programmable temporal kernels enabling photonic AI beyond 100 Gbaud",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1038/s41467-026-77446-8"
+    },
     {
       "doi": "10.1038/s41467-026-78091-x",
       "title": "Mechanically resilient, hybrid silicone aerogel for thermal insulation, daytime radiative cooling and sustained flame protection",

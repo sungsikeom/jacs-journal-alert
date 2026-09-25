@@ -1,9 +1,27 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-24T20:25:57.978Z",
+  "collected_at": "2026-09-25T20:25:54.350Z",
   "scope_start": "2026-01-01",
-  "article_count": 2658,
+  "article_count": 2663,
   "articles": [
+    {
+      "doi": "10.1002/anie.8996543",
+      "title": "Topology-Dependent Iso-Propanol Dehydration Pathway Over Zeolites",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1002/anie.8996543"
+    },
+    {
+      "doi": "10.1002/anie.5220236",
+      "title": "One-Pot Biphasic Photocatalytic CO2-to-Carbonylation Cascades",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1002/anie.5220236"
+    },
+    {
+      "doi": "10.1002/anie.1070299",
+      "title": "Molecular Details of RNA Interactions With FUS Condensates Altering Assembly, Dynamics, and Aggregation",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1002/anie.1070299"
+    },
     {
       "doi": "10.1002/anie.9169593",
       "title": "Spinel-Based Solid-State Reactions: From Spinel Oxides to Lithium or Sodium Layered Oxides",
@@ -75,6 +93,18 @@
       "title": "Correction to “Achieving Stable and Fast Ion Transport in Regenerated LiFePO4 Via Vacancy-Mediated Upcycling”",
       "published_date": "2026-09-24",
       "url": "https://doi.org/10.1002/anie.2026-m1509073700"
+    },
+    {
+      "doi": "10.1002/anie.1922738",
+      "title": "Site-Specific Protein Bioconjugation Through Cellular Incorporation of Noncanonical Amino Acids",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1002/anie.1922738"
+    },
+    {
+      "doi": "10.1002/anie.1228930",
+      "title": "Retaining and Enhancing Trust in the Chemical Sciences: A Call for Collaborative Action",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1002/anie.1228930"
     },
     {
       "doi": "10.1002/anie.7409022",

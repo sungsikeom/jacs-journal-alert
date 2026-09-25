@@ -1,17 +1,293 @@
 {
-  "checked_at": "2026-09-25T05:32:39+09:00",
+  "checked_at": "2026-09-26T05:32:17+09:00",
   "journal_count": 12,
-  "new_count": 51,
-  "total_count": 27930,
+  "new_count": 23,
+  "total_count": 27956,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-09-25",
+  "scope_end": "2026-09-26",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78191-8",
+      "title": "ATHENA: a dynamic metabolic hub balancing carbon economy and energy supply in microbial synthesis",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78191-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78181-w",
+      "title": "Self-aggregated photo-heterostructures enhancing fluorescence for cancer diagnosis and treatment monitoring",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78181-w",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78160-1",
+      "title": "A global mitochondrial genomic atlas illuminates freshwater microeukaryote diversity",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78160-1",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78145-0",
+      "title": "Cryo-EM structures of autoinhibited and RNA-activated ZNFX1 helicase",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78145-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78139-y",
+      "title": "High-sensitivity deep shortwave infrared organic photodetectors enabled by selenium-integrated quinoidal molecular semiconductor",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78139-y",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78063-1",
+      "title": "A structure-informed deep learning framework for modeling TCR-peptide-HLA interactions",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78063-1",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78056-0",
+      "title": "Holistic co-design of fibre-optic distributed acoustic sensing and coherent communication",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78056-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78034-6",
+      "title": "Distinct inflammatory marker profiles of adolescents and young adults among the HIV risk, infection, and treatment spectrum",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78034-6",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78032-8",
+      "title": "Molecular basis of DNA polymerase ζ’s reverse transcriptase activity",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78032-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77980-5",
+      "title": "Model-data synthesis of benthic isotopes suggests a warmer Miocene Climatic Optimum",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77980-5",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77937-8",
+      "title": "Independent basal ganglia neural populations encode speech production and ambient-noise levels",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77937-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77911-4",
+      "title": "Combatting nonidentifiability to infer motor cortex inputs yields similar encoding of initial and corrective movements",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77911-4",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77890-6",
+      "title": "Multiplexed deep visual proteomics resolves spatial heterogeneity and rare endocrine states in human pancreatic islets",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77890-6",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77879-1",
+      "title": "A cross-species atlas platform for comparative neuroscience in teleost fish",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77879-1",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77713-8",
+      "title": "In situ structure of the flagellar export apparatus reveals membrane remodeling and lipid-mediated coupling between FlhA and the export gate",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77713-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77681-z",
+      "title": "Emergent memory in cell-like active systems",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77681-z",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77671-1",
+      "title": "Pathway to optical-cycle dynamic photonics: extreme electron temperatures in transparent conducting oxides",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77671-1",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77640-8",
+      "title": "Topological memory of nonreciprocal scattering singularities",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77640-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77604-y",
+      "title": "Lattice distortion strain modulation of twin-defective noble-metal-free high-entropy alloy electrocatalyst for Li−O2 batteries",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77604-y",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77446-8",
+      "title": "Microrings as programmable temporal kernels enabling photonic AI beyond 100 Gbaud",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77446-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.8996543",
+      "title": "Topology-Dependent Iso-Propanol Dehydration Pathway Over Zeolites",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.8996543",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.5220236",
+      "title": "One-Pot Biphasic Photocatalytic CO2-to-Carbonylation Cascades",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.5220236",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.1070299",
+      "title": "Molecular Details of RNA Interactions With FUS Condensates Altering Assembly, Dynamics, and Aggregation",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.1070299",
+      "sources": [
+        "publisher"
+      ]
+    },
     {
       "doi": "10.1126/science.aem6086",
       "title": "In Other Journals",
@@ -257,6 +533,18 @@
       "article_type": "Research Article",
       "sources": [
         "science"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02251-1",
+      "title": "Programming semiconducting two-dimensional conjugated metal–organic frameworks via anisotropic reticular chemistry",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02251-1",
+      "sources": [
+        "publisher"
       ]
     },
     {
@@ -639,6 +927,30 @@
       "published_date": "2026-09-24",
       "indexed_at": null,
       "url": "https://doi.org/10.1002/anie.2026-m1509073700",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.1922738",
+      "title": "Site-Specific Protein Bioconjugation Through Cellular Incorporation of Noncanonical Amino Acids",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.1922738",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.1228930",
+      "title": "Retaining and Enhancing Trust in the Chemical Sciences: A Call for Collaborative Action",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.1228930",
       "sources": [
         "publisher"
       ]
@@ -335873,56 +336185,28 @@
     }
   ],
   "new_dois": [
-    "10.1126/science.aem6086",
-    "10.1126/science.aem6085",
-    "10.1126/science.aem2402",
-    "10.1126/science.aej5896",
-    "10.1126/science.aei2836",
-    "10.1126/science.aei0062",
-    "10.1126/science.aeh3441",
-    "10.1126/science.aeg4791",
-    "10.1126/science.aef5487",
-    "10.1126/science.aef3511",
-    "10.1126/science.aee1630",
-    "10.1126/science.aec5473",
-    "10.1126/science.adz6415",
-    "10.1126/science.adz5300",
-    "10.1126/science.adw8520",
-    "10.1126/science.adw7709",
-    "10.1126/science.adu2107",
-    "10.1126/science.adu1550",
-    "10.1126/science.adq7553",
-    "10.1038/s41467-026-78091-x",
-    "10.1038/s41467-026-78085-9",
-    "10.1038/s41467-026-78075-x",
-    "10.1038/s41467-026-78061-3",
-    "10.1038/s41467-026-78059-x",
-    "10.1038/s41467-026-78041-7",
-    "10.1038/s41467-026-78029-3",
-    "10.1038/s41467-026-78005-x",
-    "10.1038/s41467-026-78001-1",
-    "10.1038/s41467-026-77988-x",
-    "10.1038/s41467-026-77926-x",
-    "10.1038/s41467-026-77923-0",
-    "10.1038/s41467-026-77916-z",
-    "10.1038/s41467-026-77909-y",
-    "10.1038/s41467-026-77908-z",
-    "10.1038/s41467-026-77888-0",
-    "10.1038/s41467-026-77885-3",
-    "10.1038/s41467-026-77873-7",
-    "10.1038/s41467-026-77753-0",
-    "10.1038/s41467-026-76844-2",
-    "10.1002/anie.9169593",
-    "10.1002/anie.9026373",
-    "10.1002/anie.8746400",
-    "10.1002/anie.8661735",
-    "10.1002/anie.8543657",
-    "10.1002/anie.5859599",
-    "10.1002/anie.5181266",
-    "10.1002/anie.5038244",
-    "10.1002/anie.4693701",
-    "10.1002/anie.3256491",
-    "10.1002/anie.2509086",
-    "10.1002/anie.2026-m1509073700"
+    "10.1038/s41467-026-78191-8",
+    "10.1038/s41467-026-78181-w",
+    "10.1038/s41467-026-78160-1",
+    "10.1038/s41467-026-78145-0",
+    "10.1038/s41467-026-78139-y",
+    "10.1038/s41467-026-78063-1",
+    "10.1038/s41467-026-78056-0",
+    "10.1038/s41467-026-78034-6",
+    "10.1038/s41467-026-78032-8",
+    "10.1038/s41467-026-77980-5",
+    "10.1038/s41467-026-77937-8",
+    "10.1038/s41467-026-77911-4",
+    "10.1038/s41467-026-77890-6",
+    "10.1038/s41467-026-77879-1",
+    "10.1038/s41467-026-77713-8",
+    "10.1038/s41467-026-77681-z",
+    "10.1038/s41467-026-77671-1",
+    "10.1038/s41467-026-77640-8",
+    "10.1038/s41467-026-77604-y",
+    "10.1038/s41467-026-77446-8",
+    "10.1002/anie.8996543",
+    "10.1002/anie.5220236",
+    "10.1002/anie.1070299"
   ]
 }
