@@ -1,9 +1,135 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-25T20:25:54.350Z",
+  "collected_at": "2026-09-26T20:26:07.784Z",
   "scope_start": "2026-01-01",
-  "article_count": 2663,
+  "article_count": 2684,
   "articles": [
+    {
+      "doi": "10.1002/anie.9699968",
+      "title": "Optical Control of the Glucocorticoid Receptor Activity With a Photoswitchable Agonist",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1002/anie.9699968"
+    },
+    {
+      "doi": "10.1002/anie.9641173",
+      "title": "PCN-700: A Model Platform for Crystallographic Probing of Coordination Behavior in Metal–Organic Frameworks",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1002/anie.9641173"
+    },
+    {
+      "doi": "10.1002/anie.9423554",
+      "title": "Tailored sp2-C─F Bonding for Reversible Oxygen-Peroxide Electrocatalysis",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1002/anie.9423554"
+    },
+    {
+      "doi": "10.1002/anie.8809022",
+      "title": "Z-Retentive Enantioselective Rh-Catalyzed Hydroarylation of E,Z-Dienes",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1002/anie.8809022"
+    },
+    {
+      "doi": "10.1002/anie.8734241",
+      "title": "Interfacial Dipole Engineering of Single-Atom Co–N–C and Ru Nanoparticles for Enhanced Hydrogenation of Levulinic Acid to γ-Valerolactone",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1002/anie.8734241"
+    },
+    {
+      "doi": "10.1002/anie.8666577",
+      "title": "Cobalt-Catalyzed [2σ+2π] Cycloaddition via Site-Selective Capture of Bicyclobutane Diradical",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1002/anie.8666577"
+    },
+    {
+      "doi": "10.1002/anie.8257644",
+      "title": "Synthesis of Ladder and Flexible Polysulfonimides Directly From Anionic Monomers: Investigating Structure–Property Convergence in Succinonitrile–Polymer Electrolyte Blends",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1002/anie.8257644"
+    },
+    {
+      "doi": "10.1002/anie.8236222",
+      "title": "Photoelectrochemical Fiber Cytometry With 60 nm Tip Size for Measuring Serotonin Dynamics at Edges of Cleft and Varicosities",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1002/anie.8236222"
+    },
+    {
+      "doi": "10.1002/anie.7208628",
+      "title": "Fluorine-Driven Interfacial Reconfiguration for pH-Universal CO2 Electrolysis at High Current Densities via Enhanced CO2 Enrichment and Proton Feeding",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1002/anie.7208628"
+    },
+    {
+      "doi": "10.1002/anie.7173496",
+      "title": "A Self-Propelled DNA-Based Nanorobot for Hypoxic Tumor Therapy",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1002/anie.7173496"
+    },
+    {
+      "doi": "10.1002/anie.7114810",
+      "title": "A Dual-Driven Hydrogel Actuator With Programmable Driving Force Enabled by a Shape-Memory Scaffold and Ion-Regulated Internal Force Reservoir",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1002/anie.7114810"
+    },
+    {
+      "doi": "10.1002/anie.6481438",
+      "title": "Asymmetric Double-Bond Isomerization of Alkenes With Photoredox/Chromium Combined Catalysis",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1002/anie.6481438"
+    },
+    {
+      "doi": "10.1002/anie.5647747",
+      "title": "Inter-Cage Na+ Enabling Single-Atom Co for In Situ Delivery of Bio-Based Vinyl Backbone to Access 3,4-Unsubstituted Quinolines",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1002/anie.5647747"
+    },
+    {
+      "doi": "10.1002/anie.5300884",
+      "title": "Functionalization and Metal Ion Encapsulation Within a Triaxial Supramolecular Weave",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1002/anie.5300884"
+    },
+    {
+      "doi": "10.1002/anie.5287849",
+      "title": "Rare-Earth Multivariate Metal–Organic Frameworks: Cationic Radius Biased Compositional Control and Property Tuning",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1002/anie.5287849"
+    },
+    {
+      "doi": "10.1002/anie.5159694",
+      "title": "Hofmeister-Regulated Amide-Protonated Hydrogel Enables Organo-Interhalogen Conversion-Type Quasi-Solid-State Zn Batteries With Practical Iodine Loadings",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1002/anie.5159694"
+    },
+    {
+      "doi": "10.1002/anie.4231597",
+      "title": "Imaging and Calibration of Receptor-Specific Cellular Forces Using Biotinylated Ligands",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1002/anie.4231597"
+    },
+    {
+      "doi": "10.1002/anie.3462462",
+      "title": "Borane-Catalyzed Water Dehydrogenation at Dioxaphospholes and -Phospholanes",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1002/anie.3462462"
+    },
+    {
+      "doi": "10.1002/anie.3353986",
+      "title": "Redshifting TADF Emission With a Bora-Triptycene Lewis Acid",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1002/anie.3353986"
+    },
+    {
+      "doi": "10.1002/anie.3147869",
+      "title": "Aza-Büchner–Curtius–Schlotterbeck Reaction Enables Selective Construction of Quaternary Carbon Centers",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1002/anie.3147869"
+    },
+    {
+      "doi": "10.1002/anie.1148889",
+      "title": "Molecularly Engineered Metal–Organic Framework With Synergistically Boosting Piezoelectric Polarization and Exciton Directional Separation Enables Efficient Piezo-Photocatalytic Atom Transfer Radical Polymerization",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1002/anie.1148889"
+    },
     {
       "doi": "10.1002/anie.8996543",
       "title": "Topology-Dependent Iso-Propanol Dehydration Pathway Over Zeolites",
