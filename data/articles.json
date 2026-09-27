@@ -1,17 +1,137 @@
 {
-  "checked_at": "2026-09-27T05:35:04+09:00",
+  "checked_at": "2026-09-28T05:32:18+09:00",
   "journal_count": 12,
-  "new_count": 40,
-  "total_count": 28090,
+  "new_count": 10,
+  "total_count": 28100,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-09-27",
+  "scope_end": "2026-09-28",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1002/anie.8484914",
+      "title": "The Strong Electronic Metal–Support Interactions Mediated Direct Three-Electron Oxygen Reduction for Enhanced Hydroxyl Radical Generation",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-27",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.8484914",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.8380078",
+      "title": "Recognition Mechanism of Serotonin by a G-Quadruplex–Duplex Hybrid Aptamer",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-27",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.8380078",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.7110885",
+      "title": "Catalytic Enantioselective Remote Transannular Desymmetrization of Calix[4]Arenes to Inherently Chiral Double-Macrocycles",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-27",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.7110885",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.5879363",
+      "title": "Anion-Doped Manganese Oxides Enabling Relay Catalysis for Aerobic Alcohol Ammoxidation",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-27",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.5879363",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.5640364",
+      "title": "Molecular Recognition by Halogen Bonding With Atomic Precision in a Covalent Organic Cage",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-27",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.5640364",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.3499350",
+      "title": "Local Coordination and Electronic Coupling Governs Charge Dynamics in BiVO4 Photoanodes",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-27",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.3499350",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.3329596",
+      "title": "Water Helicity-Modulated Hierarchical Inverse Chirality Transfer in Supramolecular Assembly",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-27",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.3329596",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.2967863",
+      "title": "Radical Negative-Feedback in High Entropy UiO-67 to Break the Activity–Stability Trade-Off in Photocatalytic Oxygenation of CH4",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-27",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.2967863",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.2540246",
+      "title": "Inducing Orientation Polarisation via Regional Isomerisation in Covalent Organic Frameworks for Enhanced O2 Photoactivation",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-27",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.2540246",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.2076718",
+      "title": "Ultrastable Hydrogen-Bonded Organic Framework for Efficient CO2/CH4 Separation in Humid Environments",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-27",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.2076718",
+      "sources": [
+        "publisher"
+      ]
+    },
     {
       "doi": "10.1039/d6sc04635e",
       "title": "A Non-enantiopure H8-BINOL Metal-Organic Framework for Enantioselective Fluorescence Sensing Open Access",
@@ -337793,45 +337913,15 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc04635e",
-    "10.1038/s41467-026-78082-y",
-    "10.1038/s41467-026-78079-7",
-    "10.1038/s41467-026-78077-9",
-    "10.1038/s41467-026-78074-y",
-    "10.1038/s41467-026-78058-y",
-    "10.1038/s41467-026-78046-2",
-    "10.1038/s41467-026-78014-w",
-    "10.1038/s41467-026-77997-w",
-    "10.1038/s41467-026-77978-z",
-    "10.1038/s41467-026-77967-2",
-    "10.1038/s41467-026-77965-4",
-    "10.1038/s41467-026-77948-5",
-    "10.1038/s41467-026-77924-z",
-    "10.1038/s41467-026-77905-2",
-    "10.1038/s41467-026-77869-3",
-    "10.1038/s41467-026-77487-z",
-    "10.1038/s41467-026-77471-7",
-    "10.1038/s41467-026-77197-6",
-    "10.1002/anie.9699968",
-    "10.1002/anie.9641173",
-    "10.1002/anie.9423554",
-    "10.1002/anie.8809022",
-    "10.1002/anie.8734241",
-    "10.1002/anie.8666577",
-    "10.1002/anie.8257644",
-    "10.1002/anie.8236222",
-    "10.1002/anie.7208628",
-    "10.1002/anie.7173496",
-    "10.1002/anie.7114810",
-    "10.1002/anie.6481438",
-    "10.1002/anie.5647747",
-    "10.1002/anie.5300884",
-    "10.1002/anie.5287849",
-    "10.1002/anie.5159694",
-    "10.1002/anie.4231597",
-    "10.1002/anie.3462462",
-    "10.1002/anie.3353986",
-    "10.1002/anie.3147869",
-    "10.1002/anie.1148889"
+    "10.1002/anie.8484914",
+    "10.1002/anie.8380078",
+    "10.1002/anie.7110885",
+    "10.1002/anie.5879363",
+    "10.1002/anie.5640364",
+    "10.1002/anie.3499350",
+    "10.1002/anie.3329596",
+    "10.1002/anie.2967863",
+    "10.1002/anie.2540246",
+    "10.1002/anie.2076718"
   ]
 }
