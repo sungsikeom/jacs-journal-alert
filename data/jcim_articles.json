@@ -1,9 +1,213 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-09-17T20:14:06.906Z",
+  "collected_at": "2026-09-28T20:14:29.323Z",
   "scope_start": "2026-01-01",
-  "article_count": 859,
+  "article_count": 894,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c01582",
+      "title": "Untranslated Region-FNex: An Integrative Multimodal Framework for Functional Untranslated Region Variant Prioritization",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01582"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01414",
+      "title": "T-ANALYZE as a Workflow for Matched Molecule Pair Analysis on Peptides",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01414"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00799",
+      "title": "MultiRankDTA: A Hybrid Ranking Framework for Robust and Generalizable Drug-Target Affinity Prediction",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00799"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c03140",
+      "title": "MARS-RNA: An Automated Pipeline for Correlating RNA Molecular Dynamics Trajectories with Chemical Probing Data",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1021/acs.jcim.6c03140"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02312",
+      "title": "CSoM Software: Continuous Symmetry Operation Measure for Point Group Symmetry Determination of Atomic Coordinates",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02312"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02137",
+      "title": "Graph-to-Graph Inverse Design of Surfactants under Multiobjective and Structural Constraints",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02137"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c03067",
+      "title": "Targeting the “Undruggable” STAT3 DBD: Free-Energy Perturbation-Guided Design of Covalent Micheliolide Derivatives Targeting Cysteine 367",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1021/acs.jcim.6c03067"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c03051",
+      "title": "Correction to “PoseidonQ: A Free Machine Learning Platform for the Development, Analysis, and Validation of Efficient and Portable QSAR Models for Drug Discovery”",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1021/acs.jcim.6c03051"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02492",
+      "title": "Candidate Structure Prioritization in Non-Target Screening with Predicted Collision Cross-Sections and Uncertainty Quantification",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02492"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02202",
+      "title": "A Chemical Foundation Model Benchmark for PFAS Bioactivity Prediction: Multi-Task Fine-Tuning Beats Fingerprint Baselines, PFAS Domain Pretraining Does Not Help",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02202"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01937",
+      "title": "DeepKa Protein pKa Database: Identifying pH Dependence in the Protein Data Bank",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01937"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01085",
+      "title": "AGENTi: APCI-ESI Analyte Ionization Fidelity Pre-Screening Workflow using Multimodel Inference",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01085"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01952",
+      "title": "From Closed to Mighty: How GTP-Induced Allosteric Dynamics, Dimerization, and Membrane Binding Transform a Bacterial Dynamin-like Protein",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01952"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01419",
+      "title": "Cholesterol Hot Spot Automated Mapping Protocol (CHAMP): Identifying Cholesterol-Binding Hot Spots in Membrane Proteins",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01419"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01315",
+      "title": "Energy Landscape Sampling Reveals Ligand-Dependent Structural Dynamics of the Protease-Activated Receptor 1",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01315"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00802",
+      "title": "CAPRICHO: Interpretable Quality Flagging and Flexible ChEMBL Bioactivity Curation for QSAR Modeling",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00802"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02058",
+      "title": "ZeoAgent: Autonomous Design of Zeolite Frameworks through Pore-Topology-Guided Generation and Evaluation",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02058"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02029",
+      "title": "Unraveling a Case Where the NAC Approach Fails─MD and QM Modeling of Regioselective cis-Stilbene Oxide Hydrolysis by Engineered Epoxide Hydrolases",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02029"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02004",
+      "title": "SwinTransRNA: A Swin Transformer-Based Framework for Accurate Prediction of RNA Subcellular Localization",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02004"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01936",
+      "title": "ML-RKIM: Physics-Informed Machine Learning for Reaction Kinetics Identification and Modeling",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01936"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01874",
+      "title": "Unraveling the PFAS Helix: A Statistical Approach",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01874"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01740",
+      "title": "Surfactant-Mediated Enantioselective Extraction: Interfacial Behavior Investigation from a Microscopic Perspective",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01740"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01538",
+      "title": "Hierarchical Phase Transitions in Bayesian Flow Networks Enable Training-Free Molecular Design",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01538"
+    },
+    {
+      "doi": "10.1021/acs.jcim.5c02688",
+      "title": "GDEE: A Structure-Based Platform for Gene Discovery and Enzyme Engineering",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1021/acs.jcim.5c02688"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02405",
+      "title": "A Systematic Evaluation of Molecule Generation Models for De Novo Drug Design: From Benchmarks to Practical Insights",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02405"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01426",
+      "title": "Multiscale Interpretable Deep-Learning Framework for the Identification and Visualization of Deformation Stages in Molecular Dynamics Trajectory",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01426"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01293",
+      "title": "Multiparadigm Benchmark of Molecular Docking: From Physics to Co-Folding and Hybrid Models",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01293"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00572",
+      "title": "HDACiAP: A Curated Database and Analytical Platform for Histone Deacetylase Inhibitors",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00572"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02057",
+      "title": "REAPS: An All-Atom Receptor-Aware Geometric Deep Learning Framework for De Novo Design of Linear and Macrocyclic Peptide Binders",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02057"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02831",
+      "title": "AI Prediction of Future Antibiotics: Genome-Predicted Antimicrobial Peptides Are Stained with the Amino Acid Signature of Man-Made Synthetic Peptides",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02831"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02552",
+      "title": "Public Database Leakage Distorts Model Rankings in Real-Spectra NMR Structure Elucidation",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02552"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02184",
+      "title": "CoTAR: Topology and Atomic State Reconstruction in Condensed Phases",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02184"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01611",
+      "title": "Assessing the Generalizability of Machine Learning and Physics-Based Methods with DNA-Encoded Libraries",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01611"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01375",
+      "title": "Pose Reproduction, Cross Docking, Database Enrichment, and Reverse Docking Benchmarks for DOCK6, Vina, and AutoDock 4 with Emphasis on Approved Drugs",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01375"
+    },
     {
       "doi": "10.1021/acs.jcim.6c03072",
       "title": "25 Years of Cardiac Ion Channel QSAR: From hERG Dominance to Multi-Channel Modeling",
@@ -39,6 +243,12 @@
       "title": "Explainable Artificial Intelligence to Unveil Patterns of Antioxidant Peptides for Free Radical Regulation",
       "published_date": "2026-09-17",
       "url": "https://doi.org/10.1021/acs.jcim.6c01872"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01761",
+      "title": "CUE: A Chemical Uncertainty-Aware Embedding Framework for Multimodal Drug Selectivity Prediction",
+      "published_date": "2026-09-17",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01761"
     },
     {
       "doi": "10.1021/acs.jcim.6c00961",

@@ -1,17 +1,365 @@
 {
-  "checked_at": "2026-09-28T05:32:35+09:00",
+  "checked_at": "2026-09-29T05:30:46+09:00",
   "journal_count": 12,
-  "new_count": 10,
-  "total_count": 28100,
+  "new_count": 29,
+  "total_count": 28188,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-09-28",
+  "scope_end": "2026-09-29",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78201-9",
+      "title": "NDE1-Mediated Regulation of Neural Progenitor Regional Identity and Its Implication in Microcephaly",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78201-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78159-8",
+      "title": "Metal cofactor-level chassis engineering enables aerobic expression of tungsten formate dehydrogenases in Escherichia coli",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78159-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78140-5",
+      "title": "Allosteric inhibition of human mitochondrial ClpP by hijacking the dordaviprone (ONC201) binding site",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78140-5",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78117-4",
+      "title": "Amorphous BaO-Al2O3 encapsulation enables durable metal catalysts for ammonia decomposition",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78117-4",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78114-7",
+      "title": "Nighttime warming dominates the thermal evolution of lakes across China",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78114-7",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78112-9",
+      "title": "Membrane damage induces TagQ/TagR complex-mediated H1-T6SS assembly in Pseudomonas aeruginosa",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78112-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78099-3",
+      "title": "Phase-dependent Al leaching and crystal structure stability of CoAl2O4 in alkaline media",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78099-3",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78093-9",
+      "title": "Identification of TMEM263 as an ER-resident protein that controls early stages of lipid droplet biogenesis",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78093-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78070-2",
+      "title": "In situ reprogramming of glioma stem cells into dendritic cell-like cells for glioblastoma immunotherapy",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78070-2",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78049-z",
+      "title": "Controlled motion of polar vortex boundary in oxide heterostructures",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78049-z",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78035-5",
+      "title": "Characterization of post-mitotic DNA synthesis and its regulation in human cells",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78035-5",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78028-4",
+      "title": "Orthosteric and allosteric inhibition of the brain V-ATPase outside the alternating-access cycle",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78028-4",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78023-9",
+      "title": "Environmental stochasticity reduces human planning effort",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78023-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78004-y",
+      "title": "Wireless acoustic-driven current source achieving nanoampere-level at millimeter-scale",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78004-y",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77949-4",
+      "title": "“Descending Enkephalinergic neurons in Barrington’s nucleus gate sex-biased control of micturition”",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77949-4",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77883-5",
+      "title": "Horizontal cell nonlinearities create asymmetric texture processing in ON and OFF primate retinal outputs",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77883-5",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77818-0",
+      "title": "Spatial control of karyopherin binding avidity within NPC mimics revealed by designer FG-nucleoporins",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77818-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77510-3",
+      "title": "mHolmes improves cross anatomical cadaveric microbiome forecasting for postmortem interval estimation",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77510-3",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77459-3",
+      "title": "Defending synthetic DNA orders against intra-order splitting-based obfuscation",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77459-3",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-74531-w",
+      "title": "Adaptive personalization for wearable non-invasive continuous glucose sensors",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-74531-w",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01564",
+      "title": "ViBra: Configuration Interaction for Anharmonic Vibrational Spectroscopy and Quantum-Sampled Configuration Spaces",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01564",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01161",
+      "title": "Improving ABFE Calculations for GPCRs by Addressing Errors in Apo-State Representation",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01161",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01104",
+      "title": "How Accurately Can We Describe Spin Crossover?",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01104",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00756",
+      "title": "Flexible On-the-Fly Active Learning for Molecular Infrared Spectra",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c00756",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01582",
+      "title": "Untranslated Region-FNex: An Integrative Multimodal Framework for Functional Untranslated Region Variant Prioritization",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c01582",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01414",
+      "title": "T-ANALYZE as a Workflow for Matched Molecule Pair Analysis on Peptides",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c01414",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00799",
+      "title": "MultiRankDTA: A Hybrid Ranking Framework for Robust and Generalizable Drug-Target Affinity Prediction",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c00799",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.5759530",
+      "title": "Correction to “Metal-DNA Nanocomplexes Enhance Chemo-dynamic Therapy by Inhibiting Autophagy-Mediated Resistance”",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.5759530",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.1297472",
+      "title": "Mechanistic Control of Cathode–Electrolyte Interphase Formation in Gel Polymer Electrolyte for Lithium-Ion Batteries",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.1297472",
+      "sources": [
+        "publisher"
+      ]
+    },
     {
       "doi": "10.1002/anie.8484914",
       "title": "The Strong Electronic Metal–Support Interactions Mediated Direct Three-Electron Oxygen Reduction for Enhanced Hydroxyl Radical Generation",
@@ -356,6 +704,42 @@
       "published_date": "2026-09-26",
       "indexed_at": null,
       "url": "https://doi.org/10.1038/s41467-026-77197-6",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01279",
+      "title": "A Near-FCI Framework for Vibrationally Resolved X-ray Absorption Spectra",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-26",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01279",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01182",
+      "title": "An Open Implementation of MSEVB for Reactive Force Field Simulation with Simple Energy-Based Coupling",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-26",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01182",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01171",
+      "title": "Qubit-Adaptive Variational Quantum Imaginary Time Evolution: A Resource-Efficient Algorithm for Ground-State Preparation of Correlated Molecules on Near-Term Quantum Computers",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-26",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01171",
       "sources": [
         "publisher"
       ]
@@ -896,6 +1280,126 @@
       "published_date": "2026-09-25",
       "indexed_at": null,
       "url": "https://doi.org/10.1038/s41467-026-77446-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01549",
+      "title": "State-Specific Analytical Nuclear Gradients for the Density-Fitted Exact Two-Component State-Averaged Complete Active Space Self-Consistent Field (X2C-SA-CASSCF) Theory",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01549",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01488",
+      "title": "Mechanical Tuning of Singlet–Triplet Resonance for Efficient Triplet–Triplet Annihilation Upconversion",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01488",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01470",
+      "title": "Spin-Consistency Constraints in Noncollinear Tensor TDA",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01470",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01266",
+      "title": "Accelerating Chemical Potential Calculations with Minimal Normalizing Flows",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01266",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01180",
+      "title": "Improving All-Atom Molecular Dynamics Models for Quantitative Prediction of Nanopore Blockade Current",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01180",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01081",
+      "title": "Covariant Local Matrix Density Approximation through Spectral Reconstruction in Multistate Density Functional Theory",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01081",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00992",
+      "title": "Benchmarking Hierarchical Double-Ended Transition-State Search Methods for Metal-Catalyzed Reactions",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c00992",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c03140",
+      "title": "MARS-RNA: An Automated Pipeline for Correlating RNA Molecular Dynamics Trajectories with Chemical Probing Data",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c03140",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02312",
+      "title": "CSoM Software: Continuous Symmetry Operation Measure for Point Group Symmetry Determination of Atomic Coordinates",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c02312",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02137",
+      "title": "Graph-to-Graph Inverse Design of Surfactants under Multiobjective and Structural Constraints",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c02137",
       "sources": [
         "publisher"
       ]
@@ -1539,6 +2043,90 @@
       "published_date": "2026-09-24",
       "indexed_at": null,
       "url": "https://doi.org/10.1038/s41467-026-76844-2",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01465",
+      "title": "Accounting for Nanofilm Contributions in Interfacial Free Energy Calculations Using Classical Density Functional Theory",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01465",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c03067",
+      "title": "Targeting the “Undruggable” STAT3 DBD: Free-Energy Perturbation-Guided Design of Covalent Micheliolide Derivatives Targeting Cysteine 367",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c03067",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c03051",
+      "title": "Correction to “PoseidonQ: A Free Machine Learning Platform for the Development, Analysis, and Validation of Efficient and Portable QSAR Models for Drug Discovery”",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c03051",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02492",
+      "title": "Candidate Structure Prioritization in Non-Target Screening with Predicted Collision Cross-Sections and Uncertainty Quantification",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c02492",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02202",
+      "title": "A Chemical Foundation Model Benchmark for PFAS Bioactivity Prediction: Multi-Task Fine-Tuning Beats Fingerprint Baselines, PFAS Domain Pretraining Does Not Help",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c02202",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01937",
+      "title": "DeepKa Protein pKa Database: Identifying pH Dependence in the Protein Data Bank",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c01937",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01085",
+      "title": "AGENTi: APCI-ESI Analyte Ionization Fidelity Pre-Screening Workflow using Multimodel Inference",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c01085",
       "sources": [
         "publisher"
       ]
@@ -2396,6 +2984,90 @@
       ]
     },
     {
+      "doi": "10.1021/acs.jctc.6c01442",
+      "title": "Nonadiabatic Excited-State Dynamics with Quantum Monte Carlo-Trained Machine Learning: Azomethane as a Stringent Test",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01442",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01338",
+      "title": "DMRG for Multi-Component Quantum Systems: A Symmetry-Aware and Unified Framework",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01338",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01287",
+      "title": "Many-Body Expansion of the MP2 Correlation Contribution to the Binding Energies of Water Clusters: A Localized Excitation Analysis",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01287",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01952",
+      "title": "From Closed to Mighty: How GTP-Induced Allosteric Dynamics, Dimerization, and Membrane Binding Transform a Bacterial Dynamin-like Protein",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c01952",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01419",
+      "title": "Cholesterol Hot Spot Automated Mapping Protocol (CHAMP): Identifying Cholesterol-Binding Hot Spots in Membrane Proteins",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c01419",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01315",
+      "title": "Energy Landscape Sampling Reveals Ligand-Dependent Structural Dynamics of the Protease-Activated Receptor 1",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c01315",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00802",
+      "title": "CAPRICHO: Interpretable Quality Flagging and Flexible ChEMBL Bioactivity Curation for QSAR Modeling",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c00802",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1002/anie.7409022",
       "title": "Aromaticity Regulation in Isostructural Metal-Organic Frameworks for Propyne Storage and Propylene Purification",
       "journal": "Angewandte Chemie International Edition",
@@ -2936,6 +3608,126 @@
       ]
     },
     {
+      "doi": "10.1021/acs.jctc.6c01681",
+      "title": "ML26: New Ingredients for an Integral-Features Density Functional with Broad Chemical Accuracy",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01681",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01050",
+      "title": "Achieving Near-Chemical Accuracy with Atom-Centered Potential-Augmented M06-2X",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01050",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02058",
+      "title": "ZeoAgent: Autonomous Design of Zeolite Frameworks through Pore-Topology-Guided Generation and Evaluation",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c02058",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02029",
+      "title": "Unraveling a Case Where the NAC Approach Fails─MD and QM Modeling of Regioselective cis-Stilbene Oxide Hydrolysis by Engineered Epoxide Hydrolases",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c02029",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02004",
+      "title": "SwinTransRNA: A Swin Transformer-Based Framework for Accurate Prediction of RNA Subcellular Localization",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c02004",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01936",
+      "title": "ML-RKIM: Physics-Informed Machine Learning for Reaction Kinetics Identification and Modeling",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c01936",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01874",
+      "title": "Unraveling the PFAS Helix: A Statistical Approach",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c01874",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01740",
+      "title": "Surfactant-Mediated Enantioselective Extraction: Interfacial Behavior Investigation from a Microscopic Perspective",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c01740",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01538",
+      "title": "Hierarchical Phase Transitions in Bayesian Flow Networks Enable Training-Free Molecular Design",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c01538",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.5c02688",
+      "title": "GDEE: A Structure-Based Platform for Gene Discovery and Enzyme Engineering",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.5c02688",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1002/anie.9111260",
       "title": "Deciphering the Multifunctions of Bicarbonate in Acidic CO2 Electrochemical Reduction With Multiscale Simulations",
       "journal": "Angewandte Chemie International Edition",
@@ -3392,6 +4184,102 @@
       ]
     },
     {
+      "doi": "10.1021/acs.jctc.6c01371",
+      "title": "Accessing Ice–Water Interfaces with Critical Curvature for Investigating Ice Nucleation at Low Supercooling",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01371",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01302",
+      "title": "Dielectric-Screened Functionals for Cis–Trans Excitation Energies of Solvated Azobenzene Derivatives: Screening Trends in Comparison with Experiment and Published GW/BSE Calculations",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01302",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00843",
+      "title": "Primary Role of Semi-Local and Exact-Exchange Difference in the Description of Correlation Effects in Hybrid Functionals",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c00843",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00579",
+      "title": "Overcoming Sampling Limitations Using Machine-Learned Interatomic Potentials: The Case of Water-in-Salt Electrolytes",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c00579",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02405",
+      "title": "A Systematic Evaluation of Molecule Generation Models for De Novo Drug Design: From Benchmarks to Practical Insights",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c02405",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01426",
+      "title": "Multiscale Interpretable Deep-Learning Framework for the Identification and Visualization of Deformation Stages in Molecular Dynamics Trajectory",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c01426",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01293",
+      "title": "Multiparadigm Benchmark of Molecular Docking: From Physics to Co-Folding and Hybrid Models",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c01293",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00572",
+      "title": "HDACiAP: A Curated Database and Analytical Platform for Histone Deacetylase Inhibitors",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c00572",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1002/anie.8471593",
       "title": "Methoxy-Directed, Lithium-Free One-Shot Borylation for Tetraboron-, Pyridinic and Amino Nitrogen-Integrated PAHs With Ultra-Narrowband Thermally Activated Delayed Fluorescence",
       "journal": "Angewandte Chemie International Edition",
@@ -3783,6 +4671,54 @@
       "published_date": "2026-09-19",
       "indexed_at": null,
       "url": "https://doi.org/10.1038/s41467-026-77027-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01306",
+      "title": "Modeling the Impact of Active Site Mutations on the Quenching Fate and Cyclization Depth of a Rare Oxidosqualene Cyclase",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01306",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01298",
+      "title": "Dissipative Quantum Algorithms for Excited-State Quantum Chemistry",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01298",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01295",
+      "title": "A Physics-Constrained Synergetic Active- and Transfer-Learning Framework for Constructing a Spectroscopically Accurate Full-Dimensional Potential Energy Surface of H2O–N2 Complex",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01295",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02057",
+      "title": "REAPS: An All-Atom Receptor-Aware Geometric Deep Learning Framework for De Novo Design of Linear and Macrocyclic Peptide Binders",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c02057",
       "sources": [
         "publisher"
       ]
@@ -4287,6 +5223,78 @@
       "published_date": "2026-09-18",
       "indexed_at": null,
       "url": "https://doi.org/10.1038/s41467-026-76586-1",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01377",
+      "title": "Coupling Quantum Mechanical Modeling and Molecular Dynamics on Heterogeneous Supercomputers for Studying Distal Mutation Effects on Drug Binding in HIV-1",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01377",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02831",
+      "title": "AI Prediction of Future Antibiotics: Genome-Predicted Antimicrobial Peptides Are Stained with the Amino Acid Signature of Man-Made Synthetic Peptides",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c02831",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02552",
+      "title": "Public Database Leakage Distorts Model Rankings in Real-Spectra NMR Structure Elucidation",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c02552",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02184",
+      "title": "CoTAR: Topology and Atomic State Reconstruction in Condensed Phases",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c02184",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01611",
+      "title": "Assessing the Generalizability of Machine Learning and Physics-Based Methods with DNA-Encoded Libraries",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c01611",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01375",
+      "title": "Pose Reproduction, Cross Docking, Database Enrichment, and Reverse Docking Benchmarks for DOCK6, Vina, and AutoDock 4 with Emphasis on Approved Drugs",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c01375",
       "sources": [
         "publisher"
       ]
@@ -5269,6 +6277,42 @@
       ]
     },
     {
+      "doi": "10.1021/acs.jctc.6c01745",
+      "title": "Correction to “Measuring Differences in Protein Allosteric Graphs Constructed via Molecular Dynamics Simulations”",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-17",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01745",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01077",
+      "title": "The Potential Energy Landscape Formalism for Quantum Liquids in the Continuous Ring-Polymer Limit",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-17",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c01077",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00947",
+      "title": "Implementation of the Multigrid Gaussian-Plane-Wave Algorithm with GPU Acceleration in PySCF",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-17",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c00947",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1021/acs.jcim.6c03072",
       "title": "25 Years of Cardiac Ion Channel QSAR: From hERG Dominance to Multi-Channel Modeling",
       "journal": "Journal of Chemical Information and Modeling",
@@ -5336,6 +6380,18 @@
       "published_date": "2026-09-17",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jcim.6c01872",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01761",
+      "title": "CUE: A Chemical Uncertainty-Aware Embedding Framework for Multimodal Drug Selectivity Prediction",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-09-17",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c01761",
       "sources": [
         "publisher"
       ]
@@ -337913,15 +338969,34 @@
     }
   ],
   "new_dois": [
-    "10.1002/anie.8484914",
-    "10.1002/anie.8380078",
-    "10.1002/anie.7110885",
-    "10.1002/anie.5879363",
-    "10.1002/anie.5640364",
-    "10.1002/anie.3499350",
-    "10.1002/anie.3329596",
-    "10.1002/anie.2967863",
-    "10.1002/anie.2540246",
-    "10.1002/anie.2076718"
+    "10.1038/s41467-026-78201-9",
+    "10.1038/s41467-026-78159-8",
+    "10.1038/s41467-026-78140-5",
+    "10.1038/s41467-026-78117-4",
+    "10.1038/s41467-026-78114-7",
+    "10.1038/s41467-026-78112-9",
+    "10.1038/s41467-026-78099-3",
+    "10.1038/s41467-026-78093-9",
+    "10.1038/s41467-026-78070-2",
+    "10.1038/s41467-026-78049-z",
+    "10.1038/s41467-026-78035-5",
+    "10.1038/s41467-026-78028-4",
+    "10.1038/s41467-026-78023-9",
+    "10.1038/s41467-026-78004-y",
+    "10.1038/s41467-026-77949-4",
+    "10.1038/s41467-026-77883-5",
+    "10.1038/s41467-026-77818-0",
+    "10.1038/s41467-026-77510-3",
+    "10.1038/s41467-026-77459-3",
+    "10.1038/s41467-026-74531-w",
+    "10.1021/acs.jctc.6c01564",
+    "10.1021/acs.jctc.6c01161",
+    "10.1021/acs.jctc.6c01104",
+    "10.1021/acs.jctc.6c00756",
+    "10.1021/acs.jcim.6c01582",
+    "10.1021/acs.jcim.6c01414",
+    "10.1021/acs.jcim.6c00799",
+    "10.1002/anie.5759530",
+    "10.1002/anie.1297472"
   ]
 }

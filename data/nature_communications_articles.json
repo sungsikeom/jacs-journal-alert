@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-27T20:06:34.171Z",
+  "collected_at": "2026-09-28T20:04:01.790Z",
   "scope_start": "2026-01-01",
-  "article_count": 9055,
+  "article_count": 9075,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78201-9",
+      "title": "NDE1-Mediated Regulation of Neural Progenitor Regional Identity and Its Implication in Microcephaly",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s41467-026-78201-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-78159-8",
+      "title": "Metal cofactor-level chassis engineering enables aerobic expression of tungsten formate dehydrogenases in Escherichia coli",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s41467-026-78159-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-78140-5",
+      "title": "Allosteric inhibition of human mitochondrial ClpP by hijacking the dordaviprone (ONC201) binding site",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s41467-026-78140-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-78117-4",
+      "title": "Amorphous BaO-Al2O3 encapsulation enables durable metal catalysts for ammonia decomposition",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s41467-026-78117-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-78114-7",
+      "title": "Nighttime warming dominates the thermal evolution of lakes across China",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s41467-026-78114-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-78112-9",
+      "title": "Membrane damage induces TagQ/TagR complex-mediated H1-T6SS assembly in Pseudomonas aeruginosa",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s41467-026-78112-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-78099-3",
+      "title": "Phase-dependent Al leaching and crystal structure stability of CoAl2O4 in alkaline media",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s41467-026-78099-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-78093-9",
+      "title": "Identification of TMEM263 as an ER-resident protein that controls early stages of lipid droplet biogenesis",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s41467-026-78093-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-78070-2",
+      "title": "In situ reprogramming of glioma stem cells into dendritic cell-like cells for glioblastoma immunotherapy",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s41467-026-78070-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-78049-z",
+      "title": "Controlled motion of polar vortex boundary in oxide heterostructures",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s41467-026-78049-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-78035-5",
+      "title": "Characterization of post-mitotic DNA synthesis and its regulation in human cells",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s41467-026-78035-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-78028-4",
+      "title": "Orthosteric and allosteric inhibition of the brain V-ATPase outside the alternating-access cycle",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s41467-026-78028-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-78023-9",
+      "title": "Environmental stochasticity reduces human planning effort",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s41467-026-78023-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-78004-y",
+      "title": "Wireless acoustic-driven current source achieving nanoampere-level at millimeter-scale",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s41467-026-78004-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77949-4",
+      "title": "“Descending Enkephalinergic neurons in Barrington’s nucleus gate sex-biased control of micturition”",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s41467-026-77949-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77883-5",
+      "title": "Horizontal cell nonlinearities create asymmetric texture processing in ON and OFF primate retinal outputs",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s41467-026-77883-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77818-0",
+      "title": "Spatial control of karyopherin binding avidity within NPC mimics revealed by designer FG-nucleoporins",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s41467-026-77818-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77510-3",
+      "title": "mHolmes improves cross anatomical cadaveric microbiome forecasting for postmortem interval estimation",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s41467-026-77510-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77459-3",
+      "title": "Defending synthetic DNA orders against intra-order splitting-based obfuscation",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s41467-026-77459-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-74531-w",
+      "title": "Adaptive personalization for wearable non-invasive continuous glucose sensors",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s41467-026-74531-w"
+    },
     {
       "doi": "10.1038/s41467-026-78082-y",
       "title": "Evidence of an acetone carboxylation pathway in photoheterotrophic bacteria from the Arctic Ocean",

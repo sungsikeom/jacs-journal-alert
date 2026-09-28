@@ -1,9 +1,21 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-27T20:25:52.183Z",
+  "collected_at": "2026-09-28T20:24:20.147Z",
   "scope_start": "2026-01-01",
-  "article_count": 2694,
+  "article_count": 2696,
   "articles": [
+    {
+      "doi": "10.1002/anie.5759530",
+      "title": "Correction to “Metal-DNA Nanocomplexes Enhance Chemo-dynamic Therapy by Inhibiting Autophagy-Mediated Resistance”",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1002/anie.5759530"
+    },
+    {
+      "doi": "10.1002/anie.1297472",
+      "title": "Mechanistic Control of Cathode–Electrolyte Interphase Formation in Gel Polymer Electrolyte for Lithium-Ion Batteries",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1002/anie.1297472"
+    },
     {
       "doi": "10.1002/anie.8484914",
       "title": "The Strong Electronic Metal–Support Interactions Mediated Direct Three-Electron Oxygen Reduction for Enhanced Hydroxyl Radical Generation",
