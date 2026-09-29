@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-28T20:04:01.790Z",
+  "collected_at": "2026-09-29T20:08:12.410Z",
   "scope_start": "2026-01-01",
-  "article_count": 9075,
+  "article_count": 9095,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78263-9",
+      "title": "Domino effect enables dynamic electronic structure evolution for stable and efficient water purification",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1038/s41467-026-78263-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-78255-9",
+      "title": "Methane oxidation in African lakes increases with phytoplankton and outweighs photosynthesis-driven oxic methane production",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1038/s41467-026-78255-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-78234-0",
+      "title": "Bridged resonance configuration enables high-efficiency and narrow-emission in blue organic light-emitting diodes",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1038/s41467-026-78234-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78161-0",
+      "title": "Viral diversity and ecological functions in the world’s largest deep-sea mineral exploration region",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1038/s41467-026-78161-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78153-0",
+      "title": "Religious celibacy is linked to marriage and wealth transmission practices across different world religions",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1038/s41467-026-78153-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78133-4",
+      "title": "Structural mechanisms underlying resistance to Switch-II pocket inhibitors in KRAS",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1038/s41467-026-78133-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-78127-2",
+      "title": "A SAGA-like AP2-P-ARP1-GCN5 transcriptional complex targets pathogenesis-associated genes during the blood-stage development of Babesia gibsoni",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1038/s41467-026-78127-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-78088-6",
+      "title": "Limosilactobacillus reuteri for oral mucositis in patients undergoing radiotherapy for malignant head and neck tumors: a randomized controlled trial",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1038/s41467-026-78088-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-78072-0",
+      "title": "Unexpected stabilization of a single-q charge density wave in pristine 1T-TiSe2",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1038/s41467-026-78072-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78002-0",
+      "title": "Multi-Stage buck strategy for power management of triboelectric nanogenerators",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1038/s41467-026-78002-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77993-0",
+      "title": "A role for selective ER autophagy in gametogenic rejuvenation revealed by high-throughput lifespan profiling",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1038/s41467-026-77993-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77989-w",
+      "title": "Deep-learning single-cell profiling uncovers interbacterial and drug-driven reshaping of pathogen virulence",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1038/s41467-026-77989-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77979-y",
+      "title": "Inside-outward breakup of sea ice by locally generated waves in the Vincennes Bay Polynya",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1038/s41467-026-77979-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77968-1",
+      "title": "An auto-initializing algorithm to determine electronic ground states from random Slater determinants",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1038/s41467-026-77968-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77964-5",
+      "title": "Hierarchical quasiparticle dynamics in antiferromagnets revealed by time- and momentum-resolved X-ray scattering",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1038/s41467-026-77964-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77804-6",
+      "title": "Independent assembly of the flight apparatus in a non-avian dinosaur clade",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1038/s41467-026-77804-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77673-z",
+      "title": "Chlorophyll as a sustainable crosslinking strategy for engineering highly compressible hydrogels",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1038/s41467-026-77673-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-77654-2",
+      "title": "Pulsed electromagnetic fields activate a peripheral interoceptive pathway to suppress sympathetic Npy for osteogenesis",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1038/s41467-026-77654-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77582-1",
+      "title": "Quantitative changes in 3D contact predict changes in enhancer-promoter regulation upon cohesin depletion",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1038/s41467-026-77582-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77265-x",
+      "title": "A multifunctional PKS-NRPS megasynthetase in nematodes produces divergent signaling molecules that control different developmental arrests",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1038/s41467-026-77265-x"
+    },
     {
       "doi": "10.1038/s41467-026-78201-9",
       "title": "NDE1-Mediated Regulation of Neural Progenitor Regional Identity and Its Implication in Microcephaly",

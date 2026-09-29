@@ -1,9 +1,441 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-09-17T20:17:23.470Z",
+  "collected_at": "2026-09-29T20:22:00.133Z",
   "scope_start": "2026-01-01",
-  "article_count": 1222,
+  "article_count": 1294,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c03146",
+      "title": "Correction to “Relativistic and Anharmonic Contributions to Low Thermal Conductivity in Topological Material BiTe”",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c03146"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02897",
+      "title": "A Divide-and-Conquer Embedded Correlated Wavefunction Transfer Learning Approach for Chemically Accurate Condensed-Phase Interatomic Potentials: Liquid Water as a Test Case",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02897"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02632",
+      "title": "Triplet Exciton Convergence toward Charge-Transfer States Enables Long-Wavelength Room-Temperature Phosphorescence from Carbon Dots",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02632"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02532",
+      "title": "Mechanically Bending Centrosymmetric Nano-CeO2 for Flexoelectric N2 Fixation from Air",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02532"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02477",
+      "title": "Polyhedral-Cluster Machine Learning Potential for Efficient and Accurate Modeling of Complex Li-Ion Cathodes",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02477"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02161",
+      "title": "How Ions Reshape the Infrared Spectra of Aqueous NaCl",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02161"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02115",
+      "title": "Emerging Doping Paradigms in Organic Semiconductors",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02115"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02726",
+      "title": "Nuclear-Spin-Dependent Photodissociation Dynamics of H2S+ via the A2A1(2, 9, 0) State",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02726"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02653",
+      "title": "Interfacial Cations Modulate CO2 Reduction Selectivity by Shaping Hydrogen-Bond Networks and Water Orientation",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02653"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02570",
+      "title": "Surface-Treated InP Quantum Dots for Selective CO2 Photoreduction",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02570"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02485",
+      "title": "Cofrequency Resonance Enhanced GaAs Photoelectrode Performance and Charge Transfer Characteristics under 740 nm Illumination",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02485"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02068",
+      "title": "For Molecular Polaritons, Disorder and Phonon Time Scales Control the Activation of Dark States in the Thermodynamic Limit",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02068"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02900",
+      "title": "Precise Alkyl Chain Tuning of Dibromoalkane Additives Enables Efficient Organic Solar Cells with Minimal Voltage Loss",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02900"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02673",
+      "title": "Anisotropic In-Plane Thermal Conductivity of Freestanding Few-Layer ReS2",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02673"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02625",
+      "title": "Beyond the Ohmic Limit: Co-Ion Control and Conductance Scaling Regimes in Rectifying Nanochannels",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02625"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02592",
+      "title": "Oriented Piezoelectric Poly(Vinylidene Fluoride) Nanofibrous Scaffold Enables Self-Responsive Dendrite Suppression in Solid-State Lithium Metal Batteries",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02592"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02511",
+      "title": "Screening “Cathode-Stable and Anode-Reactive” Sulfur-Based Additives for LiNi0.5Mn1.5O4||Graphite Pouch Cells via a Machine Learning Approach",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02511"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02424",
+      "title": "Evidence of Direct Exciton Polaron Formation upon Photoexcitation in Wurtzite ZnO",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02424"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02272",
+      "title": "Cu-MOF/Iodine Synergistic Electrochromic System for Energy-Efficient Smart Windows",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02272"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02172",
+      "title": "Picosecond Fickian Proton Diffusion in a Deep Eutectic Solvent Revealed by Backscattering QENS",
+      "published_date": "2026-09-25",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02172"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02868",
+      "title": "Self-Assembled Hole-Transporting Materials with Backbone Isomerization Strategy toward Inverted Perovskite Solar Cells: From Theoretical Design to Experiment",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02868"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02834",
+      "title": "Thulium Dopant Modulates Nonadiabatic Coupling and Charge Carrier Dynamics of CsPbI2Br Perovskites",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02834"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02773",
+      "title": "Nonequilibrium Formation of Cyanophosphine (H2PCN)─The Simplest Phosphorus-Containing Nitrile─in Interstellar Ice Analogues",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02773"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02724",
+      "title": "AI Can Predict, but Experiments Must Test: A New Role for Neutron Facilities in a Materials AI World",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02724"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02717",
+      "title": "Visible-Light-Absorbing, Tryptophan-Based Yellow Fluorescent Amino Acid for Biological Spectroscopy and Microscopy",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02717"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02656",
+      "title": "Effects of Strongly and Weakly Solvating Electrolytes on Ionic Conductivity in Sodium-Ion Battery Electrolytes",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02656"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02623",
+      "title": "Dark- and Photoexcited-State Electronic Structures of [Ru(SO2)(NH3)4X]Y Complexes and Their Relation to SO2 Photoconversion Efficiency",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02623"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02507",
+      "title": "Epoxides as the Gateway to High-Level Nitrogen Incorporation in Graphene Oxide",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02507"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02406",
+      "title": "Decoding Defect-Driven Ultrafast and Nonlinear Optical Properties of MoS2 Nanocracks",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02406"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02350",
+      "title": "Cis/Trans Stereoselectivity of 6,6”-Dibromo-2,2’:6’,2”-Terpyridine Steered by Alkali Metal Salts on Metal Surfaces",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02350"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02077",
+      "title": "MBAvol: An Interpretable Descriptor Scheme for Crystal-Density Modeling of HEDM",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02077"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02794",
+      "title": "Charge of Nanoconfinement Modulates i-Motif Formation at Physiological pH",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02794"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02787",
+      "title": "Defect-Assisted Recombination Accelerates Spin Depolarization in Monolayer CrSBr",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02787"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02742",
+      "title": "Probing Unusual Intrinsic Photophysical Properties of Thiocoumarin from XMS-CASPT2 Calculations",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02742"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02712",
+      "title": "Inefficient Carotenoid-Mediated Quenching of Chlorophyll a Triplet: A Hypothetical Cause for the Evolution of Cys-Mediated Quenching in IsiA",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02712"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02655",
+      "title": "Frustrated Lewis Pair-Mediated Pt/CeO2 for Sulfur-Tolerant Hydrogenation of Nitroaromatics",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02655"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02633",
+      "title": "Nonequilibrium Electronic Response Modes Govern Chemical Reactivity under Illumination",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02633"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02621",
+      "title": "Tailoring Exciton Spin Dynamics via Quantum Confinement in CsPbBr3 Nanoplatelets",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02621"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02618",
+      "title": "Theoretical Insight into Herzberg–Teller Spin–Vibronic Coupling Enhanced Reverse Intersystem Crossing in Hybrid MR-TADF Emitters",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02618"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02227",
+      "title": "Direct Detection of Reactive Intermediates in Photocatalytic Water Splitting with Small Carbon Species on TiO2(100)",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02227"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02156",
+      "title": "Understanding the Microscopic Structure of Counterion Condensation Near a Charged Polypeptoid Surface",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02156"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02025",
+      "title": "Quantum Information Harvesting with the Parallel Quantum Flow Algorithm",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02025"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01393",
+      "title": "Strain-Engineered Interfacial Chemistry: Curvature-Induced sp2–sp3 Rehybridization of Graphene for Ultrahigh Alkali Metal Storage",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01393"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02837",
+      "title": "Does Your Self-Consistent Field Program Know How Wrong It Is? Introducing Quantum Chemistry Uncertainty Propagation",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02837"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02643",
+      "title": "Poissonization of Quantum Dynamics and Its Applications",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02643"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02608",
+      "title": "Dipole-Interaction-Tailored Solvation Structure and Interface Chemistry for B-Based Magnesium Electrolyte at High Current Density",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02608"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02584",
+      "title": "Soft-Matter Nanodomains Enable C2–H/D Exchange in Imidazolium Ionic Liquids",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02584"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02583",
+      "title": "Unveiling the Contact Physics of Molecular Crystal Sb2O3: From Conventional Metals to 2D Electride Electrodes for High-Performance Transistors",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02583"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02505",
+      "title": "Amplified Spontaneous Emission and Temperature Sensor Based on TiO2-μS@Cs2AgBiBr6 Heterostructure Whispering Gallery Mode Resonators",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02505"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02124",
+      "title": "Resolving Active-Site Heterogeneity in Fe–N–C Catalysts by Integrated Multimodal Spectroscopy and Simulation",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02124"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02018",
+      "title": "Quantitatively Determining the Size Effect of Pd Core on the Strain and Activity of Quasi-Monolayer Pt Shell for the Oxygen-Reduction Electrocatalysis",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02018"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01682",
+      "title": "Surface Plasmons in the Continuum",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01682"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02748",
+      "title": "Electronic Structures of CaSiO3 Glass under Megabar Pressures: Ca L2,3-Edge and O K-Edge X-ray Raman Scattering",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02748"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02597",
+      "title": "Plasma-Driven Carbon Mobilization Creates a Transient Near-Surface Carbonaceous Interphase for Selective CO2 Conversion into CO",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02597"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02533",
+      "title": "Resolving the S0/S1 Crossing Topology for the Excited-State Origin of Watasenia scintillans Bioluminescence",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02533"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02531",
+      "title": "Predicting Aqueous Solubility of Pharmaceutical Cocrystals Using Constant Chemical Potential Enhanced Sampling Simulations",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02531"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02486",
+      "title": "High-Quality InSb Nanowires Grown by Molecular-Beam Epitaxy via Precise Catalyst Modulation",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02486"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02384",
+      "title": "A Mesoscopic Ginzburg–Landau Model for Vibrational Strong Coupling Enhanced Rayleigh Scattering in Molecular Liquids",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02384"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02316",
+      "title": "Atomic-Scale Strain Mapping of Catalysts",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02316"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02114",
+      "title": "The Number-Average Lifetime of Nonexponential Fluorescence Decays Is a Most Reliable Parameter",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02114"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02011",
+      "title": "Variational Polaron Theory for Ground States of Strongly Coupled Light–Matter and Electron–Phonon Systems",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02011"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01713",
+      "title": "1:1 Mirror-Symmetric Conformational Pairs and Symmetry Breaking in Achiral Molecules",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01713"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01705",
+      "title": "Emergence of Spin–Vibronic Coherence in the Intermediate Spin–Orbit Coupling Regime Revealed by Mixed Quantum-Classical Dynamics",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01705"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01535",
+      "title": "Synergistic Ni–Nx Single-Atom and Ultrasmall Cluster Hybrid Sites Enable Tandem CO2 Activation and Proton-Coupled Electron Transfer for Efficient Electroreduction",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01535"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02187",
+      "title": "Impartation of Optical Activity from Chiral Ligands to Hybrid Perovskites via Virtual Photons",
+      "published_date": "2026-09-20",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02187"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01908",
+      "title": "The Role of Charge Transfer and Parity Symmetry of the Wave Function in N,N′-Bis(2-phenylethyl)-3,4,9,10-perylenedicarboximide Crystals: A Frenkel-Holstein Approach",
+      "published_date": "2026-09-20",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01908"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02563",
+      "title": "Engineered Biographical Defects in Two-Dimensional Nonanediaminium Lead Iodide Perovskites: From Synthesis to Reversible Photodegradation",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02563"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02108",
+      "title": "Observation of Electron Spin Dynamics on Hundreds-of-Microseconds Timescales in High-Field Magic Angle Spinning EPR",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02108"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c03015",
+      "title": "Retraction of “Giant Thermal Switching via Phase Transition in MoTe2”",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c03015"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02527",
+      "title": "Tailoring Dynamic Charge Response and Trap-State Landscapes with Targeted Phosphine Oxide Additive for Efficient FAPbBr3 Quantum-Dot Light-Emitting Diodes",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02527"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02444",
+      "title": "The Role of Electron–Phonon Interactions on Electronic Transitions of Molecular Energetic Crystals",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02444"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02399",
+      "title": "Quantification of the Oxidation State Composition of the Cu Surface for the Electrochemical CO2 Reduction Reaction",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02399"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02710",
       "title": "Beyond Band-Edge Effective Mass: Ultrahigh On-State Current and Electron-Hole Transport Asymmetry in Monolayer PbS MOSFETs",

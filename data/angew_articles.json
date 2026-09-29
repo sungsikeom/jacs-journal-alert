@@ -1,9 +1,81 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-28T20:24:20.147Z",
+  "collected_at": "2026-09-29T20:28:29.788Z",
   "scope_start": "2026-01-01",
-  "article_count": 2696,
+  "article_count": 2709,
   "articles": [
+    {
+      "doi": "10.1002/anie.9631477",
+      "title": "Topological Integration of Slide-Ring and Entangled Networks",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1002/anie.9631477"
+    },
+    {
+      "doi": "10.1002/anie.8724742",
+      "title": "In-Situ Dynamic Chemical Reconstruction Synthesis of Dual-Antioxidants for Pulmonary Arterial Hypertension Treatment",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1002/anie.8724742"
+    },
+    {
+      "doi": "10.1002/anie.8288920",
+      "title": "A 3D Cycloparaphenylene-Cored Trimeric Electron Acceptor Regulates Acceptor Fibril Morphology for 20.6%-Efficient Ternary Organic Solar Cells",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1002/anie.8288920"
+    },
+    {
+      "doi": "10.1002/anie.8282561",
+      "title": "Dynamic Evolution Redefines the Active Site of Cu/ZnO for Methanol Synthesis Through Iterative Molecular Dynamics Sampling",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1002/anie.8282561"
+    },
+    {
+      "doi": "10.1002/anie.7366799",
+      "title": "Vacancy Clusters Enable Configurational Matching for Selective Olefin C─H Activation Through Orbital Coupling",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1002/anie.7366799"
+    },
+    {
+      "doi": "10.1002/anie.5275789",
+      "title": "The Endogenous Metabolite Hypochlorite Activates Indoleamine 2,3-Dioxygenase-1 for Catalysis: Functional and Mechanistic Implications",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1002/anie.5275789"
+    },
+    {
+      "doi": "10.1002/anie.4755364",
+      "title": "Programming Iron Nuclearity and Coordination for Hydride-Mediated Nitroarene Reduction",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1002/anie.4755364"
+    },
+    {
+      "doi": "10.1002/anie.3726851",
+      "title": "Hydration-Gated Photoinduced Electron Transfer in BODIPY Dyes",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1002/anie.3726851"
+    },
+    {
+      "doi": "10.1002/anie.2929190",
+      "title": "DNA-Peptide Nanoassembly for Mitochondria-Specific and Programmable Subcellular Apoptotic Regulation",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1002/anie.2929190"
+    },
+    {
+      "doi": "10.1002/anie.1881662",
+      "title": "Unveiling the Complete Biosynthetic Pathway of Azacitidine: A Rare 1,3,5-Triazine Nucleoside Derived From GTP",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1002/anie.1881662"
+    },
+    {
+      "doi": "10.1002/anie.1656625",
+      "title": "Dynamically Constructing Lanthanum Oxide on Ruthenium to Enhance Lithium-Oxygen Interfacial Reactions",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1002/anie.1656625"
+    },
+    {
+      "doi": "10.1002/anie.1085066",
+      "title": "Oxophilicity-Driven Room-Temperature C─O Cleavage Over Single-Atom W-Doped MoS2",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1002/anie.1085066"
+    },
     {
       "doi": "10.1002/anie.5759530",
       "title": "Correction to “Metal-DNA Nanocomplexes Enhance Chemo-dynamic Therapy by Inhibiting Autophagy-Mediated Resistance”",
@@ -15,6 +87,12 @@
       "title": "Mechanistic Control of Cathode–Electrolyte Interphase Formation in Gel Polymer Electrolyte for Lithium-Ion Batteries",
       "published_date": "2026-09-28",
       "url": "https://doi.org/10.1002/anie.1297472"
+    },
+    {
+      "doi": "10.1002/anie.1019904",
+      "title": "Fully Reduced Core–Shell Organotin-Polyoxometalate {Sn12Mo19}: A Synergistic Modulation Material for the Buried Interface of Inverted Perovskite Solar Cells",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1002/anie.1019904"
     },
     {
       "doi": "10.1002/anie.8484914",

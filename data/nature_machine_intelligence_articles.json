@@ -1,12 +1,30 @@
 {
   "source": "Nature Machine Intelligence Research Articles · 2026 filter",
-  "collected_at": "2026-09-28T20:07:21.281Z",
+  "collected_at": "2026-09-29T20:11:30.599Z",
   "scope_start": "2026-01-01",
-  "official_total": 86,
+  "official_total": 89,
   "collection_mode": "incremental",
   "stopped_on_known_doi": true,
-  "article_count": 86,
+  "article_count": 89,
   "articles": [
+    {
+      "doi": "10.1038/s42256-026-01308-7",
+      "title": "Regional climate risk assessment from climate models using probabilistic machine learning",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s42256-026-01308-7"
+    },
+    {
+      "doi": "10.1038/s42256-026-01306-9",
+      "title": "Task-structured modularity emerges in artificial networks and aligns with brain architecture",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s42256-026-01306-9"
+    },
+    {
+      "doi": "10.1038/s42256-026-01305-w",
+      "title": "Minute-scale training for microrobot navigation",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1038/s42256-026-01305-w"
+    },
     {
       "doi": "10.1038/s42256-026-01304-x",
       "title": "Guiding large language models to predict edit sequences for molecular synthesizability optimization",

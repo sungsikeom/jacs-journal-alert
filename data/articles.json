@@ -1,17 +1,881 @@
 {
-  "checked_at": "2026-09-29T05:31:03+09:00",
+  "checked_at": "2026-09-30T05:34:56+09:00",
   "journal_count": 12,
-  "new_count": 29,
-  "total_count": 28188,
+  "new_count": 69,
+  "total_count": 28470,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-09-29",
+  "scope_end": "2026-09-30",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78263-9",
+      "title": "Domino effect enables dynamic electronic structure evolution for stable and efficient water purification",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78263-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78255-9",
+      "title": "Methane oxidation in African lakes increases with phytoplankton and outweighs photosynthesis-driven oxic methane production",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78255-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78234-0",
+      "title": "Bridged resonance configuration enables high-efficiency and narrow-emission in blue organic light-emitting diodes",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78234-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78161-0",
+      "title": "Viral diversity and ecological functions in the world’s largest deep-sea mineral exploration region",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78161-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78153-0",
+      "title": "Religious celibacy is linked to marriage and wealth transmission practices across different world religions",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78153-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78133-4",
+      "title": "Structural mechanisms underlying resistance to Switch-II pocket inhibitors in KRAS",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78133-4",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78127-2",
+      "title": "A SAGA-like AP2-P-ARP1-GCN5 transcriptional complex targets pathogenesis-associated genes during the blood-stage development of Babesia gibsoni",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78127-2",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78088-6",
+      "title": "Limosilactobacillus reuteri for oral mucositis in patients undergoing radiotherapy for malignant head and neck tumors: a randomized controlled trial",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78088-6",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78072-0",
+      "title": "Unexpected stabilization of a single-q charge density wave in pristine 1T-TiSe2",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78072-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78002-0",
+      "title": "Multi-Stage buck strategy for power management of triboelectric nanogenerators",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78002-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77993-0",
+      "title": "A role for selective ER autophagy in gametogenic rejuvenation revealed by high-throughput lifespan profiling",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77993-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77989-w",
+      "title": "Deep-learning single-cell profiling uncovers interbacterial and drug-driven reshaping of pathogen virulence",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77989-w",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77979-y",
+      "title": "Inside-outward breakup of sea ice by locally generated waves in the Vincennes Bay Polynya",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77979-y",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77968-1",
+      "title": "An auto-initializing algorithm to determine electronic ground states from random Slater determinants",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77968-1",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77964-5",
+      "title": "Hierarchical quasiparticle dynamics in antiferromagnets revealed by time- and momentum-resolved X-ray scattering",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77964-5",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77804-6",
+      "title": "Independent assembly of the flight apparatus in a non-avian dinosaur clade",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77804-6",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77673-z",
+      "title": "Chlorophyll as a sustainable crosslinking strategy for engineering highly compressible hydrogels",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77673-z",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77654-2",
+      "title": "Pulsed electromagnetic fields activate a peripheral interoceptive pathway to suppress sympathetic Npy for osteogenesis",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77654-2",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77582-1",
+      "title": "Quantitative changes in 3D contact predict changes in enhancer-promoter regulation upon cohesin depletion",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77582-1",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77265-x",
+      "title": "A multifunctional PKS-NRPS megasynthetase in nematodes produces divergent signaling molecules that control different developmental arrests",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77265-x",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c17816",
+      "title": "Asymmetric Transfer Hydrogenation of Acyclic 1,4-Diketones for the Synthesis of Diversified Cyclic Products via Double Dynamic Kinetic Resolution",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c17816",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c17599",
+      "title": "De Novo Discovery of Cysteine-Targeted Reversible Covalent Cyclic Peptides with Prolonged Residence Time via Phage Display",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c17599",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c16361",
+      "title": "Resolving Anomalous Cage Escape in Fe(III) Photosensitizers: A Marcus Theory Framework",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c16361",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c15811",
+      "title": "Weak-Solvation Molecular Ion Gates Enabling Multipath Li+ Hopping and Air Stability in Garnet/Poly(ethylene oxide) Electrolytes",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c15811",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c15475",
+      "title": "A Common Small-Molecule Inhibitor Targeting Multiple Siglecs Associated with Immune Checkpoint Suppression of Cytotoxicity and Phagocytosis",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c15475",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14681",
+      "title": "Electrostatically Coupled High-Modulus Interphase with Synergistic Anion–Cation Regulation for Stable Zn Anodes",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14681",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14478",
+      "title": "Photoinduced Nickel-Catalyzed Enantioconvergent Synthesis of Allylic 1,3-Diols Bearing a Quaternary Stereocenter",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14478",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14230",
+      "title": "Total Synthesis of Complex Nucleoside Antibiotics Ezomycin A1 and A2",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14230",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13874",
+      "title": "Chirality Inherent and Induced: An Algebraic Point of View",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13874",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13733",
+      "title": "Data-Driven Discovery of Broadband Cr3+ Phosphors Emitting in the Second Near-Infrared Window",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13733",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13570",
+      "title": "Mechanistically Agnostic Aliphatic N–H Transmutations Enabled by Interrupted Nitrogen Deletion",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13570",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13291",
+      "title": "Tracing Covalent Organic Framework Assembly through Kinetic Deceleration",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13291",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13282",
+      "title": "Microvilli-Mediated Transport and Internalization of Extracellularly Assembled Nanoparticles in Kidney Proximal Tubules",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13282",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13162",
+      "title": "Cooperative Membrane Recognition by Lipid-Sensing and Kinase Domains Shapes Membrane-Bound States of AKT",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13162",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c12306",
+      "title": "Proton-Mediated Host–Guest Interactions Direct Nucleation and Morphology Evolution in Molecular Sieve Crystallization",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12306",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c11635",
+      "title": "Calcium Metal Mechanochemically Defluorinates PFAS to Environmentally Benign CaF2",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c11635",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c11481",
+      "title": "Probing the Conformational Dynamics of VeCas9 Using High-Resolution Single-Molecule Junctions",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c11481",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c10800",
+      "title": "Agentic Preparative Thin-Layer Chromatography System for Autonomous Purification",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c10800",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c10655",
+      "title": "High-Performance Rechargeable Anionic Zn–Cu Batteries with Facile Recyclability",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c10655",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c10561",
+      "title": "Capture and Characterization of High-Valent Uranium on Carbon Electrodes with a Hybrid Molecular Platform",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c10561",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c10487",
+      "title": "A Directed TM→JM Coupling in Receptor Tyrosine Kinase Dimers, Set by Activating Mutations and the Membrane Environment",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c10487",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c10386",
+      "title": "Redox Reactions in Molten Indium Halide Salts Enable the Synthesis and Shape Control of In-Pnictide Nanocrystals",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c10386",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c10140",
+      "title": "Chemical Design Rule for Ultraviolet-Emitting Color Centers: The Role of Host Ionicity",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c10140",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c09785",
+      "title": "Spatially Defined Chemical Functionalization of Ordered Block Copolymer Materials",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c09785",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c09754",
+      "title": "β-d-Arabinofuranose-configured Cyclitol Aziridines as Selective, Brain-penetrant Covalent GBA2 Inhibitors",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c09754",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c07909",
+      "title": "Synergistic Linkage Engineering in Donor–Acceptor Covalent Organic Frameworks for NIR-II Absorption and Efficient Photothermal Conversion",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c07909",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c05891",
+      "title": "Binding without Docking: Small-Molecule Binding Paths on Disordered Proteins",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c05891",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c03378",
+      "title": "Molecular-Level Cleavage and Kinetics Optimization in PVDF Electrolytes for Anode-Lean Ultrastable Solid-State Sodium Batteries",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c03378",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.5c21965",
+      "title": "Revealing the Proton Slingshot Mechanism in Solid Acid Electrolytes through Machine-Learning Molecular Dynamics",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.5c21965",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c03146",
+      "title": "Correction to “Relativistic and Anharmonic Contributions to Low Thermal Conductivity in Topological Material BiTe”",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c03146",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02897",
+      "title": "A Divide-and-Conquer Embedded Correlated Wavefunction Transfer Learning Approach for Chemically Accurate Condensed-Phase Interatomic Potentials: Liquid Water as a Test Case",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02897",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02632",
+      "title": "Triplet Exciton Convergence toward Charge-Transfer States Enables Long-Wavelength Room-Temperature Phosphorescence from Carbon Dots",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02632",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02532",
+      "title": "Mechanically Bending Centrosymmetric Nano-CeO2 for Flexoelectric N2 Fixation from Air",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02532",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02477",
+      "title": "Polyhedral-Cluster Machine Learning Potential for Efficient and Accurate Modeling of Complex Li-Ion Cathodes",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02477",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02161",
+      "title": "How Ions Reshape the Infrared Spectra of Aqueous NaCl",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02161",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02115",
+      "title": "Emerging Doping Paradigms in Organic Semiconductors",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02115",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00804",
+      "title": "Can Machine Learning Predict Solvation Effects on Energies and Geometries of Highly Charged Molecules?",
+      "journal": "Journal of Chemical Theory and Computation",
+      "journal_short": "JCTC",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jctc.6c00804",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.9631477",
+      "title": "Topological Integration of Slide-Ring and Entangled Networks",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.9631477",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.8724742",
+      "title": "In-Situ Dynamic Chemical Reconstruction Synthesis of Dual-Antioxidants for Pulmonary Arterial Hypertension Treatment",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.8724742",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.8288920",
+      "title": "A 3D Cycloparaphenylene-Cored Trimeric Electron Acceptor Regulates Acceptor Fibril Morphology for 20.6%-Efficient Ternary Organic Solar Cells",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.8288920",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.8282561",
+      "title": "Dynamic Evolution Redefines the Active Site of Cu/ZnO for Methanol Synthesis Through Iterative Molecular Dynamics Sampling",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.8282561",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.7366799",
+      "title": "Vacancy Clusters Enable Configurational Matching for Selective Olefin C─H Activation Through Orbital Coupling",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.7366799",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.5275789",
+      "title": "The Endogenous Metabolite Hypochlorite Activates Indoleamine 2,3-Dioxygenase-1 for Catalysis: Functional and Mechanistic Implications",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.5275789",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.4755364",
+      "title": "Programming Iron Nuclearity and Coordination for Hydride-Mediated Nitroarene Reduction",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.4755364",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.3726851",
+      "title": "Hydration-Gated Photoinduced Electron Transfer in BODIPY Dyes",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.3726851",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.2929190",
+      "title": "DNA-Peptide Nanoassembly for Mitochondria-Specific and Programmable Subcellular Apoptotic Regulation",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.2929190",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.1881662",
+      "title": "Unveiling the Complete Biosynthetic Pathway of Azacitidine: A Rare 1,3,5-Triazine Nucleoside Derived From GTP",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.1881662",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.1656625",
+      "title": "Dynamically Constructing Lanthanum Oxide on Ruthenium to Enhance Lithium-Oxygen Interfacial Reactions",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.1656625",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.1085066",
+      "title": "Oxophilicity-Driven Room-Temperature C─O Cleavage Over Single-Atom W-Doped MoS2",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-29",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.1085066",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01308-7",
+      "title": "Regional climate risk assessment from climate models using probabilistic machine learning",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01308-7",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01306-9",
+      "title": "Task-structured modularity emerges in artificial networks and aligns with brain architecture",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01306-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s42256-026-01305-w",
+      "title": "Minute-scale training for microrobot navigation",
+      "journal": "Nature Machine Intelligence",
+      "journal_short": "Nat Mach Intell",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s42256-026-01305-w",
+      "sources": [
+        "publisher"
+      ]
+    },
     {
       "doi": "10.1038/s41467-026-78201-9",
       "title": "NDE1-Mediated Regulation of Neural Progenitor Regional Identity and Its Implication in Microcephaly",
@@ -253,6 +1117,282 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c16630",
+      "title": "Reimagining the Wolff-Kishner Reduction: Light-Driven Carbonyl Deoxygenation without Strong Base",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c16630",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c16288",
+      "title": "Rigid-Flexible Coupling Pore Engineering in Covalent Organic Frameworks Enables the Selective Identification of Nucleotide Analogues",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c16288",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c16237",
+      "title": "Disentangling Catalytic Activity and Film Conductivity Reveals Temporally Decoupled Catalyst Evolution and Conductivity Artifacts",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c16237",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c15436",
+      "title": "Probing the Role of the Intermediate State in Cyanine Dyes through Classical and Entangled Two-Photon Absorption Spectra",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c15436",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c15246",
+      "title": "Convergent Total Synthesis of (−)-Methyl Gummiferolate Enabled by Pattern Recognition and Radical Cyclization",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c15246",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14563",
+      "title": "Nonequilibrium Formation of Pyridine (C5H5N) in Interstellar Ice Analogs: Implications for Biorelevant Nitrogen Heterocycles in Ryugu and Bennu",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14563",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14162",
+      "title": "Microlightning: Avalanche-Driven Blue Emission and Reactive-Species Formation in Charged Microdroplets",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14162",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13813",
+      "title": "Duplex Paternò–Büchi Isobaric Reagents for One-Step C═C-Resolved Lipid Isomer Quantification",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13813",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13682",
+      "title": "Competitive Interfacial Etching and Growth for Multicolor-Tunable Circularly Polarized Luminescent Quantum Dots",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13682",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c12923",
+      "title": "Multi-Chamber Dynamic Molecular Crystal Microcapsules for Payload Encapsulation and Controlled Release",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12923",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c12163",
+      "title": "Counteranion-Controlled Iodocyclizations Enabled by Iodine Nitrate: A Modular Route to Functionalized Triphenylenes and All-Benzenoid Graphene Quantum Dots",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12163",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c11585",
+      "title": "Competitive Coordination Decouples Charge Transport from Viscous Relaxation in Water-in-Salt Electrolytes",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c11585",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c11086",
+      "title": "High-Level Deuteration in Mammalian Cells for NMR Studies of Membrane Proteins",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c11086",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c10893",
+      "title": "Resolving Structural Ambiguity through Total Synthesis: Evolution of a Synthetic Strategy for Secalosides A and B",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c10893",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c10628",
+      "title": "Gold-Catalyzed Upcycling of Aromatic Thermoplastics",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c10628",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c09901",
+      "title": "Ground-State Descriptors Predict ROS Generation Efficiency and Enable Rational Design of Sonosensitizers for PROTAC-Enhanced Sono-Immunotherapy",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c09901",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c09621",
+      "title": "Enhancing the Stability of Pt/Carbon with Ti3C2 MXene-Derived TiO2 for the Oxygen Reduction Reaction in Acidic Media",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c09621",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c09071",
+      "title": "Elucidating the State of Water in Saccharide Solutions by a New Spectroscopic Approach Using Infrared and Far-Infrared Spectra",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c09071",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c02850",
+      "title": "Multi-Step Oxygen Redox Mechanism in the Polyanionic Lithium-Rich Cathode Li2FeSiO4",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c02850",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02726",
+      "title": "Nuclear-Spin-Dependent Photodissociation Dynamics of H2S+ via the A2A1(2, 9, 0) State",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02726",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02653",
+      "title": "Interfacial Cations Modulate CO2 Reduction Selectivity by Shaping Hydrogen-Bond Networks and Water Orientation",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02653",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02570",
+      "title": "Surface-Treated InP Quantum Dots for Selective CO2 Photoreduction",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02570",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02485",
+      "title": "Cofrequency Resonance Enhanced GaAs Photoelectrode Performance and Charge Transfer Characteristics under 740 nm Illumination",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02485",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1021/acs.jctc.6c01564",
       "title": "ViBra: Configuration Interaction for Anharmonic Vibrational Spectroscopy and Quantum-Sampled Configuration Spaces",
       "journal": "Journal of Chemical Theory and Computation",
@@ -358,6 +1498,42 @@
       "url": "https://doi.org/10.1002/anie.1297472",
       "sources": [
         "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.1019904",
+      "title": "Fully Reduced Core–Shell Organotin-Polyoxometalate {Sn12Mo19}: A Synergistic Modulation Material for the Buried Interface of Inverted Perovskite Solar Cells",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-09-28",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.1019904",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c17449",
+      "title": "Absolute Primary Nanothermometry Using Individual Stark Sublevels of Rare-Earth-Doped Crystals",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-27",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c17449",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c08350",
+      "title": "Siderophore-Enabled Delivery of Carbapenem and Metallo-β-Lactamase Inhibitor: A Promising Strategy against Multidrug-Resistant Pseudomonas aeruginosa",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-27",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c08350",
+      "sources": [
+        "acs"
       ]
     },
     {
@@ -704,6 +1880,138 @@
       "published_date": "2026-09-26",
       "indexed_at": null,
       "url": "https://doi.org/10.1038/s41467-026-77197-6",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14786",
+      "title": "Nonmonotonic Charging, Overscreening, and Ion Competition in the Electric Double Layer of Platinum Quantified by X-ray Spectroscopy",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-26",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14786",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13500",
+      "title": "Discovery and Mechanistic Investigation of a Bacteria-Derived Sesquiterpene Ether Synthase AceS Catalyzing Syn-Protoetherification",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-26",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13500",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c12299",
+      "title": "A Two-Step Synthesis of Covalent Genetically Encoded Libraries of Peptide-Derived Macrocycles Enables the Use of Electrophiles with Diverse Reactivity",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-26",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12299",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c11949",
+      "title": "Linking Oxygen Evolution Selectivity to Water Oxidation Reaction Order on Hematite Photoanodes by Operando Photoelectrochemical Mass Spectrometry",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-26",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c11949",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c11762",
+      "title": "Covalency-Driven Framework Contraction Weakens the Coupling Between Charge and Phonon Transport in Tunnel-Type TlCu5Se3",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-26",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c11762",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c11688",
+      "title": "Steric and Guest-Controlled Strain Redistribution Modulates Spin Crossover and Optical Readout in BODIPY-Functionalized Hofmann-Type Frameworks",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-26",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c11688",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c11457",
+      "title": "Chemical-Delithiation-Induced Surface Reconstruction in Layered Oxide Cathodes for High-Performance All-Solid-State Batteries",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-26",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c11457",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c11008",
+      "title": "Heme-Mediated Charge Transport Modulation: Coupling Biological Recognition to Solid-State Protein Electronics",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-26",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c11008",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c09757",
+      "title": "Direct Light Storage with Controlled Dark Release in a Bipyridine-Based Covalent Triazine Framework",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-26",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c09757",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c07837",
+      "title": "Single-Atom Ce Enables Interfacial Pathway Regulation of Fe2 Atomic Pairs in Alkaline Oxygen Reduction",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-26",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c07837",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02068",
+      "title": "For Molecular Polaritons, Disorder and Phonon Time Scales Control the Activation of Dark States in the Thermodynamic Limit",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-26",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02068",
       "sources": [
         "publisher"
       ]
@@ -1280,6 +2588,330 @@
       "published_date": "2026-09-25",
       "indexed_at": null,
       "url": "https://doi.org/10.1038/s41467-026-77446-8",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c17071",
+      "title": "The Role of Magnetism and Phonons in the Negative Thermal Expansion of Layered Chromium Telluride",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c17071",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c17055",
+      "title": "Hydration States of Transplutonium (Am, Cm, Bk, and Cf) Ions Alter Electronic Structure",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c17055",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c15890",
+      "title": "Multiplicative Stereocontrol in the Light-Driven Deracemization of Benzylic Nitriles",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c15890",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c15448",
+      "title": "Molecular Programming of Steric Tags for Controlled Nanopore Translocation toward Precision Clinical Diagnostic Assistance",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c15448",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c15342",
+      "title": "Chains of Spin-Crossover Complexes Synthesized on the Ag(111) Surface",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c15342",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c15284",
+      "title": "Iron-Electrocatalytic MHAT Enables C–F Bond Activation of CF3 Alkenes: Access to Stable Keto and Enol Isosteres",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c15284",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14384",
+      "title": "Bulk 1T-NbSe2 Superconductor Stabilized by the Doped Ti-3d0 Electronic Configuration",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14384",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14275",
+      "title": "Balanced Coordination Chemistry for Architecture-Universal Perovskite Solar Cells",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14275",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14174",
+      "title": "Experimentally Mapping the Phase Diagrams of Photoexcited Small Polarons",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14174",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14044",
+      "title": "Ligand-Shell Softness Directs Symmetry Transitions in Nanotripod Superstructures",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14044",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14019",
+      "title": "Long-Life Zinc–Bromine Flow Batteries with Low-Temperature Operation Enabled by Hydration Modulation of Complexing Agents",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14019",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13391",
+      "title": "Energy-Positive Thiosulfate Production Enabled by Coupling Waste Sulfide Oxidation with Oxygen Reduction",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13391",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13140",
+      "title": "Synthesis of Fluorinated Tyr-GalNAc Antigens and Potent Antitumor Activity of Their Bacteriophage Qβ Conjugates",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13140",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c12662",
+      "title": "A Redox-Mediated Negative Feedback Loop Based on Tetrazine-Thiol Exchange",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12662",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c12627",
+      "title": "Long-Lived Polarization Memory from Piezoelectric Electron-Acoustic Phonon Coupling in Symmetric Spherical-like Cesium Lead Bromide Nanocrystals",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12627",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c12576",
+      "title": "Dynamic Metal–Organic Tweezer Enables High-Resolution Nanopore Analysis of Steroid Hormones",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12576",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c11118",
+      "title": "Evaluation of Binding and Cell Penetration of Imidazolium Amino Acids as Novel Bioisosteres for Trimethyllysine, Dimethylarginine, and Arginine",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c11118",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c10169",
+      "title": "Negative Interfacial Tension Driven by Intrinsic Molecular Disorder",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c10169",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c05012",
+      "title": "Water-Enabled Conversion of NO and CO to NH3 over CuOx Clusters via Hydrolysis of Surface –NCO Intermediates",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c05012",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02900",
+      "title": "Precise Alkyl Chain Tuning of Dibromoalkane Additives Enables Efficient Organic Solar Cells with Minimal Voltage Loss",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02900",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02673",
+      "title": "Anisotropic In-Plane Thermal Conductivity of Freestanding Few-Layer ReS2",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02673",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02625",
+      "title": "Beyond the Ohmic Limit: Co-Ion Control and Conductance Scaling Regimes in Rectifying Nanochannels",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02625",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02592",
+      "title": "Oriented Piezoelectric Poly(Vinylidene Fluoride) Nanofibrous Scaffold Enables Self-Responsive Dendrite Suppression in Solid-State Lithium Metal Batteries",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02592",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02511",
+      "title": "Screening “Cathode-Stable and Anode-Reactive” Sulfur-Based Additives for LiNi0.5Mn1.5O4||Graphite Pouch Cells via a Machine Learning Approach",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02511",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02424",
+      "title": "Evidence of Direct Exciton Polaron Formation upon Photoexcitation in Wurtzite ZnO",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02424",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02272",
+      "title": "Cu-MOF/Iodine Synergistic Electrochromic System for Energy-Efficient Smart Windows",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02272",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02172",
+      "title": "Picosecond Fickian Proton Diffusion in a Deep Eutectic Solvent Revealed by Backscattering QENS",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-25",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02172",
       "sources": [
         "publisher"
       ]
@@ -2043,6 +3675,366 @@
       "published_date": "2026-09-24",
       "indexed_at": null,
       "url": "https://doi.org/10.1038/s41467-026-76844-2",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c16625",
+      "title": "Double Boron-Deleting Annulation: Modular Access to Chiral Nonalternant B,N-Helicenes with Enhanced Chiroptical Properties",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c16625",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c16565",
+      "title": "Industrial-Scale Electrosynthesis of Amino Acids from the Air via a Molecular Ligand-Engineered Bismuth Catalyst",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c16565",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c15502",
+      "title": "Switchable Altermagnetism in a Layered van der Waals Metal–Organic Framework Driven by Spin-Crossover",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c15502",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c15426",
+      "title": "“Spike-Accessed” Polymer-Based Interphase-Engineered Surface-to-Bulk Lattice Stabilization for Ni-Rich Positive Electrodes",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c15426",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14714",
+      "title": "Chemoselective Intermolecular Cross-Benzoin Reactions Via Pyridinium-Zwitterion Intermediates",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14714",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14527",
+      "title": "Coherent Vibrational Wave Packet Motion in ErCry4a Proteins Monitors the Redox State of the Flavin Chromophore",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14527",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13095",
+      "title": "How the Energy Gaps between Partners Rule ns-Scale Sensitization and Back-Energy Transfer in Lanthanide(III) Complexes?",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13095",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c12634",
+      "title": "Total Synthesis and Structure Determination of Mutanolins Detected in a Human Oral Microbiome Symbiont",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12634",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c12610",
+      "title": "Metformin Spacer Conformation Is a Structure-Directing Element in a 2D Perovskite with Strong X-ray Response",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12610",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c12567",
+      "title": "Selectivity in Tip-Induced Skeletal Editing via Heteroatom Substitution",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12567",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c12149",
+      "title": "Amorphous Interface-Confined Acetylene Semireduction under Industrially Relevant Acetylene-Lean Feeds",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12149",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c11735",
+      "title": "Concise Total Syntheses of (−)-Ohioensin A, Putative (+)-Ohioensin C, (+)-Myristinins A and B/C, and (+)-Caesalpinflavan A",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c11735",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c11517",
+      "title": "(N-Hydroxy)amide-Mediated Rapid Head-to-Tail Cyclization of Unprotected Peptides in Water",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c11517",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c08553",
+      "title": "Ligand-Mediated Control of ZnxSey Intermediates for Defect-Free ZnSe Heteroepitaxy on Quantum Dots",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c08553",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c08519",
+      "title": "Beyond the Virial Expansion: Microscopic Origins of Partial Molar Volumes in LiCl Solutions",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c08519",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c07910",
+      "title": "Asymmetric Hydration and Protonation Switching of Dual Aspartates Drive Flagellar Rotation",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c07910",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c05442",
+      "title": "Electrohydrodynamic-Mediated Molecular Coordination for Stabilizing α-Phase Perovskite Solar Cells",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c05442",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c05075",
+      "title": "Illuminated Semiconducting Electrodes Show Saturation Kinetics under Conditions of Inversion",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c05075",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c02958",
+      "title": "Redox-Switchable Tristable 1,3,2,4,5-Triboradiazoles",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c02958",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02868",
+      "title": "Self-Assembled Hole-Transporting Materials with Backbone Isomerization Strategy toward Inverted Perovskite Solar Cells: From Theoretical Design to Experiment",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02868",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02834",
+      "title": "Thulium Dopant Modulates Nonadiabatic Coupling and Charge Carrier Dynamics of CsPbI2Br Perovskites",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02834",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02773",
+      "title": "Nonequilibrium Formation of Cyanophosphine (H2PCN)─The Simplest Phosphorus-Containing Nitrile─in Interstellar Ice Analogues",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02773",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02724",
+      "title": "AI Can Predict, but Experiments Must Test: A New Role for Neutron Facilities in a Materials AI World",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02724",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02717",
+      "title": "Visible-Light-Absorbing, Tryptophan-Based Yellow Fluorescent Amino Acid for Biological Spectroscopy and Microscopy",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02717",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02656",
+      "title": "Effects of Strongly and Weakly Solvating Electrolytes on Ionic Conductivity in Sodium-Ion Battery Electrolytes",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02656",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02623",
+      "title": "Dark- and Photoexcited-State Electronic Structures of [Ru(SO2)(NH3)4X]Y Complexes and Their Relation to SO2 Photoconversion Efficiency",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02623",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02507",
+      "title": "Epoxides as the Gateway to High-Level Nitrogen Incorporation in Graphene Oxide",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02507",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02406",
+      "title": "Decoding Defect-Driven Ultrafast and Nonlinear Optical Properties of MoS2 Nanocracks",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02406",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02350",
+      "title": "Cis/Trans Stereoselectivity of 6,6”-Dibromo-2,2’:6’,2”-Terpyridine Steered by Alkali Metal Salts on Metal Surfaces",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02350",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02077",
+      "title": "MBAvol: An Interpretable Descriptor Scheme for Crystal-Density Modeling of HEDM",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-24",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02077",
       "sources": [
         "publisher"
       ]
@@ -2984,6 +4976,354 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c17163",
+      "title": "Electrochemical Upgrading of Lignin-Derived Phenolics via Vanadium Redox-Mediated Decoupling",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c17163",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c16766",
+      "title": "Tyrosinase-Catalyzed Tyr–Aniline Coupling Enables Peptide Editing, Macrocyclization, and Phage-Display-Based Selection",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c16766",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c16346",
+      "title": "Biocatalytic Redox Cascade Enabled Site-Selective Direct β-Alkylation of Cyclopentanones",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c16346",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c16323",
+      "title": "Radical Disconnection Logic Enables Direct Conversion of α-Amino Acids into Differentiated Vicinal Diamines",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c16323",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c15764",
+      "title": "Unlocking 17O Natural-Abundance Nuclear Magnetic Resonance Detection in Solids",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c15764",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c15207",
+      "title": "A Coordination Cage That Shrinks via Single-Site Labilization to Reshape Encapsulated Guests",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c15207",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14601",
+      "title": "Unlocking Sulfurdiimide Reagents as Radical Traps in the Decarboxylative Synthesis of Sulfinamidines",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14601",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14579",
+      "title": "Beyond Direct Two-Electron Oxidation: High-Potential Formaldehyde Oxidation on Palladium Still Generates Hydrogen Atoms",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14579",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13568",
+      "title": "Decoding CO2 Adsorption Modes and CO Yield Variation on TM–N4 Single-Atom Catalysts via Constant-Potential Computation and Machine-Learning Investigation",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13568",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13197",
+      "title": "Low-Voltage Electrophoretic Deposition in Water with Metal–Organic Framework Nanoparticles",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13197",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13134",
+      "title": "Photodynamic Hijacking of APE1 Converts Tumor Defenses into Therapeutic Vulnerabilities via a Bidirectionally Gated Prodrug",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13134",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c12613",
+      "title": "Isocyanoalkynes: Leveraging a High-Energy Interstellar Lead for Unique Multi-Bond-Forming Cascades",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12613",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c10989",
+      "title": "Crystallographic Alignment of α-FAPbI3 {100} Facets at the Buried Interface for Efficient Perovskite Photovoltaics",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c10989",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c09191",
+      "title": "Pressure-Induced Interlayer Bonding in Arsenic Revealed by Single-Crystal Synchrotron X-ray Diffraction in a Diamond Anvil Cell",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c09191",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c07726",
+      "title": "Differential Effects of α-Synuclein Monomers and Seeds on the Material Properties of Tau Condensates",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c07726",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c04230",
+      "title": "Operando and Postmortem Study of Iridium-Decorated Titanium-Based Catalysts in PEM Water Electrolysis",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c04230",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c03134",
+      "title": "Dual-Atom-Doped Metastable Iridium Oxide with Multichamber Nanostructure for Durable Low-Iridium PEM Electrolyzers",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c03134",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02794",
+      "title": "Charge of Nanoconfinement Modulates i-Motif Formation at Physiological pH",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02794",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02787",
+      "title": "Defect-Assisted Recombination Accelerates Spin Depolarization in Monolayer CrSBr",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02787",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02742",
+      "title": "Probing Unusual Intrinsic Photophysical Properties of Thiocoumarin from XMS-CASPT2 Calculations",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02742",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02712",
+      "title": "Inefficient Carotenoid-Mediated Quenching of Chlorophyll a Triplet: A Hypothetical Cause for the Evolution of Cys-Mediated Quenching in IsiA",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02712",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02655",
+      "title": "Frustrated Lewis Pair-Mediated Pt/CeO2 for Sulfur-Tolerant Hydrogenation of Nitroaromatics",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02655",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02633",
+      "title": "Nonequilibrium Electronic Response Modes Govern Chemical Reactivity under Illumination",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02633",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02621",
+      "title": "Tailoring Exciton Spin Dynamics via Quantum Confinement in CsPbBr3 Nanoplatelets",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02621",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02618",
+      "title": "Theoretical Insight into Herzberg–Teller Spin–Vibronic Coupling Enhanced Reverse Intersystem Crossing in Hybrid MR-TADF Emitters",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02618",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02227",
+      "title": "Direct Detection of Reactive Intermediates in Photocatalytic Water Splitting with Small Carbon Species on TiO2(100)",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02227",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02156",
+      "title": "Understanding the Microscopic Structure of Counterion Condensation Near a Charged Polypeptoid Surface",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02156",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02025",
+      "title": "Quantum Information Harvesting with the Parallel Quantum Flow Algorithm",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02025",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01393",
+      "title": "Strain-Engineered Interfacial Chemistry: Curvature-Induced sp2–sp3 Rehybridization of Graphene for Ultrahigh Alkali Metal Storage",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-23",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01393",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1021/acs.jctc.6c01442",
       "title": "Nonadiabatic Excited-State Dynamics with Quantum Monte Carlo-Trained Machine Learning: Azomethane as a Stringent Test",
       "journal": "Journal of Chemical Theory and Computation",
@@ -3608,6 +5948,342 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c17644",
+      "title": "Enantioselective Defluorinative C(sp2)–H Allylation of Acrylamides Enabled by CpxRh(III) Catalysis",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c17644",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c16907",
+      "title": "Selective C18-Methyl Oxidation of Sclareol via an Engineered P450 Enables the Synthesis of Spiromyrrhene B",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c16907",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c16812",
+      "title": "Bidirectional Alkene-Nucleophile Coupling at a Single Carbon Center Enabled by a Methylene-Bridged Thianthrenium Dication",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c16812",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c16754",
+      "title": "Decongested 2D IR Spectra Reveal N-Terminal Helices in Amyloid Oligomers Associated with Type 2 Diabetes",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c16754",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c16062",
+      "title": "Non-Canonical Peptide Self-Assembly for Mitochondria-Specific Cargo Delivery",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c16062",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14913",
+      "title": "Millisecond Lifetime Free Carriers from Symmetry-Breaking Charge Separation in Morphology-Engineered Tetrachloroperylenediimide Crystals",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14913",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14159",
+      "title": "Pd-Catalyzed Enantioselective [3+3] Annulation of Vinyldiazos with 2-Iodoanilines Enabled by Sadphos",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14159",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14114",
+      "title": "Disentangling Electronic and Lattice Contributions to Transient Absorption in Metal Halide Perovskites: A First-Principles Study of CH3NH3PbBr3",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14114",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14064",
+      "title": "EZSolver: Template-Free Prediction of Polar Enzymatic Mechanisms via Bidirectional Flow Matching and Search",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14064",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13517",
+      "title": "Nonalternating Chain Walking Polymerization Enables In-Chain Ketone Polyolefin Elastomers",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13517",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13136",
+      "title": "Nanoparticle-Mediated Synthesis of Single-Crystal Covalent Organic Frameworks of Uniform Size and Shape",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13136",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13084",
+      "title": "On-Surface Heptagon Contraction Enables Rearrangement Driven Selective C–C Coupling",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13084",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c12532",
+      "title": "Functional Group Transpositional Trimolecular Cross-Coupling via Interrupted Homolytic Substitution",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12532",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c12434",
+      "title": "Tower Loop Engineering Converts a Low-Potential Bacterial Laccase into a High-Potential Laccase with Tunable Catalytic Activity",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12434",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c11730",
+      "title": "Disentangling Direct Coupling from Charge-Transfer-Mediated Coupling in Singlet Fission of Weakly Interacting Dimers",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c11730",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c11268",
+      "title": "“Electronic Sponge” Strategy Enables Polyether Electrolytes for High-Voltage and Fast-Charging Quasi-Solid-State Batteries",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c11268",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c10701",
+      "title": "Programming Interfacial Function through Alternating Sequence in Amphiphilic Copolymers",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c10701",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c09019",
+      "title": "Diastereodivergent Access to cis,cis- and cis,trans-Angular Triquinanes: Total Synthesis of (±)-Arnicenone",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c09019",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c02674",
+      "title": "Holistic Assessment of Actinide-Borohydride Covalency Using NMR and X-ray Absorption Spectroscopies",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c02674",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02837",
+      "title": "Does Your Self-Consistent Field Program Know How Wrong It Is? Introducing Quantum Chemistry Uncertainty Propagation",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02837",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02643",
+      "title": "Poissonization of Quantum Dynamics and Its Applications",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02643",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02608",
+      "title": "Dipole-Interaction-Tailored Solvation Structure and Interface Chemistry for B-Based Magnesium Electrolyte at High Current Density",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02608",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02584",
+      "title": "Soft-Matter Nanodomains Enable C2–H/D Exchange in Imidazolium Ionic Liquids",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02584",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02583",
+      "title": "Unveiling the Contact Physics of Molecular Crystal Sb2O3: From Conventional Metals to 2D Electride Electrodes for High-Performance Transistors",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02583",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02505",
+      "title": "Amplified Spontaneous Emission and Temperature Sensor Based on TiO2-μS@Cs2AgBiBr6 Heterostructure Whispering Gallery Mode Resonators",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02505",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02124",
+      "title": "Resolving Active-Site Heterogeneity in Fe–N–C Catalysts by Integrated Multimodal Spectroscopy and Simulation",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02124",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02018",
+      "title": "Quantitatively Determining the Size Effect of Pd Core on the Strain and Activity of Quasi-Monolayer Pt Shell for the Oxygen-Reduction Electrocatalysis",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02018",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01682",
+      "title": "Surface Plasmons in the Continuum",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-22",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01682",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1021/acs.jctc.6c01681",
       "title": "ML26: New Ingredients for an Integral-Features Density Functional with Broad Chemical Accuracy",
       "journal": "Journal of Chemical Theory and Computation",
@@ -4184,6 +6860,330 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c16732",
+      "title": "Catalytic C(sp2)–F Bond Gallylation via Dynamic Ni–Ga Cooperativity",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c16732",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c16373",
+      "title": "Ligand-Shell-Enabled Silver Catalysis on Gold Nanoclusters for the Straightforward Synthesis of β-Naphthol Ethers from Alkynes",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c16373",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c15497",
+      "title": "Liquid–Metal-Induced Metal–Support Interactions for CO2 Hydrogenation",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c15497",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14108",
+      "title": "Helicity Synchronization-Induced Kinetic Stabilization against Helix Inversion in Stapled Peptides: Effects of 310/α Block Sequence and Double-Stapling Topology",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14108",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13641",
+      "title": "Alternating Copolymerization of Arynes and Aldehydes Enabled by an N-Arylamine Initiator",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13641",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13605",
+      "title": "Direct Visualization of a Hydroperoxy Intermediate in Fluorescent Protein Chromophore Maturation in PAmCherry1",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13605",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13577",
+      "title": "Pt Nanoparticles Supported on Ta-Doped TiO2 for Durable Proton Exchange Membrane Water Electrolysis",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13577",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13192",
+      "title": "Negatively Curved Nanohoops as Cut-Outs of Carbon Toroids and Schwarzites",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13192",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c12732",
+      "title": "Activating the Anomalous Jahn–Teller Effect in NASICON-Type Mixed Phosphate Cathode via Crystal Field Engineering",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12732",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c12687",
+      "title": "Blue-Emitting Colloidal In1–xGaxP Quantum Dots Synthesized in Molten Salt: Toward Blue QLEDs with Improved Stability",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12687",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c12433",
+      "title": "Phase Boundary Engineering Enables Multivalley Activation for High-Performance ZrCoSb Half-Heuslers",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12433",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c12413",
+      "title": "Multidirectional Colossal Polarization in a Centrosymmetric Crystal via Long-Range Ion Displacement",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12413",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c11064",
+      "title": "Chiral Lattice Distortion Enables Bright Near-Infrared Circularly Polarized Luminescence in Lead-Free Metal Halides",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c11064",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c10810",
+      "title": "Using Data Science Tools to Explore Rate Matching in a Nickel-Catalyzed Cross-Electrophile Coupling of Alkyl and Aryl Halides (Cl, Br) with a Tridentate Monoanionic Ligand",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c10810",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c05741",
+      "title": "Ternary-Ion Batteries",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c05741",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02748",
+      "title": "Electronic Structures of CaSiO3 Glass under Megabar Pressures: Ca L2,3-Edge and O K-Edge X-ray Raman Scattering",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02748",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02597",
+      "title": "Plasma-Driven Carbon Mobilization Creates a Transient Near-Surface Carbonaceous Interphase for Selective CO2 Conversion into CO",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02597",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02533",
+      "title": "Resolving the S0/S1 Crossing Topology for the Excited-State Origin of Watasenia scintillans Bioluminescence",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02533",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02531",
+      "title": "Predicting Aqueous Solubility of Pharmaceutical Cocrystals Using Constant Chemical Potential Enhanced Sampling Simulations",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02531",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02486",
+      "title": "High-Quality InSb Nanowires Grown by Molecular-Beam Epitaxy via Precise Catalyst Modulation",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02486",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02384",
+      "title": "A Mesoscopic Ginzburg–Landau Model for Vibrational Strong Coupling Enhanced Rayleigh Scattering in Molecular Liquids",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02384",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02316",
+      "title": "Atomic-Scale Strain Mapping of Catalysts",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02316",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02114",
+      "title": "The Number-Average Lifetime of Nonexponential Fluorescence Decays Is a Most Reliable Parameter",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02114",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02011",
+      "title": "Variational Polaron Theory for Ground States of Strongly Coupled Light–Matter and Electron–Phonon Systems",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02011",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01713",
+      "title": "1:1 Mirror-Symmetric Conformational Pairs and Symmetry Breaking in Achiral Molecules",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01713",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01705",
+      "title": "Emergence of Spin–Vibronic Coherence in the Intermediate Spin–Orbit Coupling Regime Revealed by Mixed Quantum-Classical Dynamics",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01705",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01535",
+      "title": "Synergistic Ni–Nx Single-Atom and Ultrasmall Cluster Hybrid Sites Enable Tandem CO2 Activation and Proton-Coupled Electron Transfer for Efficient Electroreduction",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-21",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01535",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1021/acs.jctc.6c01371",
       "title": "Accessing Ice–Water Interfaces with Critical Curvature for Investigating Ice Nucleation at Low Supercooling",
       "journal": "Journal of Chemical Theory and Computation",
@@ -4472,6 +7472,42 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c09156",
+      "title": "Flavin Takes Charge: CdS Nanorods Drive Light-To-Dark Electron Flow",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-20",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c09156",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02187",
+      "title": "Impartation of Optical Activity from Chiral Ligands to Hybrid Perovskites via Virtual Photons",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-20",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02187",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01908",
+      "title": "The Role of Charge Transfer and Parity Symmetry of the Wave Function in N,N′-Bis(2-phenylethyl)-3,4,9,10-perylenedicarboximide Crystals: A Frenkel-Holstein Approach",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-20",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01908",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
       "doi": "10.1039/d6sc06084f",
       "title": "Bromonium-Catalyzed 1,2-Diamination of Various Conjugated Alkenes Open Access",
       "journal": "Chemical Science",
@@ -4671,6 +7707,114 @@
       "published_date": "2026-09-19",
       "indexed_at": null,
       "url": "https://doi.org/10.1038/s41467-026-77027-9",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c17127",
+      "title": "Self-Catalyzed Transesterification Transforms Ionizable Amphiphilic Janus Dendrimers into Multicomponent Vectors and Generates Complex Design Strategies for mRNA Delivery",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c17127",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c17074",
+      "title": "Structural Basis of Cyclized C17 Precursor Recognition and Product Formation in Chlororaphen and Grimophan Biosynthesis",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c17074",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14441",
+      "title": "Activating Aqueous Multivalent Metal–Sulfur Electrochemistry via Kinetic Promoter",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14441",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14433",
+      "title": "Synthesis of a Borylborenium Ion via Direct Dehydrocoupling of Two B–H Bonds",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14433",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c12832",
+      "title": "Synthesis, Evaluation, and Context for Applications of SF5-Containing [1.1.1]Bicyclopentane and [2]Staffane “Hybrid Bioisosteres”",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12832",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c10813",
+      "title": "Redox-Regulated Nonvolatility Switching in Single-Nanopipette Memory Diodes",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c10813",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c10270",
+      "title": "Two-Dimensional Orthorhombic Molybdenum Boride Enabled by Selective Mo–Al Bond Cleavage in MoAlB",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c10270",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02563",
+      "title": "Engineered Biographical Defects in Two-Dimensional Nonanediaminium Lead Iodide Perovskites: From Synthesis to Reversible Photodegradation",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02563",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02108",
+      "title": "Observation of Electron Spin Dynamics on Hundreds-of-Microseconds Timescales in High-Field Magic Angle Spinning EPR",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-19",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02108",
       "sources": [
         "publisher"
       ]
@@ -5223,6 +8367,222 @@
       "published_date": "2026-09-18",
       "indexed_at": null,
       "url": "https://doi.org/10.1038/s41467-026-76586-1",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c15781",
+      "title": "A Convenient Conversion of Amides to Ketones",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c15781",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c15419",
+      "title": "Room-Temperature Adsorption on Magnetite Induces Spontaneous Fragmentation of Early Transition-Metal Size-Selected Nanoclusters",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c15419",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14628",
+      "title": "Rate Coefficients by Integration of Total Reaction NMR Spectra",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14628",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13048",
+      "title": "High-Efficiency Host-to-Guest Energy Transfer within Complex Multicomponent Luminescent Metal–Organic Frameworks",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13048",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c12759",
+      "title": "Post-Fabrication Deprotection of Semiconducting Polymers for High-Performance Organic Electrochemical Transistors",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12759",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c11850",
+      "title": "Unlocking Water as Docking Sites in Covalent Organic Frameworks for Enhanced Physisorptive Carbon Capture under Wet Conditions",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c11850",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c11486",
+      "title": "Machine-Learning Prediction of Carrier Mobility and Polarity Type of Polymer Semiconductors: from High-Fidelity Data to Experimental Realization",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c11486",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c11154",
+      "title": "Engineered Metal-Organic Frameworks Preserve Mitochondrial Bioenergetics at Micromolar Concentrations",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c11154",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c09329",
+      "title": "Beyond Symmetric Motifs: Asymmetric Small-Molecule Recognition Directs a New Poly(adenine) Assembly",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c09329",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c07091",
+      "title": "Constructing a Dynamic Interface via Thermoresponsive Polymers to Promote CO2 Electroreduction in a Strongly Acidic Electrolyte",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c07091",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c07021",
+      "title": "Chiral Counteranion-Directed Asymmetric Intramolecular Rhodium-Catalyzed [(3+2+2)] Carbocyclization Reactions with Alkylidenecyclopropanes",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c07021",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c06971",
+      "title": "Structure of Li3YCl6 and Its Effect on Lithium Ionic Conductivity",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c06971",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c05378",
+      "title": "Interplay of Lattice Distortion and Cation Disorder Governs Li-Ion Transport in Cation-Disordered Rocksalt Cathodes",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c05378",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c00345",
+      "title": "Screening Lithium-Ion Conductors Based on Local and Global Topology",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c00345",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c03015",
+      "title": "Retraction of “Giant Thermal Switching via Phase Transition in MoTe2”",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c03015",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02527",
+      "title": "Tailoring Dynamic Charge Response and Trap-State Landscapes with Targeted Phosphine Oxide Additive for Efficient FAPbBr3 Quantum-Dot Light-Emitting Diodes",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02527",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02444",
+      "title": "The Role of Electron–Phonon Interactions on Electronic Transitions of Molecular Energetic Crystals",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02444",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02399",
+      "title": "Quantification of the Oxidation State Composition of the Cu Surface for the Electrochemical CO2 Reduction Reaction",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-09-18",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02399",
       "sources": [
         "publisher"
       ]
@@ -6169,6 +9529,18 @@
       ]
     },
     {
+      "doi": "10.1021/jacs.6c11538",
+      "title": "Receptor-Guided Targeted Protein Degradation Collapses Extracellular Vesicle-Driven Tumor-Stroma Crosstalk",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-17",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c11538",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
       "doi": "10.1021/jacs.6c10488",
       "title": "Revealing Non-Steady-State Structure–Performance Relationship in Plateau-Capacity-Dominated Hard Carbon Anodes for High-Rate Reversible Sodium Storage",
       "journal": "Journal of the American Chemical Society",
@@ -6200,6 +9572,18 @@
       "published_date": "2026-09-17",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/jacs.6c10078",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c09678",
+      "title": "Spiroketal Synthesis Via Uncatalyzed Inverse Electron-Demand Hetero-Diels-Alder Reactions at Ambient Temperature",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-09-17",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c09678",
       "sources": [
         "acs"
       ]
@@ -338969,34 +342353,74 @@
     }
   ],
   "new_dois": [
-    "10.1038/s41467-026-78201-9",
-    "10.1038/s41467-026-78159-8",
-    "10.1038/s41467-026-78140-5",
-    "10.1038/s41467-026-78117-4",
-    "10.1038/s41467-026-78114-7",
-    "10.1038/s41467-026-78112-9",
-    "10.1038/s41467-026-78099-3",
-    "10.1038/s41467-026-78093-9",
-    "10.1038/s41467-026-78070-2",
-    "10.1038/s41467-026-78049-z",
-    "10.1038/s41467-026-78035-5",
-    "10.1038/s41467-026-78028-4",
-    "10.1038/s41467-026-78023-9",
-    "10.1038/s41467-026-78004-y",
-    "10.1038/s41467-026-77949-4",
-    "10.1038/s41467-026-77883-5",
-    "10.1038/s41467-026-77818-0",
-    "10.1038/s41467-026-77510-3",
-    "10.1038/s41467-026-77459-3",
-    "10.1038/s41467-026-74531-w",
-    "10.1021/acs.jctc.6c01564",
-    "10.1021/acs.jctc.6c01161",
-    "10.1021/acs.jctc.6c01104",
-    "10.1021/acs.jctc.6c00756",
-    "10.1021/acs.jcim.6c01582",
-    "10.1021/acs.jcim.6c01414",
-    "10.1021/acs.jcim.6c00799",
-    "10.1002/anie.5759530",
-    "10.1002/anie.1297472"
+    "10.1038/s41467-026-78263-9",
+    "10.1038/s41467-026-78255-9",
+    "10.1038/s41467-026-78234-0",
+    "10.1038/s41467-026-78161-0",
+    "10.1038/s41467-026-78153-0",
+    "10.1038/s41467-026-78133-4",
+    "10.1038/s41467-026-78127-2",
+    "10.1038/s41467-026-78088-6",
+    "10.1038/s41467-026-78072-0",
+    "10.1038/s41467-026-78002-0",
+    "10.1038/s41467-026-77993-0",
+    "10.1038/s41467-026-77989-w",
+    "10.1038/s41467-026-77979-y",
+    "10.1038/s41467-026-77968-1",
+    "10.1038/s41467-026-77964-5",
+    "10.1038/s41467-026-77804-6",
+    "10.1038/s41467-026-77673-z",
+    "10.1038/s41467-026-77654-2",
+    "10.1038/s41467-026-77582-1",
+    "10.1038/s41467-026-77265-x",
+    "10.1021/jacs.6c17816",
+    "10.1021/jacs.6c17599",
+    "10.1021/jacs.6c16361",
+    "10.1021/jacs.6c15811",
+    "10.1021/jacs.6c15475",
+    "10.1021/jacs.6c14681",
+    "10.1021/jacs.6c14478",
+    "10.1021/jacs.6c14230",
+    "10.1021/jacs.6c13874",
+    "10.1021/jacs.6c13733",
+    "10.1021/jacs.6c13570",
+    "10.1021/jacs.6c13291",
+    "10.1021/jacs.6c13282",
+    "10.1021/jacs.6c13162",
+    "10.1021/jacs.6c12306",
+    "10.1021/jacs.6c11635",
+    "10.1021/jacs.6c11481",
+    "10.1021/jacs.6c10800",
+    "10.1021/jacs.6c10655",
+    "10.1021/jacs.6c10561",
+    "10.1021/jacs.6c10487",
+    "10.1021/jacs.6c10386",
+    "10.1021/jacs.6c10140",
+    "10.1021/jacs.6c09785",
+    "10.1021/jacs.6c09754",
+    "10.1021/jacs.6c07909",
+    "10.1021/jacs.6c05891",
+    "10.1021/jacs.6c03378",
+    "10.1021/jacs.5c21965",
+    "10.1021/acs.jpclett.6c03146",
+    "10.1021/acs.jpclett.6c02897",
+    "10.1021/acs.jpclett.6c02632",
+    "10.1021/acs.jpclett.6c02532",
+    "10.1021/acs.jpclett.6c02477",
+    "10.1021/acs.jpclett.6c02161",
+    "10.1021/acs.jpclett.6c02115",
+    "10.1021/acs.jctc.6c00804",
+    "10.1002/anie.9631477",
+    "10.1002/anie.8724742",
+    "10.1002/anie.8288920",
+    "10.1002/anie.8282561",
+    "10.1002/anie.7366799",
+    "10.1002/anie.5275789",
+    "10.1002/anie.4755364",
+    "10.1002/anie.3726851",
+    "10.1002/anie.2929190",
+    "10.1002/anie.1881662",
+    "10.1002/anie.1656625",
+    "10.1002/anie.1085066"
   ]
 }
