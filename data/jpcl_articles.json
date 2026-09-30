@@ -1,9 +1,27 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-09-29T20:22:00.133Z",
+  "collected_at": "2026-09-30T20:17:18.283Z",
   "scope_start": "2026-01-01",
-  "article_count": 1294,
+  "article_count": 1298,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02711",
+      "title": "Multimodal Hyperspectral Imaging Unveils Pigment Rearrangement in the Diatom Cyclotella meneghiniana under Changing Physicochemical Conditions",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02711"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02515",
+      "title": "Decoupling Electron and Hole Injection Dynamics in Colloidal Nanocrystals via Potentiostatic Polarization Spectroelectrochemistry",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02515"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02439",
+      "title": "A High-Density Supercritical Fluid of H2",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02439"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c03146",
       "title": "Correction to “Relativistic and Anharmonic Contributions to Low Thermal Conductivity in Topological Material BiTe”",
@@ -27,6 +45,12 @@
       "title": "Mechanically Bending Centrosymmetric Nano-CeO2 for Flexoelectric N2 Fixation from Air",
       "published_date": "2026-09-29",
       "url": "https://doi.org/10.1021/acs.jpclett.6c02532"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02526",
+      "title": "Hydrogen Bonding in Supercritical Water Using Quantum Molecular Dynamics",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02526"
     },
     {
       "doi": "10.1021/acs.jpclett.6c02477",

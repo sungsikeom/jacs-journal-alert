@@ -1,9 +1,27 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-29T20:28:29.788Z",
+  "collected_at": "2026-09-30T20:23:53.142Z",
   "scope_start": "2026-01-01",
-  "article_count": 2709,
+  "article_count": 2712,
   "articles": [
+    {
+      "doi": "10.1002/anie.9477381",
+      "title": "Chiroptical Switching by Stereoselective Photochemical Sigmatropic Rearrangements: Experimental Realization of Calderoselectivity",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1002/anie.9477381"
+    },
+    {
+      "doi": "10.1002/anie.7984934",
+      "title": "Spin Crossover-Mediated Low-Energy Charge Transfer Excited States in a Heterogeneous Cobalt Photocatalyst",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1002/anie.7984934"
+    },
+    {
+      "doi": "10.1002/anie.5899106",
+      "title": "Anion Engineering of Surface Frustrated Lewis Pairs for Light-Assisted CO2 Hydrogenation to Methanol",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1002/anie.5899106"
+    },
     {
       "doi": "10.1002/anie.9631477",
       "title": "Topological Integration of Slide-Ring and Entangled Networks",

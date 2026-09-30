@@ -1,9 +1,93 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-09-28T20:14:29.323Z",
+  "collected_at": "2026-09-30T20:14:01.512Z",
   "scope_start": "2026-01-01",
-  "article_count": 894,
+  "article_count": 908,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02672",
+      "title": "GMSF: A Dual-Path Multimodal Framework for Enzyme Function Prediction via Difference Graph Encoding and Multiscale Semantic Fusion",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02672"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02441",
+      "title": "Fréchet ChemNet Distance Is Blind to Double-Bond Stereochemistry",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02441"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02358",
+      "title": "Binding Free Energy Landscape of Different SARS-CoV-2 Nsp1 Variants Interacting with NXF1-RRM: Insights from Molecular Dynamics Simulations and Markov State Models",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02358"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02181",
+      "title": "A Multimodal Integration Framework for Taste and Odor Prediction and Flavor Molecule Discovery",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02181"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02080",
+      "title": "Predicting Adsorbate-Solvent Interaction Energies in Zeolite Pores Using Convolutional Neural Networks with Attention Mechanisms",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02080"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01738",
+      "title": "Speak to a Protein: An Interactive Multimodal Co-Scientist for Protein Analysis",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01738"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01734",
+      "title": "Computer-Aided Drug Design for Type 2 Diabetes-Related Enzymes: Polarizable and Nonpolarizable Simulations of Enzyme-Inhibitor Complexes",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01734"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01733",
+      "title": "Computer-Aided Drug Design for Type 2 Diabetes-Related Enzymes: SILCS-Based Fragment Mapping, Pharmacophore Modeling, and Virtual Screening",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01733"
+    },
+    {
+      "doi": "10.1021/acs.jcim.5c03214",
+      "title": "Language of Toxicity: An eXplainable Artificial Intelligence Approach",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/acs.jcim.5c03214"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02294",
+      "title": "Enzymatic Reaction Feasibility Classification Using Machine Learning Methods",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02294"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02233",
+      "title": "Generative AI-Assisted Molecular Design of AChEIs",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02233"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02172",
+      "title": "Evaluation of the Complementarity of Three Major Databases of Protein–Ligand Binding Affinity Data",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02172"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02030",
+      "title": "Predicting Synergistic and Antagonistic Micellization Effects in Surfactant Blends for Optimized Formulation Design",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02030"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00304",
+      "title": "Benchmarking Experiments with External Data, Domain-Specific Features, and Learning Strategies for Modeling ADME and Potency of Coronavirus Main Protease Inhibitors",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00304"
+    },
     {
       "doi": "10.1021/acs.jcim.6c01582",
       "title": "Untranslated Region-FNex: An Integrative Multimodal Framework for Functional Untranslated Region Variant Prioritization",

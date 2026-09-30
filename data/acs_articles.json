@@ -1,11 +1,89 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-09-29T20:04:45.190Z",
+  "collected_at": "2026-09-30T20:00:33.833Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7769,
+  "article_count": 7786,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c18651",
+      "title": "Correction to “Guest-Shape-Directed Structural Switching between Two Isomers of a Pd6 Host and Its Structural Adaptability for Selective Photodimerization”",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/jacs.6c18651"
+    },
+    {
+      "doi": "10.1021/jacs.6c17136",
+      "title": "Triadic σ–π Coordination Programs Cuδ+ Sites to Drive Sequential Dual-N Species C–N Coupling for Efficient Urea Electrosynthesis",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/jacs.6c17136"
+    },
+    {
+      "doi": "10.1021/jacs.6c16493",
+      "title": "Resolving Coordination-Dependent Bonding Selectivity at Gold–Sulfur Interfaces",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/jacs.6c16493"
+    },
+    {
+      "doi": "10.1021/jacs.6c14997",
+      "title": "Asymmetric Divergent Synthesis of Miophytocen D, Roridin E, Verrucarin J, and Verrucarol",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/jacs.6c14997"
+    },
+    {
+      "doi": "10.1021/jacs.6c14616",
+      "title": "Structure–Dynamics-Property Relationship Reveals the Origin of Porous Integrity in Imine-Linked Covalent Organic Frameworks",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/jacs.6c14616"
+    },
+    {
+      "doi": "10.1021/jacs.6c13431",
+      "title": "Domain-Wall-Mediated Ultralow-Barrier Sliding and Pinning in Ferroelectric Moiré Superlattices Revealed by Machine Learning",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/jacs.6c13431"
+    },
+    {
+      "doi": "10.1021/jacs.6c12922",
+      "title": "Axial Ligand Tuning of the Catalytic Two- versus Four-Electron Reduction of Dioxygen by a Dinuclear Cobalt Complex",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/jacs.6c12922"
+    },
+    {
+      "doi": "10.1021/jacs.6c11560",
+      "title": "Valley Zeeman Splitting-Enhanced Spin-Forbidden Dark Exciton Formation in Magnetically V-Doped WSe2 Monolayer and WSe2/MoSe2 Heterostructure",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/jacs.6c11560"
+    },
+    {
+      "doi": "10.1021/jacs.6c09985",
+      "title": "Pseudo-Jahn–Teller Effect-Mediated Medium-Spin (S = 3/2) Fe for Robust Fe–N Bonds in Acidic Oxygen Reduction and Fuel Cells",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/jacs.6c09985"
+    },
+    {
+      "doi": "10.1021/jacs.6c09853",
+      "title": "Intermetallic Passivation Imparts Corrosion Resistance and Enables Intrinsic Electrocatalytic Activity Promotion",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/jacs.6c09853"
+    },
+    {
+      "doi": "10.1021/jacs.6c09814",
+      "title": "Nonequilibrium Navigation of a Rugged Energy Landscape Enables the Formation of Face-On Single-Domain Dodecagonal Quasicrystals",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/jacs.6c09814"
+    },
+    {
+      "doi": "10.1021/jacs.6c06838",
+      "title": "Direct Evidence of a La–Te Bond and Bonding Regime Differences for Ln–C and Ln–Te in [K(18-Crown 6)(Cp″2LnTe3)] (Ln = La, Ce, and Nd)",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/jacs.6c06838"
+    },
+    {
+      "doi": "10.1021/jacs.6c05709",
+      "title": "Lattice Parameter Governs Magnetic Ground State Selection in Tsai-Type Intermetallic Compounds",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/jacs.6c05709"
+    },
     {
       "doi": "10.1021/jacs.6c17816",
       "title": "Asymmetric Transfer Hydrogenation of Acyclic 1,4-Diketones for the Synthesis of Diversified Cyclic Products via Double Dynamic Kinetic Resolution",
@@ -23,6 +101,12 @@
       "title": "Resolving Anomalous Cage Escape in Fe(III) Photosensitizers: A Marcus Theory Framework",
       "published_date": "2026-09-29",
       "url": "https://doi.org/10.1021/jacs.6c16361"
+    },
+    {
+      "doi": "10.1021/jacs.6c16349",
+      "title": "Modular Orthogonal Dual-Channel Gold Nanosensor Platform for Ratiometric Imaging of Tumor-Associated Macrophage M1/M2 Polarization",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1021/jacs.6c16349"
     },
     {
       "doi": "10.1021/jacs.6c15811",
@@ -53,6 +137,12 @@
       "title": "Total Synthesis of Complex Nucleoside Antibiotics Ezomycin A1 and A2",
       "published_date": "2026-09-29",
       "url": "https://doi.org/10.1021/jacs.6c14230"
+    },
+    {
+      "doi": "10.1021/jacs.6c14022",
+      "title": "Copper-Catalyzed Strain-Driven Enantiospecific C–C Oxidative Addition",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1021/jacs.6c14022"
     },
     {
       "doi": "10.1021/jacs.6c13874",
@@ -95,6 +185,18 @@
       "title": "Proton-Mediated Host–Guest Interactions Direct Nucleation and Morphology Evolution in Molecular Sieve Crystallization",
       "published_date": "2026-09-29",
       "url": "https://doi.org/10.1021/jacs.6c12306"
+    },
+    {
+      "doi": "10.1021/jacs.6c12207",
+      "title": "Oxidation-State Control of Cobalt Electrocatalysts Enables Selective Hydrogenation of Nitrogen-Containing Aromatics",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1021/jacs.6c12207"
+    },
+    {
+      "doi": "10.1021/jacs.6c11926",
+      "title": "Calorimetric and Quasielastic Neutron Scattering Studies on a Mg-Ion Conductor Using a Metal–Organic Framework MIL-101 Involving Acetonitrile",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1021/jacs.6c11926"
     },
     {
       "doi": "10.1021/jacs.6c11635",

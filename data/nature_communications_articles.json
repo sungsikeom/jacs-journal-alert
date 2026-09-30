@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-29T20:08:12.410Z",
+  "collected_at": "2026-09-30T20:04:01.184Z",
   "scope_start": "2026-01-01",
-  "article_count": 9095,
+  "article_count": 9115,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78203-7",
+      "title": "Dynamic carbon overlayered CuCo alloy promotes syngas to higher alcohols",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41467-026-78203-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-78180-x",
+      "title": "Magnetic Electroluminescent response as a predictive indicator of operational lifetime in phosphorescent blue OLEDs",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41467-026-78180-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-78167-8",
+      "title": "Reversible six-electron tellurium redox enabled by selenium-modulated hypervalent activation in aqueous sodium/zinc hybrid batteries",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41467-026-78167-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-78146-z",
+      "title": "Identification of functional bacterial-viral pneumotypes associated with airway inflammation and all-cause mortality in critically ill patients",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41467-026-78146-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-78141-4",
+      "title": "High-energy low-repetition broadband ultrafast lasers empowered by hollow-core fiber",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41467-026-78141-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-78129-0",
+      "title": "Stress homogenization enabled by a layered composite electrolyte for high-performance all-solid-state lithium metal batteries",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41467-026-78129-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78118-3",
+      "title": "Generative design of high-fidelity microstructures using physics-aware machine learning",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41467-026-78118-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-78110-x",
+      "title": "RuPHOTACs provide photocontrol over protein degradation with optimized properties for biological applications",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41467-026-78110-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-78109-4",
+      "title": "Salt mediated actuation of membranized coacervate droplets for regulation of enzymatic reactions",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41467-026-78109-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-78073-z",
+      "title": "Chiral trions in enantiopure single-wall carbon nanotubes",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41467-026-78073-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-78068-w",
+      "title": "Powder-to-membrane transformation affording 2D/3D COF membranes for molecular separations",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41467-026-78068-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-78064-0",
+      "title": "3D Reconstruction of Dinoflagellate Chromosomes from Hi-C Data Challenges the Cholesteric Liquid Crystal Hypothesis",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41467-026-78064-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78044-4",
+      "title": "WeedNet: a foundation model-based global-to-local AI approach for weed species identification and classification",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41467-026-78044-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77970-7",
+      "title": "Metabolization of human milk oligosaccharides by Streptococcus pneumoniae",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41467-026-77970-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77925-y",
+      "title": "SARS-CoV-2-specific monoclonal antibody AER002 in Long COVID: an exploratory randomized phase 2a mechanistic trial",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41467-026-77925-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77894-2",
+      "title": "PIP5K-Ras bistability triggers plasma membrane symmetry breaking to define cellular polarity and regulate migration",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41467-026-77894-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77884-4",
+      "title": "Clock neurons modulate seizure timing through a diurnal switch",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41467-026-77884-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77810-8",
+      "title": "Ligand engineering enables an alkaline iron-chromium redox flow battery",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41467-026-77810-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77795-4",
+      "title": "Cep57 organizes pericentriolar material through dual architectural modules and prevents human mosaic variegated aneuploidy",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41467-026-77795-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77552-7",
+      "title": "IAP antagonist tolinapant (ASTX660) in combination with pembrolizumab in advanced solid tumors: a phase I trial",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41467-026-77552-7"
+    },
     {
       "doi": "10.1038/s41467-026-78263-9",
       "title": "Domino effect enables dynamic electronic structure evolution for stable and efficient water purification",

@@ -1,9 +1,15 @@
 {
   "source": "Nature Chemistry Research Articles",
-  "collected_at": "2026-09-29T20:11:39.348Z",
+  "collected_at": "2026-09-30T20:07:30.636Z",
   "scope_start": "2009-01-01",
-  "article_count": 2516,
+  "article_count": 2517,
   "articles": [
+    {
+      "doi": "10.1038/s41557-026-02241-3",
+      "title": "Molecular engineering stabilizes the commensurate charge density wave state in 1T-TaS2/arginine hybrid superlattices",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1038/s41557-026-02241-3"
+    },
     {
       "doi": "10.1038/s41557-026-02257-9",
       "title": "Catalyst-directed vibrational frequency disparity for isotopologue sieving in CO2 electrolysis",
