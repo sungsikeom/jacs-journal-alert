@@ -1,9 +1,51 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-09-30T20:14:01.512Z",
+  "collected_at": "2026-10-01T21:17:39.283Z",
   "scope_start": "2026-01-01",
-  "article_count": 908,
+  "article_count": 915,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c03037",
+      "title": "AcepKa: Thermodynamics-Informed pKa Prediction and Protonation-State Generation in PlayMolecule AI",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/acs.jcim.6c03037"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02473",
+      "title": "Benchmarking TAS2R Subtype-Selectivity Prediction under Scaffold-Aware Evaluation: A Controlled Analysis of Receptor Representations",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02473"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02266",
+      "title": "CS-SelectFold: Chemical-Shift-Guided Selection of Protein Hidden Conformations from a Generative Protein Structure Model",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02266"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02178",
+      "title": "ElemeNet: Multiscale Molecular Machine Learning with Uncertainty Quantification across the Periodic Table",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02178"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01926",
+      "title": "Predicting Protein Thermostability with Equivariant Graph Neural Networks and Contrastive Learning",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01926"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01658",
+      "title": "Diversity-Seeking Docking-Guided Molecular Design Discovers Broader Predicted Interaction Profiles across Protein Families",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01658"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01636",
+      "title": "Drug-Like, Shape Profiling and Diversity Assessment of the Molport in-Stock Compound Database",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01636"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02672",
       "title": "GMSF: A Dual-Path Multimodal Framework for Enzyme Function Prediction via Difference Graph Encoding and Multiscale Semantic Fusion",

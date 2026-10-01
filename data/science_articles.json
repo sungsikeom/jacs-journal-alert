@@ -1,10 +1,115 @@
 {
   "source": "Science tables of contents collected by the local Chrome extension",
-  "collected_at": "2026-09-30T20:00:42.136Z",
+  "collected_at": "2026-10-01T21:04:10.394Z",
   "scope_start": "2026-01-01",
   "article_type": "Research Article",
-  "article_count": 699,
+  "article_count": 714,
   "articles": [
+    {
+      "doi": "10.1126/science.aem8011",
+      "title": "In Other Journals",
+      "published_date": "2026-10-01",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aem8011"
+    },
+    {
+      "doi": "10.1126/science.aem8010",
+      "title": "In Science Journals",
+      "published_date": "2026-10-01",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aem8010"
+    },
+    {
+      "doi": "10.1126/science.aem7112",
+      "title": "Erratum for the Research Article “Kinetics of dCas9 target search in Escherichia coli”",
+      "published_date": "2026-10-01",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aem7112"
+    },
+    {
+      "doi": "10.1126/science.aeh1375",
+      "title": "Stationary entanglement of a levitated oscillator with an optical field",
+      "published_date": "2026-10-01",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeh1375"
+    },
+    {
+      "doi": "10.1126/science.aeg5583",
+      "title": "Precise length and charge segmentation of billion-dalton supramolecular polymers",
+      "published_date": "2026-10-01",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeg5583"
+    },
+    {
+      "doi": "10.1126/science.aeg4972",
+      "title": "Ultrahigh piezoelectricity by polaron-defect complexes",
+      "published_date": "2026-10-01",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeg4972"
+    },
+    {
+      "doi": "10.1126/science.aeg3949",
+      "title": "Phage proteases activate CBASS antiphage immunity",
+      "published_date": "2026-10-01",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeg3949"
+    },
+    {
+      "doi": "10.1126/science.aeg1070",
+      "title": "Hierarchical crystalline organic-inorganic framework enabling high-modulus toughening in nacre",
+      "published_date": "2026-10-01",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeg1070"
+    },
+    {
+      "doi": "10.1126/science.aef5175",
+      "title": "Dynamic multimodal cation-carbon interaction for efficient adiponitrile electrosynthesis",
+      "published_date": "2026-10-01",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aef5175"
+    },
+    {
+      "doi": "10.1126/science.aef2542",
+      "title": "Incorporation of atmospheric components in planetary magma oceans through bubble–metal compounds",
+      "published_date": "2026-10-01",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aef2542"
+    },
+    {
+      "doi": "10.1126/science.aed8207",
+      "title": "Hypertension fuels osteoarthritis through neuroendocrine signaling",
+      "published_date": "2026-10-01",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aed8207"
+    },
+    {
+      "doi": "10.1126/science.aed3065",
+      "title": "Loss of the tumor suppressor p53 generates a signaling gradient that drives epithelial clonal expansion",
+      "published_date": "2026-10-01",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aed3065"
+    },
+    {
+      "doi": "10.1126/science.aec8423",
+      "title": "Quadrupolar sea level fluctuations reveal episodes of rapid polar wander",
+      "published_date": "2026-10-01",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aec8423"
+    },
+    {
+      "doi": "10.1126/science.adz4797",
+      "title": "Mitochondrial carrier SLC25A34 links clock, diet, and temperature control of adipocyte lipid cycling",
+      "published_date": "2026-10-01",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adz4797"
+    },
+    {
+      "doi": "10.1126/science.adv0235",
+      "title": "Synergistic polar states by selective atomic gradients",
+      "published_date": "2026-10-01",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adv0235"
+    },
     {
       "doi": "10.1126/science.aem6086",
       "title": "In Other Journals",

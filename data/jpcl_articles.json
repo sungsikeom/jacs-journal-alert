@@ -1,9 +1,45 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-09-30T20:17:18.283Z",
+  "collected_at": "2026-10-01T21:20:55.629Z",
   "scope_start": "2026-01-01",
-  "article_count": 1298,
+  "article_count": 1304,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c03016",
+      "title": "Fundamentals of Activity and Stability in Heterogeneous Catalysis",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c03016"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02945",
+      "title": "Al-Stoichiometry-Engineered Defect Profiles in InAlZnO Nanofibers for Balanced Charge Transport and Optical Plasticity",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02945"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02903",
+      "title": "Dielectric Nanolensing: How a Wavelength-Scale Lens Carries Hidden Detail into an Ordinary Microscope and What Chemistry Should Build Next",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02903"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02640",
+      "title": "Cooperative Relaxation Governs the Viscosity of Ionic Liquids",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02640"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02610",
+      "title": "Solvation Mediates the Mechanisms of Homogeneous Co-Electrocatalysis at Interfaces",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02610"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02596",
+      "title": "Continuous Single-Droplet Tracking Reveals Scaling Laws of Surface-Confined Mn(II)-Catalyzed SO2 Oxidation",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02596"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02711",
       "title": "Multimodal Hyperspectral Imaging Unveils Pigment Rearrangement in the Diatom Cyclotella meneghiniana under Changing Physicochemical Conditions",

@@ -1,9 +1,69 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-09-30T20:04:01.184Z",
+  "collected_at": "2026-10-01T21:07:29.369Z",
   "scope_start": "2026-01-01",
-  "article_count": 9115,
+  "article_count": 9125,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78267-5",
+      "title": "Wide-bandgap perovskite with homogeneous crystallization and suppressed halogen segregation for efficient perovskite-organic tandem solar cells",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1038/s41467-026-78267-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-78211-7",
+      "title": "Chromosome-scale assembly of yeast genomes using enzyme-free, dense optical genome mapping",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1038/s41467-026-78211-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-78189-2",
+      "title": "Parasitological efficacy of sulfadoxine-pyrimethamine and amodiaquine for seasonal malaria chemoprevention in Africa",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1038/s41467-026-78189-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-78166-9",
+      "title": "Genome mining of the tumor microbiome reveals biosynthetic diversity and potential pathology-modulating metabolites",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1038/s41467-026-78166-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-78089-5",
+      "title": "Structural basis of voltage gating in a partially activated K+ channel",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1038/s41467-026-78089-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-78080-0",
+      "title": "Head-to-tail assembled borphyrins for solid-state lithium extraction",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1038/s41467-026-78080-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77955-6",
+      "title": "A multiplexed wearable microfluidic platform for non-invasive sweat-inspired monitoring of plant guttation biomarkers",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1038/s41467-026-77955-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77952-9",
+      "title": "Amygdala beta bursts modulate hippocampal neuronal dynamics during human emotional processing",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1038/s41467-026-77952-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77773-w",
+      "title": "Cross-border electricity tariffs undermine power system efficiency, decarbonization and reliability in North America",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1038/s41467-026-77773-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77562-5",
+      "title": "Molecularly engineered zwitterionic‑fluorinated hydrogel electrolyte for durable Ah-level zinc-ion batteries",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1038/s41467-026-77562-5"
+    },
     {
       "doi": "10.1038/s41467-026-78203-7",
       "title": "Dynamic carbon overlayered CuCo alloy promotes syngas to higher alcohols",

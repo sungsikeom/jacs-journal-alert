@@ -1,11 +1,125 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-09-30T20:00:33.833Z",
+  "collected_at": "2026-10-01T21:04:00.991Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7786,
+  "article_count": 7806,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c16429",
+      "title": "Site-Selective Electronic Structure and Dynamical Softness in the Metallic Antiferromagnet Mn3CuN",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/jacs.6c16429"
+    },
+    {
+      "doi": "10.1021/jacs.6c15980",
+      "title": "Enantioconvergent Deoxygenative Amination via Xanthate Esters by a Decarboxylative Relay",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/jacs.6c15980"
+    },
+    {
+      "doi": "10.1021/jacs.6c15357",
+      "title": "Charge-Transfer States Enhance Triplet Yield in Silicon Quantum Dot-Pyrene Hybrid Nanostructure",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/jacs.6c15357"
+    },
+    {
+      "doi": "10.1021/jacs.6c13849",
+      "title": "Nonthermalized Multiple Localized States Enable Efficient and Stable White-Light-Emitting Quantum Dots",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/jacs.6c13849"
+    },
+    {
+      "doi": "10.1021/jacs.6c13637",
+      "title": "Uniform High-Level Block Copolymer Architectures via Hybrid Self-Seeding",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/jacs.6c13637"
+    },
+    {
+      "doi": "10.1021/jacs.6c13182",
+      "title": "Observation of Orbital-Resolved Conductance in a Single-Molecule Metal–Metal Interaction Channel",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/jacs.6c13182"
+    },
+    {
+      "doi": "10.1021/jacs.6c12873",
+      "title": "Decoupling Electronic Coupling and Site-Energy Asymmetry in a Scaffold-Free π-Assembly",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/jacs.6c12873"
+    },
+    {
+      "doi": "10.1021/jacs.6c12618",
+      "title": "Dual-Modulation Strategy in RuOx Improves Activity and Durability in Acidic Oxygen Evolution",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/jacs.6c12618"
+    },
+    {
+      "doi": "10.1021/jacs.6c12318",
+      "title": "Amorphous Self-Assembled Molecule with Distorted Backbone Suppresses Aggregation for Highly Efficient Inverted Perovskite Solar Cells",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/jacs.6c12318"
+    },
+    {
+      "doi": "10.1021/jacs.6c12127",
+      "title": "Designing Cooperative Molecular Glues for FKBP12-MAPRE1 with Enhanced-Sampling Molecular Dynamics Simulations",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/jacs.6c12127"
+    },
+    {
+      "doi": "10.1021/jacs.6c12112",
+      "title": "Tunable Quantum Magnetism in Frustrated Yb-Based van der Waals Materials",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/jacs.6c12112"
+    },
+    {
+      "doi": "10.1021/jacs.6c11969",
+      "title": "Narrowband Emitting Tin Dion–Jacobson Perovskites through Systematic Spacer Cation Design to Suppress Metal Lone-Pair Anisotropy",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/jacs.6c11969"
+    },
+    {
+      "doi": "10.1021/jacs.6c11851",
+      "title": "Reactive Oxygen Species at Water–Hydrophobic Interfaces: How Controversy Advanced Understanding",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/jacs.6c11851"
+    },
+    {
+      "doi": "10.1021/jacs.6c11777",
+      "title": "Directed Evolution of a Protein Catenane Reveals How Noncanonical Topology Modulates Sequence–Property Relationships",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/jacs.6c11777"
+    },
+    {
+      "doi": "10.1021/jacs.6c11755",
+      "title": "Mechanistic Study of CO2 Reduction in a Metal Nanoparticle/Ligand-Based Nanoconfined Pocket",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/jacs.6c11755"
+    },
+    {
+      "doi": "10.1021/jacs.6c11726",
+      "title": "De Novo Design of Hydrogen-Bonding Networks for Deterministic Bio-Nano Recognition",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/jacs.6c11726"
+    },
+    {
+      "doi": "10.1021/jacs.6c10764",
+      "title": "Cross-Species Profiling of Itaconate-Mediated Modifications by a Universal Probe",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/jacs.6c10764"
+    },
+    {
+      "doi": "10.1021/jacs.6c10698",
+      "title": "Particulate Amine Salts as Dynamic Hubs for Atmospheric Nitrogen Exchange",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/jacs.6c10698"
+    },
+    {
+      "doi": "10.1021/jacs.6c09506",
+      "title": "Diisonitrile Chalkophore Structure and Function in Mycobacterial Copper Acquisition",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/jacs.6c09506"
+    },
     {
       "doi": "10.1021/jacs.6c18651",
       "title": "Correction to “Guest-Shape-Directed Structural Switching between Two Isomers of a Pd6 Host and Its Structural Adaptability for Selective Photodimerization”",
@@ -35,6 +149,12 @@
       "title": "Structure–Dynamics-Property Relationship Reveals the Origin of Porous Integrity in Imine-Linked Covalent Organic Frameworks",
       "published_date": "2026-09-30",
       "url": "https://doi.org/10.1021/jacs.6c14616"
+    },
+    {
+      "doi": "10.1021/jacs.6c13842",
+      "title": "Rare-Earth-Coordinated Glutamine Nanostructure-Induced “Pseudo-Overnutrition” Metabolic Therapy",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/jacs.6c13842"
     },
     {
       "doi": "10.1021/jacs.6c13431",

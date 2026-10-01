@@ -1,12 +1,156 @@
 {
   "source": "Nature Research Articles · 2026 filter",
-  "collected_at": "2026-09-30T20:07:14.536Z",
+  "collected_at": "2026-10-01T21:10:48.985Z",
   "scope_start": "2026-01-01",
-  "official_total": 1007,
+  "official_total": 1031,
   "collection_mode": "incremental",
   "stopped_on_known_doi": true,
-  "article_count": 1007,
+  "article_count": 1031,
   "articles": [
+    {
+      "doi": "10.1038/s41586-026-11113-2",
+      "title": "Human genetics implicates a BACH2–NRF2 axis in fetal haemoglobin activation",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11113-2"
+    },
+    {
+      "doi": "10.1038/s41586-026-11108-z",
+      "title": "Carbene transfer from thianthrenium ylides for cyclopropanation",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11108-z"
+    },
+    {
+      "doi": "10.1038/s41586-026-11098-y",
+      "title": "A two-hit mechanism triggers autoimmune hair loss",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11098-y"
+    },
+    {
+      "doi": "10.1038/s41586-026-11093-3",
+      "title": "A TBK1/ULK1 signalling axis couples lysosomal stress to TFEB activation",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11093-3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11092-4",
+      "title": "Transcription pause and elongation regulators mediate somatic hypermutation",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11092-4"
+    },
+    {
+      "doi": "10.1038/s41586-026-11090-6",
+      "title": "Evolution of terrestrial anatomy revealed by a derived stem tetrapod",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11090-6"
+    },
+    {
+      "doi": "10.1038/s41586-026-11089-z",
+      "title": "Global mangrove distribution on the open coast is controlled by waves",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11089-z"
+    },
+    {
+      "doi": "10.1038/s41586-026-11088-0",
+      "title": "GPCR antagonism via rewiring of receptor trafficking and degradation",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11088-0"
+    },
+    {
+      "doi": "10.1038/s41586-026-11087-1",
+      "title": "Histone readers MLLT1 and MLLT3 concentrate AID to confer locus specificity",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11087-1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11086-2",
+      "title": "Self-aligned optical microcomb emerging between octave-separated lasers",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11086-2"
+    },
+    {
+      "doi": "10.1038/s41586-026-11082-6",
+      "title": "Osteoclasts intercept meningeal lymphatic paths for dural metastasis",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11082-6"
+    },
+    {
+      "doi": "10.1038/s41586-026-11078-2",
+      "title": "Population-scale immune multiome atlas reveals regulatory disease mechanisms",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11078-2"
+    },
+    {
+      "doi": "10.1038/s41586-026-11077-3",
+      "title": "Sugar-rich foods exacerbate antibiotic-induced microbiome disruption",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11077-3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11076-4",
+      "title": "γδ T cell receptor dependencies define a unique immunosurveillance modality",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11076-4"
+    },
+    {
+      "doi": "10.1038/s41586-026-11075-5",
+      "title": "An amygdala to anterior hypothalamic circuit gates stress sensitivity",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11075-5"
+    },
+    {
+      "doi": "10.1038/s41586-026-11068-4",
+      "title": "X-ray liquidography decodes complex motions in azobenzene isomerization",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11068-4"
+    },
+    {
+      "doi": "10.1038/s41586-026-11064-8",
+      "title": "Spatiotemporal clonal architecture of the newborn mouse forebrain",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11064-8"
+    },
+    {
+      "doi": "10.1038/s41586-026-11063-9",
+      "title": "Dynamic protrusions mediate crawling motility in Asgard archaea",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11063-9"
+    },
+    {
+      "doi": "10.1038/s41586-026-11062-w",
+      "title": "Butterfly wing patterns in flight create powerful illusory motion cues",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11062-w"
+    },
+    {
+      "doi": "10.1038/s41586-026-11061-x",
+      "title": "Prion-like transmission of human tau strains in the mouse brain",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11061-x"
+    },
+    {
+      "doi": "10.1038/s41586-026-11060-y",
+      "title": "Type 2 immune history trains lung macrophages for viral disease tolerance",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11060-y"
+    },
+    {
+      "doi": "10.1038/s41586-026-11047-9",
+      "title": "Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11047-9"
+    },
+    {
+      "doi": "10.1038/s41586-026-11036-y",
+      "title": "Scalable decision-making for games of imperfect information",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-11036-y"
+    },
+    {
+      "doi": "10.1038/s41586-026-10965-y",
+      "title": "Function-preserving watermarking of AI-generated proteins",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1038/s41586-026-10965-y"
+    },
     {
       "doi": "10.1038/s41586-026-11169-0",
       "title": "Chiral oxazolidinones via biocatalytic aziridination of unactivated alkenes",

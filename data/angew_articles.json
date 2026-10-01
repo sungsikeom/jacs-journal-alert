@@ -1,9 +1,39 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-09-30T20:23:53.142Z",
+  "collected_at": "2026-10-01T21:27:27.664Z",
   "scope_start": "2026-01-01",
-  "article_count": 2712,
+  "article_count": 2731,
   "articles": [
+    {
+      "doi": "10.1002/anie.7996981",
+      "title": "Radical, Not Ionic: The Mechanochemical Zincke Nitration of Phenols",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1002/anie.7996981"
+    },
+    {
+      "doi": "10.1002/anie.6159381",
+      "title": "Dual-Function Cosubstrates Enable Threonine Dehydrogenase-Driven Chemoenzymatic Pyrrole Synthesis",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1002/anie.6159381"
+    },
+    {
+      "doi": "10.1002/anie.4157238",
+      "title": "Reconfiguring Electrolyte Solvation Chemistry via In Situ Solvent Polymerization for High-Performance Sodium-Ion Batteries",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1002/anie.4157238"
+    },
+    {
+      "doi": "10.1002/anie.3193418",
+      "title": "Photocatalytic C–H Amination of Arenes with Saccharin",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1002/anie.3193418"
+    },
+    {
+      "doi": "10.1002/anie.3191334",
+      "title": "Ligand-Directed Molecular Beacons as Turn-On Fluorescent Probes for Sensing Cell-Surface Receptor-Ligand Interactions",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1002/anie.3191334"
+    },
     {
       "doi": "10.1002/anie.9477381",
       "title": "Chiroptical Switching by Stereoselective Photochemical Sigmatropic Rearrangements: Experimental Realization of Calderoselectivity",
@@ -21,6 +51,90 @@
       "title": "Anion Engineering of Surface Frustrated Lewis Pairs for Light-Assisted CO2 Hydrogenation to Methanol",
       "published_date": "2026-09-30",
       "url": "https://doi.org/10.1002/anie.5899106"
+    },
+    {
+      "doi": "10.1002/anie.5794634",
+      "title": "Crossing the Threshold: Using Photostationary States to Control Supramolecular Polymerisation",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1002/anie.5794634"
+    },
+    {
+      "doi": "10.1002/anie.5185321",
+      "title": "Mechanically Planar Chiral [2]Rotaxanes for Multistate Circularly Polarized Luminescence Switching",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1002/anie.5185321"
+    },
+    {
+      "doi": "10.1002/anie.4933664",
+      "title": "Induced Restructuring of a Supramolecular Metal‒Organic Framework Into a Cu─Zn Alloy Catalyst for Reverse Water–Gas Shift",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1002/anie.4933664"
+    },
+    {
+      "doi": "10.1002/anie.4897216",
+      "title": "Boosting Photoelectrochemical Water Oxidation of BiVO4 Photoanodes With an Iron-Based Metal–Organic Framework as a Hole Transport Layer",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1002/anie.4897216"
+    },
+    {
+      "doi": "10.1002/anie.4827662",
+      "title": "Photoredox Conversion of Phenol Derivatives Into β-Arylpropionic Acids via Radical 1,4-Aryl Migration",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1002/anie.4827662"
+    },
+    {
+      "doi": "10.1002/anie.4614735",
+      "title": "Self-Assembled Y2O3/Y(OH)3 Heterojunction Nanosheets Hydrogel for Efficient Metal Resources Recovery",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1002/anie.4614735"
+    },
+    {
+      "doi": "10.1002/anie.4613575",
+      "title": "One-Pot Sequential Catalysis as a General Method for Pore-Wall Functionalization of Vinylene-Linked Covalent Organic Frameworks",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1002/anie.4613575"
+    },
+    {
+      "doi": "10.1002/anie.4053685",
+      "title": "Bioinspired Face-to-Face Supramolecular Co-Assembled Arrays Enabled by Cation-π Interaction With Programmed Electron Transport for Efficient Hydrogen Peroxide Photosynthesis",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1002/anie.4053685"
+    },
+    {
+      "doi": "10.1002/anie.3996002",
+      "title": "Complementary Eigen–Zundel Interpretation Reconciles Thermodynamics and Spectroscopy of Excess Protons in Aqueous HF Solutions",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1002/anie.3996002"
+    },
+    {
+      "doi": "10.1002/anie.3711838",
+      "title": "Discriminating Monomers and Fibrils of Amyloid-β1–42 With Site-Ordered Peptide-QMFluors",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1002/anie.3711838"
+    },
+    {
+      "doi": "10.1002/anie.3435388",
+      "title": "Coordination-Triggered Coupling-Pathway Control in Organic Diradical Cations",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1002/anie.3435388"
+    },
+    {
+      "doi": "10.1002/anie.2822225",
+      "title": "Supramolecular Assembly of an Antimicrobial Peptide Into a Pore",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1002/anie.2822225"
+    },
+    {
+      "doi": "10.1002/anie.1894063",
+      "title": "Dynamic Phosphate Hydrogen-Bonded Networks Enable Biomedical-Ready Stabilization of Black Phosphorus",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1002/anie.1894063"
+    },
+    {
+      "doi": "10.1002/anie.1701592",
+      "title": "Aromatic Pummerer-Promoted Stereospecific Cross-Coupling of Thiazoles With Boronic Esters",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1002/anie.1701592"
     },
     {
       "doi": "10.1002/anie.9631477",
