@@ -1,12 +1,18 @@
 {
   "source": "Nature Machine Intelligence Research Articles · 2026 filter",
-  "collected_at": "2026-10-01T21:10:57.731Z",
+  "collected_at": "2026-10-02T20:07:23.655Z",
   "scope_start": "2026-01-01",
-  "official_total": 90,
+  "official_total": 91,
   "collection_mode": "incremental",
   "stopped_on_known_doi": true,
-  "article_count": 90,
+  "article_count": 91,
   "articles": [
+    {
+      "doi": "10.1038/s42256-026-01307-8",
+      "title": "Large language models discover complementary heuristics for combinatorial optimization",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1038/s42256-026-01307-8"
+    },
     {
       "doi": "10.1038/s42256-026-01309-6",
       "title": "Towards foundation-style models for energy-frontier heterogeneous neutrino detectors via self-supervised pretraining",

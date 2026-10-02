@@ -1,9 +1,33 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-10-01T21:20:55.629Z",
+  "collected_at": "2026-10-02T20:17:21.592Z",
   "scope_start": "2026-01-01",
-  "article_count": 1304,
+  "article_count": 1308,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02943",
+      "title": "Interplay of B-Site Off-Centering and Molecular Orientations in the Mixed Hybrid Perovskite MAGe1–xSnxI3",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02943"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02575",
+      "title": "Strongly Polarized Emission and Sub-Band-Gap Excitation of Ultrasharp Defect Emitters in MAPbI3 Single Crystals",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02575"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02566",
+      "title": "In Operando Raman Reveals Voltage-Driven SEI Chemistry in Fluorinated Gel Electrolytes",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02566"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02503",
+      "title": "Tuning the Lifetime and Spectral Readout of Single-Atom Magnets with a Vector Magnetic Field",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02503"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c03016",
       "title": "Fundamentals of Activity and Stability in Heterogeneous Catalysis",

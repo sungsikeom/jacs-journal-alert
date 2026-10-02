@@ -1,9 +1,87 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-10-01T21:07:29.369Z",
+  "collected_at": "2026-10-02T20:04:02.915Z",
   "scope_start": "2026-01-01",
-  "article_count": 9125,
+  "article_count": 9138,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78427-7",
+      "title": "Immune correlates of protection are exposure-dependent: evidence from the Dominican Republic",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1038/s41467-026-78427-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-78300-7",
+      "title": "A model of brain function to predict tau across Alzheimer’s disease and related disorders",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1038/s41467-026-78300-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-78283-5",
+      "title": "Characterization of chemoresistant cell populations improves risk stratification and therapy prediction in pediatric acute myeloid leukemia",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1038/s41467-026-78283-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-78268-4",
+      "title": "AI-accelerated scalable synthesis of nanocrystals for cost-effective photovoltaics",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1038/s41467-026-78268-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-78224-2",
+      "title": "Switchable quantum dot photoluminescence across a broad spectrum with all-visible-light activated diarylethene photoswitches",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1038/s41467-026-78224-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-78190-9",
+      "title": "First-line dolutegravir/lamivudine in HIV-1 infection: lymph node penetration and reservoir decline in a randomized open-label clinical trial",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1038/s41467-026-78190-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-78107-6",
+      "title": "Anti-Kasha fluorescence and persistent room-temperature phosphorescence from a nearly flat non-symmetric polycyclic hydrocarbon",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1038/s41467-026-78107-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-78048-0",
+      "title": "Cationic chain-anchored monolayer enables wide-temperature composite polymer electrolytes for lithium-metal batteries",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1038/s41467-026-78048-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77999-8",
+      "title": "Synthetic lethal screens reveal p300/CBP as a vulnerability for GNAQ-driven uveal melanomas",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1038/s41467-026-77999-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77957-4",
+      "title": "Cannabinoid modulation of central amygdala population dynamics during threat investigation",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1038/s41467-026-77957-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77903-4",
+      "title": "Tonicity drives collecting duct maturation in the mammalian kidney",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1038/s41467-026-77903-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77797-2",
+      "title": "Different concentrations of atropine in children with high myopia: a 2-year multicenter double-blind, randomized controlled trial",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1038/s41467-026-77797-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77518-9",
+      "title": "Spatial transcriptomics reveals microenvironmental heterogeneity in osteoarthritic subchondral bone",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1038/s41467-026-77518-9"
+    },
     {
       "doi": "10.1038/s41467-026-78267-5",
       "title": "Wide-bandgap perovskite with homogeneous crystallization and suppressed halogen segregation for efficient perovskite-organic tandem solar cells",

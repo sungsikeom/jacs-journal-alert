@@ -1,9 +1,81 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-10-01T21:27:27.664Z",
+  "collected_at": "2026-10-02T20:23:53.937Z",
   "scope_start": "2026-01-01",
-  "article_count": 2731,
+  "article_count": 2743,
   "articles": [
+    {
+      "doi": "10.1002/anie.9707369",
+      "title": "Conformation-Selective Binding Domains of Intramolecular Chemically Induced Protein Dimerisation Systems",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1002/anie.9707369"
+    },
+    {
+      "doi": "10.1002/anie.8584442",
+      "title": "A DNA G-Quadruplex-Targeting Ligand Suppresses c-MYC Expression: Implications for Gemcitabine‑Resistant Pancreatic Cancer",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1002/anie.8584442"
+    },
+    {
+      "doi": "10.1002/anie.8313043",
+      "title": "Water-Mediated Reversible Crystalline Phase Transformation Enables Color Switching and Circularly Polarized Luminescence Handedness Inversion",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1002/anie.8313043"
+    },
+    {
+      "doi": "10.1002/anie.7934270",
+      "title": "Topology-Directed Biomimetic Confinement in Covalent Organic Frameworks Couples Electrocatalytic Water Activation to Reactive Oxygen Species Evolution for Dual-Potential Electrochemiluminescence",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1002/anie.7934270"
+    },
+    {
+      "doi": "10.1002/anie.7342949",
+      "title": "Molecular Gating of the Reactive Water Topological Network for Stable Aqueous Zn Batteries",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1002/anie.7342949"
+    },
+    {
+      "doi": "10.1002/anie.6218520",
+      "title": "Conformationally Switchable Copper(I) Complexes Amplify BODIPY Triplet Photosensitization",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1002/anie.6218520"
+    },
+    {
+      "doi": "10.1002/anie.5837873",
+      "title": "Dehydrogenation of Biomass-Derived Aromatic Diol to Value-Added Acyloin and Hydrogen Production Over Zn0.3Cd0.7S Solid Solution With Defect Clusters and Its Photocatalytic Mechanism",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1002/anie.5837873"
+    },
+    {
+      "doi": "10.1002/anie.4432478",
+      "title": "Solvent-Free Synthesis of Covalent Organic Frameworks: Achievements and Challenges",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1002/anie.4432478"
+    },
+    {
+      "doi": "10.1002/anie.3744091",
+      "title": "Proximity-Induced Disulfide Rebridging Enables Modular Construction of Stable Antibody–Drug Conjugates",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1002/anie.3744091"
+    },
+    {
+      "doi": "10.1002/anie.2375835",
+      "title": "Bifunctional Molecular Regulation Couples Halide Homogenization With Deep-Level Defect Control in MA-Free Wide-Bandgap Perovskites for Tandem Solar Cells",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1002/anie.2375835"
+    },
+    {
+      "doi": "10.1002/anie.2226950",
+      "title": "W–H Bond-Mediated “Anti-Overoxidation Valve”: 100% Formaldehyde Selectivity Among Detected Products in Photocatalytic Methane-to-Formaldehyde Conversion",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1002/anie.2226950"
+    },
+    {
+      "doi": "10.1002/anie.1871980",
+      "title": "Enhanced Hydrogen Evolution Activity of MoS2 Through Solid Solution Modification of Its Edge Sites With Ruthenium",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1002/anie.1871980"
+    },
     {
       "doi": "10.1002/anie.7996981",
       "title": "Radical, Not Ionic: The Mechanochemical Zincke Nitration of Phenols",

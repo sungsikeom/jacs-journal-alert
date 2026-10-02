@@ -1,11 +1,107 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-10-01T21:04:00.991Z",
+  "collected_at": "2026-10-02T20:00:35.277Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7806,
+  "article_count": 7822,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c17455",
+      "title": "Activity-Guided Identification of Pro-inflammatory Neutrophils with Dual Enzyme- and Metabolite-Activatable Fluorescent Probes",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/jacs.6c17455"
+    },
+    {
+      "doi": "10.1021/jacs.6c17350",
+      "title": "Stereoselective Glycosylation of Amides with Glycal Catalyzed by a Solid–Liquid Phase-Transfer and Proton-Transfer Dual-Functional Pyridinium Catalyst",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/jacs.6c17350"
+    },
+    {
+      "doi": "10.1021/jacs.6c16569",
+      "title": "Multi-Field CEST NMR Reconstructs a Protein Folding Landscape",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/jacs.6c16569"
+    },
+    {
+      "doi": "10.1021/jacs.6c16285",
+      "title": "Selective B(4)–H Alkoxylation of o-Carboranes with Alcohols via Heteroleptic Cu(I)-Photocatalyzed 1,5-HAT-Enabled Boron Radical-Polar Crossover",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/jacs.6c16285"
+    },
+    {
+      "doi": "10.1021/jacs.6c16205",
+      "title": "Helical Nanocavity-Driven Upconversion Circularly Polarized Luminescence with Efficient Triplet Dynamics in Poly(methyl methacrylate) Stereocomplexes",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/jacs.6c16205"
+    },
+    {
+      "doi": "10.1021/jacs.6c15929",
+      "title": "Engineering Metal Pyrazolate Coordination Polymers for Highly Selective Direct Air Capture via Metal–Ligand Cooperativity and Moisture-Gated Mechanism",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/jacs.6c15929"
+    },
+    {
+      "doi": "10.1021/jacs.6c15582",
+      "title": "Electrochemical Hydroformylation with a Homogeneous Rhodium Catalyst",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/jacs.6c15582"
+    },
+    {
+      "doi": "10.1021/jacs.6c13713",
+      "title": "Enantio- and Regioselective Ni-Catalyzed Hydroarylation of Alkenes and Alkynes to Form C–N Axially Chiral Heterobiaryls",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/jacs.6c13713"
+    },
+    {
+      "doi": "10.1021/jacs.6c12785",
+      "title": "Control of Electronic Properties of Organic–Inorganic MXenes via Surface Functionalization",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/jacs.6c12785"
+    },
+    {
+      "doi": "10.1021/jacs.6c12448",
+      "title": "Monofluoromethylphenylalanine: A Sensitive 19F Probe for Protein Conformational Dynamics In Vitro and in Cells",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/jacs.6c12448"
+    },
+    {
+      "doi": "10.1021/jacs.6c12059",
+      "title": "Redox-Active Bipyridine–Iron Half-Sandwich Complexes for Catalytic Carbene Transfer",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/jacs.6c12059"
+    },
+    {
+      "doi": "10.1021/jacs.6c10537",
+      "title": "Demarcating the Effects of Aliphatic Ester Chain Lengths and Molecular Weight on Electrode–Electrolyte Interphase Formation for Wide-Temperature Operation of Lithium-Ion Batteries",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/jacs.6c10537"
+    },
+    {
+      "doi": "10.1021/jacs.6c09766",
+      "title": "Adaptive Cinchona Alkaloid-Derived Organoboron Crystalline Sponges Enable Enantioseparation of Weakly Interacting Molecules",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/jacs.6c09766"
+    },
+    {
+      "doi": "10.1021/jacs.6c08887",
+      "title": "Chirality-Induced One-Way Magnetoresistance in Gold Nanocrystals",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/jacs.6c08887"
+    },
+    {
+      "doi": "10.1021/jacs.6c03714",
+      "title": "Widespread Biosynthesis of Thiohistidine Dipeptides in Bacteria",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/jacs.6c03714"
+    },
+    {
+      "doi": "10.1021/jacs.6c17259",
+      "title": "Visualizing Gas-Generating Catalysis at the Single-Nanoparticle Level via Dark-Field Microscopy with Multimodal Analysis",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/jacs.6c17259"
+    },
     {
       "doi": "10.1021/jacs.6c16429",
       "title": "Site-Selective Electronic Structure and Dynamical Softness in the Metallic Antiferromagnet Mn3CuN",

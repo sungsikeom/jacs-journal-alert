@@ -1,9 +1,27 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-10-01T21:17:39.283Z",
+  "collected_at": "2026-10-02T20:14:05.165Z",
   "scope_start": "2026-01-01",
-  "article_count": 915,
+  "article_count": 919,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02796",
+      "title": "Validation Strategy Dominates Model Choice in Chronological QSAR Evaluation",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02796"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02173",
+      "title": "DESPOT: Direction-Enhanced Scoring POTentials for Scoring of Protein–Ligand Interactions",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02173"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02092",
+      "title": "An Inverse Design Workflow for Solvent Mixtures Based on Hansen Solubility Parameters",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02092"
+    },
     {
       "doi": "10.1021/acs.jcim.6c03037",
       "title": "AcepKa: Thermodynamics-Informed pKa Prediction and Protonation-State Generation in PlayMolecule AI",
@@ -33,6 +51,12 @@
       "title": "Predicting Protein Thermostability with Equivariant Graph Neural Networks and Contrastive Learning",
       "published_date": "2026-10-01",
       "url": "https://doi.org/10.1021/acs.jcim.6c01926"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01817",
+      "title": "Decoding Conformational Dynamics and Hyperactivity of Histone H3K36 N-Methyltransferase in Oncogenic Mutations via tICA and Markov State Modeling",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01817"
     },
     {
       "doi": "10.1021/acs.jcim.6c01658",
