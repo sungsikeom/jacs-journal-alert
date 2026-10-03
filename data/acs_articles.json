@@ -1,11 +1,35 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-10-02T20:00:35.277Z",
+  "collected_at": "2026-10-03T20:00:32.529Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7822,
+  "article_count": 7826,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c17238",
+      "title": "Four-Photon Molecular Upconversion",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1021/jacs.6c17238"
+    },
+    {
+      "doi": "10.1021/jacs.6c14037",
+      "title": "Far-Red Turn-On Fluorogenic Probe for Versatile Detection of Inorganic Polyphosphates",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1021/jacs.6c14037"
+    },
+    {
+      "doi": "10.1021/jacs.6c13239",
+      "title": "Visible Light-Harvesting Dinuclear Chromium(III) Complex with Anthracene-Based Phosphorescence for Photon Upconversion and Photocatalysis",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1021/jacs.6c13239"
+    },
+    {
+      "doi": "10.1021/jacs.6c12969",
+      "title": "Aerobic Dehydrogenation by Coupled Electrochemical Reactions Governs Room-Temperature Proton Defect Chemistry in Functional Oxides",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1021/jacs.6c12969"
+    },
     {
       "doi": "10.1021/jacs.6c17455",
       "title": "Activity-Guided Identification of Pro-inflammatory Neutrophils with Dual Enzyme- and Metabolite-Activatable Fluorescent Probes",

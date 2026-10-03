@@ -1,17 +1,413 @@
 {
-  "checked_at": "2026-10-03T05:30:39+09:00",
+  "checked_at": "2026-10-04T05:30:18+09:00",
   "journal_count": 12,
-  "new_count": 47,
-  "total_count": 28681,
+  "new_count": 32,
+  "total_count": 28716,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-10-03",
+  "scope_end": "2026-10-04",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78364-5",
+      "title": "Monolithic three-dimensionally integrated memristor-thin-film transistor for electrically programmable multimode reservoir computing",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78364-5",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78299-x",
+      "title": "DCAF7 regulates hematopoietic stem cell function and differentiation through polycomb repressive complex 1 modulation",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78299-x",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78261-x",
+      "title": "Sustainability cost of defect engineering in color centers for quantum communications",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78261-x",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78257-7",
+      "title": "Joule-heated regenerable carbon dioxide capture filter for demand-controlled ventilation in indoor applications",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78257-7",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78235-z",
+      "title": "The structural dynamics and molecular coupling in the slow inactivation of a prokaryotic voltage-gated sodium channel",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78235-z",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78226-0",
+      "title": "Enantioselective palladium-catalyzed carbonylation of gem-dibromoalkenes to chiral benzo[7]annulenes",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78226-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78200-w",
+      "title": "Herbicide degradation is driven by communication-mediated division of labor in synthetic communities",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78200-w",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78194-5",
+      "title": "Spatiotemporally synchronized pure high-even-order dispersion solitons in multimode fiber lasers",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78194-5",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78165-w",
+      "title": "Self-restoration of reactive centers via contaminant-to-catalyst electron replenishment for sustained Fenton-like activity",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78165-w",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78054-2",
+      "title": "Design principle for mitigating moisture-induced degradation in 2D halide perovskites",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78054-2",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78050-6",
+      "title": "Near-atomistic simulations reveal the molecular principles that control chromatin structure and phase separation",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78050-6",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-78039-1",
+      "title": "Bulk mesophases modeling of ferroelectric nematic liquid crystals",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-78039-1",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77973-4",
+      "title": "Thermally programmed disassembly and reconstruction of 2D polymer platelets via melting-governed crystallization-driven self-assembly",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77973-4",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77942-x",
+      "title": "Top-down semantic predictions align phonetic neuronal dynamics in human superior temporal gyrus",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77942-x",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77941-y",
+      "title": "Saturation mutagenesis enables RAD51D clinical variant interpretation and identifies distinct biochemical functions",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77941-y",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77834-0",
+      "title": "Global climate impact of land-surface change driven by radiative effects",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77834-0",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77740-5",
+      "title": "A proximity-driven and regioselective peptide bicyclization (PReP-Bicyc) approach for phage display libraries",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77740-5",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41467-026-77088-w",
+      "title": "Universal random matrix behavior of a Fermionic quantum gas",
+      "journal": "Nature Communications",
+      "journal_short": "Nat Commun",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41467-026-77088-w",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c17238",
+      "title": "Four-Photon Molecular Upconversion",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c17238",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c14037",
+      "title": "Far-Red Turn-On Fluorogenic Probe for Versatile Detection of Inorganic Polyphosphates",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c14037",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c13239",
+      "title": "Visible Light-Harvesting Dinuclear Chromium(III) Complex with Anthracene-Based Phosphorescence for Photon Upconversion and Photocatalysis",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c13239",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/jacs.6c12969",
+      "title": "Aerobic Dehydrogenation by Coupled Electrochemical Reactions Governs Room-Temperature Proton Defect Chemistry in Functional Oxides",
+      "journal": "Journal of the American Chemical Society",
+      "journal_short": "JACS",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/jacs.6c12969",
+      "sources": [
+        "acs"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02965",
+      "title": "Highly Controllable Polarity in Two-Dimensional Vertical Transistors",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02965",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02895",
+      "title": "Correlating In Situ Growth Kinetics with Nanorod Morphology Using iSCAT-FlucCS",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02895",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02764",
+      "title": "Nonadiabatic Dynamics near Multiple Light-Induced Conical Intersections under Bichromatic Driving: Quantum Wave-Packet Dynamics versus Floquet Surface Hopping",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02764",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02118",
+      "title": "Quantum Dot One-Dimensional Arrays Using Templates: Recent Progress and Future Perspectives",
+      "journal": "The Journal of Physical Chemistry Letters",
+      "journal_short": "JPCL",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02118",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02832",
+      "title": "Refining AMOEBA Electrostatics for d-Glucose and 1→4-Linked d-Glucose Oligosaccharides",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c02832",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01771",
+      "title": "GroScore: Automated Scoring of Protein–Protein Interactions Using Bidirectional Steered Molecular Dynamics",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c01771",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.7147123",
+      "title": "Mitigating Surface Poisoning by Bidirectional Regulation for Efficient C1-C2 Molecule Electrooxidation",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.7147123",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.3686104",
+      "title": "Sidechain Modulation of Responsive Metal-Organic Framework Pore Chirality for Enhanced Enantioseparation",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.3686104",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.3010868",
+      "title": "Metal-Templated Dynamic Reorganization of Macrocyclic Gold Complexes Toward an N-Doped Cycloparaphenylene Catenane",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.3010868",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1002/anie.1214768",
+      "title": "Ag─S Sites Steer Furfural Electroreduction to Furfuryl Alcohol",
+      "journal": "Angewandte Chemie International Edition",
+      "journal_short": "Angew. Chem. Int. Ed.",
+      "published_date": "2026-10-03",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1002/anie.1214768",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1038/s41557-026-02260-0",
+      "title": "A crystalline uranium Fischer-type carbyne",
+      "journal": "Nature Chemistry",
+      "journal_short": "Nat Chem",
+      "published_date": "2026-10-02",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1038/s41557-026-02260-0",
+      "sources": [
+        "publisher"
+      ]
+    },
     {
       "doi": "10.1038/s41467-026-78427-7",
       "title": "Immune correlates of protection are exposure-dependent: evidence from the Dominican Republic",
@@ -428,6 +824,30 @@
       "published_date": "2026-10-02",
       "indexed_at": null,
       "url": "https://doi.org/10.1021/acs.jcim.6c02092",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01934",
+      "title": "Topology-Aware Modeling of the Full Genome Reveals Stability Determinants in a Small Naked Virus",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-10-02",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c01934",
+      "sources": [
+        "publisher"
+      ]
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01725",
+      "title": "Enhanced Generalization through Atomic Embeddings and Cross-Element Parameterization",
+      "journal": "Journal of Chemical Information and Modeling",
+      "journal_short": "JCIM",
+      "published_date": "2026-10-02",
+      "indexed_at": null,
+      "url": "https://doi.org/10.1021/acs.jcim.6c01725",
       "sources": [
         "publisher"
       ]
@@ -344900,52 +345320,37 @@
     }
   ],
   "new_dois": [
-    "10.1038/s41467-026-78427-7",
-    "10.1038/s41467-026-78300-7",
-    "10.1038/s41467-026-78283-5",
-    "10.1038/s41467-026-78268-4",
-    "10.1038/s41467-026-78224-2",
-    "10.1038/s41467-026-78190-9",
-    "10.1038/s41467-026-78107-6",
-    "10.1038/s41467-026-78048-0",
-    "10.1038/s41467-026-77999-8",
-    "10.1038/s41467-026-77957-4",
-    "10.1038/s41467-026-77903-4",
-    "10.1038/s41467-026-77797-2",
-    "10.1038/s41467-026-77518-9",
-    "10.1021/jacs.6c17455",
-    "10.1021/jacs.6c17350",
-    "10.1021/jacs.6c16569",
-    "10.1021/jacs.6c16285",
-    "10.1021/jacs.6c16205",
-    "10.1021/jacs.6c15929",
-    "10.1021/jacs.6c15582",
-    "10.1021/jacs.6c13713",
-    "10.1021/jacs.6c12785",
-    "10.1021/jacs.6c12448",
-    "10.1021/jacs.6c12059",
-    "10.1021/jacs.6c10537",
-    "10.1021/jacs.6c09766",
-    "10.1021/jacs.6c08887",
-    "10.1021/jacs.6c03714",
-    "10.1021/acs.jpclett.6c02943",
-    "10.1021/acs.jpclett.6c02575",
-    "10.1021/acs.jpclett.6c02566",
-    "10.1021/acs.jpclett.6c02503",
-    "10.1021/acs.jcim.6c02796",
-    "10.1021/acs.jcim.6c02173",
-    "10.1021/acs.jcim.6c02092",
-    "10.1002/anie.9707369",
-    "10.1002/anie.8584442",
-    "10.1002/anie.8313043",
-    "10.1002/anie.7934270",
-    "10.1002/anie.7342949",
-    "10.1002/anie.6218520",
-    "10.1002/anie.5837873",
-    "10.1002/anie.4432478",
-    "10.1002/anie.3744091",
-    "10.1002/anie.2375835",
-    "10.1002/anie.2226950",
-    "10.1002/anie.1871980"
+    "10.1038/s41467-026-78364-5",
+    "10.1038/s41467-026-78299-x",
+    "10.1038/s41467-026-78261-x",
+    "10.1038/s41467-026-78257-7",
+    "10.1038/s41467-026-78235-z",
+    "10.1038/s41467-026-78226-0",
+    "10.1038/s41467-026-78200-w",
+    "10.1038/s41467-026-78194-5",
+    "10.1038/s41467-026-78165-w",
+    "10.1038/s41467-026-78054-2",
+    "10.1038/s41467-026-78050-6",
+    "10.1038/s41467-026-78039-1",
+    "10.1038/s41467-026-77973-4",
+    "10.1038/s41467-026-77942-x",
+    "10.1038/s41467-026-77941-y",
+    "10.1038/s41467-026-77834-0",
+    "10.1038/s41467-026-77740-5",
+    "10.1038/s41467-026-77088-w",
+    "10.1021/jacs.6c17238",
+    "10.1021/jacs.6c14037",
+    "10.1021/jacs.6c13239",
+    "10.1021/jacs.6c12969",
+    "10.1021/acs.jpclett.6c02965",
+    "10.1021/acs.jpclett.6c02895",
+    "10.1021/acs.jpclett.6c02764",
+    "10.1021/acs.jpclett.6c02118",
+    "10.1021/acs.jcim.6c02832",
+    "10.1021/acs.jcim.6c01771",
+    "10.1002/anie.7147123",
+    "10.1002/anie.3686104",
+    "10.1002/anie.3010868",
+    "10.1002/anie.1214768"
   ]
 }

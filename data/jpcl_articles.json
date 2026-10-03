@@ -1,9 +1,33 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-10-02T20:17:21.592Z",
+  "collected_at": "2026-10-03T20:17:19.020Z",
   "scope_start": "2026-01-01",
-  "article_count": 1308,
+  "article_count": 1312,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02965",
+      "title": "Highly Controllable Polarity in Two-Dimensional Vertical Transistors",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02965"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02895",
+      "title": "Correlating In Situ Growth Kinetics with Nanorod Morphology Using iSCAT-FlucCS",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02895"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02764",
+      "title": "Nonadiabatic Dynamics near Multiple Light-Induced Conical Intersections under Bichromatic Driving: Quantum Wave-Packet Dynamics versus Floquet Surface Hopping",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02764"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02118",
+      "title": "Quantum Dot One-Dimensional Arrays Using Templates: Recent Progress and Future Perspectives",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02118"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02943",
       "title": "Interplay of B-Site Off-Centering and Molecular Orientations in the Mixed Hybrid Perovskite MAGe1–xSnxI3",

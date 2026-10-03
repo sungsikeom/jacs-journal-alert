@@ -1,9 +1,33 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-10-02T20:23:53.937Z",
+  "collected_at": "2026-10-03T20:23:51.037Z",
   "scope_start": "2026-01-01",
-  "article_count": 2743,
+  "article_count": 2747,
   "articles": [
+    {
+      "doi": "10.1002/anie.7147123",
+      "title": "Mitigating Surface Poisoning by Bidirectional Regulation for Efficient C1-C2 Molecule Electrooxidation",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1002/anie.7147123"
+    },
+    {
+      "doi": "10.1002/anie.3686104",
+      "title": "Sidechain Modulation of Responsive Metal-Organic Framework Pore Chirality for Enhanced Enantioseparation",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1002/anie.3686104"
+    },
+    {
+      "doi": "10.1002/anie.3010868",
+      "title": "Metal-Templated Dynamic Reorganization of Macrocyclic Gold Complexes Toward an N-Doped Cycloparaphenylene Catenane",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1002/anie.3010868"
+    },
+    {
+      "doi": "10.1002/anie.1214768",
+      "title": "Ag─S Sites Steer Furfural Electroreduction to Furfuryl Alcohol",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1002/anie.1214768"
+    },
     {
       "doi": "10.1002/anie.9707369",
       "title": "Conformation-Selective Binding Domains of Intramolecular Chemically Induced Protein Dimerisation Systems",

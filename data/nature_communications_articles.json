@@ -1,9 +1,117 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-10-02T20:04:02.915Z",
+  "collected_at": "2026-10-03T20:03:59.979Z",
   "scope_start": "2026-01-01",
-  "article_count": 9138,
+  "article_count": 9156,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78364-5",
+      "title": "Monolithic three-dimensionally integrated memristor-thin-film transistor for electrically programmable multimode reservoir computing",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1038/s41467-026-78364-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-78299-x",
+      "title": "DCAF7 regulates hematopoietic stem cell function and differentiation through polycomb repressive complex 1 modulation",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1038/s41467-026-78299-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-78261-x",
+      "title": "Sustainability cost of defect engineering in color centers for quantum communications",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1038/s41467-026-78261-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-78257-7",
+      "title": "Joule-heated regenerable carbon dioxide capture filter for demand-controlled ventilation in indoor applications",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1038/s41467-026-78257-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-78235-z",
+      "title": "The structural dynamics and molecular coupling in the slow inactivation of a prokaryotic voltage-gated sodium channel",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1038/s41467-026-78235-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-78226-0",
+      "title": "Enantioselective palladium-catalyzed carbonylation of gem-dibromoalkenes to chiral benzo[7]annulenes",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1038/s41467-026-78226-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78200-w",
+      "title": "Herbicide degradation is driven by communication-mediated division of labor in synthetic communities",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1038/s41467-026-78200-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-78194-5",
+      "title": "Spatiotemporally synchronized pure high-even-order dispersion solitons in multimode fiber lasers",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1038/s41467-026-78194-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-78165-w",
+      "title": "Self-restoration of reactive centers via contaminant-to-catalyst electron replenishment for sustained Fenton-like activity",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1038/s41467-026-78165-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-78054-2",
+      "title": "Design principle for mitigating moisture-induced degradation in 2D halide perovskites",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1038/s41467-026-78054-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-78050-6",
+      "title": "Near-atomistic simulations reveal the molecular principles that control chromatin structure and phase separation",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1038/s41467-026-78050-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-78039-1",
+      "title": "Bulk mesophases modeling of ferroelectric nematic liquid crystals",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1038/s41467-026-78039-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-77973-4",
+      "title": "Thermally programmed disassembly and reconstruction of 2D polymer platelets via melting-governed crystallization-driven self-assembly",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1038/s41467-026-77973-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-77942-x",
+      "title": "Top-down semantic predictions align phonetic neuronal dynamics in human superior temporal gyrus",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1038/s41467-026-77942-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77941-y",
+      "title": "Saturation mutagenesis enables RAD51D clinical variant interpretation and identifies distinct biochemical functions",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1038/s41467-026-77941-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77834-0",
+      "title": "Global climate impact of land-surface change driven by radiative effects",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1038/s41467-026-77834-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77740-5",
+      "title": "A proximity-driven and regioselective peptide bicyclization (PReP-Bicyc) approach for phage display libraries",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1038/s41467-026-77740-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77088-w",
+      "title": "Universal random matrix behavior of a Fermionic quantum gas",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1038/s41467-026-77088-w"
+    },
     {
       "doi": "10.1038/s41467-026-78427-7",
       "title": "Immune correlates of protection are exposure-dependent: evidence from the Dominican Republic",
