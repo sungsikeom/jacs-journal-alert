@@ -1,9 +1,81 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-10-03T20:23:51.037Z",
+  "collected_at": "2026-10-04T20:23:51.944Z",
   "scope_start": "2026-01-01",
-  "article_count": 2747,
+  "article_count": 2759,
   "articles": [
+    {
+      "doi": "10.1002/anie.9809366",
+      "title": "Raman Self-Tracking Copper Metal-Organic Framework-Based Nanoplatform for Cuproptosis Cancer Therapy",
+      "published_date": "2026-10-04",
+      "url": "https://doi.org/10.1002/anie.9809366"
+    },
+    {
+      "doi": "10.1002/anie.9140489",
+      "title": "The tRNA-Modification Geranyl-2-Thiouridine Enables RNA-Lipid Association",
+      "published_date": "2026-10-04",
+      "url": "https://doi.org/10.1002/anie.9140489"
+    },
+    {
+      "doi": "10.1002/anie.8598826",
+      "title": "Click-to-Release Reactivity of Quaternary Anilinium Tetrazines Enables Cascade Assembly of Multifunctional Biomolecular Scaffolds",
+      "published_date": "2026-10-04",
+      "url": "https://doi.org/10.1002/anie.8598826"
+    },
+    {
+      "doi": "10.1002/anie.7816959",
+      "title": "Aromaticity Engineering of Hybrid Cyanine Dyes for Metabolic Labeling and Bioorthogonal NIR-II Imaging of Gut Microbiota",
+      "published_date": "2026-10-04",
+      "url": "https://doi.org/10.1002/anie.7816959"
+    },
+    {
+      "doi": "10.1002/anie.7110968",
+      "title": "Yulian He",
+      "published_date": "2026-10-04",
+      "url": "https://doi.org/10.1002/anie.7110968"
+    },
+    {
+      "doi": "10.1002/anie.6374020",
+      "title": "Photo-Enhanced Electronic Metal–Support Interaction Boosts Low-Temperature Water–Gas Shift Reaction via Niδ+–OV–Ce3+ Interfacial Redox Cycling",
+      "published_date": "2026-10-04",
+      "url": "https://doi.org/10.1002/anie.6374020"
+    },
+    {
+      "doi": "10.1002/anie.6256116",
+      "title": "Unsaturated Carboxylates as Electrophilic Synthons for Transition-Metal-Catalyst-Free Electroreductive Deoxygenative Coupling",
+      "published_date": "2026-10-04",
+      "url": "https://doi.org/10.1002/anie.6256116"
+    },
+    {
+      "doi": "10.1002/anie.5679433",
+      "title": "Radical Markovnikov Hydroboration of Unactivated Terminal Alkenes With HBaza-Type Hydroborane via a Triple Catalysis",
+      "published_date": "2026-10-04",
+      "url": "https://doi.org/10.1002/anie.5679433"
+    },
+    {
+      "doi": "10.1002/anie.5308557",
+      "title": "Microstructured Metal Electrodeposition at a Micellar Brush-Decorated Interface",
+      "published_date": "2026-10-04",
+      "url": "https://doi.org/10.1002/anie.5308557"
+    },
+    {
+      "doi": "10.1002/anie.4290539",
+      "title": "Interface-Induced Growth of Macroscopic, Free-Standing, and Flexible Monolithic Pure MOF Membrane With Adaptive Porosity",
+      "published_date": "2026-10-04",
+      "url": "https://doi.org/10.1002/anie.4290539"
+    },
+    {
+      "doi": "10.1002/anie.3998761",
+      "title": "Bio-Based Solution for Polyolefin Synthesis Enabled by Carbonate Solvent and Comonomer",
+      "published_date": "2026-10-04",
+      "url": "https://doi.org/10.1002/anie.3998761"
+    },
+    {
+      "doi": "10.1002/anie.2645239",
+      "title": "Iterative Optimization of Photoactivatable BRD4 Degraders for Aging-Amplified Immunotherapy in Patient-Derived Lung Cancer Organoids",
+      "published_date": "2026-10-04",
+      "url": "https://doi.org/10.1002/anie.2645239"
+    },
     {
       "doi": "10.1002/anie.7147123",
       "title": "Mitigating Surface Poisoning by Bidirectional Regulation for Efficient C1-C2 Molecule Electrooxidation",

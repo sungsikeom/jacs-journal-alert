@@ -1,9 +1,27 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-10-03T20:03:59.979Z",
+  "collected_at": "2026-10-04T20:04:00.040Z",
   "scope_start": "2026-01-01",
-  "article_count": 9156,
+  "article_count": 9159,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78452-6",
+      "title": "A family of small proteins links c-di-GMP riboswitch signaling with sporulation in Clostridioides difficile",
+      "published_date": "2026-10-04",
+      "url": "https://doi.org/10.1038/s41467-026-78452-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-78130-7",
+      "title": "A CCL21 gene-modified dendritic cell vaccine combined with pembrolizumab in advanced non-small cell lung cancer: a phase I trial",
+      "published_date": "2026-10-04",
+      "url": "https://doi.org/10.1038/s41467-026-78130-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-78126-3",
+      "title": "Multivalent antiviral conjugates enhance activity against Influenza via cross-linking viruses",
+      "published_date": "2026-10-04",
+      "url": "https://doi.org/10.1038/s41467-026-78126-3"
+    },
     {
       "doi": "10.1038/s41467-026-78364-5",
       "title": "Monolithic three-dimensionally integrated memristor-thin-film transistor for electrically programmable multimode reservoir computing",
