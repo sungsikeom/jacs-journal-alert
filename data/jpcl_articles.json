@@ -1,9 +1,81 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-10-04T20:17:19.319Z",
+  "collected_at": "2026-10-05T20:17:21.810Z",
   "scope_start": "2026-01-01",
-  "article_count": 1312,
+  "article_count": 1324,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c03064",
+      "title": "Dynamics and Energy Relaxation of Formic Acid Dimers Following Inner Valence Ionization",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c03064"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c03037",
+      "title": "Attacking Bridging Sulfur by a Soft Cation to Disrupt Lithium Polysulfide Clusters for Low-Temperature Lithium–Sulfur Batteries",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c03037"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02972",
+      "title": "Ion-Size Heterogeneity Controls Interfacial Electrostatic Response in Mixed Ionic Liquids",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02972"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02937",
+      "title": "Resolving the Nature of the Lowest-Frequency Raman Mode of Liquid Water",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02937"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02732",
+      "title": "Ligand Exchange Reprograms Blinking Dynamics and Photon Statistics in Single InP/ZnS Quantum Dots",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02732"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02671",
+      "title": "Spins Afar─Long-Range Pulse Dipolar EPR Spectroscopy Uncovers Curvature in TRIM25’s Coiled Coil",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02671"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02588",
+      "title": "Revisiting closo-Dodecaborate Anions as Superchaotropic Carriers through a Microsolvation View",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02588"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02404",
+      "title": "Cavity-Assisted High-Efficiency Excitation of High-Q Quasi-BIC Resonance in the Hexagonal Non-Close-Packed Ellipsoidal Silver-Shells Array",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02404"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02396",
+      "title": "Limits of Memory-Assisted Coherence in Cavity-Embedded Molecules",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02396"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02328",
+      "title": "Inducing Enantioselectivity in Radiative Charge-Transfer Rates through Chiral Quantum Electrodynamic Fluctuations",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02328"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02264",
+      "title": "A Carbonyl-Rich Conjugated Microporous Polymer for Highly Efficient Lithiumion Storage",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02264"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02249",
+      "title": "Formation of Carbonisocyanatidic Amide in Interstellar Ice Analogs as a Candidate Precursor to Prebiotic Pyrimidines",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02249"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02965",
       "title": "Highly Controllable Polarity in Two-Dimensional Vertical Transistors",

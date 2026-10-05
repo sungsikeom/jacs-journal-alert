@@ -1,11 +1,113 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-10-04T20:00:33.115Z",
+  "collected_at": "2026-10-05T20:00:34.596Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7828,
+  "article_count": 7845,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c18466",
+      "title": "Correction to “Heteroatom-Engineered Atomic Electric Fields Activate C–F Bond for Efficient Perfluorocarbon Decomposition”",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/jacs.6c18466"
+    },
+    {
+      "doi": "10.1021/jacs.6c16809",
+      "title": "A Radical Addition–Diradical Coupling Switch Unifies Cytochrome P450-Catalyzed Diketopiperazine Dimerization",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/jacs.6c16809"
+    },
+    {
+      "doi": "10.1021/jacs.6c16251",
+      "title": "Enantio-, Regio-, and E-Selective Hydroboration of 1,3-Dienylsilanes to Construct Bifunctional Allylation Reagents",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/jacs.6c16251"
+    },
+    {
+      "doi": "10.1021/jacs.6c16103",
+      "title": "Chiral Ti(BOX)–LMCT Catalysis Integrating Alcohol C–C Bond Cleavage with Enantioselective Radical Conjugate Addition",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/jacs.6c16103"
+    },
+    {
+      "doi": "10.1021/jacs.6c15880",
+      "title": "The Oxacyclobutylidenecarbene-Oxacyclopentyne System: Experimental Access and Theoretical Studies",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/jacs.6c15880"
+    },
+    {
+      "doi": "10.1021/jacs.6c15418",
+      "title": "Confinement–Induced N2–Phobicity Enables O2 Extraction from Air for Catalysis",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/jacs.6c15418"
+    },
+    {
+      "doi": "10.1021/jacs.6c15297",
+      "title": "Nuclear–Electronic Orbital Theory: Exploring Nuclear Quantum Effects in Chemistry, Biology, and Materials",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/jacs.6c15297"
+    },
+    {
+      "doi": "10.1021/jacs.6c15290",
+      "title": "Investigation of Sulfur-related Influences on the Construction and Ring Opening of a Six-membered Cyclic Xanthate Derived from d-Thymidine and CS2",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/jacs.6c15290"
+    },
+    {
+      "doi": "10.1021/jacs.6c14669",
+      "title": "Harnessing Differential Restriction of Molecular Motion within a Single Fluorophore for Versatile Bioimaging",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/jacs.6c14669"
+    },
+    {
+      "doi": "10.1021/jacs.6c13986",
+      "title": "The Key Role of Solvation in Enhancing Electrochemical Promotion of Brønsted Acid Catalysis",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/jacs.6c13986"
+    },
+    {
+      "doi": "10.1021/jacs.6c13917",
+      "title": "Activatable Nanovesicle Rewires Immunometabolic Barriers for NIR-II Photoacoustic-Guided Sono-immunotherapy of Glioblastoma",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/jacs.6c13917"
+    },
+    {
+      "doi": "10.1021/jacs.6c13787",
+      "title": "Chemo- and Stereoselective Semireduction of Alkynes to E-Alkenes Catalyzed by Nonheme Iron Enzymes",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/jacs.6c13787"
+    },
+    {
+      "doi": "10.1021/jacs.6c13351",
+      "title": "Mixed-Anion Mischief: Lone Pairs Meet Ionic Bonds to Suppress Thermal Transport in Quasi-1D Bi3Se4Br",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/jacs.6c13351"
+    },
+    {
+      "doi": "10.1021/jacs.6c13060",
+      "title": "Isoreticular Covalent Organic Frameworks with Complementary Redox Cores Enable High-Voltage All-COF Sodium Dual-Ion Batteries",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/jacs.6c13060"
+    },
+    {
+      "doi": "10.1021/jacs.6c10097",
+      "title": "Small-Molecule Modulators of HIPK4 Activity and Proteostasis",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/jacs.6c10097"
+    },
+    {
+      "doi": "10.1021/jacs.6c08143",
+      "title": "Structure Selection in Ionic Colloidal Crystals via Independent Charge Tuning",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/jacs.6c08143"
+    },
+    {
+      "doi": "10.1021/jacs.6c07839",
+      "title": "Semisynthesis of Multiphosphorylated and Acetylated Histone Methyltransferase Dot1L Reveals Synergistic Inhibition of Nucleosomal H3K79 Methylation",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/jacs.6c07839"
+    },
     {
       "doi": "10.1021/jacs.6c15261",
       "title": "Mechanical Flipping of [1]Rotaxanes Toughens Polymer Networks",

@@ -1,9 +1,75 @@
 {
   "source": "RSC Chemical Science latest articles",
-  "collected_at": "2026-09-26T20:31:33.906Z",
+  "collected_at": "2026-10-05T20:29:17.635Z",
   "scope_start": "2026-01-01",
-  "article_count": 1517,
+  "article_count": 1528,
   "articles": [
+    {
+      "doi": "10.1039/d6sc90189a",
+      "title": "Correction: Robust biomimetic MOF featuring a negative pocket for precise recognition of uranyl, enabling ultrahigh U/V selectivity and rapid uranium extraction from seawater Open Access",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1039/d6sc90189a"
+    },
+    {
+      "doi": "10.1039/d6sc06330f",
+      "title": "Glycopolymer-based nanofibers with tunable polyelectrolyte content for modulating cellular interactions and drug delivery Open Access",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1039/d6sc06330f"
+    },
+    {
+      "doi": "10.1039/d6sc04940k",
+      "title": "Towards next generation enzyme mimics through local electric field control in organic cage catalysts Open Access",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1039/d6sc04940k"
+    },
+    {
+      "doi": "10.1039/d6sc06154k",
+      "title": "Phosphonium outperforms ammonium poly(ionic liquids) for fast ion transport polymer electrolytes Open Access",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1039/d6sc06154k"
+    },
+    {
+      "doi": "10.1039/d6sc05819a",
+      "title": "Cu–S bonding regulates polarization loss in ordered Cu-PEDOT networks under an electromagnetic field Open Access",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1039/d6sc05819a"
+    },
+    {
+      "doi": "10.1039/d6sc05344k",
+      "title": "Interfacial weak interaction bridges in PVDF-HFP electrolytes via nano-ZrP enable fast charging of solid-state lithium batteries Open Access",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1039/d6sc05344k"
+    },
+    {
+      "doi": "10.1039/d6sc05024g",
+      "title": "Stability enhancement of blue organic light-emitting diodes through exciton-density-dependent degradation analysis and triplet management Open Access",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1039/d6sc05024g"
+    },
+    {
+      "doi": "10.1039/d6sc05000j",
+      "title": "Cross-dehydrogenative coupling macrocyclization for the construction of donor–acceptor nanohoops Open Access",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1039/d6sc05000j"
+    },
+    {
+      "doi": "10.1039/d6sc04901j",
+      "title": "Flexible receptor architectures for anion recognition via ionic hydrogen bonding Open Access",
+      "published_date": "2026-09-29",
+      "url": "https://doi.org/10.1039/d6sc04901j"
+    },
+    {
+      "doi": "10.1039/d6sc06427b",
+      "title": "Ligand- and alkali metal identity-effects in ligand-induced ortho-selective C(sp2)–H metalation of neophyl-sodium and lithium complexes Open Access",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1039/d6sc06427b"
+    },
+    {
+      "doi": "10.1039/d6sc05983j",
+      "title": "Amorphization-enabled decoupling of hydrogen and hydroxide binding on RuSi for efficient alkaline hydrogen evolution Open Access",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1039/d6sc05983j"
+    },
     {
       "doi": "10.1039/d6sc04635e",
       "title": "A Non-enantiopure H8-BINOL Metal-Organic Framework for Enantioselective Fluorescence Sensing Open Access",

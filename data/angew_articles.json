@@ -1,9 +1,51 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-10-04T20:23:51.944Z",
+  "collected_at": "2026-10-05T20:23:53.877Z",
   "scope_start": "2026-01-01",
-  "article_count": 2759,
+  "article_count": 2766,
   "articles": [
+    {
+      "doi": "10.1002/anie.7674294",
+      "title": "Ultrathin b-Oriented Co-Gallate MOF Membranes for Lithium Recovery: Precise Ion Sieving via Geometry-Confined Dehydration",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1002/anie.7674294"
+    },
+    {
+      "doi": "10.1002/anie.7521352",
+      "title": "Hydrophobic Microphase Separation-Driven Polycondensation and Carbonization for the Formation of Carbonized Polymer Dots",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1002/anie.7521352"
+    },
+    {
+      "doi": "10.1002/anie.7455224",
+      "title": "Efficient and Robust Organic Solar Cells Enabled by Nanofibrillar Electron Transport Layer via Seed-Initiated Epitaxial Growth",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1002/anie.7455224"
+    },
+    {
+      "doi": "10.1002/anie.5803864",
+      "title": "To Greater Twist: A Kinetically Biased π-Radical Cascade",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1002/anie.5803864"
+    },
+    {
+      "doi": "10.1002/anie.5707650",
+      "title": "Mirror versus Inversion Symmetry Breaking in Mesogenic Dimers: NTB versus NF Phase",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1002/anie.5707650"
+    },
+    {
+      "doi": "10.1002/anie.1863949",
+      "title": "Hybrid-Secondary Ion Mass Spectrometry Probes Atomic-Scale Insight Into Selective C─C Bond Cleavage in PET Upcycling",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1002/anie.1863949"
+    },
+    {
+      "doi": "10.1002/anie.1388948",
+      "title": "Phosphate-Modulated Asymmetric Copper Catalysis for Photochemical Enantioselective S-Benzylation of Sulfenamides",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1002/anie.1388948"
+    },
     {
       "doi": "10.1002/anie.9809366",
       "title": "Raman Self-Tracking Copper Metal-Organic Framework-Based Nanoplatform for Cuproptosis Cancer Therapy",

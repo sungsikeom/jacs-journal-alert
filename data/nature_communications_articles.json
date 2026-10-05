@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-10-04T20:04:00.040Z",
+  "collected_at": "2026-10-05T20:04:01.272Z",
   "scope_start": "2026-01-01",
-  "article_count": 9159,
+  "article_count": 9179,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78468-y",
+      "title": "Narrowing urban heat disparities alongside faster greening in low-income neighborhoods across cities in the United States",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1038/s41467-026-78468-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-78432-w",
+      "title": "Large-scale proteomics identifies circulating markers of pulmonary pressure and pulmonary hypertension risk",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1038/s41467-026-78432-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-78421-z",
+      "title": "Selective radical pathways on defect-engineered electrophilic biochar for sustainable water purification",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1038/s41467-026-78421-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-78337-8",
+      "title": "Self-foaming sintering-resistant iron-tungsten powders enable high-cycle thermochemical hydrogen storage",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1038/s41467-026-78337-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-78294-2",
+      "title": "Electrochemiluminescence shunt via bi-based co-reaction accelerator for the identification of pentanol isomers",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1038/s41467-026-78294-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-78275-5",
+      "title": "Global scale river discharge and mean depth from radar altimetry and model",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1038/s41467-026-78275-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-78253-x",
+      "title": "Ghd7‑triggered transcriptional regulation for synergistically improving rice eating quality and yield",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1038/s41467-026-78253-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-78252-y",
+      "title": "RFWD3/FANCW orchestrates post-replicative filling of ssDNA gaps to promote UV tolerance",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1038/s41467-026-78252-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-78250-0",
+      "title": "Stomatin organizes laterally segregated membrane microdomains to modulate transmembrane transport and signal transduction",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1038/s41467-026-78250-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78240-2",
+      "title": "Ecological memory of prolonged plasmid persistence after transient antibiotic exposure",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1038/s41467-026-78240-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-78220-6",
+      "title": "Coordination ring-opening transamidation copolymerization of cyclic lactones and lactams towards circular and biodegradable poly(ester amide) adhesives",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1038/s41467-026-78220-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-78208-2",
+      "title": "Reconfiguring interfacial hydrogen-bond networks to enhance anodic oxidation for efficient wastewater treatment",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1038/s41467-026-78208-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-78199-0",
+      "title": "Sexually dimorphic control of excitatory synapse maintenance in ventral hippocampal circuits by Neurexin2α ligand Vstm2b",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1038/s41467-026-78199-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78135-2",
+      "title": "Transmembrane PhoxID: photoproximity labelling across the plasma membrane in vivo",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1038/s41467-026-78135-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-78100-z",
+      "title": "A multi-center, single-arm, phase 2 trial of dasatinib in T follicular helper cell lymphomas",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1038/s41467-026-78100-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-78098-4",
+      "title": "PSHIC reveals allele-specific chromatin organization by phasing-free structural modeling",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1038/s41467-026-78098-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-78043-5",
+      "title": "Aridity regulates scale-dependent effects of multiple resource additions on productivity stability in Eurasian grasslands",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1038/s41467-026-78043-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77971-6",
+      "title": "Superlattice Engineering in Relaxor Ferroelectric-based Capacitors for Ultra-Highly Efficient Recoverable Energy Storage Density",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1038/s41467-026-77971-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-77915-0",
+      "title": "Elastically bendable chiral metal halide crystals",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1038/s41467-026-77915-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-77744-1",
+      "title": "Reframing decentralized diagnostics with a programmable multi-dimensional microfluidic system",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1038/s41467-026-77744-1"
+    },
     {
       "doi": "10.1038/s41467-026-78452-6",
       "title": "A family of small proteins links c-di-GMP riboswitch signaling with sporulation in Clostridioides difficile",
