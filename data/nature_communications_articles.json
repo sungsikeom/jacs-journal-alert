@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-10-05T20:04:01.272Z",
+  "collected_at": "2026-10-06T20:04:06.323Z",
   "scope_start": "2026-01-01",
-  "article_count": 9179,
+  "article_count": 9199,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78564-z",
+      "title": "Ultrathin high-performance circular polarizers based on MoOCl2/NbOCl2 van der Waals heterostructures",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1038/s41467-026-78564-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-78460-6",
+      "title": "Real-time visualization of G2L4 reverse transcriptase in DNA repair via microhomology-mediated end joining",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1038/s41467-026-78460-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-78444-6",
+      "title": "Distinct T cell correlates of COVID-19 risk before and after a second booster in previously SARS-CoV-2 infected versus naïve COVAIL trial participants",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1038/s41467-026-78444-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-78400-4",
+      "title": "Microbial ecological instability and non-linear host interactions shape airway inflammation in HIV-associated COPD",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1038/s41467-026-78400-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-78385-0",
+      "title": "Chiral-nematic Fermi liquid state as the parent state of kagome metals and superconductors",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1038/s41467-026-78385-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78350-x",
+      "title": "Symmetry-engineered and electrically tunable in-plane anomalous Hall effect in oxide heterostructures",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1038/s41467-026-78350-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-78339-6",
+      "title": "Prospects and complexities in sustainability impacts of global residue-based bioenergy deployment",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1038/s41467-026-78339-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-78304-3",
+      "title": "RhoA Y42C drives cell plasticity and PD-1-mediated immune evasion of diffuse gastric cancer",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1038/s41467-026-78304-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-78290-6",
+      "title": "Gastrointestinal tract delivery of hydrogen by dynamic gas-releasing frameworks",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1038/s41467-026-78290-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-78282-6",
+      "title": "Catalytic asymmetric dearomatization of (hetero)aromatic frameworks",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1038/s41467-026-78282-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-78233-1",
+      "title": "Water-oil interfacial kinetics control enables water-based organic solar cells with 12.59% certified efficiency",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1038/s41467-026-78233-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-78231-3",
+      "title": "Neoadjuvant pepinemab in combination with nivolumab and/or ipilimumab in resectable metastatic melanoma: a pilot biomarker-driven trial",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1038/s41467-026-78231-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-78230-4",
+      "title": "Anthropogenic aerosol reduction contributes to faster flash drought onset in a changing climate",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1038/s41467-026-78230-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-78192-7",
+      "title": "MOF-mediated cascade photoreactions under nanoconfinement for defluorination of per- and polyfluoroalkyl substances",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1038/s41467-026-78192-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-78178-5",
+      "title": "Embryonic origin of cancer in newborn twins",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1038/s41467-026-78178-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-78162-z",
+      "title": "Genetically engineered RNA inducers of proximity for protein regulation",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1038/s41467-026-78162-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-78000-2",
+      "title": "Differential effects of visual and tactile deprivation on spatially modulated cells in the medial entorhinal cortex",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1038/s41467-026-78000-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77606-w",
+      "title": "The limits of Antarctic conservation governance",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1038/s41467-026-77606-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-77524-x",
+      "title": "Bifidobacterium animalis subsp. lactis BL-99 ameliorates age-related intestinal hypomotility in older adults: a randomized controlled trial",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1038/s41467-026-77524-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-73360-1",
+      "title": "Reply to “On the Author Correction to “Magnetic field screening in hydride superconductors (Nature Comm. 13, 8144 (2024))”",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1038/s41467-026-73360-1"
+    },
     {
       "doi": "10.1038/s41467-026-78468-y",
       "title": "Narrowing urban heat disparities alongside faster greening in low-income neighborhoods across cities in the United States",

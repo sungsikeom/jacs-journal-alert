@@ -1,11 +1,113 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-10-05T20:00:34.596Z",
+  "collected_at": "2026-10-06T20:00:38.942Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7845,
+  "article_count": 7863,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c18456",
+      "title": "Correction to “A Light-Driven Constitutional Pump”",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/jacs.6c18456"
+    },
+    {
+      "doi": "10.1021/jacs.6c16954",
+      "title": "UCTh@D3h(5)-C78: Fullerene-Stabilized Heterobimetallic Cluster with Distinctive Actinide–Carbon Multiple Bonds",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/jacs.6c16954"
+    },
+    {
+      "doi": "10.1021/jacs.6c16577",
+      "title": "Kinetic Programming of Dynamic Covalent Networks via Isomer-Pure Diels–Alder Kinetics",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/jacs.6c16577"
+    },
+    {
+      "doi": "10.1021/jacs.6c15533",
+      "title": "Local Structures Associated with Molecular Access in an Extra-Large-Pore Zeolite",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/jacs.6c15533"
+    },
+    {
+      "doi": "10.1021/jacs.6c15525",
+      "title": "A Molecular Analog-to-Digital Converter Based on a Self-Correcting DNA Multilayer Threshold Gate System",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/jacs.6c15525"
+    },
+    {
+      "doi": "10.1021/jacs.6c15035",
+      "title": "Plating-Induced Stress Heterogeneity Dictates Zinc Dendrite Growth",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/jacs.6c15035"
+    },
+    {
+      "doi": "10.1021/jacs.6c14800",
+      "title": "Concentration-Dependent Transition in the Rate-Determining Step of Hydrogen Evolution Driven by Pyridinium-Tethered Mononuclear and Dinuclear Platinum Photocatalysts",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/jacs.6c14800"
+    },
+    {
+      "doi": "10.1021/jacs.6c14103",
+      "title": "NO3– and *H Regulation on CoFe/FeN via Coordination Engineering for Efficient Nitrate Removal and Electroreduction to Ammonia",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/jacs.6c14103"
+    },
+    {
+      "doi": "10.1021/jacs.6c13337",
+      "title": "Adaptive Catalytic Synthesis of Aromatic and Aliphatic Amines via CO2-Induced Feedback Inhibition Using Standard Hydrogenation Catalysts",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/jacs.6c13337"
+    },
+    {
+      "doi": "10.1021/jacs.6c12978",
+      "title": "Air- and Thermally Stable Organometallic Fe(VI) Nitrides Enabled by a Tripodal Mesoionic Carbene Ligand: Access to a Water-Coordinated Fe(VI) Nitrido Complex",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/jacs.6c12978"
+    },
+    {
+      "doi": "10.1021/jacs.6c12455",
+      "title": "Flux-Enabled Synthesis of High-κ Two-dimensional SmTe1.33ClO5 with Ordered Tellurium Vacancies for Efficient Charge Trapping",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/jacs.6c12455"
+    },
+    {
+      "doi": "10.1021/jacs.6c12182",
+      "title": "Electric-Field-Oriented Interfacial Solvent Engineering Enables High-Voltage Ether Electrolytes for Ni-Rich Lithium-Ion Batteries",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/jacs.6c12182"
+    },
+    {
+      "doi": "10.1021/jacs.6c11297",
+      "title": "Operando Electrochemical Fluorescence Microscopy Highlights Local Buffering and Mass Transport Effects in Polymer-Promoted Electrocatalysis",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/jacs.6c11297"
+    },
+    {
+      "doi": "10.1021/jacs.6c11144",
+      "title": "Guest-Controlled Topochemical Polymerization and Dimerization of Macrocyclic Pillar[5]arene",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/jacs.6c11144"
+    },
+    {
+      "doi": "10.1021/jacs.6c10673",
+      "title": "Machine-Learning-Guided Design of Semirigid Hole-Selective Self-Assembled Monolayers for High-Efficiency and Stable Perovskite Solar Cells",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/jacs.6c10673"
+    },
+    {
+      "doi": "10.1021/jacs.6c10033",
+      "title": "A Bioinspired Hybrid Polymer Network Fusing Supramolecular and Mechanically Interlocked [an]Daisy Chains",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/jacs.6c10033"
+    },
+    {
+      "doi": "10.1021/jacs.6c09922",
+      "title": "Molecular Connectivity Controls Electronic Coupling and Charge-Transfer Dynamics at Anthracene–MoS2 Interfaces",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/jacs.6c09922"
+    },
     {
       "doi": "10.1021/jacs.6c18466",
       "title": "Correction to “Heteroatom-Engineered Atomic Electric Fields Activate C–F Bond for Efficient Perfluorocarbon Decomposition”",
@@ -59,6 +161,12 @@
       "title": "Harnessing Differential Restriction of Molecular Motion within a Single Fluorophore for Versatile Bioimaging",
       "published_date": "2026-10-05",
       "url": "https://doi.org/10.1021/jacs.6c14669"
+    },
+    {
+      "doi": "10.1021/jacs.6c14241",
+      "title": "Catalytic Redox-Neutral Decarboxylative Aromatization via Transfer Dehydrogenation",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/jacs.6c14241"
     },
     {
       "doi": "10.1021/jacs.6c13986",

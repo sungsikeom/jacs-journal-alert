@@ -1,9 +1,15 @@
 {
   "source": "Nature Chemistry Research Articles",
-  "collected_at": "2026-10-05T20:07:32.763Z",
+  "collected_at": "2026-10-06T20:07:37.070Z",
   "scope_start": "2009-01-01",
-  "article_count": 2518,
+  "article_count": 2519,
   "articles": [
+    {
+      "doi": "10.1038/s41557-026-02237-z",
+      "title": "The radical-radical cross-coupling of alkyl carboxylic acids and organoborons",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1038/s41557-026-02237-z"
+    },
     {
       "doi": "10.1038/s41557-026-02260-0",
       "title": "A crystalline uranium Fischer-type carbyne",

@@ -1,9 +1,51 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-10-05T20:14:05.000Z",
+  "collected_at": "2026-10-06T20:14:07.772Z",
   "scope_start": "2026-01-01",
-  "article_count": 924,
+  "article_count": 931,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c03353",
+      "title": "Correction to “Enhanced Regioselectivity Prediction of sp2 C–H Halogenation via Negative Data Augmentation and Multimodel Integration”",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/acs.jcim.6c03353"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c03139",
+      "title": "AI and the PI: Infinite Generation, Finite Understanding",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/acs.jcim.6c03139"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02332",
+      "title": "Validating and Correcting Graph Neural Network Attention for Drug-Induced Liver Injury Prediction",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02332"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02217",
+      "title": "Domain-Aware Feature Engineering for Prediction of Molecular Optical Interference in High-Throughput Screening",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02217"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02128",
+      "title": "Toward Autonomous Extraction and Building of Machine-Readable Molecular Models from Publications Using Large Language Models",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02128"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02098",
+      "title": "Structure-Guided Design of a Subnanomolar Dengue Virus NS4B Inhibitor",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02098"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01818",
+      "title": "SpectralMol: Spectral Graph Bisection Achieves Universal Molecular Fragment Decomposition for Drug-Like Molecule Generation",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01818"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02521",
       "title": "Mapping Functional Transitions across Protein Homologues from a Single Simulation: Application of gEDES-HM to Adenylate Kinases",

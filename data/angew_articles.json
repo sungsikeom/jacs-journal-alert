@@ -1,9 +1,33 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-10-05T20:23:53.877Z",
+  "collected_at": "2026-10-06T20:23:57.017Z",
   "scope_start": "2026-01-01",
-  "article_count": 2766,
+  "article_count": 2770,
   "articles": [
+    {
+      "doi": "10.1002/anie.5080799",
+      "title": "Bench-Stable α-Fluoroamines: Synthesis, Properties, and Application in Medicinal Chemistry",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1002/anie.5080799"
+    },
+    {
+      "doi": "10.1002/anie.4947314",
+      "title": "Inducing Radicality in Gold-Coordinated Porphyrinoids Through Precise Tip-Induced Covalent Bond Dissociation",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1002/anie.4947314"
+    },
+    {
+      "doi": "10.1002/anie.3751201",
+      "title": "Programmable Molecular Hubs Orchestrate Orthogonal CO2-to-CH4 Photocatalysis and Biomass Valorization",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1002/anie.3751201"
+    },
+    {
+      "doi": "10.1002/anie.1927294",
+      "title": "Tunable Raman Scattering of Fe(II) Coordination Networks With Magnetic Fields",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1002/anie.1927294"
+    },
     {
       "doi": "10.1002/anie.7674294",
       "title": "Ultrathin b-Oriented Co-Gallate MOF Membranes for Lithium Recovery: Precise Ion Sieving via Geometry-Confined Dehydration",

@@ -1,9 +1,87 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-09-29T20:14:55.199Z",
+  "collected_at": "2026-10-06T20:10:52.177Z",
   "scope_start": "2026-01-01",
-  "article_count": 732,
+  "article_count": 745,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01469",
+      "title": "Dual Machine-Learning Prediction of Excited-State Energetics from Ground-State Descriptors and Its Implication on Intramolecular Singlet Fission in Dimeric Chromophores",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01469"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01456",
+      "title": "First-Principles Modeling of Charge Transfer Excitons in Organic Solar Cells",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01456"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01132",
+      "title": "Accessing Free-Energy Barriers from Unbiasing Dynamics: Delocalized Transition States in Heterogeneous Catalysis",
+      "published_date": "2026-10-05",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01132"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01130",
+      "title": "Unified Mesoscale Framework Bridging Equilibrium Thermodynamics and Transport Properties of Ionic Liquids and Their Mixtures",
+      "published_date": "2026-10-04",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01130"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01707",
+      "title": "Predicting the Radical Character of Open-Shell Nanographenes with the GVB-Based Block-Correlated Coupled Cluster Theory",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01707"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01170",
+      "title": "Clifford Disentanglers for Entanglement Reduction in Molecular Electronic Structure Simulations",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01170"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01109",
+      "title": "Convolutional Kernel-Embedded E(3)-Equivariant Networks (KEN): Overcoming Architectural Rigidity in Machine Learning Interatomic Potentials",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01109"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01037",
+      "title": "Beyond Multiscale: A Neural-Network-Unified Molecular Model for Asymmetry-Free Dynamics Simulation",
+      "published_date": "2026-10-02",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01037"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01395",
+      "title": "Bayesian Learning of Distance Metrics Beyond RMSD for Biomolecule Alignment, Clustering, and Domain Identification",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01395"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01267",
+      "title": "pGM5P-26: A Polarizable Gaussian Multipole Water Model with Transferable Temperature-Dependent Thermodynamics",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01267"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01659",
+      "title": "Efficient Tensorized Evaluation of Permutation Invariant Polynomials for Representing Potential Energy Surfaces",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01659"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01271",
+      "title": "Efficient and Transferable Machine Learning Potentials for Zn-Coordinated Zeolitic Imidazolate Frameworks Through Structural Diversity Sampling and Transfer Learning",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01271"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00636",
+      "title": "Analytical and Separable Representation of Coulomb-like Potentials",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00636"
+    },
     {
       "doi": "10.1021/acs.jctc.6c00804",
       "title": "Can Machine Learning Predict Solvation Effects on Energies and Geometries of Highly Charged Molecules?",
