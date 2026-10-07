@@ -1,9 +1,51 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-10-05T20:17:21.810Z",
+  "collected_at": "2026-10-07T20:17:19.353Z",
   "scope_start": "2026-01-01",
-  "article_count": 1324,
+  "article_count": 1331,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02648",
+      "title": "Resolving Transient Electron–Phonon Coupling with Time-Resolved Spontaneous Raman Spectroscopy",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02648"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02870",
+      "title": "Phenylammonium Grafted SAM Molecule in Molecule-Extrusion Process to Enhance Perovskite Film Quality and Interfacial Passivation",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02870"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02791",
+      "title": "Heavier Counterparts for Phosphine-Protected Gold Clusters. Electronic, Bonding, and Optical Properties of Au13Cl2(L5) and Au13(L6) Superatoms",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02791"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02741",
+      "title": "Extrapolating Molecular Correlation Energies to the Complete Basis Set Limit with Symbolic Regression",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02741"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02690",
+      "title": "Water Activity Governs Ice Nanocrystal Evolution in Rapidly Frozen Sugar Solutions",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02690"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02497",
+      "title": "Charge-State Dynamics under Phonon-Assisted Excitation in Diamond NV Centers: Implications for Optical Cooling",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02497"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02430",
+      "title": "A Density-Consistent, Finite van der Waals Potential from Gaussian Atomic Densities",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02430"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c03064",
       "title": "Dynamics and Energy Relaxation of Formic Acid Dimers Following Inner Valence Ionization",

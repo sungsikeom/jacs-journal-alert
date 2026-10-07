@@ -1,9 +1,33 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-10-06T20:14:07.772Z",
+  "collected_at": "2026-10-07T20:14:02.665Z",
   "scope_start": "2026-01-01",
-  "article_count": 931,
+  "article_count": 935,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c03088",
+      "title": "Temporally Validated Models for Target “Tclin-likeness”",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/acs.jcim.6c03088"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02487",
+      "title": "Unified Multitask Model for Aquatic Toxicity Prediction across Organism Groups and Effect End Points: A Comparison of Molecular Representations",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02487"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01516",
+      "title": "SAEKP: A Site Attention Enzyme Kinetics Prediction Method to Facilitate Enzyme Engineering",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01516"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01429",
+      "title": "Causal-Chemprop: Causal Machine Learning for Molecular Property Prediction and Design",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01429"
+    },
     {
       "doi": "10.1021/acs.jcim.6c03353",
       "title": "Correction to “Enhanced Regioselectivity Prediction of sp2 C–H Halogenation via Negative Data Augmentation and Multimodel Integration”",

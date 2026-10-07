@@ -1,16 +1,118 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-10-06T20:00:38.942Z",
+  "collected_at": "2026-10-07T20:00:33.731Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7863,
+  "article_count": 7880,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c19936",
+      "title": "Correction to “Dynamic Adaptive Interfaces Enable Zn-Iodine Hydrogel Batteries with High Areal Capacity and Low Self-Discharge”",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/jacs.6c19936"
+    },
+    {
+      "doi": "10.1021/jacs.6c17839",
+      "title": "Random Hybrid Polypeptides Regulate Immune Signaling through Promiscuous and Dynamic Interaction Landscapes",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/jacs.6c17839"
+    },
+    {
+      "doi": "10.1021/jacs.6c17514",
+      "title": "Local Structure and Dynamics of Three-Dimensional Covalent Organic Frameworks",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/jacs.6c17514"
+    },
+    {
+      "doi": "10.1021/jacs.6c16489",
+      "title": "Long-Range Conjugation-Sensitized Erbium(III) Shortwave-Infrared Emission in Porphyrin Molecular Wires",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/jacs.6c16489"
+    },
+    {
+      "doi": "10.1021/jacs.6c15378",
+      "title": "Cation Vacancies with and without O–O Dimerization: Identifying Reconstructed Defect Configurations in Metal Oxides",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/jacs.6c15378"
+    },
+    {
+      "doi": "10.1021/jacs.6c15361",
+      "title": "Resolving the Adsorption Geometries of Methanol on Anatase Titania (101) via Facet-Controlled Nanocrystals",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/jacs.6c15361"
+    },
+    {
+      "doi": "10.1021/jacs.6c14748",
+      "title": "Stereoselective 1,2-Metalate Rearrangement of α-Chloroalkylboronic Esters with gem-Diborylalkanes",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/jacs.6c14748"
+    },
+    {
+      "doi": "10.1021/jacs.6c14341",
+      "title": "Atomic-Scale Insights into Complex Intergrowth in Pentasil Zeolites",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/jacs.6c14341"
+    },
+    {
+      "doi": "10.1021/jacs.6c14168",
+      "title": "Interfacial pH Dynamics in Lattice-Nitrogen Protonation to Ammonia",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/jacs.6c14168"
+    },
+    {
+      "doi": "10.1021/jacs.6c14058",
+      "title": "A Universal Class of Cubic Crystalline Alkali Organic–Inorganic Glyme-Based Halides",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/jacs.6c14058"
+    },
+    {
+      "doi": "10.1021/jacs.6c13601",
+      "title": "Isobaric Intramolecular Paternò–Büchi Reactions Enable Multiplexed Quantitation of Fatty Acids down to C═C Locations",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/jacs.6c13601"
+    },
+    {
+      "doi": "10.1021/jacs.6c11419",
+      "title": "A Programmable KillSwitch in NewTAML Catalysts Decouples Oxidative Reactivity from Catalyst Lifetime",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/jacs.6c11419"
+    },
+    {
+      "doi": "10.1021/jacs.6c11350",
+      "title": "Improved Crystallization-Front Dynamics Reduce Buried-Interface Defects in Perovskite Solar Cells",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/jacs.6c11350"
+    },
+    {
+      "doi": "10.1021/jacs.6c11243",
+      "title": "Correlation between Ni Valence States Regulated by High-Electronegativity Chalcogens and Acidic CO2 Electroreduction to CO",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/jacs.6c11243"
+    },
+    {
+      "doi": "10.1021/jacs.6c09634",
+      "title": "METTL3–METTL14 Heterodimer Assembly Enables Multivalent RNA Engagement and Is Tuned by Interface-Targeting Peptides",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/jacs.6c09634"
+    },
+    {
+      "doi": "10.1021/jacs.6c06572",
+      "title": "Ligand Engineering of an N-Heterocyclic Carbene Au13 Nanocluster as a Strong Photoreductant for Sensitized Photocatalytic CO2 Reduction",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/jacs.6c06572"
+    },
     {
       "doi": "10.1021/jacs.6c18456",
       "title": "Correction to “A Light-Driven Constitutional Pump”",
       "published_date": "2026-10-06",
       "url": "https://doi.org/10.1021/jacs.6c18456"
+    },
+    {
+      "doi": "10.1021/jacs.6c18401",
+      "title": "Correction to “Chemical Tuning of Charge Transport Polarity in Light-Emitting Transistors Enabling Neuromorphic Display, Computing, and Optocoupler”",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/jacs.6c18401"
     },
     {
       "doi": "10.1021/jacs.6c16954",

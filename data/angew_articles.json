@@ -1,9 +1,33 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-10-06T20:23:57.017Z",
+  "collected_at": "2026-10-07T20:23:52.322Z",
   "scope_start": "2026-01-01",
-  "article_count": 2770,
+  "article_count": 2774,
   "articles": [
+    {
+      "doi": "10.1002/anie.7938626",
+      "title": "Interfacial Electron–Proton Dual Modulation of Fe Single-Atom Catalyst by α-MoC for O2 Activation and Lignin Depolymerization",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1002/anie.7938626"
+    },
+    {
+      "doi": "10.1002/anie.7100046",
+      "title": "Cooperative Shunt Photocatalysis of Pt Single Atoms and Nanoparticles for Efficient Methanol Conversion to Hydrogen and Formaldehyde",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1002/anie.7100046"
+    },
+    {
+      "doi": "10.1002/anie.6601433",
+      "title": "Control of Helix Screw-Sense Preference in Dynamic Foldamers of meso Symmetry Built From Chiral Monomeric Units",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1002/anie.6601433"
+    },
+    {
+      "doi": "10.1002/anie.3893843",
+      "title": "Site-Selective Anion-Cation Regulation of Sulfide Electrolyte Enables Low-Pressure Dendrite-Suppressed All-Solid-State Lithium Metal Batteries",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1002/anie.3893843"
+    },
     {
       "doi": "10.1002/anie.5080799",
       "title": "Bench-Stable α-Fluoroamines: Synthesis, Properties, and Application in Medicinal Chemistry",

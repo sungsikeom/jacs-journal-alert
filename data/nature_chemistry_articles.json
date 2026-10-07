@@ -1,9 +1,27 @@
 {
   "source": "Nature Chemistry Research Articles",
-  "collected_at": "2026-10-06T20:07:37.070Z",
+  "collected_at": "2026-10-07T20:07:32.466Z",
   "scope_start": "2009-01-01",
-  "article_count": 2519,
+  "article_count": 2522,
   "articles": [
+    {
+      "doi": "10.1038/s41557-026-02270-y",
+      "title": "Evolution of dipole–dipole dynamics in cold ammonia collisions",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41557-026-02270-y"
+    },
+    {
+      "doi": "10.1038/s41557-026-02266-8",
+      "title": "Retention and biosynthesis of diverse nitroarenes in Escherichia coli after combinatorial nitroreductase gene deletions",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41557-026-02266-8"
+    },
+    {
+      "doi": "10.1038/s41557-026-02263-x",
+      "title": "Orthogonal nucleophile-ordered assembly for modular access to enantiopure 1,2-amino alcohols",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41557-026-02263-x"
+    },
     {
       "doi": "10.1038/s41557-026-02237-z",
       "title": "The radical-radical cross-coupling of alkyl carboxylic acids and organoborons",

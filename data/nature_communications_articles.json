@@ -1,9 +1,111 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-10-06T20:04:06.323Z",
+  "collected_at": "2026-10-07T20:04:01.244Z",
   "scope_start": "2026-01-01",
-  "article_count": 9199,
+  "article_count": 9217,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78360-9",
+      "title": "The chromatin-organizer Satb1 modulates regulatory T cell activity within the tumor microenvironment",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41467-026-78360-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-78336-9",
+      "title": "Interfacial ferroelectricity at naturally-formed van der Waals interfaces",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41467-026-78336-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-78315-0",
+      "title": "A cytidine deaminase biodegrader sensitises multiple cancer types to deoxycytidine analogue-based chemotherapies",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41467-026-78315-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78293-3",
+      "title": "The WorkReach model for urban work location choices through economic complexity and informality",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41467-026-78293-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-78292-4",
+      "title": "Post-fabrication reconfiguration of hydrogels through thermodynamic asymmetry in dynamic chemistry",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41467-026-78292-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-78238-w",
+      "title": "Claudin-2 protects from enteropathogenic E. coli-infection and colitis by promoting crypt fetalization via β1-integrin/FAK/YAP signaling",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41467-026-78238-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-78223-3",
+      "title": "Trillion-scale integrated framework for high-throughput materials databases and seamless sharing",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41467-026-78223-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-78216-2",
+      "title": "Neonatal overfeeding accelerates age-related sarcopenia and metabolic disorders through lifelong gut mucosa and microbiota programming in mice",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41467-026-78216-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-78156-x",
+      "title": "Lung environment in healthy old age shapes the phenotype and CCR2-mediated recruitment of a subset of apoptotic, high-turnover alveolar macrophages",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41467-026-78156-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-78113-8",
+      "title": "Multi-omics reveals the DR5-FXR-CHPT1 axis governs hepatocyte pyroptosis via glycerophospholipid remodeling after major partial hepatectomy in male mice",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41467-026-78113-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-78053-3",
+      "title": "Integration of high-κ oxide on 2D semiconductors with carbon-dot monolayer assembly as van der Waals interfacial layer",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41467-026-78053-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-78020-y",
+      "title": "Suppression of spectral gap and flat bands on a cuprate superconductor side-surface",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41467-026-78020-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-77990-3",
+      "title": "A selectivity filter in Tim17 mediates intramitochondrial protein sorting",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41467-026-77990-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-77934-x",
+      "title": "Clonal haematopoiesis subtypes confer dose-dependent risk of serious bacterial infection",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41467-026-77934-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-77758-9",
+      "title": "High-resolution binding data of TFIID and cofactors show promoter-specific differences",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41467-026-77758-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-77643-5",
+      "title": "Meta-analysis of empirical evidence on biodiversity and the risk of asthma",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41467-026-77643-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-77376-5",
+      "title": "Deep diffractive optical neural networks for detecting skyrmionic topologies of light and their live training",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41467-026-77376-5"
+    },
     {
       "doi": "10.1038/s41467-026-78564-z",
       "title": "Ultrathin high-performance circular polarizers based on MoOCl2/NbOCl2 van der Waals heterostructures",
@@ -81,6 +183,12 @@
       "title": "Anthropogenic aerosol reduction contributes to faster flash drought onset in a changing climate",
       "published_date": "2026-10-06",
       "url": "https://doi.org/10.1038/s41467-026-78230-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-78206-4",
+      "title": "High potential contribution of intercropping to soybean and maize self-sufficiency in Europe",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1038/s41467-026-78206-4"
     },
     {
       "doi": "10.1038/s41467-026-78192-7",
