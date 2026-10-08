@@ -1,9 +1,69 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-10-06T20:10:52.177Z",
+  "collected_at": "2026-10-08T20:10:56.741Z",
   "scope_start": "2026-01-01",
-  "article_count": 745,
+  "article_count": 755,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01840",
+      "title": "An Improved DFTB/Force Field Model for Molecule–Rare Gas Interactions: Application to 1,4-Diazabicyclo[2.2.2]octane (DABCO) Solvated by Argon",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01840"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01569",
+      "title": "Local Correlation-Based Machine Learning Enables Coupled-Cluster-Level Energetics for Thousand-Atom Molecular Systems",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01569"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01202",
+      "title": "Development and Bayesian Uncertainty Quantification of Transferable Coarse-Grained Models for Carbohydrates",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01202"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01111",
+      "title": "RACE: A Modular and Interpretable Radial–Angular Correlation Descriptor for Atomistic Machine Learning",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01111"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01609",
+      "title": "Influence of Exchange–Correlation Functional on Machine-Learned Interatomic Potentials’ Accuracy: A Systematic Study of Borosilicate Glasses",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01609"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01568",
+      "title": "Nuclear–Electronic Orbital Coupled Cluster Theory with the Nuclear Hartree Product Representation for Multiple Quantum Nuclei and Application to Geometric Isotope Effects",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01568"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01449",
+      "title": "Electronically Nonadiabatic Dynamics of O2 + O Collisions on Sixteen New Machine-Learned 3A″ Global Potential Energy Surfaces",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01449"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01243",
+      "title": "A Thermodynamically Consistent Approach to Molecular Simulations of Adsorption-Induced Deformation and Structural Transitions in MOFs",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01243"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01190",
+      "title": "First-Principles Simulation of Ionizing Radiation Damage in Molecular Systems over Short Time Scales",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01190"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01565",
+      "title": "Enhancing the Efficiency and Flexibility of AutoMeKin: Integrating ORCA and Machine-Learning Potentials",
+      "published_date": "2026-10-06",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01565"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01469",
       "title": "Dual Machine-Learning Prediction of Excited-State Energetics from Ground-State Descriptors and Its Implication on Intramolecular Singlet Fission in Dimeric Chromophores",

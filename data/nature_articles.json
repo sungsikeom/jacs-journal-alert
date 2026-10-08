@@ -1,12 +1,162 @@
 {
   "source": "Nature Research Articles · 2026 filter",
-  "collected_at": "2026-10-07T20:07:15.094Z",
+  "collected_at": "2026-10-08T20:07:25.056Z",
   "scope_start": "2026-01-01",
-  "official_total": 1031,
+  "official_total": 1056,
   "collection_mode": "incremental",
   "stopped_on_known_doi": true,
-  "article_count": 1031,
+  "article_count": 1056,
   "articles": [
+    {
+      "doi": "10.1038/s41586-026-11153-8",
+      "title": "tRNA dosage regulates lineage dependency and resistance in prostate cancer",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11153-8"
+    },
+    {
+      "doi": "10.1038/s41586-026-11144-9",
+      "title": "A split attractor design for rapidly writing a navigational goal",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11144-9"
+    },
+    {
+      "doi": "10.1038/s41586-026-11142-x",
+      "title": "A gut microbial odd-chain fatty acid alleviates atherosclerosis in mice",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11142-x"
+    },
+    {
+      "doi": "10.1038/s41586-026-11140-z",
+      "title": "RNA catalysis emerges from dynamic structural ensembles",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11140-z"
+    },
+    {
+      "doi": "10.1038/s41586-026-11129-8",
+      "title": "Structural basis for regulating lipopolysaccharide transmembrane transport",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11129-8"
+    },
+    {
+      "doi": "10.1038/s41586-026-11127-w",
+      "title": "Alveolar stem cells transdifferentiate to drive bronchiolar regeneration",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11127-w"
+    },
+    {
+      "doi": "10.1038/s41586-026-11125-y",
+      "title": "Dynamics of human cardiogenesis and its disruption in trisomy 21",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11125-y"
+    },
+    {
+      "doi": "10.1038/s41586-026-11122-1",
+      "title": "A nuclear clock synchronized to 229Th",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11122-1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11121-2",
+      "title": "5-oxoETE links redox control of epithelial damage detection and resilience",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11121-2"
+    },
+    {
+      "doi": "10.1038/s41586-026-11116-z",
+      "title": "Cryo-EM structure of a methanogen nitrogenase–PII protein supercomplex",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11116-z"
+    },
+    {
+      "doi": "10.1038/s41586-026-11114-1",
+      "title": "Human lung organoid modelling of tissue-resident antiviral T cell responses",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11114-1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11111-4",
+      "title": "Retrofitting language models to operate over bytes",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11111-4"
+    },
+    {
+      "doi": "10.1038/s41586-026-11107-0",
+      "title": "A Jurassic mammaliaform swimmer and transformation of the mammalian pharynx",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11107-0"
+    },
+    {
+      "doi": "10.1038/s41586-026-11106-1",
+      "title": "Prehistoric global migration of vanishing gut microbes with humans",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11106-1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11105-2",
+      "title": "Observation of relativistic bond weakening in seaborgium hexacarbonyl",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11105-2"
+    },
+    {
+      "doi": "10.1038/s41586-026-11101-6",
+      "title": "Mechanism of spliceosome termination",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11101-6"
+    },
+    {
+      "doi": "10.1038/s41586-026-11099-x",
+      "title": "Experimental observation of critical topology",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11099-x"
+    },
+    {
+      "doi": "10.1038/s41586-026-11097-z",
+      "title": "Australia’s current wildfire crisis linked to colonial land-use change",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11097-z"
+    },
+    {
+      "doi": "10.1038/s41586-026-11095-1",
+      "title": "Spatially deterministic nucleation of 2D semiconductors by etching flux",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11095-1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11085-3",
+      "title": "A 7-eV bandgap semiconductor based on silicon-doped α-(AlxGa1−x)2O3",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11085-3"
+    },
+    {
+      "doi": "10.1038/s41586-026-11084-4",
+      "title": "A thorium-229 optical nuclear clock with feedback loop",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11084-4"
+    },
+    {
+      "doi": "10.1038/s41586-026-11073-7",
+      "title": "A chiral superlattice route to spin-split topological antiferromagnetism",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11073-7"
+    },
+    {
+      "doi": "10.1038/s41586-026-11067-5",
+      "title": "Observation of critical topological phase transition",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11067-5"
+    },
+    {
+      "doi": "10.1038/s41586-026-11066-6",
+      "title": "A preinvasive regulatory T cell axis for lung cancer interception",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-11066-6"
+    },
+    {
+      "doi": "10.1038/s41586-026-10858-0",
+      "title": "Hydrogen bonding in water under extreme confinement",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1038/s41586-026-10858-0"
+    },
     {
       "doi": "10.1038/s41586-026-11113-2",
       "title": "Human genetics implicates a BACH2–NRF2 axis in fetal haemoglobin activation",

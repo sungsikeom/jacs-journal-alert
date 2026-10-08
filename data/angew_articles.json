@@ -1,9 +1,45 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-10-07T20:23:52.322Z",
+  "collected_at": "2026-10-08T20:24:02.032Z",
   "scope_start": "2026-01-01",
-  "article_count": 2774,
+  "article_count": 2782,
   "articles": [
+    {
+      "doi": "10.1002/anie.9611215",
+      "title": "Enhancing Stability of Layered Double Perovskites With a Naphthalene Diimide Spacer Toward Photoelectrochemical Application",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1002/anie.9611215"
+    },
+    {
+      "doi": "10.1002/anie.6581557",
+      "title": "High-Purity Hydrogen Production From Water–Gas Shift Reaction in a High-Temperature Polymer Electrolyte Membrane Electrolyzer",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1002/anie.6581557"
+    },
+    {
+      "doi": "10.1002/anie.5868138",
+      "title": "Xiongjie Jin",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1002/anie.5868138"
+    },
+    {
+      "doi": "10.1002/anie.5600971",
+      "title": "Mode-Selective C═C and C─N Vibrational Coupling Modulates Nonradiative Decay in Regioisomeric Organic Phosphorescent Emission",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1002/anie.5600971"
+    },
+    {
+      "doi": "10.1002/anie.3060071",
+      "title": "Tandem Ru–Tm Sites on MoS2 Tune Entropy–Enthalpy Tradeoff for Enhanced Alkaline Hydrogen Evolution",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1002/anie.3060071"
+    },
+    {
+      "doi": "10.1002/anie.1283451",
+      "title": "Paulo H. S. Paioti",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1002/anie.1283451"
+    },
     {
       "doi": "10.1002/anie.7938626",
       "title": "Interfacial Electron–Proton Dual Modulation of Fe Single-Atom Catalyst by α-MoC for O2 Activation and Lignin Depolymerization",
@@ -27,6 +63,18 @@
       "title": "Site-Selective Anion-Cation Regulation of Sulfide Electrolyte Enables Low-Pressure Dendrite-Suppressed All-Solid-State Lithium Metal Batteries",
       "published_date": "2026-10-07",
       "url": "https://doi.org/10.1002/anie.3893843"
+    },
+    {
+      "doi": "10.1002/anie.2036983",
+      "title": "Highly Stabilized and Accessible Sub-Nanometer RuBi Heteroclusters Drive Efficient Alkaline Hydrogen Evolution",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1002/anie.2036983"
+    },
+    {
+      "doi": "10.1002/anie.1727964",
+      "title": "Correction to “Crystal Structure Classification of Copper-Based Sulfides as a Tool for the Design of Inorganic Functional Materials”",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1002/anie.1727964"
     },
     {
       "doi": "10.1002/anie.5080799",

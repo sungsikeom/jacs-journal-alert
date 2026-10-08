@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-10-07T20:04:01.244Z",
+  "collected_at": "2026-10-08T20:04:05.436Z",
   "scope_start": "2026-01-01",
-  "article_count": 9217,
+  "article_count": 9237,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78537-2",
+      "title": "Contrasting plant trait strategies underpin ecosystem stability in temperate and alpine grasslands",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1038/s41467-026-78537-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-78531-8",
+      "title": "Cooperative outer-surface recognition extends host–guest chemistry for high-capacity molecular separation beyond cavity inclusion",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1038/s41467-026-78531-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-78499-5",
+      "title": "Bacterial toxin sensing induces transient inflammasome-dependent innate immune memory that improves survival during sepsis",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1038/s41467-026-78499-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-78490-0",
+      "title": "Ethnicity, genomic ancestry, and HBV genotype in off-treatment outcomes following nucleos(t)ide analogue cessation: a prospective multicentre trial (COIN-B)",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1038/s41467-026-78490-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78455-3",
+      "title": "A convergent total synthesis of the ivermectin aglycon through transition metal-mediated and anionic transformations",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1038/s41467-026-78455-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-78424-w",
+      "title": "ACAT1/SOAT1 governs mitochondrial dynamics and thermogenesis via the mTOR-MFN2-USP2 axis in brown adipocytes",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1038/s41467-026-78424-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-78407-x",
+      "title": "APOE2 attenuates APOE4-associated amyloid pathology and related toxicity in a mouse model of Alzheimer’s disease",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1038/s41467-026-78407-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-78395-y",
+      "title": "Olaparib plus tremelimumab in women with recurrent ovarian cancer and a germline BRCA1 or BRCA2 mutation: a phase I/II study",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1038/s41467-026-78395-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-78372-5",
+      "title": "Universal hydrogen-free synthesis and elemental doping of two-dimensional transition metal selenides",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1038/s41467-026-78372-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-78317-y",
+      "title": "Error semitransparent universal control of a bosonic logical qubit",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1038/s41467-026-78317-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-78296-0",
+      "title": "Earlier green-up exacerbates northern vegetation sensitivity to flash drought",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1038/s41467-026-78296-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78295-1",
+      "title": "Reward function compression facilitates goal-dependent reinforcement learning",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1038/s41467-026-78295-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-78285-3",
+      "title": "SWI/SNF subunit SMARCD1 deficiency promotes clear cell renal cell carcinoma progression via mitochondrial reprogramming",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1038/s41467-026-78285-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-78249-7",
+      "title": "Topologically robust programmable processing arrays using light and matter skyrmions",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1038/s41467-026-78249-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-78228-y",
+      "title": "Emergence of polarization in networks of large language model agents",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1038/s41467-026-78228-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-78221-5",
+      "title": "Estimating the completeness of large-scale single-cell sequencing projects",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1038/s41467-026-78221-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-78198-1",
+      "title": "Distinguishing learning asymmetry from perseveration in behavioral models",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1038/s41467-026-78198-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-78094-8",
+      "title": "ATRX deficiency drives aberrant type I interferon signalling through cGAS-dependent transcriptional dysregulation",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1038/s41467-026-78094-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-77672-0",
+      "title": "Community-centric modeling of citation dynamics explains collective citation patterns across different knowledge systems",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1038/s41467-026-77672-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-76882-w",
+      "title": "Immune genetic associations of antibody Fc-profiles across twins",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1038/s41467-026-76882-w"
+    },
     {
       "doi": "10.1038/s41467-026-78360-9",
       "title": "The chromatin-organizer Satb1 modulates regulatory T cell activity within the tumor microenvironment",

@@ -1,10 +1,115 @@
 {
   "source": "Science tables of contents collected by the local Chrome extension",
-  "collected_at": "2026-10-07T20:00:40.683Z",
+  "collected_at": "2026-10-08T20:00:46.737Z",
   "scope_start": "2026-01-01",
   "article_type": "Research Article",
-  "article_count": 714,
+  "article_count": 731,
   "articles": [
+    {
+      "doi": "10.1126/science.aem9877",
+      "title": "In Other Journals",
+      "published_date": "2026-10-08",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aem9877"
+    },
+    {
+      "doi": "10.1126/science.aem9876",
+      "title": "In Science Journals",
+      "published_date": "2026-10-08",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aem9876"
+    },
+    {
+      "doi": "10.1126/science.aej2213",
+      "title": "Advancing mathematics research with AI-driven formal proof search",
+      "published_date": "2026-10-08",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aej2213"
+    },
+    {
+      "doi": "10.1126/science.aei5520",
+      "title": "The genetic basis for the production of toxic quinolizidine alkaloids in lupins",
+      "published_date": "2026-10-08",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aei5520"
+    },
+    {
+      "doi": "10.1126/science.aei1312",
+      "title": "High-fidelity entangling gates and nonlocal circuits with neutral atoms",
+      "published_date": "2026-10-08",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aei1312"
+    },
+    {
+      "doi": "10.1126/science.aei0940",
+      "title": "Natural 15N15N abundances constrain fixed nitrogen loss",
+      "published_date": "2026-10-08",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aei0940"
+    },
+    {
+      "doi": "10.1126/science.aeh3915",
+      "title": "Wafer-scale low-symmetry graphene moiré superlattice for integrated quantum rectifiers",
+      "published_date": "2026-10-08",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeh3915"
+    },
+    {
+      "doi": "10.1126/science.aef3001",
+      "title": "Asymmetric enzymatic hydrophosphorylation through O2 activation",
+      "published_date": "2026-10-08",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aef3001"
+    },
+    {
+      "doi": "10.1126/science.aef2931",
+      "title": "Insights from more than a year of ongoing episodic lava fountaining at Kīlauea",
+      "published_date": "2026-10-08",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aef2931"
+    },
+    {
+      "doi": "10.1126/science.aec7662",
+      "title": "Message in a bottleneck: Nested founder effects from French Polynesia to Rapa Nui and Hawaiʻi",
+      "published_date": "2026-10-08",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aec7662"
+    },
+    {
+      "doi": "10.1126/science.aeb4554",
+      "title": "Volatile eutectics to tailor crystallization for perovskite optoelectronics",
+      "published_date": "2026-10-08",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeb4554"
+    },
+    {
+      "doi": "10.1126/science.aeb2986",
+      "title": "Epigenetic aging and transposon dysregulation reflect size-related lifespan compression in dogs",
+      "published_date": "2026-10-08",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aeb2986"
+    },
+    {
+      "doi": "10.1126/science.aea7733",
+      "title": "The human gut microbiome primes fever after vaccination",
+      "published_date": "2026-10-08",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aea7733"
+    },
+    {
+      "doi": "10.1126/science.adx9628",
+      "title": "Golgi-derived vesicles containing PI(3,4)P2 drive mitochondrial fusion",
+      "published_date": "2026-10-08",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adx9628"
+    },
+    {
+      "doi": "10.1126/science.adx4170",
+      "title": "Marine snow viscosity regulates microbial degradation and the ocean carbon sink",
+      "published_date": "2026-10-08",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.adx4170"
+    },
     {
       "doi": "10.1126/science.aem8011",
       "title": "In Other Journals",
@@ -566,6 +671,13 @@
       "url": "https://doi.org/10.1126/science.aec6116"
     },
     {
+      "doi": "10.1126/science.aec3917",
+      "title": "High-capacity associative memory in a quantum-optical spin glass",
+      "published_date": "2026-09-03",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.aec3917"
+    },
+    {
       "doi": "10.1126/science.aea4611",
       "title": "Conformational asymmetry of replicated human chromosomes",
       "published_date": "2026-09-03",
@@ -739,6 +851,13 @@
       "published_date": "2026-08-27",
       "article_type": "Research Article",
       "url": "https://doi.org/10.1126/science.ady4523"
+    },
+    {
+      "doi": "10.1126/science.ady2660",
+      "title": "Recent strengthening of eastern Pacific ENSO in the last millennium paleorecord",
+      "published_date": "2026-08-27",
+      "article_type": "Research Article",
+      "url": "https://doi.org/10.1126/science.ady2660"
     },
     {
       "doi": "10.1126/science.adx6059",

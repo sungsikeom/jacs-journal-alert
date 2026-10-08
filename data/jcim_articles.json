@@ -1,9 +1,21 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-10-07T20:14:02.665Z",
+  "collected_at": "2026-10-08T20:14:12.788Z",
   "scope_start": "2026-01-01",
-  "article_count": 935,
+  "article_count": 937,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02851",
+      "title": "FragDockRL: A Reinforcement Learning Method for Fragment-Based Ligand Design via Building-Block Assembly and Tethered Docking",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02851"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02120",
+      "title": "State-Constrained SHAP Distills Polymer Property Models into Transferable Structural Rules for Fixed-Interval Screening",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02120"
+    },
     {
       "doi": "10.1021/acs.jcim.6c03088",
       "title": "Temporally Validated Models for Target “Tclin-likeness”",
