@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-10-08T20:04:05.436Z",
+  "collected_at": "2026-10-09T20:04:01.660Z",
   "scope_start": "2026-01-01",
-  "article_count": 9237,
+  "article_count": 9257,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78516-7",
+      "title": "Antisense oligonucleotides targeting transcription termination windows disrupt mRNA 3’ end processing and decrease gene expression",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1038/s41467-026-78516-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-78511-y",
+      "title": "Photocluster catalytic oxidation enabled by structurally precise copper-hydride nanoclusters",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1038/s41467-026-78511-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-78486-w",
+      "title": "P450-catalyzed enantiodivergent kinetic oxidation to access chiral haloalcohols",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1038/s41467-026-78486-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-78476-y",
+      "title": "Reversible dissociation of a sterically distorted dimer of a phosphagermylenylidene",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1038/s41467-026-78476-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-78461-5",
+      "title": "Multi-model collaborative early warning for battery systems with integrated fiber optic sensors",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1038/s41467-026-78461-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-78433-9",
+      "title": "Environmentally Relevant Concentrations of Nanomaterials Drive Photochemical Production of Reactive Species and Pollutant Degradation in Surface Waters",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1038/s41467-026-78433-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-78415-x",
+      "title": "High-throughput spatial proteomics from cellular to subcellular scales via a hanging droplet workflow",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1038/s41467-026-78415-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-78402-2",
+      "title": "Pipeline infrastructure for hydrogen transport in the United States",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1038/s41467-026-78402-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-78391-2",
+      "title": "Non-sewered sanitation systems reshape microplastics into chemically complex and reactive contaminants",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1038/s41467-026-78391-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-78387-y",
+      "title": "Multi-omics profiling uncovers diagnostic biomarker panel, progression-associated subtypes, and prognostic signature in pediatric mitochondrial disease",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1038/s41467-026-78387-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-78380-5",
+      "title": "A cross-layer 2D photodetection framework for standardized readout and signal fusion",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1038/s41467-026-78380-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-78365-4",
+      "title": "Single-cell atlas of fetal immunity across lung, spleen, and umbilical cord blood in nonhuman primates",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1038/s41467-026-78365-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-78358-3",
+      "title": "Precious metal free tunable manganese oxides for sustainable anion exchange membrane fuel cells",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1038/s41467-026-78358-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-78320-3",
+      "title": "pH-responsive manganese carboxymethyl chitosan hydrogel releases pesticide to promote rice tillering and suppress root-parasitic weeds",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1038/s41467-026-78320-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-78258-6",
+      "title": "Precise polymerization of phenolic pollutants by a nanoconfined reactor with Fe-Mo dual-site",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1038/s41467-026-78258-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-78248-8",
+      "title": "Consecutive waves of NODAL inhibition are required for epiblast patterning",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1038/s41467-026-78248-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-78215-3",
+      "title": "Fluorine-free polymer binder enables circular manufacturing and recycling of lithium-ion batteries",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1038/s41467-026-78215-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-78042-6",
+      "title": "Fast-charging and durable all-solid-state lithium-sulfur batteries enabled by pre-embedded solid-solid redox mediator",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1038/s41467-026-78042-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-78027-5",
+      "title": "ATM promotes nucleolytic processing of reversed replication forks during DNA interstrand cross-link repair",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1038/s41467-026-78027-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-78008-8",
+      "title": "Periodontal pathogen Tannerella forsythia promotes liver fibrosis via ICAM-1⁺ neutrophil–dependent hepatic stellate cell activation",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1038/s41467-026-78008-8"
+    },
     {
       "doi": "10.1038/s41467-026-78537-2",
       "title": "Contrasting plant trait strategies underpin ecosystem stability in temperate and alpine grasslands",

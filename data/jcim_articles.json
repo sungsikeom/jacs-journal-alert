@@ -1,9 +1,27 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-10-08T20:14:12.788Z",
+  "collected_at": "2026-10-09T20:14:03.225Z",
   "scope_start": "2026-01-01",
-  "article_count": 937,
+  "article_count": 940,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02272",
+      "title": "Sequence Dependence of Folding and Self-Assembly of Glycine-X Repeat Peptides on Graphite",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02272"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02105",
+      "title": "COMPLAX: A Python Tool Package for Automated Microsolvation of Organic Molecules",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02105"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02045",
+      "title": "Nonadditive Conformational Effects of tRNA Core Modifications",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02045"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02851",
       "title": "FragDockRL: A Reinforcement Learning Method for Fragment-Based Ligand Design via Building-Block Assembly and Tethered Docking",

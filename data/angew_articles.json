@@ -1,8 +1,8 @@
 {
-  "source": "Wiley Angewandte search results",
-  "collected_at": "2026-10-08T20:24:02.032Z",
+  "source": "Wiley Journal of Computational Chemistry search results",
+  "collected_at": "2026-10-09T20:24:45.660Z",
   "scope_start": "2026-01-01",
-  "article_count": 2782,
+  "article_count": 2795,
   "articles": [
     {
       "doi": "10.1002/anie.9611215",
@@ -215,6 +215,18 @@
       "url": "https://doi.org/10.1002/anie.2645239"
     },
     {
+      "doi": "10.1002/jcc.70518",
+      "title": "Simulating Infrared Spectra of Matrix Isolation Experiments: What Works Best?",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1002/jcc.70518"
+    },
+    {
+      "doi": "10.1002/jcc.70514",
+      "title": "Molecular-Environment Feedback Improves Superposition-of-Atomic-Potential SCF Guesses",
+      "published_date": "2026-10-03",
+      "url": "https://doi.org/10.1002/jcc.70514"
+    },
+    {
       "doi": "10.1002/anie.7147123",
       "title": "Mitigating Surface Poisoning by Bidirectional Regulation for Efficient C1-C2 Molecule Electrooxidation",
       "published_date": "2026-10-03",
@@ -311,6 +323,12 @@
       "url": "https://doi.org/10.1002/anie.1871980"
     },
     {
+      "doi": "10.1002/jcc.70478",
+      "title": "Thermodynamic Mapping of C5-Substituent Autoxidation Pathways in 1,5-Dimethylcytosine: A Quantum Chemical Study",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1002/jcc.70478"
+    },
+    {
       "doi": "10.1002/anie.7996981",
       "title": "Radical, Not Ionic: The Mechanochemical Zincke Nitration of Phenols",
       "published_date": "2026-10-01",
@@ -339,6 +357,24 @@
       "title": "Ligand-Directed Molecular Beacons as Turn-On Fluorescent Probes for Sensing Cell-Surface Receptor-Ligand Interactions",
       "published_date": "2026-10-01",
       "url": "https://doi.org/10.1002/anie.3191334"
+    },
+    {
+      "doi": "10.1002/jcc.70516",
+      "title": "Charge-Derived Polarization Fingerprints from Charge-Aware Molecular Dynamics: A Descriptor Framework for BaTiO3BaTiO3$$ {\\mathrm{BaTiO}}_3 $$",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1002/jcc.70516"
+    },
+    {
+      "doi": "10.1002/jcc.70512",
+      "title": "PyOrbb—Automated Analyses of Orbital-Interaction Mechanisms",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1002/jcc.70512"
+    },
+    {
+      "doi": "10.1002/jcc.70511",
+      "title": "CAML-RNA: Commutative Algebra Machine Learning for RNA–Ligand Binding Affinity Prediction",
+      "published_date": "2026-09-30",
+      "url": "https://doi.org/10.1002/jcc.70511"
     },
     {
       "doi": "10.1002/anie.9477381",
@@ -515,6 +551,12 @@
       "url": "https://doi.org/10.1002/anie.1085066"
     },
     {
+      "doi": "10.1002/jcc.70517",
+      "title": "Application of the String Method to Determine the Ambimodal Nature of Transition States in Bifurcation Reactions",
+      "published_date": "2026-09-28",
+      "url": "https://doi.org/10.1002/jcc.70517"
+    },
+    {
       "doi": "10.1002/anie.5759530",
       "title": "Correction to “Metal-DNA Nanocomplexes Enhance Chemo-dynamic Therapy by Inhibiting Autophagy-Mediated Resistance”",
       "published_date": "2026-09-28",
@@ -531,6 +573,12 @@
       "title": "Fully Reduced Core–Shell Organotin-Polyoxometalate {Sn12Mo19}: A Synergistic Modulation Material for the Buried Interface of Inverted Perovskite Solar Cells",
       "published_date": "2026-09-28",
       "url": "https://doi.org/10.1002/anie.1019904"
+    },
+    {
+      "doi": "10.1002/jcc.70504",
+      "title": "Linearly Expanded Azulenes in the S0S0$$ {\\mathrm{S}}_0 $$, T1T1$$ {\\mathrm{T}}_1 $$, and Qu1Qu1$$ {\\mathrm{Qu}}_1 $$ States: A Unified View of Electronic Structure and Aromaticity",
+      "published_date": "2026-09-27",
+      "url": "https://doi.org/10.1002/jcc.70504"
     },
     {
       "doi": "10.1002/anie.8484914",
@@ -737,6 +785,12 @@
       "url": "https://doi.org/10.1002/anie.1070299"
     },
     {
+      "doi": "10.1002/jcc.70485",
+      "title": "Hybrid QM/QM Study of Electronic d–d Spectra of Trivalent Transition Metal Oxides",
+      "published_date": "2026-09-24",
+      "url": "https://doi.org/10.1002/jcc.70485"
+    },
+    {
       "doi": "10.1002/anie.9169593",
       "title": "Spinel-Based Solid-State Reactions: From Spinel Oxides to Lithium or Sodium Layered Oxides",
       "published_date": "2026-09-24",
@@ -819,6 +873,12 @@
       "title": "Retaining and Enhancing Trust in the Chemical Sciences: A Call for Collaborative Action",
       "published_date": "2026-09-24",
       "url": "https://doi.org/10.1002/anie.1228930"
+    },
+    {
+      "doi": "10.1002/jcc.70515",
+      "title": "Effect of Al Location and Ga Species in ZSM-5 on Adsorption of Soluble Coke",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1002/jcc.70515"
     },
     {
       "doi": "10.1002/anie.7409022",
@@ -957,6 +1017,24 @@
       "title": "Logic-Gated DNA Cascade Amplification Enables High-Fidelity Intercellular Communication in Synthetic Protocells",
       "published_date": "2026-09-22",
       "url": "https://doi.org/10.1002/anie.1298760"
+    },
+    {
+      "doi": "10.1002/jcc.70502",
+      "title": "In Silico Design of Amino Acid-Functionalized Materials for the Capture of Neonicotinoids",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1002/jcc.70502"
+    },
+    {
+      "doi": "10.1002/jcc.70499",
+      "title": "Time-Dependent Voronoi Analysis of Amino Acid Side-Chain Packing in Simulations",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1002/jcc.70499"
+    },
+    {
+      "doi": "10.1002/jcc.70496",
+      "title": "Partial Atomic Charges, Dipole Moments and Electrostatic Potentials",
+      "published_date": "2026-09-21",
+      "url": "https://doi.org/10.1002/jcc.70496"
     },
     {
       "doi": "10.1002/anie.8471593",

@@ -1,9 +1,39 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-10-08T20:10:56.741Z",
+  "collected_at": "2026-10-09T20:10:47.817Z",
   "scope_start": "2026-01-01",
-  "article_count": 755,
+  "article_count": 760,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01744",
+      "title": "Comparative Analysis of Relative Ligand Binding Free Energy Simulation Methods: Amber-TI, GROMACS-NETI, OpenMM-FEP, and BLaDE-MSLD",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01744"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01454",
+      "title": "Determining the Partial Molar Volume of the Hydrated Electron from First-Principles Simulated Solution Volumes",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01454"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01185",
+      "title": "Hamiltonian-Aware ADAPT Variational Quantum Eigensolver for Molecular Ground-State Simulation",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01185"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01183",
+      "title": "Data-Driven Inference of Susceptibility, Correlation, and Dynamic Responses via Machine Learning",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01183"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01131",
+      "title": "Distilling First-Principles Accuracy into Compact Machine Learning Potentials for Condensed-Phase Chemistry",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01131"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01840",
       "title": "An Improved DFTB/Force Field Model for Molecule–Rare Gas Interactions: Application to 1,4-Diazabicyclo[2.2.2]octane (DABCO) Solvated by Argon",
