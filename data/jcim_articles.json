@@ -1,9 +1,15 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-10-09T20:14:03.225Z",
+  "collected_at": "2026-10-10T20:14:05.611Z",
   "scope_start": "2026-01-01",
-  "article_count": 940,
+  "article_count": 941,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c01545",
+      "title": "FlexENN: A Graph Neural Network for Binding Energy Prediction of Globular and Intrinsically Disordered Proteins",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01545"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02272",
       "title": "Sequence Dependence of Folding and Self-Assembly of Glycine-X Repeat Peptides on Graphite",

@@ -1,9 +1,15 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-10-09T20:04:01.660Z",
+  "collected_at": "2026-10-10T20:04:02.431Z",
   "scope_start": "2026-01-01",
-  "article_count": 9257,
+  "article_count": 9258,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78376-1",
+      "title": "Twisted superconducting quantum diodes for high fidelity anharmonic qubits",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1038/s41467-026-78376-1"
+    },
     {
       "doi": "10.1038/s41467-026-78516-7",
       "title": "Antisense oligonucleotides targeting transcription termination windows disrupt mRNA 3’ end processing and decrease gene expression",

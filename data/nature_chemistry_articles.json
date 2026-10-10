@@ -1,9 +1,15 @@
 {
   "source": "Nature Chemistry Research Articles",
-  "collected_at": "2026-10-09T20:07:31.434Z",
+  "collected_at": "2026-10-10T20:07:33.038Z",
   "scope_start": "2009-01-01",
-  "article_count": 2522,
+  "article_count": 2523,
   "articles": [
+    {
+      "doi": "10.1038/s41557-026-02275-7",
+      "title": "Reversible Sn4+/Sn0 anode for high-energy-density flow batteries",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1038/s41557-026-02275-7"
+    },
     {
       "doi": "10.1038/s41557-026-02270-y",
       "title": "Evolution of dipole–dipole dynamics in cold ammonia collisions",

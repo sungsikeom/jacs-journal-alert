@@ -1,9 +1,147 @@
 {
-  "source": "Wiley Journal of Computational Chemistry search results",
-  "collected_at": "2026-10-09T20:24:45.660Z",
+  "source": "Wiley Angewandte search results",
+  "collected_at": "2026-10-10T20:24:05.222Z",
   "scope_start": "2026-01-01",
-  "article_count": 2795,
+  "article_count": 2818,
   "articles": [
+    {
+      "doi": "10.1002/anie.7802784",
+      "title": "RNA Organelles in DNA-Based Artificial Cells Provide Spatial Aptamer Functions and Enhanced Signal Processing",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1002/anie.7802784"
+    },
+    {
+      "doi": "10.1002/anie.7371024",
+      "title": "Persistent Mn3+ Sites on Reduced MnO Enable Efficient Syngas Conversion",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1002/anie.7371024"
+    },
+    {
+      "doi": "10.1002/anie.7133146",
+      "title": "Modular Construction of Cyclic and Linear Quaternary Carbon Centers through Visible-Light-Induced Triplet Nitrene Transfer Reaction",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1002/anie.7133146"
+    },
+    {
+      "doi": "10.1002/anie.6875075",
+      "title": "Biomarker and Bioorthogonality Dual-Locked Chemiluminescent Probes for Cancer Urine Test",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1002/anie.6875075"
+    },
+    {
+      "doi": "10.1002/anie.6229772",
+      "title": "Overcoming the Spin Barrier of Oxygen Redox Chemistry in Lithium–Oxygen Batteries via Metal–Support Magnetic Interaction",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1002/anie.6229772"
+    },
+    {
+      "doi": "10.1002/anie.3369650",
+      "title": "Controlled Hydrogen Delivery by Single-Atom Ru Accelerates Electrocatalytic Ammonia Synthesis",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1002/anie.3369650"
+    },
+    {
+      "doi": "10.1002/anie.3220261",
+      "title": "Double Reduction of Ph3B to a Dianionic Borane With a Powerful SrI Intermediate",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1002/anie.3220261"
+    },
+    {
+      "doi": "10.1002/anie.2484646",
+      "title": "Topological Engineering of NIR-II Emissive Conjugated Oligomers With Unexpected Excited-State Manifolds for Efficient Phototheranostics and Cancer Immunotherapy",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1002/anie.2484646"
+    },
+    {
+      "doi": "10.1002/anie.2208146",
+      "title": "Structural Softness–Rigidity Mediation Enables Multicolor Emission and Long-Lived Phosphorescence in Hf/Zr Halides",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1002/anie.2208146"
+    },
+    {
+      "doi": "10.1002/anie.1526477",
+      "title": "In Situ and Operando Techniques for Electrocatalysis in Renewable Energy Applications",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1002/anie.1526477"
+    },
+    {
+      "doi": "10.1002/anie.1386648",
+      "title": "Stabilizing Functional Nucleic Acids for Real-Sample Diagnostics",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1002/anie.1386648"
+    },
+    {
+      "doi": "10.1002/anie.7484294",
+      "title": "Mortise-and-Tenon Molecular Joint Covalent Organic Frameworks With Tunable Topology for Photothermal-Catalytic Cross-Dehydrogenative Coupling",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1002/anie.7484294"
+    },
+    {
+      "doi": "10.1002/anie.7300550",
+      "title": "S = 3/2 Iron(I)-Bisphosphine-Ate Complexes: Synthesis, Characterization, and Reactivity for Electrophile Activation",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1002/anie.7300550"
+    },
+    {
+      "doi": "10.1002/anie.6897356",
+      "title": "Visible Light-Induced [2 + 2]-Cycloaddition and Photo-Ene Reactions: Spin-Dependent Catalysis and Quantum Tunneling Effects",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1002/anie.6897356"
+    },
+    {
+      "doi": "10.1002/anie.6516584",
+      "title": "Macrocyclization of ω-Isocyano Aldehydes",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1002/anie.6516584"
+    },
+    {
+      "doi": "10.1002/anie.4556976",
+      "title": "Light-Driven Control of Polar Order in Ferroelectric Nematic Liquid Crystals",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1002/anie.4556976"
+    },
+    {
+      "doi": "10.1002/anie.4229572",
+      "title": "Catechol as a Co-Polymerization Mediator for Programmable Surface Chemistry Structure Synthesis of Carbon Dots",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1002/anie.4229572"
+    },
+    {
+      "doi": "10.1002/anie.3306470",
+      "title": "Cooperative Fe–LMCT and Ni–SH2 Catalysis for Native Carboxylic Acid Methyl Editing",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1002/anie.3306470"
+    },
+    {
+      "doi": "10.1002/anie.2858393",
+      "title": "Long-Range Atomic Periodicity Unlocks Durable Water Electrolysis",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1002/anie.2858393"
+    },
+    {
+      "doi": "10.1002/anie.2390339",
+      "title": "Enhanced Electrochemical C–N Coupling for Glycine Synthesis via an Active Hydrogen Pump",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1002/anie.2390339"
+    },
+    {
+      "doi": "10.1002/anie.2166480",
+      "title": "Switching ATP-Forming Phosphoryl-Transfer Chemistry With a Restricted Set of Amino Acids",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1002/anie.2166480"
+    },
+    {
+      "doi": "10.1002/anie.1519163",
+      "title": "Electrostatic Focusing Enables Directed Active Hydrogen Delivery for pH-Universal Nitrate Electroreduction",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1002/anie.1519163"
+    },
+    {
+      "doi": "10.1002/anie.1100520",
+      "title": "Nature of C─N Coupling in Urea Electrosynthesis for Catalyst Design",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1002/anie.1100520"
+    },
     {
       "doi": "10.1002/anie.9611215",
       "title": "Enhancing Stability of Layered Double Perovskites With a Naphthalene Diimide Spacer Toward Photoelectrochemical Application",

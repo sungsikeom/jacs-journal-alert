@@ -1,9 +1,15 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-10-09T20:10:47.817Z",
+  "collected_at": "2026-10-10T20:10:49.067Z",
   "scope_start": "2026-01-01",
-  "article_count": 760,
+  "article_count": 761,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01446",
+      "title": "Comparing Symmetry-Adapted Perturbation Theory to Intermolecular Energy Decomposition Analysis Based on Absolutely Localized Molecular Orbitals",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01446"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01744",
       "title": "Comparative Analysis of Relative Ligand Binding Free Energy Simulation Methods: Amber-TI, GROMACS-NETI, OpenMM-FEP, and BLaDE-MSLD",
