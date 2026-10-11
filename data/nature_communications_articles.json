@@ -1,9 +1,57 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-10-10T20:04:02.431Z",
+  "collected_at": "2026-10-11T20:50:32.371Z",
   "scope_start": "2026-01-01",
-  "article_count": 9258,
+  "article_count": 9266,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78648-w",
+      "title": "An automated operon refactoring workflow for heterologous expression of non-ribosomal peptide biosynthetic gene clusters",
+      "published_date": "2026-10-11",
+      "url": "https://doi.org/10.1038/s41467-026-78648-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-78616-4",
+      "title": "A method quantifying soil melanin to understand fungal impacts on soil carbon stability",
+      "published_date": "2026-10-11",
+      "url": "https://doi.org/10.1038/s41467-026-78616-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-78603-9",
+      "title": "Asymmetric bloom lengthening drives high-latitude ocean chlorophyll accumulation imbalance",
+      "published_date": "2026-10-11",
+      "url": "https://doi.org/10.1038/s41467-026-78603-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-78598-3",
+      "title": "HCV incidence and prevalence trends among people who use drugs in France 2004 to 2023",
+      "published_date": "2026-10-11",
+      "url": "https://doi.org/10.1038/s41467-026-78598-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-78580-z",
+      "title": "Time-lapse RESOLFT nanoscopy empowered by deep learning",
+      "published_date": "2026-10-11",
+      "url": "https://doi.org/10.1038/s41467-026-78580-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-78575-w",
+      "title": "In situ reduction-driven formation of sub-nanometer alternating heterostructures",
+      "published_date": "2026-10-11",
+      "url": "https://doi.org/10.1038/s41467-026-78575-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-78555-0",
+      "title": "Intensification of near-inertial currents in the Atlantic Ocean over the past two decades",
+      "published_date": "2026-10-11",
+      "url": "https://doi.org/10.1038/s41467-026-78555-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78507-8",
+      "title": "A supergene and genomic mosaicism are associated with phenotypic evolution in Galápagos tree finches",
+      "published_date": "2026-10-11",
+      "url": "https://doi.org/10.1038/s41467-026-78507-8"
+    },
     {
       "doi": "10.1038/s41467-026-78376-1",
       "title": "Twisted superconducting quantum diodes for high fidelity anharmonic qubits",

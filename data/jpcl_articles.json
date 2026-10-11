@@ -1,9 +1,117 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-10-07T20:17:19.353Z",
+  "collected_at": "2026-10-11T21:06:01.708Z",
   "scope_start": "2026-01-01",
-  "article_count": 1331,
+  "article_count": 1349,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02217",
+      "title": "Computational Study of Gas-Phase Reactions to Produce Sulfite Esters: A New Class of Sulfur Containing Molecules in the Atmosphere?",
+      "published_date": "2026-10-11",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02217"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02057",
+      "title": "Dark-State-Mediated Low-Energy Electron Attachment to Molecular Oxygen: Symmetry Adapted Decomposition of the DEA Resonance through Dyson-Orbitals’ Incoherent Mixing",
+      "published_date": "2026-10-11",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02057"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c03080",
+      "title": "Suppressing Nonradiative Voltage Losses in Ternary Organic Solar Cells via Additional CT States",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c03080"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02683",
+      "title": "Photogenerated Charge Injection-Modulated Ultralow-Power ZnO/Sb2S3 Heterojunction Memristors for Artificial Visual Nociception and Persistence Systems",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02683"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c03072",
+      "title": "Active-Space Selection in Nonadiabatic Dynamics Simulations of Dense Manifolds of Excited States: When Local Diabatization Needs Great Care",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c03072"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c03071",
+      "title": "One Conductor and One Score to Rule Them All: A Backend Agnostic Optimizer Employing Nonredundant Symmetrized Coordinates for Exploring Accuracy Ladders",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c03071"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c03023",
+      "title": "Cu-Terminated Ti3CuC2: Boosting CO2 Reduction Via Selective Adsorption Regulation",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c03023"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02893",
+      "title": "Simulating UV Photolysis of Ibuprofen by Time-Dependent Excited-State Molecular Dynamics",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02893"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02772",
+      "title": "Ultrafast Dynamics of Competing Dimethyl Disulfide Photodissociation Pathways",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02772"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02680",
+      "title": "Cationic Vacancy Modulates Co Spin State in CoP for pH-Universal and Seawater Hydrogen Evolution",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02680"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02667",
+      "title": "Constructing Mechanically Flexible Molecular Crystals with Tunable Near-Full-Spectrum Emission via an α-Cyanodiarylethene Scaffold",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02667"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02587",
+      "title": "Ultrafast Core–Shell Spin Transfer and Spin-Selective Relaxation in an Endohedral Cage Cluster",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02587"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02484",
+      "title": "Giant Tunneling Electroresistance up to 108% via Synchronous Ohmic–Schottky Switching at Dual Interfaces in Ti2CF2/Bilayer GaN Sliding Ferroelectric Tunnel Junctions",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02484"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c03092",
+      "title": "High-Performance Near-Infrared Perovskite Single-Crystal Photodetectors Enabled by Multifunctional Additive Engineering for Image Encryption",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c03092"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02730",
+      "title": "Dual-Mode Photodetection and Neuromorphic Memory with PTCDI-C8/C8-BTBT Organic Heterojunctions",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02730"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02718",
+      "title": "Single-Particle Photophysics Reveals Pathway-Dependent Packing in Kinetically Trapped Hydrophobic Aggregates",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02718"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02645",
+      "title": "Characterization of Thermal Recovery Activation in Fast Photochromic Flavoprotein Charge-Transfer Complexes",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02645"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02522",
+      "title": "Symmetry and Vibrational Control of Multi-Channel HHG in Methane",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02522"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02648",
       "title": "Resolving Transient Electron–Phonon Coupling with Time-Resolved Spontaneous Raman Spectroscopy",

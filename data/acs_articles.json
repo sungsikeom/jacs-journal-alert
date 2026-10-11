@@ -1,16 +1,364 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-10-10T20:00:35.497Z",
+  "collected_at": "2026-10-11T20:47:05.696Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7880,
+  "article_count": 7941,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c14373",
+      "title": "An Atomic-Scale Chemical Switch for Oxide Ferroelectricity",
+      "published_date": "2026-10-11",
+      "url": "https://doi.org/10.1021/jacs.6c14373"
+    },
+    {
+      "doi": "10.1021/jacs.6c14062",
+      "title": "Wavelength-Selective Magneto-Optical Diodes Based on Rare-Earth Chiral Molecular Crystals",
+      "published_date": "2026-10-11",
+      "url": "https://doi.org/10.1021/jacs.6c14062"
+    },
+    {
+      "doi": "10.1021/jacs.6c19185",
+      "title": "Engineering a Reconfigurable Transmembrane Receptor Enables Logic-Controlled Signal Translocation",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1021/jacs.6c19185"
+    },
+    {
+      "doi": "10.1021/jacs.6c18484",
+      "title": "Metal Fluorides: All-In-One Supports for Ruthenium-Catalyzed Ammonia Synthesis",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1021/jacs.6c18484"
+    },
+    {
+      "doi": "10.1021/jacs.6c15886",
+      "title": "Regio- and Enantioselective Functionalization of Gaseous Alkanes via Nickel-Catalyzed Alkene Dicarbofunctionalization",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1021/jacs.6c15886"
+    },
+    {
+      "doi": "10.1021/jacs.6c14973",
+      "title": "NMR Spectroscopic Evidence for Magnetically Induced Ring Currents in All-Metal-Aromatic [Bi4]4+",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1021/jacs.6c14973"
+    },
+    {
+      "doi": "10.1021/jacs.6c14175",
+      "title": "Circular RNA Delivery In Vitro and In Vivo Using Doubly Branched Aminoethoxy-Functionalized Ionizable Lipid Nanoparticles",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1021/jacs.6c14175"
+    },
+    {
+      "doi": "10.1021/jacs.6c14074",
+      "title": "Hydrogenation of CO2 to Propane and n-Butane by Engineering Metal Oxide Interfacial Structure and Manipulating Zeolite Pore Structure and Acidity",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1021/jacs.6c14074"
+    },
+    {
+      "doi": "10.1021/jacs.6c13740",
+      "title": "Deciphering Interheme Electron-Transfer Pathways in a Diheme Peroxidase from Methane-Oxidizing Bacteria",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1021/jacs.6c13740"
+    },
+    {
+      "doi": "10.1021/jacs.6c12237",
+      "title": "Cesium-Induced Stabilization of the FeOOH Cocatalyst on Bismuth Vanadate Photoanode for Ultraefficient and Stable Photoelectrochemical Water Oxidation",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1021/jacs.6c12237"
+    },
+    {
+      "doi": "10.1021/jacs.6c12007",
+      "title": "Birch-Type-Reduced Carbazole Anions Enable Redox-Adaptive Super-Reducing Photocatalysis",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1021/jacs.6c12007"
+    },
+    {
+      "doi": "10.1021/jacs.6c11537",
+      "title": "Selective Consecutive Decarboxylation Enables Skeletal Contraction of Waste PET",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1021/jacs.6c11537"
+    },
+    {
+      "doi": "10.1021/jacs.6c10904",
+      "title": "Electroanalytical and Computational Investigation of Oxoammonium-Mediated Hydride Transfer",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1021/jacs.6c10904"
+    },
+    {
+      "doi": "10.1021/jacs.6c18200",
+      "title": "X-ray-Triggered Self-Sustaining Afterglow Scaffolds with Persistent Type-I/II ROS Generation for Imaging-Guided Hypoxic Tumor Therapy",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/jacs.6c18200"
+    },
+    {
+      "doi": "10.1021/jacs.6c17448",
+      "title": "Closed-Loop CO2-Mediated Ultrafast and Controlled Synthesis of Amino Acid Polymers toward a Circular Carbon and Polymer Economy",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/jacs.6c17448"
+    },
+    {
+      "doi": "10.1021/jacs.6c16767",
+      "title": "A Substrate-Permissive Vanadium Haloperoxidase in Type II Polyketide Biosynthesis Unlocks Non-Native Halogenation across Diverse Substrate Scaffolds",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/jacs.6c16767"
+    },
+    {
+      "doi": "10.1021/jacs.6c15621",
+      "title": "Tuning Pore Confinement and Chemistry of Fluorine-Free Membranes",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/jacs.6c15621"
+    },
+    {
+      "doi": "10.1021/jacs.6c15126",
+      "title": "Predicting Core-Level X-ray Photoemission Spectra of Oxide Surfaces from First-Principles─A Case Study for SnO2",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/jacs.6c15126"
+    },
+    {
+      "doi": "10.1021/jacs.6c14950",
+      "title": "General Asymmetric Synthesis of Noncanonical Amino Acids",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/jacs.6c14950"
+    },
+    {
+      "doi": "10.1021/jacs.6c14543",
+      "title": "Mechanistic Study of a Thermal- and Light-Driven Single-Crystal-to-Single-Crystal Transformation of an Organocerium Complex",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/jacs.6c14543"
+    },
+    {
+      "doi": "10.1021/jacs.6c14452",
+      "title": "Copper-Catalyzed Chemo- and Enantioselective Radical 1,2-Carbosulfenylation of Diverse Alkenes with Broad Radical and Sulfur Compatibility",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/jacs.6c14452"
+    },
+    {
+      "doi": "10.1021/jacs.6c14000",
+      "title": "Hydrogen Bond Network Descriptors Dictate Reactivity and Selectivity of CO2 Electroreduction",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/jacs.6c14000"
+    },
+    {
+      "doi": "10.1021/jacs.6c13892",
+      "title": "Graphene-Like-Armored Nanosheet Assemblies toward Fast and Stable High-Mass-Loading Sodium Storage",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/jacs.6c13892"
+    },
+    {
+      "doi": "10.1021/jacs.6c12867",
+      "title": "Optically Addressable Spins in a Metal–Organic Framework",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/jacs.6c12867"
+    },
+    {
+      "doi": "10.1021/jacs.6c12683",
+      "title": "Interfacial Electrolyte Solution Reorganization as a Rate-Limiting Step for CO Adsorption on Pt in Electrochemical Environments",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/jacs.6c12683"
+    },
+    {
+      "doi": "10.1021/jacs.6c12196",
+      "title": "Myelin Sheath-Inspired Fluorocarbon Hydrophobic Bridges for Stable n-Type Organic Mixed Ionic–Electronic Conductors",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/jacs.6c12196"
+    },
+    {
+      "doi": "10.1021/jacs.6c12095",
+      "title": "Electric Double Layer Organization of Proton-Transfer Pathways Regulates Alkaline Hydrogen Evolution",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/jacs.6c12095"
+    },
+    {
+      "doi": "10.1021/jacs.6c11873",
+      "title": "Capturing Ag6 Inner-Core Contraction in Inorganic-Template-Stabilized Ag78 Nanoclusters",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/jacs.6c11873"
+    },
+    {
+      "doi": "10.1021/jacs.6c11285",
+      "title": "Resonant Inelastic X-ray Scattering Covalency Analysis Reveals Non-Aufbau Electronic Configurations in Low-Valent Lanthanides",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/jacs.6c11285"
+    },
+    {
+      "doi": "10.1021/jacs.6c10604",
+      "title": "Atomic Site-Specific Eigenstrain for Efficient Electrocatalysis",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/jacs.6c10604"
+    },
+    {
+      "doi": "10.1021/jacs.6c10578",
+      "title": "Synergistic RhFe Single-Atom Alloy and Nanoalloy Sites for Highly Efficient and Robust Heterogeneous Hydroformylation",
+      "published_date": "2026-10-09",
+      "url": "https://doi.org/10.1021/jacs.6c10578"
+    },
+    {
+      "doi": "10.1021/jacs.6c18611",
+      "title": "Correction to “Experimental and Computational Elucidation of C(sp3)–H Fluorination Barriers in an Iron(II)- and 2-Oxoglutarate-Dependent Halogenase”",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c18611"
+    },
+    {
+      "doi": "10.1021/jacs.6c17442",
+      "title": "Confined Water Wires as Anisotropic Proton Highways in a Neutral Polymer Single Crystal",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c17442"
+    },
+    {
+      "doi": "10.1021/jacs.6c17393",
+      "title": "Aza-Berson–Willcott Rearrangement",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c17393"
+    },
+    {
+      "doi": "10.1021/jacs.6c17387",
+      "title": "Benzoxaborole-Inspired pKa-Guided Search for a Borine Alternative Uncovers a Borylurea Scaffold with Unique Properties and Reactivity",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c17387"
+    },
+    {
+      "doi": "10.1021/jacs.6c17360",
+      "title": "Interrupted C(sp2) Ritter Reaction Enabled by a Stable Nitrilium Surrogate",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c17360"
+    },
+    {
+      "doi": "10.1021/jacs.6c17293",
+      "title": "Nanoparticle Packing-Dependent Charge Transfer Dynamics in Colloidal Binary Superparticles",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c17293"
+    },
+    {
+      "doi": "10.1021/jacs.6c16278",
+      "title": "Integrating Fragment Screening and Covalent Chemistry to Drug DNA-Binding Proteins: RAD52 as a Case Study",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c16278"
+    },
+    {
+      "doi": "10.1021/jacs.6c15884",
+      "title": "Copper-Mediated Nitrogen-Atom Migration into Saturated Carbocycles",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c15884"
+    },
+    {
+      "doi": "10.1021/jacs.6c15784",
+      "title": "Highly Efficient Ethylene Glycol Production from Photocatalytic Ethylene Oxidation over Commercial Zinc Oxide Nanopowder",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c15784"
+    },
+    {
+      "doi": "10.1021/jacs.6c15657",
+      "title": "Mapping and Modeling Interfacial pH Dynamics at Enzymatic Microelectrode",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c15657"
+    },
+    {
+      "doi": "10.1021/jacs.6c15276",
+      "title": "High-Entropy Lanthanoid Oxide Catalysts for Oxidative Coupling of Methane",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c15276"
+    },
+    {
+      "doi": "10.1021/jacs.6c15094",
+      "title": "Topological Self-Locking of Hyperbranched Poly(ionic liquid)s for Impact-Stiffening Ionic Skins",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c15094"
+    },
+    {
+      "doi": "10.1021/jacs.6c14588",
+      "title": "Beyond Phase Selectivity in Conversion Copper Selenides Cathode through Activated Anionic Redox",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c14588"
+    },
+    {
+      "doi": "10.1021/jacs.6c14243",
+      "title": "Sequence Similarity Network-Guided Discovery of a Sequence-Tolerant Cyanobactin Protease Clade for Site-Selective Peptide and Protein Modification",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c14243"
+    },
+    {
+      "doi": "10.1021/jacs.6c14102",
+      "title": "Visualizing the Site-Specific Kinetics and Terrace-to-Edge Migration of CO Electrooxidation on a Single Pd Nanocatalyst",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c14102"
+    },
+    {
+      "doi": "10.1021/jacs.6c13660",
+      "title": "Stereodivergent Synthesis of C-Glycosides from Glycals by Ni-Catalyzed Cross-Hydrocarbonylation of Alkenes",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c13660"
+    },
+    {
+      "doi": "10.1021/jacs.6c13331",
+      "title": "Correction to “Electronic-Structure Modulation in NiRu Alloys to Alleviate Hydrogen Poisoning for Robust Photothermal Ammonia Decomposition”",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c13331"
+    },
+    {
+      "doi": "10.1021/jacs.6c13085",
+      "title": "Structural and Mechanistic Basis of Bacterial 2-Methyl-ACC Synthases",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c13085"
+    },
+    {
+      "doi": "10.1021/jacs.6c12620",
+      "title": "Cross-Scale Discovery of Surface Ligand-Modified Nanoparticles via Combined Transfer-Cascade Machine Learning",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c12620"
+    },
+    {
+      "doi": "10.1021/jacs.6c11960",
+      "title": "Redox-Programmed Bipolar Membranes from Electronically Wired Ion-Insertion Hosts for Selective Ion Transport",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c11960"
+    },
+    {
+      "doi": "10.1021/jacs.6c11855",
+      "title": "Ultrafast Aqueous Photoinduced Electron/Energy Transfer Reversible Addition–Fragmentation Chain Transfer Polymerization-Induced Self-Assembly: Wavelength-Dependent Morphologies and Scalable Nanoparticle Preparation",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c11855"
+    },
+    {
+      "doi": "10.1021/jacs.6c10381",
+      "title": "Observing Elusive Reaction Intermediates with Raman Spectroscopy via Melt-React-Trap",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c10381"
+    },
+    {
+      "doi": "10.1021/jacs.6c10287",
+      "title": "The AML-Associated A338V Mutation Rewires GPR183 Signaling through C-Terminal Ensemble Redistribution",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c10287"
+    },
+    {
+      "doi": "10.1021/jacs.6c09391",
+      "title": "Interfacial Electric Fields in Water Nanodroplets Are Weakly Dependent on Curvature and pH",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c09391"
+    },
+    {
+      "doi": "10.1021/jacs.6c07763",
+      "title": "The Electrodynamical Nature of Chiral Nanoplasmonics from the Quantum Regime to the Mesoscale",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c07763"
+    },
+    {
+      "doi": "10.1021/jacs.6c07432",
+      "title": "The Shear-Bond Descriptor and Universal Machine-Learning Potential Enable Large-Scale Discovery of Negative Thermal Expansion Materials",
+      "published_date": "2026-10-08",
+      "url": "https://doi.org/10.1021/jacs.6c07432"
+    },
     {
       "doi": "10.1021/jacs.6c19936",
       "title": "Correction to “Dynamic Adaptive Interfaces Enable Zn-Iodine Hydrogel Batteries with High Areal Capacity and Low Self-Discharge”",
       "published_date": "2026-10-07",
       "url": "https://doi.org/10.1021/jacs.6c19936"
+    },
+    {
+      "doi": "10.1021/jacs.6c18367",
+      "title": "Plasmon-Driven Urea Photosynthesis on a Rationally Designed RuCu Nanoalloy Cocatalyst Through a Kinetically Favorable C–N Coupling Mechanism",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/jacs.6c18367"
     },
     {
       "doi": "10.1021/jacs.6c17839",
@@ -43,6 +391,12 @@
       "url": "https://doi.org/10.1021/jacs.6c15361"
     },
     {
+      "doi": "10.1021/jacs.6c15157",
+      "title": "Cryptic Methylation Enables Amino-Maleimide Formation in Ligiamycin Biosynthesis",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/jacs.6c15157"
+    },
+    {
       "doi": "10.1021/jacs.6c14748",
       "title": "Stereoselective 1,2-Metalate Rearrangement of α-Chloroalkylboronic Esters with gem-Diborylalkanes",
       "published_date": "2026-10-07",
@@ -73,6 +427,12 @@
       "url": "https://doi.org/10.1021/jacs.6c13601"
     },
     {
+      "doi": "10.1021/jacs.6c13537",
+      "title": "A Latent DNA–Protein Cross-Link Agent as a Chemical Adjuvant for Photodynamic Therapy",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/jacs.6c13537"
+    },
+    {
       "doi": "10.1021/jacs.6c11419",
       "title": "A Programmable KillSwitch in NewTAML Catalysts Decouples Oxidative Reactivity from Catalyst Lifetime",
       "published_date": "2026-10-07",
@@ -95,6 +455,12 @@
       "title": "METTL3–METTL14 Heterodimer Assembly Enables Multivalent RNA Engagement and Is Tuned by Interface-Targeting Peptides",
       "published_date": "2026-10-07",
       "url": "https://doi.org/10.1021/jacs.6c09634"
+    },
+    {
+      "doi": "10.1021/jacs.6c08027",
+      "title": "Aziridination-Based Crosslinking Enables Site-Resolved Elucidation of Lipid Binding and Protein Conformational Changes",
+      "published_date": "2026-10-07",
+      "url": "https://doi.org/10.1021/jacs.6c08027"
     },
     {
       "doi": "10.1021/jacs.6c06572",
