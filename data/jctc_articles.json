@@ -1,9 +1,39 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-10-11T20:59:20.741Z",
+  "collected_at": "2026-10-12T20:12:46.715Z",
   "scope_start": "2026-01-01",
-  "article_count": 762,
+  "article_count": 767,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01690",
+      "title": "Vertical Excitation Energies in Solution via a Two-Time-Scale Solvation Model Coupled to Pair-Density Functional Theory",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01690"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01635",
+      "title": "ΔNAzyme: A Foundational QM/MM Δ-Machine Learning Potential for Nucleic Acid Enzyme Catalysis",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01635"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01503",
+      "title": "Multireference Density Matrix Embedding for Spin-Phonon Relaxation",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01503"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01253",
+      "title": "ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01253"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01228",
+      "title": "Progress toward a Better BOCS: Systematic Coarse-Graining with Local Density Potentials",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01228"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01288",
       "title": "JustEvo: A Prior-Guided Adaptive Mixture-of-Experts Framework for Multifunctional Protein Directed Evolution",

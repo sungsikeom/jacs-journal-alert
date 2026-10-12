@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-10-11T20:50:32.371Z",
+  "collected_at": "2026-10-12T20:03:58.516Z",
   "scope_start": "2026-01-01",
-  "article_count": 9266,
+  "article_count": 9286,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78645-z",
+      "title": "KMT2B facilitates long-range gene regulation through LINE1 elements",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1038/s41467-026-78645-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-78642-2",
+      "title": "DHHC12 serves as a critical nutrient-responsive switch that couples amino acid sensing to insulin secretion",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1038/s41467-026-78642-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-78635-1",
+      "title": "Interpretable AI-guided discovery of degradable ionizable lipids with enhanced hepatic mRNA delivery in vivo",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1038/s41467-026-78635-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-78617-3",
+      "title": "Plant invasions are associated with lower community stability at multiple spatial scales",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1038/s41467-026-78617-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-78583-w",
+      "title": "Safety and immunogenicity of a BPL-inactivated, whole-virus, universal influenza vaccine: a randomized, double-blinded, double-dummy, placebo-controlled, phase 1 clinical trial",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1038/s41467-026-78583-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-78581-y",
+      "title": "Multiplexed single-molecule analysis of barcoded protein variants",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1038/s41467-026-78581-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-78560-3",
+      "title": "Ki-67, the chromosome periphery and de-compartmentalisation each contribute to nucleophosmin mislocalisation in acute myeloid leukaemia",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1038/s41467-026-78560-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-78549-y",
+      "title": "Tracing missing copper: ultrapotassic rocks record isotopic evidence of crustal Cu depletion",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1038/s41467-026-78549-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-78534-5",
+      "title": "The VPS33B-VPS16B protein complex facilitates Golgi ribbon formation and Golgi-endosome trafficking",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1038/s41467-026-78534-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-78478-w",
+      "title": "Ultrahigh-speed chromatically band-limited illumination profilometry",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1038/s41467-026-78478-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-78440-w",
+      "title": "Whole blood transcriptomics atlas across human diseases",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1038/s41467-026-78440-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-78437-5",
+      "title": "Deep profiling of lysine methylation by covalent enrichment-enhanced proteomics",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1038/s41467-026-78437-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-78397-w",
+      "title": "The mechanosensitive PIEZO1 channel promotes CD54+/iNOS+ neutrophil expansion in pulmonary fibrosis",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1038/s41467-026-78397-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-78389-w",
+      "title": "Global rise of a wheat pathogen through two-stage evolutionary emergence coupled with aerial dispersal",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1038/s41467-026-78389-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-78369-0",
+      "title": "Neuronal signatures of successful one-shot memory in mid-level visual cortex",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1038/s41467-026-78369-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78310-5",
+      "title": "Continuous-time noise mitigation in analogue quantum simulation",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1038/s41467-026-78310-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-78284-4",
+      "title": "DigiDent: integrated bristle-level sensing and AI for contact-aware toothbrushing assessment",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1038/s41467-026-78284-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-78225-1",
+      "title": "The central coupler of ClpXP controls intersubunit communication and couples intrasubunit chemical energy with force generation",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1038/s41467-026-78225-1"
+    },
+    {
+      "doi": "10.1038/s41467-026-78186-5",
+      "title": "Precision functional mapping of imagined and experienced pain",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1038/s41467-026-78186-5"
+    },
+    {
+      "doi": "10.1038/s41467-026-78115-6",
+      "title": "Block-fitness modeling of the global air mobility network",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1038/s41467-026-78115-6"
+    },
     {
       "doi": "10.1038/s41467-026-78648-w",
       "title": "An automated operon refactoring workflow for heterologous expression of non-ribosomal peptide biosynthetic gene clusters",

@@ -1,12 +1,18 @@
 {
   "source": "Nature Research Articles · 2026 filter",
-  "collected_at": "2026-10-11T20:53:46.238Z",
+  "collected_at": "2026-10-12T20:07:11.388Z",
   "scope_start": "2026-01-01",
-  "official_total": 1056,
+  "official_total": 1057,
   "collection_mode": "incremental",
   "stopped_on_known_doi": true,
-  "article_count": 1056,
+  "article_count": 1057,
   "articles": [
+    {
+      "doi": "10.1038/s41586-026-11250-8",
+      "title": "Antiviral immunity via telomerase-like reverse transcription in bacteria",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1038/s41586-026-11250-8"
+    },
     {
       "doi": "10.1038/s41586-026-11153-8",
       "title": "tRNA dosage regulates lineage dependency and resistance in prostate cancer",

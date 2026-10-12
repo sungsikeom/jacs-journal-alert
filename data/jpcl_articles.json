@@ -1,9 +1,51 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-10-11T21:06:01.708Z",
+  "collected_at": "2026-10-12T20:19:14.991Z",
   "scope_start": "2026-01-01",
-  "article_count": 1349,
+  "article_count": 1356,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02980",
+      "title": "Electrochemical State Reconfiguration in Vertical Opto-ionic Transistors for Adaptive Optoelectronic Computing",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02980"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02668",
+      "title": "Controlling Structural Dimensionality in 2D Perovskites through A-Site Cation Enrichment",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02668"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02647",
+      "title": "Intracellular Molecular Dynamics Progressively Change during Carcinogenesis Revealed by Elastic and Quasi-Elastic Neutron Scattering",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02647"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02455",
+      "title": "Quantum Fast Forwarding of Non-Markovian Quantum Dynamics",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02455"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02170",
+      "title": "Resolving Proton Diffusion Kinetics in Electrolytic Hydrogen Evolution",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02170"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02166",
+      "title": "Toward a Local Manipulation of DNA by Quantum Fields",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02166"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c01786",
+      "title": "High-Throughput Computational Screening of Quinones for Electrochemical CO2 Capture",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c01786"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02217",
       "title": "Computational Study of Gas-Phase Reactions to Produce Sulfite Esters: A New Class of Sulfur Containing Molecules in the Atmosphere?",

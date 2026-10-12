@@ -1,11 +1,83 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-10-11T20:47:05.696Z",
+  "collected_at": "2026-10-12T20:00:31.514Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7941,
+  "article_count": 7953,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c18273",
+      "title": "In Situ Ion-Exchange-Mediated Dynamic Nanointerface Reconfiguration for Polarity-Switchable Photoelectrochemical–Photothermal Biosensing",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/jacs.6c18273"
+    },
+    {
+      "doi": "10.1021/jacs.6c17656",
+      "title": "Stabilization and Transformation of MXenes into Flexible and Thermal Oxidation-Resistant Non-van der Waals solids via Vapor-Phase Chemical Intercalation",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/jacs.6c17656"
+    },
+    {
+      "doi": "10.1021/jacs.6c17126",
+      "title": "Solvent-Dipole Deshielding of Hydrated Aluminum Lewis Acids for Enhanced 5-Hydroxymethylfurfural Production from Biomass",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/jacs.6c17126"
+    },
+    {
+      "doi": "10.1021/jacs.6c15934",
+      "title": "An “Unachievable” Molecular Sieve with Sole Six-Membered Rings",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/jacs.6c15934"
+    },
+    {
+      "doi": "10.1021/jacs.6c15706",
+      "title": "A Tumor-Activatable DNA Nanoengager That Orchestrates NK Receptor Clustering and Immune Checkpoint Blockage to Enhance Antitumor Cytotoxicity",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/jacs.6c15706"
+    },
+    {
+      "doi": "10.1021/jacs.6c15213",
+      "title": "Tailored ZnO/Cellulose Separator Reconfigures Solvation Chemistry for Durable Magnesium Metal Batteries",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/jacs.6c15213"
+    },
+    {
+      "doi": "10.1021/jacs.6c14883",
+      "title": "Structural Rigidity Enables Amplified Spontaneous Emission in 2D Alkylammonium Tin Perovskites",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/jacs.6c14883"
+    },
+    {
+      "doi": "10.1021/jacs.6c13478",
+      "title": "A Multiscale Theoretical Framework of Piezocatalysis",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/jacs.6c13478"
+    },
+    {
+      "doi": "10.1021/jacs.6c13425",
+      "title": "Three-Dimensional Covalent Organic Framework for the Capture of Nitrogen Dioxide",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/jacs.6c13425"
+    },
+    {
+      "doi": "10.1021/jacs.6c13418",
+      "title": "Single-Water Microsolvation Promotes Proton Sharing in a Neutral Formic Acid–Ammonia Complex",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/jacs.6c13418"
+    },
+    {
+      "doi": "10.1021/jacs.6c13135",
+      "title": "Spin Polarization Enhanced Photocatalytic N2 Reduction on Chiral Mesostructured Bi2WO6",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/jacs.6c13135"
+    },
+    {
+      "doi": "10.1021/jacs.6c12176",
+      "title": "Benzaldehyde Is the Redox Mediator for Aerobic C–N Cleavage in Epoxy Composite Recycling",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/jacs.6c12176"
+    },
     {
       "doi": "10.1021/jacs.6c14373",
       "title": "An Atomic-Scale Chemical Switch for Oxide Ferroelectricity",

@@ -1,9 +1,39 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-10-11T21:12:36.704Z",
+  "collected_at": "2026-10-12T20:25:46.546Z",
   "scope_start": "2026-01-01",
-  "article_count": 2818,
+  "article_count": 2823,
   "articles": [
+    {
+      "doi": "10.1002/anie.8633090",
+      "title": "Integrated Electromicrobial Production of Itaconic Acid From CO2 at Liter-Scale Using Komagataella phaffii",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1002/anie.8633090"
+    },
+    {
+      "doi": "10.1002/anie.1983055",
+      "title": "Gold Single-Atom Catalysts Enable Selective Shuttle Hydrochlorination of Alkynes",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1002/anie.1983055"
+    },
+    {
+      "doi": "10.1002/anie.3151373",
+      "title": "UV/X-Ray-Induced Reduction of Eu3+ to Eu2+ in Rare-Earth-Based Halide Double Perovskite for Material-Discriminative X-Ray Imaging",
+      "published_date": "2026-10-11",
+      "url": "https://doi.org/10.1002/anie.3151373"
+    },
+    {
+      "doi": "10.1002/anie.2523475",
+      "title": "An IscS Persulfide Donates the Sulfur for Ribosomal Protein uL16 Thioamidation",
+      "published_date": "2026-10-11",
+      "url": "https://doi.org/10.1002/anie.2523475"
+    },
+    {
+      "doi": "10.1002/anie.2077291",
+      "title": "Synergistic Regulation of High Dielectric Constant and H-Aggregation for Efficient and Thickness-Tolerant Organic Solar Cells",
+      "published_date": "2026-10-11",
+      "url": "https://doi.org/10.1002/anie.2077291"
+    },
     {
       "doi": "10.1002/anie.7802784",
       "title": "RNA Organelles in DNA-Based Artificial Cells Provide Spatial Aptamer Functions and Enhanced Signal Processing",
