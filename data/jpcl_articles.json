@@ -1,9 +1,21 @@
 {
   "source": "ACS JPCL Article search results",
-  "collected_at": "2026-10-12T20:19:14.991Z",
+  "collected_at": "2026-10-13T20:17:19.560Z",
   "scope_start": "2026-01-01",
-  "article_count": 1356,
+  "article_count": 1358,
   "articles": [
+    {
+      "doi": "10.1021/acs.jpclett.6c02750",
+      "title": "Toward Reliable Materials Discovery: Lessons from Halide Double Perovskites",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02750"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.6c02725",
+      "title": "Precursor Stoichiometry-Regulated Room-Temperature Synthesis and Surface Reconstruction of Highly Emissive CsPbI3 Perovskite Nanoplatelets",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/acs.jpclett.6c02725"
+    },
     {
       "doi": "10.1021/acs.jpclett.6c02980",
       "title": "Electrochemical State Reconfiguration in Vertical Opto-ionic Transistors for Adaptive Optoelectronic Computing",

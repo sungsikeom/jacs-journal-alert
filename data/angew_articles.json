@@ -1,9 +1,51 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-10-12T20:25:46.546Z",
+  "collected_at": "2026-10-13T20:23:53.257Z",
   "scope_start": "2026-01-01",
-  "article_count": 2823,
+  "article_count": 2831,
   "articles": [
+    {
+      "doi": "10.1002/anie.9920959",
+      "title": "Magnetic-Field-Assisted Photocatalytic H2O2 Production From Ambient Air via Spin-Matching-Mediated Dual Charge Transfer",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1002/anie.9920959"
+    },
+    {
+      "doi": "10.1002/anie.8801354",
+      "title": "Breaking the Additive Paradox in Aqueous Aluminum-Ion Batteries via Weak-Coordination Asymmetric Electrolyte Chemistry",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1002/anie.8801354"
+    },
+    {
+      "doi": "10.1002/anie.7145285",
+      "title": "Tris(4-Halo-2,6-Difluorophenyl)Methyl Radicals Exhibiting Green Doublet Emission",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1002/anie.7145285"
+    },
+    {
+      "doi": "10.1002/anie.6610006",
+      "title": "Hybridization-Mediated Reversible sgRNA Caging Enables Tumor-Selective Gene Editing for Potentiating Antitumor Immunity via cGAS Demethylation",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1002/anie.6610006"
+    },
+    {
+      "doi": "10.1002/anie.4099867",
+      "title": "Photo-Promoted Thermocatalysis: Low-Temperature Methanol Steam Reforming Toward Hydrogen Production",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1002/anie.4099867"
+    },
+    {
+      "doi": "10.1002/anie.2518487",
+      "title": "Hierarchical Sequence Control Enables Assembly of a Triple Helix With Preferred Handedness",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1002/anie.2518487"
+    },
+    {
+      "doi": "10.1002/anie.2179385",
+      "title": "Enhancing the Formation of C2+ Hydrocarbons in CO2 Hydrogenation Through Co2C/CeOx Interactions",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1002/anie.2179385"
+    },
     {
       "doi": "10.1002/anie.8633090",
       "title": "Integrated Electromicrobial Production of Itaconic Acid From CO2 at Liter-Scale Using Komagataella phaffii",
@@ -15,6 +57,12 @@
       "title": "Gold Single-Atom Catalysts Enable Selective Shuttle Hydrochlorination of Alkynes",
       "published_date": "2026-10-12",
       "url": "https://doi.org/10.1002/anie.1983055"
+    },
+    {
+      "doi": "10.1002/anie.1913760",
+      "title": "Controlled Presodiation of Sodium-Ion Cathode via Electron Cloud Engineering",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1002/anie.1913760"
     },
     {
       "doi": "10.1002/anie.3151373",

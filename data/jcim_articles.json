@@ -1,9 +1,69 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-10-10T20:14:05.611Z",
+  "collected_at": "2026-10-13T20:14:03.159Z",
   "scope_start": "2026-01-01",
-  "article_count": 941,
+  "article_count": 951,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02880",
+      "title": "Deciphering Cellular and Spatial Regulatory Identities from Sparse Chromatin Accessibility Landscapes",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02880"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02860",
+      "title": "Drug-Likeness, Druggability, and Molecular Developability via Chemometric Evaluation: A Review",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02860"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02301",
+      "title": "Hiccup: A Resource-Efficient Automated Platform for High-Performance Global Neural Network Potentials Training",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02301"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02247",
+      "title": "RNADaemon: Reinforcement Learning-Guided Molecular Dynamics for RNA Tertiary Structure Prediction",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02247"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02209",
+      "title": "A Transferable Descriptor for Accurate Prediction of Excitonic Couplings in A-D-A Organic Photovoltaic Acceptors",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02209"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01760",
+      "title": "Hashi: Bridging Statistical Model Derived 1D Microstate Encodings and Protein 3D Structural Ensembles",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01760"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01249",
+      "title": "Latent Style-Based Quantum Wasserstein GAN for Drug Design",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01249"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02109",
+      "title": "AdventML: Advanced Enzyme Temperature Prediction with Transformer-Based Embeddings and Resampling Strategies",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02109"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01893",
+      "title": "Peptide Assembly Design Algorithm: A User-Friendly Computational Tool for Discovering Amyloid-forming Peptides",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01893"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02343",
+      "title": "CHARMM-GUI Covalent Ligand Docker as a Web-Based Molecular Docking Platform for Covalent Ligands",
+      "published_date": "2026-10-11",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02343"
+    },
     {
       "doi": "10.1021/acs.jcim.6c01545",
       "title": "FlexENN: A Graph Neural Network for Binding Energy Prediction of Globular and Intrinsically Disordered Proteins",

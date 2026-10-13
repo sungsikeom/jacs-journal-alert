@@ -1,11 +1,101 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-10-12T20:00:31.514Z",
+  "collected_at": "2026-10-13T20:00:34.047Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7953,
+  "article_count": 7971,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c18353",
+      "title": "Coordination-Site Engineering Enables Synergistic π-Coupling in Peroxomolybdates",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/jacs.6c18353"
+    },
+    {
+      "doi": "10.1021/jacs.6c17701",
+      "title": "Bioinspired Quantum-Guided Engineering of Activatable Probes via Intermolecular Electron Transfer for Single-Cell Molecular Diagnosis",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/jacs.6c17701"
+    },
+    {
+      "doi": "10.1021/jacs.6c17662",
+      "title": "Migratory Hydroamination of Alkenes via Iron-Hydride Catalysis",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/jacs.6c17662"
+    },
+    {
+      "doi": "10.1021/jacs.6c17351",
+      "title": "π-Armor: Shape-Complementary Encapsulation of Aromatics",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/jacs.6c17351"
+    },
+    {
+      "doi": "10.1021/jacs.6c17147",
+      "title": "Artificial Light-Harvesting Nanotubes: Intermolecular Charge Transfer beyond the Exciton Model",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/jacs.6c17147"
+    },
+    {
+      "doi": "10.1021/jacs.6c16777",
+      "title": "Resination-Assembled Soft Multiaxial Molecular Ferroelectrics Enable Exceptional Low-Electric Field Polarization Switching",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/jacs.6c16777"
+    },
+    {
+      "doi": "10.1021/jacs.6c16331",
+      "title": "Encapsulation-Activated Deep-NIR Triarylmethane Dyes via Steric Hindrance Engineering for Long-Circulating Fluorescence/Photoacoustic Dual-Modal Bioimaging",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/jacs.6c16331"
+    },
+    {
+      "doi": "10.1021/jacs.6c15392",
+      "title": "Divergent Synthesis of Chiral-at-Sulfur Sulfoximines via Photoredox/Rhodium-Catalyzed Enantioselective C–H Activation",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/jacs.6c15392"
+    },
+    {
+      "doi": "10.1021/jacs.6c14423",
+      "title": "Integrated Solid/Solution NMR Assignment Enables Mapping of Dynamics and Ligand Binding in a 134 kDa Enzyme",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/jacs.6c14423"
+    },
+    {
+      "doi": "10.1021/jacs.6c14327",
+      "title": "Entropy-Driven Dynamic Oxygen Cycling on High-Entropy Oxides Enables Coke-Resistant Dry Reforming of Methane",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/jacs.6c14327"
+    },
+    {
+      "doi": "10.1021/jacs.6c13214",
+      "title": "Indenyl-Benzyl Radical Recombination Leads to the Formation of Fluoranthene, a Non-Alternant Polycyclic Aromatic Hydrocarbon",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/jacs.6c13214"
+    },
+    {
+      "doi": "10.1021/jacs.6c12504",
+      "title": "Substrate Length Controls Atropopeptide Complexity and Triggers Excision-Driven Scaffold Hop to Diketopiperazine Alkaloids",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/jacs.6c12504"
+    },
+    {
+      "doi": "10.1021/jacs.6c11880",
+      "title": "Linkage-Engineered Fabrication of a Robust 1,6-Anthrazoline-Linked Covalent Organic Framework with Significantly Promoted Exciton Dissociation for Superior Photocatalysis",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/jacs.6c11880"
+    },
+    {
+      "doi": "10.1021/jacs.6c11754",
+      "title": "Macrocycle Screening against the C-Terminal Region of CHD4 Uncovers Its Role as an Interaction Hub in the Formation of the Nucleosome Remodeling and Deacetylase Complex",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/jacs.6c11754"
+    },
+    {
+      "doi": "10.1021/jacs.6c08331",
+      "title": "Probing the Conformational Behavior of a Seven Hetero-Spin Supramolecule",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/jacs.6c08331"
+    },
     {
       "doi": "10.1021/jacs.6c18273",
       "title": "In Situ Ion-Exchange-Mediated Dynamic Nanointerface Reconfiguration for Polarity-Switchable Photoelectrochemical–Photothermal Biosensing",
@@ -37,6 +127,12 @@
       "url": "https://doi.org/10.1021/jacs.6c15706"
     },
     {
+      "doi": "10.1021/jacs.6c15216",
+      "title": "Leveraging Cubenes to Access Highly Functionalized Fused Cubes",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/jacs.6c15216"
+    },
+    {
       "doi": "10.1021/jacs.6c15213",
       "title": "Tailored ZnO/Cellulose Separator Reconfigures Solvation Chemistry for Durable Magnesium Metal Batteries",
       "published_date": "2026-10-12",
@@ -47,6 +143,12 @@
       "title": "Structural Rigidity Enables Amplified Spontaneous Emission in 2D Alkylammonium Tin Perovskites",
       "published_date": "2026-10-12",
       "url": "https://doi.org/10.1021/jacs.6c14883"
+    },
+    {
+      "doi": "10.1021/jacs.6c14116",
+      "title": "Light Ignites Lattice Oxygen in an Asymmetric Motif",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/jacs.6c14116"
     },
     {
       "doi": "10.1021/jacs.6c13478",
@@ -77,6 +179,12 @@
       "title": "Benzaldehyde Is the Redox Mediator for Aerobic C–N Cleavage in Epoxy Composite Recycling",
       "published_date": "2026-10-12",
       "url": "https://doi.org/10.1021/jacs.6c12176"
+    },
+    {
+      "doi": "10.1021/jacs.6c12123",
+      "title": "Simulating Chemical Reaction Dynamics Using Sample-Based Quantum Diagonalization: A Quantum-Centric Supercomputing Approach",
+      "published_date": "2026-10-12",
+      "url": "https://doi.org/10.1021/jacs.6c12123"
     },
     {
       "doi": "10.1021/jacs.6c14373",

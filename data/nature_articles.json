@@ -1,12 +1,24 @@
 {
   "source": "Nature Research Articles · 2026 filter",
-  "collected_at": "2026-10-12T20:07:11.388Z",
+  "collected_at": "2026-10-13T20:07:15.723Z",
   "scope_start": "2026-01-01",
-  "official_total": 1057,
+  "official_total": 1059,
   "collection_mode": "incremental",
   "stopped_on_known_doi": true,
-  "article_count": 1057,
+  "article_count": 1059,
   "articles": [
+    {
+      "doi": "10.1038/s41586-026-11257-1",
+      "title": "Atomic-scale spin sensing of a 2D d-wave altermagnet via helical tunneling",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1038/s41586-026-11257-1"
+    },
+    {
+      "doi": "10.1038/s41586-026-11255-3",
+      "title": "Selective, Catalytic Oxidation of Polyethylene Surfaces",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1038/s41586-026-11255-3"
+    },
     {
       "doi": "10.1038/s41586-026-11250-8",
       "title": "Antiviral immunity via telomerase-like reverse transcription in bacteria",

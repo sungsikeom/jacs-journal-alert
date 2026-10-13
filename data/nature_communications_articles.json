@@ -1,9 +1,123 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-10-12T20:03:58.516Z",
+  "collected_at": "2026-10-13T20:04:01.113Z",
   "scope_start": "2026-01-01",
-  "article_count": 9286,
+  "article_count": 9305,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78658-8",
+      "title": "Controlled crosslink cleavage and phase separation enable highly stretchable and strong 3D-printed hydrogel for soft robotics",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1038/s41467-026-78658-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-78556-z",
+      "title": "A multi-stage engineering framework for feasible scheduling of large-scale energy batch transport systems",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1038/s41467-026-78556-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-78527-4",
+      "title": "Scellmate enables contamination aware curation and host mobilome linkage analysis of large SAG datasets",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1038/s41467-026-78527-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-78512-x",
+      "title": "Gamma-alumina as a highly active hydrogenation catalyst deciphered by molecular nitrogen",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1038/s41467-026-78512-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-78491-z",
+      "title": "Disrupting the NAD+/NAM metabolic ratio driven by IL-1β inflammatory response potentiates chemotherapy and chemoimmunotherapy in mice",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1038/s41467-026-78491-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-78451-7",
+      "title": "NiCLIP: neuroimaging contrastive language-image pretraining model for predicting text from brain activation images",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1038/s41467-026-78451-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-78383-2",
+      "title": "Colossal visible birefringence and ultraviolet hyperbolicity in wide bandgap semiconductor CuAlO2",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1038/s41467-026-78383-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-78378-z",
+      "title": "Mitochondria-localized circRNA BRAKE restrains adipogenesis under nutrient overload by disrupting ATP synthase assembly in mice",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1038/s41467-026-78378-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-78351-w",
+      "title": "CD200+ fibroblasts prime the immunoregulatory function of granulocytic myeloid-derived suppressor cells in inflammatory arthritis",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1038/s41467-026-78351-w"
+    },
+    {
+      "doi": "10.1038/s41467-026-78305-2",
+      "title": "Securing critical rare-earth supply through end-of-life NdFeB magnets recycling via molten salt electrolysis with consumable Mg-cathode",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1038/s41467-026-78305-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-78271-9",
+      "title": "Reinforcement learning guided robotic platform that investigates and discovers asymmetric reactions",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1038/s41467-026-78271-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-78227-z",
+      "title": "Metabolically reprogrammed blastoids from totipotent-like stem cells exhibit enhanced tissue-specific organ-like development and placental formation",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1038/s41467-026-78227-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-78169-6",
+      "title": "Multi-day recalibration-free electrophysiology interface based on carbon nanotube thin film dry electrodes",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1038/s41467-026-78169-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-78155-y",
+      "title": "Population-resolved single-emitter spectroscopy",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1038/s41467-026-78155-y"
+    },
+    {
+      "doi": "10.1038/s41467-026-78137-0",
+      "title": "Soil proteogenomics uncover microbial strategies for soil depth-specific carbon cycling under whole-soil warming conditions",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1038/s41467-026-78137-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78119-2",
+      "title": "Epitaxial-strain engineering of supported tensile noble metallene oxides for enhanced oxidation catalysis",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1038/s41467-026-78119-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77832-2",
+      "title": "Wireless, optoelectronic, multimodal skin sensor for simultaneous monitoring of mechanical stress and vascular responses",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1038/s41467-026-77832-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77472-6",
+      "title": "Current aviation roadmaps are not within planetary boundaries",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1038/s41467-026-77472-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-74719-0",
+      "title": "Unmet care needs at the end-of-life among older adults with activity limitations",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1038/s41467-026-74719-0"
+    },
     {
       "doi": "10.1038/s41467-026-78645-z",
       "title": "KMT2B facilitates long-range gene regulation through LINE1 elements",
