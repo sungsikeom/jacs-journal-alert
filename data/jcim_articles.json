@@ -1,9 +1,45 @@
 {
   "source": "ACS JCIM Article search results",
-  "collected_at": "2026-10-13T20:14:03.159Z",
+  "collected_at": "2026-10-14T20:14:08.763Z",
   "scope_start": "2026-01-01",
-  "article_count": 951,
+  "article_count": 957,
   "articles": [
+    {
+      "doi": "10.1021/acs.jcim.6c02602",
+      "title": "scikit-fingerprints: A Python Library for Scikit-Learn-Compatible Molecular Fingerprints and Chemoinformatics",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02602"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02582",
+      "title": "Evaluation of Physics-Based Pose Prediction and the Role of Receptor Flexibility in a Community Antiviral Blind Challenge",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02582"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c02278",
+      "title": "TMC-LewisGen: Automated Generation of Lewis-like Structures for Transition–Metal Complexes",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/acs.jcim.6c02278"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01714",
+      "title": "eMolFrag2 and eSynth2: Sound Fragment-Based Molecular Decomposition and Reconstruction",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01714"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c01579",
+      "title": "PDI-Spot: A Robust Representation Learning Framework for Identifying Energetic Hotspots in Protein–DNA Complexes",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/acs.jcim.6c01579"
+    },
+    {
+      "doi": "10.1021/acs.jcim.6c00815",
+      "title": "Bridging the Markush Gap in Optical Chemical Structure Recognition via a CLIP-Derived Visual Backbone and Synthetic Data Generation",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00815"
+    },
     {
       "doi": "10.1021/acs.jcim.6c02880",
       "title": "Deciphering Cellular and Spatial Regulatory Identities from Sparse Chromatin Accessibility Landscapes",

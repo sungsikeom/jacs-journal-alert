@@ -1,11 +1,107 @@
 {
   "source": "ACS JACS search results collected by the local Chrome extension",
-  "collected_at": "2026-10-13T20:00:34.047Z",
+  "collected_at": "2026-10-14T20:00:41.101Z",
   "scope_start": "2025-01-01",
   "scope_end": "2026-01-01",
   "backfill_complete": true,
-  "article_count": 7971,
+  "article_count": 7987,
   "articles": [
+    {
+      "doi": "10.1021/jacs.6c18646",
+      "title": "Group Theory-Guided Orbital Symmetry Engineering of cis-Quinacridone: From Symmetry-Forbidden to Dipole-Allowed Transitions for Efficient Narrowband Emissions",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/jacs.6c18646"
+    },
+    {
+      "doi": "10.1021/jacs.6c18307",
+      "title": "Clickable Photolabile Linkers for Convenient Immobilization and Light-Controlled Release of Substrates from Solid Support",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/jacs.6c18307"
+    },
+    {
+      "doi": "10.1021/jacs.6c16474",
+      "title": "Direct Detection of the Calcium–Sodium–Calcium Metal Triad in Thermostable α-Amylases from Bacillus sp. Bacteria in Aqueous Solution by 23Na Quadrupole-Central-Transition NMR Spectroscopy",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/jacs.6c16474"
+    },
+    {
+      "doi": "10.1021/jacs.6c16392",
+      "title": "Reactivity and Selectivity of Photocatalytic Nitrate Reduction Reaction to Ammonia: Pt, Pd, Ir, and Rh Single Atoms on p-Type TiO2 Nanotubes",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/jacs.6c16392"
+    },
+    {
+      "doi": "10.1021/jacs.6c16376",
+      "title": "Imaging of Electrochemically Programmed Single-Molecule Reactions",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/jacs.6c16376"
+    },
+    {
+      "doi": "10.1021/jacs.6c16277",
+      "title": "Tailoring Superhydrophobic Ultramicropores in Covalent Organic Frameworks for Humidity-Resistant Methane Purification",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/jacs.6c16277"
+    },
+    {
+      "doi": "10.1021/jacs.6c15661",
+      "title": "Chemical Bonding Rules for Stacking-Sequence Stability in Bismuth Oxychloride Intergrowths and Their Consequences for Band Structure",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/jacs.6c15661"
+    },
+    {
+      "doi": "10.1021/jacs.6c15420",
+      "title": "Kinetic Programming of Heteromolecular Contacts in Boron- and Nitrogen-Containing π-Systems via External and Internal Cross-Seeding",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/jacs.6c15420"
+    },
+    {
+      "doi": "10.1021/jacs.6c14098",
+      "title": "Unlocking the Tertiary Nitrogen Effect in 3D Anisotropic Covalent Organic Frameworks to Achieve Record Iodine Capture under Industrial Conditions",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/jacs.6c14098"
+    },
+    {
+      "doi": "10.1021/jacs.6c13327",
+      "title": "Giant Baromagnetic Effect Induced by Spin Engineering in Mn3(Zn0.25Sn0.25Ga0.25Ge0.25)C",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/jacs.6c13327"
+    },
+    {
+      "doi": "10.1021/jacs.6c12600",
+      "title": "The Molecular Logic of Platelet-Activating Factor (PAF)",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/jacs.6c12600"
+    },
+    {
+      "doi": "10.1021/jacs.6c12221",
+      "title": "Redox-Induced Polymeric Micelle-to-Coacervate Transition for Enhanced Endosomal Escape, Prolonged Drug Retention, and Improved Sequential Drug Delivery",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/jacs.6c12221"
+    },
+    {
+      "doi": "10.1021/jacs.6c09768",
+      "title": "Redox Properties of the Copper Centers in Particulate Methane Monooxygenase",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/jacs.6c09768"
+    },
+    {
+      "doi": "10.1021/jacs.6c09384",
+      "title": "Asymmetric Elongation of Uranyl within a Silver Nanocluster",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/jacs.6c09384"
+    },
+    {
+      "doi": "10.1021/jacs.6c08825",
+      "title": "On-Surface Synthesis of a Low Bandgap Cyclopenta[c,d]azulene-Based Polymer",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/jacs.6c08825"
+    },
+    {
+      "doi": "10.1021/jacs.6c08713",
+      "title": "Catalytic Asymmetric 1,6-Diene Cyclization via Designed Carbocationic 5- and 6-exo Pathways",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/jacs.6c08713"
+    },
     {
       "doi": "10.1021/jacs.6c18353",
       "title": "Coordination-Site Engineering Enables Synergistic π-Coupling in Peroxomolybdates",

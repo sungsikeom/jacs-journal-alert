@@ -1,9 +1,27 @@
 {
   "source": "Wiley Angewandte search results",
-  "collected_at": "2026-10-13T20:23:53.257Z",
+  "collected_at": "2026-10-14T20:23:56.471Z",
   "scope_start": "2026-01-01",
-  "article_count": 2831,
+  "article_count": 2835,
   "articles": [
+    {
+      "doi": "10.1002/anie.9670818",
+      "title": "Cation-Mediated Interface Engineering Directs Electrogenerated Reactive Oxygen Species Pathways",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1002/anie.9670818"
+    },
+    {
+      "doi": "10.1002/anie.9101966",
+      "title": "Linear and Branched Alkanes Separation Through Conjugated-Polymer-Framework Membranes",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1002/anie.9101966"
+    },
+    {
+      "doi": "10.1002/anie.2974644",
+      "title": "Dibenzophenazine-Fused Heterocyclic Luminophores: Decoding High-Performance Organic Light-Emitting Diodes Based on Long-Wavelength Exciplex",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1002/anie.2974644"
+    },
     {
       "doi": "10.1002/anie.9920959",
       "title": "Magnetic-Field-Assisted Photocatalytic H2O2 Production From Ambient Air via Spin-Matching-Mediated Dual Charge Transfer",
@@ -45,6 +63,12 @@
       "title": "Enhancing the Formation of C2+ Hydrocarbons in CO2 Hydrogenation Through Co2C/CeOx Interactions",
       "published_date": "2026-10-13",
       "url": "https://doi.org/10.1002/anie.2179385"
+    },
+    {
+      "doi": "10.1002/anie.1829584",
+      "title": "Generation and Stabilization of Soliton-Type Radicals in Amidine-Linked Porous Oligoacetylene Polymers by Topological Confinement Strategy for Photothermal Catalysis",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1002/anie.1829584"
     },
     {
       "doi": "10.1002/anie.8633090",

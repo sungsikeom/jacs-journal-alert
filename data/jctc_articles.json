@@ -1,9 +1,39 @@
 {
   "source": "ACS JCTC Article search results",
-  "collected_at": "2026-10-12T20:12:46.715Z",
+  "collected_at": "2026-10-14T20:10:52.548Z",
   "scope_start": "2026-01-01",
-  "article_count": 767,
+  "article_count": 772,
   "articles": [
+    {
+      "doi": "10.1021/acs.jctc.6c01277",
+      "title": "Quantifying the Spin–Optical Properties of Bent π-Carbene Molecular Qubits",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01277"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01247",
+      "title": "Recognition Loop Dynamics Differentiates m6A-mRNA Reader Domains of YTHDF Proteins",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01247"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c00940",
+      "title": "Machine Learning the Nonradiative Decay Modes in Photochemical Processes",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1021/acs.jctc.6c00940"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01330",
+      "title": "Enerzyme: An Efficient Reactive Neural Network Potential Training Framework for Enzyme Cluster Models with Application to Methyltransferases",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01330"
+    },
+    {
+      "doi": "10.1021/acs.jctc.6c01264",
+      "title": "Dynamic Response Functions for Cavity Quantum Electrodynamics Hartree–Fock Theory",
+      "published_date": "2026-10-13",
+      "url": "https://doi.org/10.1021/acs.jctc.6c01264"
+    },
     {
       "doi": "10.1021/acs.jctc.6c01690",
       "title": "Vertical Excitation Energies in Solution via a Two-Time-Scale Solvation Model Coupled to Pair-Density Functional Theory",

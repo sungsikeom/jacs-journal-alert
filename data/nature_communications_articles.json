@@ -1,9 +1,129 @@
 {
   "source": "Nature Communications Research Articles",
-  "collected_at": "2026-10-13T20:04:01.113Z",
+  "collected_at": "2026-10-14T20:04:08.803Z",
   "scope_start": "2026-01-01",
-  "article_count": 9305,
+  "article_count": 9325,
   "articles": [
+    {
+      "doi": "10.1038/s41467-026-78775-4",
+      "title": "Evolutionary remodeling of the ventral retina enables aerial vision in the four-eyed fish Anableps anableps",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1038/s41467-026-78775-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-78706-3",
+      "title": "A nanosystem manipulates angiocrine signaling for cardioprotection in male mice by relocalizing endothelial exosomes",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1038/s41467-026-78706-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-78661-z",
+      "title": "Luminal geometry and coiled coil length determine submembrane localization of type II transmembrane Golgi proteins",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1038/s41467-026-78661-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-78659-7",
+      "title": "Origami-inspired folded-interlocked nanofiber aerogels for thermal insulation",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1038/s41467-026-78659-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-78652-0",
+      "title": "From ancient practice to modern innovation solving the clay mineral puzzle in brickmaking",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1038/s41467-026-78652-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78636-0",
+      "title": "Enhancing ω-transaminase catalysis of bulky substrates guided by binding mechanism",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1038/s41467-026-78636-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78633-3",
+      "title": "Bioinspired nanozyme-exoskeletonized yeast-derived polysaccharides for treating comorbid anxiety and depression in inflammatory bowel disease",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1038/s41467-026-78633-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-78577-8",
+      "title": "Hemispheric asymmetry in predicted range shifts of anti-tropical fish under future climate change",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1038/s41467-026-78577-8"
+    },
+    {
+      "doi": "10.1038/s41467-026-78572-z",
+      "title": "A South Atlantic atmospheric river dipole as a key precursor of Amazon wildfires",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1038/s41467-026-78572-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-78548-z",
+      "title": "Surface carbonation governs olivine reactivity for rapid CO2 mineralization",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1038/s41467-026-78548-z"
+    },
+    {
+      "doi": "10.1038/s41467-026-78498-6",
+      "title": "Fever enhances host bacterial defence while limiting mitochondrial damage",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1038/s41467-026-78498-6"
+    },
+    {
+      "doi": "10.1038/s41467-026-78470-4",
+      "title": "Fatty acid metabolism controls plasma membrane cholesterol accessibility via ATGL-dependent phospholipid remodeling",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1038/s41467-026-78470-4"
+    },
+    {
+      "doi": "10.1038/s41467-026-78447-3",
+      "title": "Mapping cell-type-specific spatial gene programs uncovers tissue architecture and microenvironment organization",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1038/s41467-026-78447-3"
+    },
+    {
+      "doi": "10.1038/s41467-026-78388-x",
+      "title": "EphrinA4/EphA4 controls blood pressure via arterial sympathetic innervation in male mice",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1038/s41467-026-78388-x"
+    },
+    {
+      "doi": "10.1038/s41467-026-78377-0",
+      "title": "Rapid Renin Angiotensin Aldosterone System inhibitor optimisation in patients with chronic kidney disease and heart failure with reduced ejection fraction using potassium binder: a randomised, double-blinded, placebo-controlled trial",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1038/s41467-026-78377-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78323-0",
+      "title": "Orientation tomography of lanthanide-doped nanoprobes by polarization-resolved micro-spectroscopy",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1038/s41467-026-78323-0"
+    },
+    {
+      "doi": "10.1038/s41467-026-78247-9",
+      "title": "Evaluating the effects of population mobility on transmission during the COVID-19 pandemic",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1038/s41467-026-78247-9"
+    },
+    {
+      "doi": "10.1038/s41467-026-78232-2",
+      "title": "A single-nucleus multiome map of the human cerebellum with Alzheimer’s disease and related dementias",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1038/s41467-026-78232-2"
+    },
+    {
+      "doi": "10.1038/s41467-026-77285-7",
+      "title": "Spontaneous ferromagnetic Fe–La geminal atoms with spin and coordination modulation for acidic oxygen reduction",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1038/s41467-026-77285-7"
+    },
+    {
+      "doi": "10.1038/s41467-026-77262-0",
+      "title": "Integrated multi-omics identifies distinct immune signatures with diagnostic and therapeutic implications in immune checkpoint inhibitor-induced myocarditis",
+      "published_date": "2026-10-14",
+      "url": "https://doi.org/10.1038/s41467-026-77262-0"
+    },
     {
       "doi": "10.1038/s41467-026-78658-8",
       "title": "Controlled crosslink cleavage and phase separation enable highly stretchable and strong 3D-printed hydrogel for soft robotics",
