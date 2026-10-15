@@ -29,6 +29,23 @@ JACS_SCOPE_START = "2025-01-01"
 NATURE_CHEMISTRY_SCOPE_START = "2009-01-01"
 SCOPE_VERSION = 7
 
+# Wiley and RSC occasionally present a browser security page to the local
+# Chrome collector.  Keep the official inventory as the authority, but use
+# Crossref as a read-only supplement so a blocked collection does not freeze
+# the journal on an old snapshot.  Existing publisher records always win.
+CROSSREF_FALLBACK_KEYS = {
+    "journal-of-computational-chemistry",
+    "chemical-science",
+}
+
+# The Wiley browser collector has occasionally mixed a JCC page into the
+# Angewandte inventory. Validate the DOI family before accepting a publisher
+# record so one journal cannot overwrite another during global de-duplication.
+PUBLISHER_DOI_PREFIXES = {
+    "journal-of-computational-chemistry": ("10.1002/jcc.",),
+    "angewandte": ("10.1002/anie.",),
+}
+
 JOURNALS = [
     {
         "key": "jacs",
@@ -82,10 +99,10 @@ def crossref_url(issn: str, start: str, end: str, rows: int, cursor: str) -> str
         "select": "DOI,title,URL,published-online,published-print,published,issued,indexed",
         "rows": str(rows),
         "cursor": cursor,
-        "sort": "published",
-        "order": "desc",
         "mailto": os.environ.get("CROSSREF_MAILTO", "journal-alert@example.com"),
     }
+    # Crossref rejects sort/order together with cursor pagination.  The
+    # filtered result is still exhaustive; sorting is applied after merging.
     return f"https://api.crossref.org/journals/{issn}/works?{urllib.parse.urlencode(params)}"
 
 
@@ -170,13 +187,57 @@ def article_from_item(item: dict[str, Any], journal: dict[str, str]) -> dict[str
     }
 
 
+def crossref_fallback_articles(
+    journal: dict[str, str], start: str, end: str, rows: int
+) -> list[dict[str, Any]]:
+    """Fetch a journal's Crossref records for gaps in a blocked inventory.
+
+    This is deliberately a supplement rather than a replacement for the
+    publisher inventory.  Crossref can contain front matter, so exclude only
+    the obvious non-article records that the Wiley collector already filters.
+    For RSC records that provide only a publication year, keep that year as
+    the publication date and retain the Crossref indexed timestamp for NEW
+    detection and diagnostics.
+    """
+
+    items = fetch_all_pages(journal["issn"], start, end, rows)
+    articles: list[dict[str, Any]] = []
+    for item in items:
+        article = article_from_item(item, journal)
+        if not article:
+            continue
+        title = article["title"].strip()
+        if journal["key"] == "journal-of-computational-chemistry" and re.fullmatch(
+            r"issue information", title, flags=re.IGNORECASE
+        ):
+            continue
+        if journal["key"] == "chemical-science" and re.fullmatch(
+            r"(?:inside|outside)\s+(?:front|back)\s+cover|frontispiece",
+            title,
+            flags=re.IGNORECASE,
+        ):
+            continue
+        article["sources"] = ["crossref-fallback"]
+        parts = item.get("published-online", {}).get("date-parts", [])
+        if journal["key"] == "chemical-science" and parts and parts[0] and len(parts[0]) < 3:
+            article["date_note"] = "Crossref 등록 연도(정확한 날짜 미등록)"
+        articles.append(article)
+    return articles
+
+
 def deduplicate(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
     by_doi: dict[str, dict[str, Any]] = {}
     for item in items:
         by_doi[item["doi"]] = item
+
+    def sort_date(item: dict[str, Any]) -> str:
+        if item.get("date_note") and item.get("indexed_at"):
+            return str(item["indexed_at"])[:10]
+        return str(item.get("published_date") or "")
+
     return sorted(
         by_doi.values(),
-        key=lambda x: (x.get("published_date") or "", x.get("indexed_at") or "", x["doi"]),
+        key=lambda x: (sort_date(x), x.get("indexed_at") or "", x["doi"]),
         reverse=True,
     )
 
@@ -289,10 +350,13 @@ def load_publisher_articles(path: Path, journal: dict[str, str], minimum: int = 
     if not isinstance(articles, list) or len(articles) < minimum:
         raise ValueError(f"{journal['short_name']} inventory contains implausibly few articles")
     by_doi: dict[str, dict[str, Any]] = {}
+    allowed_prefixes = PUBLISHER_DOI_PREFIXES.get(journal["key"])
     for item in articles:
         doi = normalize_doi(str(item.get("doi", "")))
         published_date = item.get("published_date")
         if not doi or not published_date or published_date < expected_scope_start:
+            continue
+        if allowed_prefixes and not doi.startswith(allowed_prefixes):
             continue
         by_doi[doi] = {
             "doi": doi,
@@ -333,7 +397,13 @@ def recent_publication_articles(
     return [
         article
         for article in fetched
-        if yesterday <= str(article.get("published_date") or "") <= today_text
+        if yesterday
+        <= str(
+            article.get("indexed_at", "")[:10]
+            if article.get("date_note") and article.get("indexed_at")
+            else article.get("published_date") or ""
+        )
+        <= today_text
     ]
 
 
@@ -361,7 +431,24 @@ def update(
     if official_only:
         fetched = [*load_acs_articles(acs_file).values(), *load_science_articles(science_file).values()]
         for key, inventory_path in publisher_files.items():
-            fetched.extend(load_publisher_articles(inventory_path, journals_by_key[key]).values())
+            journal = journals_by_key[key]
+            inventory = load_publisher_articles(inventory_path, journal)
+            fetched.extend(inventory.values())
+            if key in CROSSREF_FALLBACK_KEYS:
+                try:
+                    fallback = crossref_fallback_articles(journal, SCOPE_START, scope_end, rows)
+                    missing = [article for article in fallback if article["doi"] not in inventory]
+                    fetched.extend(missing)
+                    print(
+                        f"Crossref fallback {journal['short_name']}: "
+                        f"{len(fallback)} fetched, {len(missing)} missing DOI(s) added."
+                    )
+                except (urllib.error.URLError, TimeoutError, ValueError, RuntimeError) as exc:
+                    print(
+                        f"Crossref fallback {journal['short_name']} unavailable; "
+                        f"keeping publisher inventory: {exc}",
+                        file=sys.stderr,
+                    )
         fetched = deduplicate(fetched)
         source_mode = "publisher-only"
     else:

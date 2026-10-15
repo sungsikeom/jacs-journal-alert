@@ -59,6 +59,13 @@ let activeSavedGroup = 'all';
 
 const escapeHtml = value => String(value ?? '').replace(/[&<>'"]/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' }[char]));
 const journalDisplayName = value => ({ 'Nat Commun': 'Nat Commun', 'J. Comput. Chem.': 'JCC', 'Angew. Chem. Int. Ed.': 'Angew.' }[value] || value);
+const articleDateLabel = article => {
+  const date = article?.published_date || 'Publication date pending';
+  return article?.date_note ? `${String(date).slice(0, 4)} · ${article.date_note}` : date;
+};
+const articleSortDate = article => article?.date_note && article?.indexed_at
+  ? String(article.indexed_at).slice(0, 10)
+  : String(article?.published_date || '');
 const profileStateKey = id => `${PROFILE_STATE_PREFIX}${id}`;
 
 function normalizeProfileId(value) {
@@ -323,7 +330,7 @@ function savedArticlesFor(groupId = 'all') {
       article: articlesByDoi.get(doi.toLowerCase()) || { doi, title: doi, url: `https://doi.org/${doi}`, journal_short: '저장됨', published_date: '' },
       savedGroupId,
     }))
-    .sort((a, b) => String(b.article.published_date || '').localeCompare(String(a.article.published_date || '')) || String(a.article.title).localeCompare(String(b.article.title)));
+    .sort((a, b) => articleSortDate(b.article).localeCompare(articleSortDate(a.article)) || String(a.article.title).localeCompare(String(b.article.title)));
 }
 
 function renderSavedLibrary() {
@@ -341,7 +348,7 @@ function renderSavedLibrary() {
   const activeGroupName = activeSavedGroup === 'all' ? '전체' : savedGroupById(activeSavedGroup)?.name || '전체';
   savedLibrarySummary.textContent = `${activeGroupName} · ${rows.length.toLocaleString('ko-KR')}편`;
   savedLibraryArticles.innerHTML = rows.map(({ article, savedGroupId }) => `<article class="saved-library-item">
-    <div class="saved-library-copy"><a href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer"><h3>${escapeHtml(article.title)}</h3></a><div class="saved-library-meta"><span>${escapeHtml(journalDisplayName(article.journal_short))}</span>${article.published_date ? `<span>${escapeHtml(article.published_date)}</span>` : ''}<span class="doi">${escapeHtml(article.doi)}</span></div></div>
+    <div class="saved-library-copy"><a href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer"><h3>${escapeHtml(article.title)}</h3></a><div class="saved-library-meta"><span>${escapeHtml(journalDisplayName(article.journal_short))}</span>${article.published_date ? `<span>${escapeHtml(articleDateLabel(article))}</span>` : ''}<span class="doi">${escapeHtml(article.doi)}</span></div></div>
     <div class="saved-library-actions"><button type="button" class="library-reassign" data-doi="${escapeHtml(article.doi)}">${escapeHtml(savedGroupById(savedGroupId)?.name || '그룹 변경')}</button><button type="button" class="library-remove" data-doi="${escapeHtml(article.doi)}">저장 해제</button><a href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" aria-label="논문 열기">→</a></div>
   </article>`).join('');
   savedLibraryEmpty.hidden = rows.length !== 0;
@@ -411,7 +418,7 @@ function render(query = '') {
       || (activeFilter === 'interesting' && profileState.interesting[article.doi])
       || (activeFilter === 'notInteresting' && profileState.notInteresting?.[article.doi]))
     .filter(article => `${article.title} ${article.doi} ${commentsFor(article.doi).map(comment => comment.text).join(' ')}`.toLowerCase().includes(needle))
-    .sort((a, b) => String(b.published_date || '').localeCompare(String(a.published_date || '')) || String(b.doi || '').localeCompare(String(a.doi || '')));
+    .sort((a, b) => articleSortDate(b).localeCompare(articleSortDate(a)) || String(b.doi || '').localeCompare(String(a.doi || '')));
   const rows = matchingRows.slice(0, visibleCount);
   const selectedJournalLabels = [...activeJournals].map(journalDisplayName);
   const journalLabel = selectedJournalLabels.length ? selectedJournalLabels.join(' · ') : '모든 저널';
@@ -426,7 +433,7 @@ function render(query = '') {
     const comments = commentsFor(article.doi);
     const commentsMarkup = comments.map(comment => `<div class="comment-item"><p class="comment-text"><b>${escapeHtml(comment.author)}</b> ${escapeHtml(comment.text)}</p>${comment.mine ? `<div class="comment-owner-actions"><button type="button" class="comment-edit" data-doi="${escapeHtml(article.doi)}" data-comment-id="${escapeHtml(comment.id)}">수정</button><button type="button" class="comment-delete" data-doi="${escapeHtml(article.doi)}" data-comment-id="${escapeHtml(comment.id)}">삭제</button></div>` : ''}</div>`).join('');
     return `<div class="article${isRead ? ' is-read' : ''}">
-      <div class="article-main"><span class="number">${String(index + 1).padStart(2, '0')}</span><div class="article-copy"><a class="article-title" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer"><h3>${escapeHtml(article.title)}${isNew ? '<span class="new-badge">NEW</span>' : ''}</h3></a><div class="meta"><span class="article-journal">${escapeHtml(journalDisplayName(article.journal_short))}</span><span>${escapeHtml(article.published_date || 'Publication date pending')}</span><span class="doi">${escapeHtml(article.doi)}</span><div class="article-toolbar"><div class="article-actions"><label><input type="checkbox" class="read-toggle" data-doi="${escapeHtml(article.doi)}"${isRead ? ' checked' : ''}> 살펴봄</label><button type="button" class="interest-toggle${isInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isInteresting}">★ 관심 있음</button><button type="button" class="not-interest-toggle${isNotInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isNotInteresting}">관심 없음</button><button type="button" class="save-toggle${savedGroup ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${Boolean(savedGroup)}">${savedGroup ? `✓ 저장 · ${escapeHtml(savedGroup.name)}` : '＋ 저장'}</button></div><button type="button" class="comment-toggle" data-doi="${escapeHtml(article.doi)}">댓글${comments.length ? ` ${comments.length}` : ''}</button></div></div></div><a class="article-open" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" aria-label="논문 열기">→</a></div>
+      <div class="article-main"><span class="number">${String(index + 1).padStart(2, '0')}</span><div class="article-copy"><a class="article-title" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer"><h3>${escapeHtml(article.title)}${isNew ? '<span class="new-badge">NEW</span>' : ''}</h3></a><div class="meta"><span class="article-journal">${escapeHtml(journalDisplayName(article.journal_short))}</span><span>${escapeHtml(articleDateLabel(article))}</span><span class="doi">${escapeHtml(article.doi)}</span><div class="article-toolbar"><div class="article-actions"><label><input type="checkbox" class="read-toggle" data-doi="${escapeHtml(article.doi)}"${isRead ? ' checked' : ''}> 살펴봄</label><button type="button" class="interest-toggle${isInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isInteresting}">★ 관심 있음</button><button type="button" class="not-interest-toggle${isNotInteresting ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${isNotInteresting}">관심 없음</button><button type="button" class="save-toggle${savedGroup ? ' is-active' : ''}" data-doi="${escapeHtml(article.doi)}" aria-pressed="${Boolean(savedGroup)}">${savedGroup ? `✓ 저장 · ${escapeHtml(savedGroup.name)}` : '＋ 저장'}</button></div><button type="button" class="comment-toggle" data-doi="${escapeHtml(article.doi)}">댓글${comments.length ? ` ${comments.length}` : ''}</button></div></div></div><a class="article-open" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" aria-label="논문 열기">→</a></div>
       <form class="comment-form is-collapsed" data-doi="${escapeHtml(article.doi)}"><span>${escapeHtml(activeProfile?.author || '익명')}</span><textarea name="comment" maxlength="5000" rows="5" placeholder="논문 요약이나 설명을 여러 줄로 남겨보세요"></textarea><button type="submit">저장</button><small class="comment-hint">최대 5,000자 · Ctrl+Enter로 저장</small><small class="comment-feedback" aria-live="polite"></small></form>
       ${commentsMarkup}
     </div>`;

@@ -2,6 +2,7 @@ import importlib.util
 import unittest
 from datetime import date
 from pathlib import Path
+from unittest.mock import patch
 
 
 MODULE_PATH = Path(__file__).resolve().parents[1] / "scripts" / "update_journals.py"
@@ -60,6 +61,14 @@ class MetadataNormalizationTests(unittest.TestCase):
         kept = next(item for item in result if item["doi"] == "10.1021/acs.jctc.6c00001")
         self.assertEqual(kept["title"], "publisher")
 
+    def test_publisher_inventory_rejects_cross_journal_doi_family(self):
+        journal = next(item for item in UPDATE.JOURNALS if item["key"] == "angewandte")
+        articles = UPDATE.load_publisher_articles(
+            Path(__file__).resolve().parents[1] / "data" / "angew_articles.json", journal
+        )
+        self.assertTrue(articles)
+        self.assertTrue(all(doi.startswith("10.1002/anie.") for doi in articles))
+
     def test_publisher_baseline_keeps_inventory_and_new_indexed_records(self):
         indexed = [{"doi": "10.1002/anie.202600001", "title": "new"}]
         inventory = {"10.1002/anie.202500001": {"doi": "10.1002/anie.202500001", "title": "saved"}}
@@ -80,6 +89,42 @@ class MetadataNormalizationTests(unittest.TestCase):
             [item["doi"] for item in recent],
             ["10.1002/anie.202600001", "10.1002/anie.202600002"],
         )
+
+    def test_crossref_fallback_filters_jcc_issue_information(self):
+        journal = next(item for item in UPDATE.JOURNALS if item["short_name"] == "J. Comput. Chem.")
+        items = [
+            {
+                "DOI": "10.1002/jcc.70520",
+                "title": ["A current paper"],
+                "published-online": {"date-parts": [[2026, 10, 14]]},
+                "indexed": {"date-time": "2026-10-14T08:52:01Z"},
+            },
+            {
+                "DOI": "10.1002/jcc.70425",
+                "title": ["Issue Information"],
+                "published-online": {"date-parts": [[2026, 10, 12]]},
+            },
+        ]
+        with patch.object(UPDATE, "fetch_all_pages", return_value=items):
+            result = UPDATE.crossref_fallback_articles(journal, "2026-01-01", "2026-10-15", 1000)
+        self.assertEqual([item["doi"] for item in result], ["10.1002/jcc.70520"])
+
+    def test_crossref_fallback_uses_indexed_date_for_year_only_new_detection(self):
+        journal = next(item for item in UPDATE.JOURNALS if item["short_name"] == "Chem. Sci.")
+        items = [
+            {
+                "DOI": "10.1039/d6sc06724g",
+                "title": ["A current RSC paper"],
+                "published-online": {"date-parts": [[2026]]},
+                "indexed": {"date-time": "2026-10-14T20:54:34Z"},
+            }
+        ]
+        with patch.object(UPDATE, "fetch_all_pages", return_value=items):
+            result = UPDATE.crossref_fallback_articles(journal, "2026-01-01", "2026-10-15", 1000)
+        self.assertEqual(result[0]["published_date"], "2026-01-01")
+        self.assertIn("date_note", result[0])
+        recent = UPDATE.recent_publication_articles(result, date(2026, 10, 15))
+        self.assertEqual([item["doi"] for item in recent], ["10.1039/d6sc06724g"])
 
     def test_load_science_articles_normalizes_site_fields(self):
         science_path = Path(__file__).resolve().parents[1] / "data" / "science_articles.json"

@@ -11,6 +11,9 @@ on:
       - "index.html"
       - "app.js"
       - "styles.css"
+  schedule:
+    # 05:30 KST (20:30 UTC), after the local collector's usual run.
+    - cron: "30 20 * * *"
   workflow_dispatch:
 
 permissions:

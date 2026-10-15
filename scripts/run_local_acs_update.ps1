@@ -7,7 +7,8 @@ function Invoke-Collector {
     param(
         [Parameter(Mandatory = $true)][string]$Label,
         [Parameter(Mandatory = $true)][string]$Script,
-        [string[]]$CollectorArgs = @()
+        [string[]]$CollectorArgs = @(),
+        [int]$IdleTimeoutMs = 180000
     )
 
     $Listener = Get-NetTCPConnection -LocalPort 47821,47822,47823 -State Listen -ErrorAction SilentlyContinue
@@ -16,9 +17,21 @@ function Invoke-Collector {
     }
 
     Write-Host "Collecting $Label from its official publisher page"
-    & node $Script @CollectorArgs
-    if ($LASTEXITCODE -ne 0) {
-        throw "$Label collector failed with exit code $LASTEXITCODE."
+    $previousIdleTimeout = $env:PUBLISHER_IDLE_TIMEOUT_MS
+    try {
+        $env:PUBLISHER_IDLE_TIMEOUT_MS = [string]$IdleTimeoutMs
+        & node $Script @CollectorArgs
+        if ($LASTEXITCODE -ne 0) {
+            throw "$Label collector failed with exit code $LASTEXITCODE."
+        }
+    }
+    finally {
+        if ($null -eq $previousIdleTimeout) {
+            Remove-Item Env:PUBLISHER_IDLE_TIMEOUT_MS -ErrorAction SilentlyContinue
+        }
+        else {
+            $env:PUBLISHER_IDLE_TIMEOUT_MS = $previousIdleTimeout
+        }
     }
 }
 
@@ -56,13 +69,13 @@ try {
     Invoke-Collector -Label "The Journal of Physical Chemistry Letters" -Script "scripts/receive_publisher_collection.mjs" -CollectorArgs @("jpcl")
 
     Write-Host "[11/15] Journal of Computational Chemistry"
-    Invoke-Collector -Label "Journal of Computational Chemistry" -Script "scripts/receive_publisher_collection.mjs" -CollectorArgs @("jcc")
+    Invoke-Collector -Label "Journal of Computational Chemistry" -Script "scripts/receive_publisher_collection.mjs" -CollectorArgs @("jcc") -IdleTimeoutMs 60000
 
     Write-Host "[12/15] Angewandte"
     Invoke-Collector -Label "Angewandte" -Script "scripts/receive_publisher_collection.mjs" -CollectorArgs @("angew")
 
     Write-Host "[13/15] Chemical Science"
-    Invoke-Collector -Label "Chemical Science" -Script "scripts/receive_publisher_collection.mjs" -CollectorArgs @("chemical-science")
+    Invoke-Collector -Label "Chemical Science" -Script "scripts/receive_publisher_collection.mjs" -CollectorArgs @("chemical-science") -IdleTimeoutMs 60000
 
     Write-Host "[14/15] Building publisher-only site data"
     & py -3 scripts/update_journals.py `
