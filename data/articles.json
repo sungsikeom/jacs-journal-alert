@@ -1,17 +1,160 @@
 {
-  "checked_at": "2026-10-16T08:08:22+09:00",
+  "checked_at": "2026-10-17T07:55:21+09:00",
   "journal_count": 12,
-  "new_count": 56,
-  "total_count": 29826,
+  "new_count": 11,
+  "total_count": 29830,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-10-16",
+  "scope_end": "2026-10-17",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc05102b",
+      "title": "Hexaazatrinaphthylene self-fused multi-N-heterocycles for high-capacity and long-life aqueous magnesium-ion batteries",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-16T21:31:30Z",
+      "url": "https://doi.org/10.1039/d6sc05102b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04282a",
+      "title": "Hydrogen spillover as an interfacial strategy for nitrate electroreduction to ammonia",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-16T19:49:43Z",
+      "url": "https://doi.org/10.1039/d6sc04282a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06052h",
+      "title": "Enhancing Electronic Conductivity and Solvent Accessible Porosity via Oxidative Deinsertion in a Vanadium Catecholate Framework",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-16T17:50:48Z",
+      "url": "https://doi.org/10.1039/d6sc06052h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04251a",
+      "title": "Linkage transformation in covalent organic frameworks from dynamic precursors to robust skeletons",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-16T16:00:47Z",
+      "url": "https://doi.org/10.1039/d6sc04251a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06539b",
+      "title": "A photocatalytic approach to radical 2,2-(difluoro) and 2,2,3,3-(tetrafluoro)cyclopropanation",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-16T15:43:57Z",
+      "url": "https://doi.org/10.1039/d6sc06539b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04298h",
+      "title": "Strain-induced suppression of thermochromism in divalent cobalt molybdate thin films",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-16T11:56:41Z",
+      "url": "https://doi.org/10.1039/d6sc04298h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04703c",
+      "title": "Toward resolving the RuO 2 /IrO 2 oxygen evolution activity puzzle: critical roles of spin polarization and exchange–correlation functional accuracy",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-16T08:47:50Z",
+      "url": "https://doi.org/10.1039/d6sc04703c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04283j",
+      "title": "Accelerating the discovery of nanoporous gas separation materials via Coulomb-enhanced classical density functional theory",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-16T07:50:55Z",
+      "url": "https://doi.org/10.1039/d6sc04283j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04701g",
+      "title": "Quantifying U–H covalency in a series of uranyl borohydrides using 1 H NMR spectroscopy",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-16T07:50:51Z",
+      "url": "https://doi.org/10.1039/d6sc04701g",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06729h",
+      "title": "Diastereodivergent Transformation of Cationic Alkenyl Electrophiles: Base-switchable Aziridination of Alkenyl Aminosulfoxonium Salts",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-16T06:46:23Z",
+      "url": "https://doi.org/10.1039/d6sc06729h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03065c",
+      "title": "Purely organic room-temperature phosphorescence sensitizers for OLEDs",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-16T00:55:28Z",
+      "url": "https://doi.org/10.1039/d6sc03065c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d6sc05518d",
       "title": "Boosting CO 2 hydrogenation to C 2+ hydrocarbons via phase modulation using a Ni-doped CuCo catalyst",
@@ -585,19 +728,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc04703c",
-      "title": "Toward resolving the RuO 2 /IrO 2 oxygen evolution activity puzzle: critical roles of spin polarization and exchange–correlation functional accuracy",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-15T08:47:37Z",
-      "url": "https://doi.org/10.1039/d6sc04703c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc05797g",
       "title": "Cucurbit[7]uril-mediated aqueous self-assembly and supramolecular functionalisation of selenium nanoparticles",
       "journal": "Chemical Science",
@@ -696,19 +826,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-15T07:46:51Z",
       "url": "https://doi.org/10.1039/d6sc06476k",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04282a",
-      "title": "Hydrogen spillover as an interfacial strategy for nitrate electroreduction to ammonia",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-15T05:11:42Z",
-      "url": "https://doi.org/10.1039/d6sc04282a",
       "sources": [
         "crossref-fallback"
       ],
@@ -1544,19 +1661,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-13T15:47:16Z",
       "url": "https://doi.org/10.1039/d6sc06840e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04283j",
-      "title": "Accelerating the Discovery of Nanoporous Gas Separation Materials via Coulomb-Enhanced Classical Density Functional Theory",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-13T14:48:19Z",
-      "url": "https://doi.org/10.1039/d6sc04283j",
       "sources": [
         "crossref-fallback"
       ],
@@ -2533,19 +2637,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc04251a",
-      "title": "Linkage transformation in covalent organic frameworks from dynamic precursors to robust skeletons",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-12T05:33:00Z",
-      "url": "https://doi.org/10.1039/d6sc04251a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1038/s41586-026-11250-8",
       "title": "Antiviral immunity via telomerase-like reverse transcription in bacteria",
       "journal": "Nature",
@@ -3406,19 +3497,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-10T16:04:30Z",
       "url": "https://doi.org/10.1039/d6sc00596a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05102b",
-      "title": "Hexaazatrinaphthylene self-fused multi-N-heterocycles for high-capacity and long-life aqueous magnesium-ion batteries",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-10T15:15:06Z",
-      "url": "https://doi.org/10.1039/d6sc05102b",
       "sources": [
         "crossref-fallback"
       ],
@@ -4728,19 +4806,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-08T21:16:50Z",
       "url": "https://doi.org/10.1039/d6sc02479c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04701g",
-      "title": "Quantifying U-H covalency in a Series of Uranyl Borohydrides using ¹H NMR Spectroscopy",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-08T16:52:21Z",
-      "url": "https://doi.org/10.1039/d6sc04701g",
       "sources": [
         "crossref-fallback"
       ],
@@ -27845,19 +27910,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-09-10T11:06:36Z",
       "url": "https://doi.org/10.1039/d6sc05636a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc03065c",
-      "title": "Purely organic room-temperature phosphorescence sensitizers for OLEDs",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-10T05:27:59Z",
-      "url": "https://doi.org/10.1039/d6sc03065c",
       "sources": [
         "crossref-fallback"
       ],
@@ -359163,61 +359215,16 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc05518d",
-    "10.1039/d6sc07015a",
-    "10.1039/d6sc03347d",
-    "10.1039/d6sc05359a",
-    "10.1039/d6sc05351c",
-    "10.1039/d6sc04105a",
-    "10.1039/d6sc04534k",
-    "10.1039/d6sc03163c",
-    "10.1039/d6sc04230a",
-    "10.1039/d6sc03257e",
-    "10.1039/d6sc05138c",
-    "10.1039/d6sc04018g",
-    "10.1039/d6sc04285f",
-    "10.1039/d6sc03762c",
-    "10.1039/d6sc03325c",
-    "10.1039/d6sc04176k",
-    "10.1039/d6sc04549a",
-    "10.1039/d6sc05784e",
-    "10.1039/d6sc04347j",
-    "10.1039/d6sc04933h",
-    "10.1039/d6sc04605c",
-    "10.1039/d6sc03582e",
-    "10.1039/d6sc05234g",
-    "10.1039/d6sc02502a",
-    "10.1039/d6sc04861g",
-    "10.1039/d6sc00976j",
-    "10.1039/d6sc90200f",
-    "10.1039/d6sc04786f",
-    "10.1039/d6sc04539a",
-    "10.1039/d6sc03053j",
-    "10.1039/d6sc05155c",
-    "10.1039/d6sc05559a",
-    "10.1039/d6sc05630j",
-    "10.1039/d6sc04808k",
-    "10.1039/d6sc04499a",
-    "10.1039/d6sc90199a",
-    "10.1039/d6sc90201d",
-    "10.1039/d6sc06309h",
-    "10.1039/d6sc05829a",
-    "10.1039/d6sc06430b",
-    "10.1039/d6sc06597j",
-    "10.1039/d6sc05535d",
-    "10.1039/d6sc05511g",
-    "10.1039/d6sc05985f",
-    "10.1039/d6sc04703c",
-    "10.1039/d6sc05797g",
-    "10.1039/d6sc05970h",
-    "10.1039/d6sc06546e",
-    "10.1039/d6sc06024b",
-    "10.1039/d6sc06201f",
-    "10.1039/d6sc04361e",
-    "10.1039/d6sc06246f",
-    "10.1039/d6sc06476k",
+    "10.1039/d6sc05102b",
     "10.1039/d6sc04282a",
-    "10.1039/d6sc05637g",
-    "10.1039/d6sc05491a"
+    "10.1039/d6sc06052h",
+    "10.1039/d6sc04251a",
+    "10.1039/d6sc06539b",
+    "10.1039/d6sc04298h",
+    "10.1039/d6sc04703c",
+    "10.1039/d6sc04283j",
+    "10.1039/d6sc04701g",
+    "10.1039/d6sc06729h",
+    "10.1039/d6sc03065c"
   ]
 }
