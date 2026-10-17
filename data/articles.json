@@ -1,17 +1,42 @@
 {
-  "checked_at": "2026-10-17T07:55:21+09:00",
+  "checked_at": "2026-10-18T07:28:54+09:00",
   "journal_count": 12,
-  "new_count": 11,
-  "total_count": 29830,
+  "new_count": 1,
+  "total_count": 29831,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-10-17",
+  "scope_end": "2026-10-18",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc00753h",
+      "title": "Manipulating excited-state dynamics through macrocycle positioning in a rotaxane for sensitive and discriminative methanol sensing",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-17T02:57:56Z",
+      "url": "https://doi.org/10.1039/d6sc00753h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1002/jcc.70529",
+      "title": "Low‐Attosecond Resolution Electronic and Nuclear Dynamics: How Helical Electron Motion Drives Chiral Asymmetry",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-10-16",
+      "indexed_at": "2026-10-17T04:41:11Z",
+      "url": "https://doi.org/10.1002/jcc.70529",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
     {
       "doi": "10.1039/d6sc05102b",
       "title": "Hexaazatrinaphthylene self-fused multi-N-heterocycles for high-capacity and long-life aqueous magnesium-ion batteries",
@@ -107059,19 +107084,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-06-23T08:48:53Z",
       "url": "https://doi.org/10.1039/d6sc01158f",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc00753h",
-      "title": "Manipulating excited-state dynamics through macrocycle positioning in a rotaxane for sensitive and discriminative methanol sensing",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-06-23T08:48:53Z",
-      "url": "https://doi.org/10.1039/d6sc00753h",
       "sources": [
         "crossref-fallback"
       ],
@@ -359215,16 +359227,6 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc05102b",
-    "10.1039/d6sc04282a",
-    "10.1039/d6sc06052h",
-    "10.1039/d6sc04251a",
-    "10.1039/d6sc06539b",
-    "10.1039/d6sc04298h",
-    "10.1039/d6sc04703c",
-    "10.1039/d6sc04283j",
-    "10.1039/d6sc04701g",
-    "10.1039/d6sc06729h",
-    "10.1039/d6sc03065c"
+    "10.1039/d6sc00753h"
   ]
 }
