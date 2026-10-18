@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-18T07:28:54+09:00",
+  "checked_at": "2026-10-19T07:30:03+09:00",
   "journal_count": 12,
   "new_count": 1,
   "total_count": 29831,
@@ -9,9 +9,22 @@
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-10-18",
+  "scope_end": "2026-10-19",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc02210c",
+      "title": "Strong interactions between carbones and halogen atomic centers",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-18T06:00:00Z",
+      "url": "https://doi.org/10.1039/d6sc02210c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d6sc00753h",
       "title": "Manipulating excited-state dynamics through macrocycle positioning in a rotaxane for sensitive and discriminative methanol sensing",
@@ -30870,19 +30883,6 @@
       "sources": [
         "publisher"
       ]
-    },
-    {
-      "doi": "10.1039/d6sc02210c",
-      "title": "Strong interactions between carbones and halogen atomic centers",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-07T22:27:46Z",
-      "url": "https://doi.org/10.1039/d6sc02210c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
       "doi": "10.1039/d6sc05519b",
@@ -359227,6 +359227,6 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc00753h"
+    "10.1039/d6sc02210c"
   ]
 }
