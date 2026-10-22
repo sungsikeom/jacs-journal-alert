@@ -1,17 +1,237 @@
 {
-  "checked_at": "2026-10-22T08:28:58+09:00",
+  "checked_at": "2026-10-23T08:28:58+09:00",
   "journal_count": 12,
-  "new_count": 57,
-  "total_count": 29856,
+  "new_count": 17,
+  "total_count": 29862,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-10-22",
+  "scope_end": "2026-10-23",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc00682e",
+      "title": "Ga-induced electron pump optimization of Fe active sites in NiFe-LDHs for efficient alkaline water electrooxidation",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-22T22:40:41Z",
+      "url": "https://doi.org/10.1039/d6sc00682e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03582e",
+      "title": "Prominent signatures of energy transfer in action-detected spectra of a cyanobacterial photosynthetic protein",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-22T21:54:46Z",
+      "url": "https://doi.org/10.1039/d6sc03582e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05102b",
+      "title": "Hexaazatrinaphthylene self-fused multi-N-heterocycles for high-capacity and long-life aqueous magnesium-ion batteries",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-22T18:45:32Z",
+      "url": "https://doi.org/10.1039/d6sc05102b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05841h",
+      "title": "Microscale High-Throughput Screening-Assisted Discovery of a Photo/Copper Dual Catalytic System for Benzylic C(sp2)–C(sp3) Suzuki-Miyaura Coupling: Data Mining and Mechanistic Insights",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-22T14:40:54Z",
+      "url": "https://doi.org/10.1039/d6sc05841h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05302e",
+      "title": "A difluoroboryl radical and its boryl anion",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-22T13:42:29Z",
+      "url": "https://doi.org/10.1039/d6sc05302e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05417j",
+      "title": "Low-affinity exchangeable probes for super-resolution and long-term fluorescence imaging",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-22T11:44:41Z",
+      "url": "https://doi.org/10.1039/d6sc05417j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06418c",
+      "title": "Persistent functionalized triarylmethyl radicals: when spin meets chirality",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-22T11:43:19Z",
+      "url": "https://doi.org/10.1039/d6sc06418c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05931g",
+      "title": "A siderophore-independent lanthipeptide carrier enables Trojan-horse delivery of antibacterial cargoes into Gram-negative bacteria",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-22T11:40:37Z",
+      "url": "https://doi.org/10.1039/d6sc05931g",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06692e",
+      "title": "Heme sequestration and signaling in molecular condensates",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-22T09:41:03Z",
+      "url": "https://doi.org/10.1039/d6sc06692e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06722k",
+      "title": "Anion-specific fluorescence enhancement via counterion modulation in biphenyl-based porous cage salts",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-22T09:40:42Z",
+      "url": "https://doi.org/10.1039/d6sc06722k",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06052h",
+      "title": "Enhancing electronic conductivity and solvent accessible porosity via oxidative deinsertion in a vanadium catecholate framework",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-22T09:39:32Z",
+      "url": "https://doi.org/10.1039/d6sc06052h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06879k",
+      "title": "A Lewis-acidic anion enhances energy transfer from excited cationic photocatalysts to basic substrates",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-22T08:40:46Z",
+      "url": "https://doi.org/10.1039/d6sc06879k",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06729h",
+      "title": "Diastereodivergent transformation of cationic alkenyl electrophiles: base-switchable aziridination of alkenyl aminosulfoxonium salts",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-22T07:41:30Z",
+      "url": "https://doi.org/10.1039/d6sc06729h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1002/jcc.70532",
+      "title": "Homoleptic Noble Gas Complexes of Rhombic Be 2 X 2 Clusters: Stability and Nature of the Ng⋯Be Interaction",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-10-22",
+      "indexed_at": "2026-10-22T07:41:17Z",
+      "url": "https://doi.org/10.1002/jcc.70532",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
+    {
+      "doi": "10.1039/d6sc06688g",
+      "title": "Microwave-Irradiated Ultrafast Synthesis of NiSnPdPtRh High-Entropy Alloy Nanorods for High-Efficiency Electrocatalytic Hydrogen Evolution Reaction",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-22T07:37:54Z",
+      "url": "https://doi.org/10.1039/d6sc06688g",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04008j",
+      "title": "Multi-anion/cation engineering enables fast ion transport and stable interfaces in Zr-based halide electrolytes for all-solid-state batteries",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-22T05:59:59Z",
+      "url": "https://doi.org/10.1039/d6sc04008j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04567g",
+      "title": "Relaxation of magnetization in Dy 2 and Tb 2 dimers with single-electron lanthanide–lanthanide bonds: the effect of cage perturbation and its ultimate symmetry",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-22T04:29:25Z",
+      "url": "https://doi.org/10.1039/d6sc04567g",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d6sc04534k",
       "title": "Rare-earth single-atom materials: synthesis and applications",
@@ -150,19 +370,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-21T13:39:40Z",
       "url": "https://doi.org/10.1039/d6sc04425e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04567g",
-      "title": "Relaxation of magnetization in Dy 2 and Tb 2 dimers with single-electron lanthanide–lanthanide bonds: the effect of cage perturbation and its ultimate symmetry",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-21T13:39:38Z",
-      "url": "https://doi.org/10.1039/d6sc04567g",
       "sources": [
         "crossref-fallback"
       ],
@@ -792,19 +999,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc06729h",
-      "title": "Diastereodivergent transformation of cationic alkenyl electrophiles: base-switchable aziridination of alkenyl aminosulfoxonium salts",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-20T16:43:22Z",
-      "url": "https://doi.org/10.1039/d6sc06729h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc06852a",
       "title": "Exploiting inosine as a distinctive cleavage site for deriving a highly specific RNA-cleaving DNAzyme",
       "journal": "Chemical Science",
@@ -940,19 +1134,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-20T09:39:19Z",
       "url": "https://doi.org/10.1039/d6sc06226a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05931g",
-      "title": "A siderophore-independent lanthipeptide carrier enables Trojanhorse delivery of antibacterial cargoes into Gram-negative bacteria",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-20T08:38:31Z",
-      "url": "https://doi.org/10.1039/d6sc05931g",
       "sources": [
         "crossref-fallback"
       ],
@@ -1166,19 +1347,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc06418c",
-      "title": "Persistent functionalized triarylmethyl radicals: when spin meets chirality",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-19T10:42:25Z",
-      "url": "https://doi.org/10.1039/d6sc06418c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc06494a",
       "title": "Phosphoric acid-etched boron nitride as a single-atom support for boosting CO 2 electroreduction at high current density",
       "journal": "Chemical Science",
@@ -1254,32 +1422,6 @@
       "sources": [
         "crossref-fallback"
       ]
-    },
-    {
-      "doi": "10.1039/d6sc05102b",
-      "title": "Hexaazatrinaphthylene self-fused multi-N-heterocycles for high-capacity and long-life aqueous magnesium-ion batteries",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-16T21:31:30Z",
-      "url": "https://doi.org/10.1039/d6sc05102b",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06052h",
-      "title": "Enhancing Electronic Conductivity and Solvent Accessible Porosity via Oxidative Deinsertion in a Vanadium Catecholate Framework",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-16T17:50:48Z",
-      "url": "https://doi.org/10.1039/d6sc06052h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
       "doi": "10.1039/d6sc04251a",
@@ -1601,19 +1743,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-15T14:47:12Z",
       "url": "https://doi.org/10.1039/d6sc04605c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc03582e",
-      "title": "Prominent signatures of energy transfer in action-detected spectra of a cyanobacterial photosynthetic protein",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-15T14:47:12Z",
-      "url": "https://doi.org/10.1039/d6sc03582e",
       "sources": [
         "crossref-fallback"
       ],
@@ -3516,19 +3645,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc00682e",
-      "title": "Ga-induced electron pump optimization of Fe active sites in NiFe-LDHs for efficient alkaline water electrooxidation",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-12T15:18:30Z",
-      "url": "https://doi.org/10.1039/d6sc00682e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc03369e",
       "title": "Ionic covalent organic frameworks with precisely engineered pyridinic nitrogen sites for light-driven gold recovery",
       "journal": "Chemical Science",
@@ -4888,19 +5004,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc05302e",
-      "title": "A difluoroboryl radical and its boryl anion",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-09T06:51:52Z",
-      "url": "https://doi.org/10.1039/d6sc05302e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1038/s41557-026-02275-7",
       "title": "Reversible Sn4+/Sn0 anode for high-energy-density flow batteries",
       "journal": "Nature Chemistry",
@@ -5776,19 +5879,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-08T08:52:03Z",
       "url": "https://doi.org/10.1039/d6sc06874j",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06879k",
-      "title": "A Lewis-Acidic Anion Enhances Energy Transfer from Excited Cationic Photocatalysts to Basic Substrates",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-08T07:55:20Z",
-      "url": "https://doi.org/10.1039/d6sc06879k",
       "sources": [
         "crossref-fallback"
       ],
@@ -38021,19 +38111,6 @@
       "sources": [
         "publisher"
       ]
-    },
-    {
-      "doi": "10.1039/d6sc04008j",
-      "title": "Multi-anion/cation engineering enables fast ion transport and stable interfaces in Zr-based halide electrolytes for all-solid-state batteries",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-08-31T02:21:12Z",
-      "url": "https://doi.org/10.1039/d6sc04008j",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
       "doi": "10.1039/d6sc05894a",
@@ -359548,62 +359625,22 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc04534k",
-    "10.1039/d6sc05772a",
-    "10.1039/d6sc05970h",
-    "10.1039/d6sc90204a",
-    "10.1039/d6sc05790j",
-    "10.1039/d6sc05488a",
-    "10.1039/d6sc04917f",
-    "10.1039/d6sc04969a",
-    "10.1039/d6sc04278c",
-    "10.1039/d6sc01239f",
-    "10.1039/d6sc04425e",
-    "10.1039/d6sc04567g",
-    "10.1039/d6sc04609f",
-    "10.1039/d6sc05745d",
-    "10.1039/d6sc04108f",
-    "10.1039/d6sc05320c",
-    "10.1039/d6sc04670c",
-    "10.1039/d6sc04475a",
-    "10.1039/d6sc04252j",
-    "10.1039/d6sc04434d",
-    "10.1039/d6sc04510c",
-    "10.1039/d6sc03891c",
-    "10.1039/d6sc05403j",
-    "10.1039/d6sc02530g",
-    "10.1039/d6sc05807h",
-    "10.1039/d6sc05322j",
-    "10.1039/d6sc04912e",
-    "10.1039/d6sc04813g",
-    "10.1039/d6sc04732g",
-    "10.1039/d6sc06134f",
-    "10.1039/d6sc04531f",
-    "10.1039/d6sc05922h",
-    "10.1039/d6sc05613j",
-    "10.1039/d6sc02655a",
-    "10.1039/d6sc02048h",
-    "10.1039/d6sc05954f",
-    "10.1039/d6sc02731h",
-    "10.1039/d6sc90206e",
-    "10.1039/d6sc04883h",
-    "10.1039/d6sc05851e",
-    "10.1039/d6sc04557j",
-    "10.1039/d6sc05294k",
-    "10.1039/d6sc05687c",
-    "10.1039/d6sc05531a",
-    "10.1039/d6sc05110c",
-    "10.1039/d6sc90207c",
-    "10.1039/d6sc05697k",
-    "10.1039/d6sc03390c",
-    "10.1002/jcc.70510",
-    "10.1039/d6sc04715g",
-    "10.1039/d6sc03354g",
-    "10.1039/d6sc06429a",
-    "10.1039/d6sc05511g",
-    "10.1039/d6sc05550h",
-    "10.1039/d6sc06298a",
-    "10.1039/d6sc05964c",
-    "10.1039/d6sc05400e"
+    "10.1039/d6sc00682e",
+    "10.1039/d6sc03582e",
+    "10.1039/d6sc05102b",
+    "10.1039/d6sc05841h",
+    "10.1039/d6sc05302e",
+    "10.1039/d6sc05417j",
+    "10.1039/d6sc06418c",
+    "10.1039/d6sc05931g",
+    "10.1039/d6sc06692e",
+    "10.1039/d6sc06722k",
+    "10.1039/d6sc06052h",
+    "10.1039/d6sc06879k",
+    "10.1039/d6sc06729h",
+    "10.1002/jcc.70532",
+    "10.1039/d6sc06688g",
+    "10.1039/d6sc04008j",
+    "10.1039/d6sc04567g"
   ]
 }
