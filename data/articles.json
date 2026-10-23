@@ -1,17 +1,225 @@
 {
-  "checked_at": "2026-10-23T08:28:58+09:00",
+  "checked_at": "2026-10-24T08:15:55+09:00",
   "journal_count": 12,
-  "new_count": 17,
-  "total_count": 29862,
+  "new_count": 16,
+  "total_count": 29866,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-10-23",
+  "scope_end": "2026-10-24",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc04506e",
+      "title": "Ionic liquid-induced dynamic interfacial ion buffer zones for wide-temperature and stable zinc–iodine batteries",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-23T23:11:53Z",
+      "url": "https://doi.org/10.1039/d6sc04506e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05102b",
+      "title": "Hexaazatrinaphthylene self-fused multi-N-heterocycles for high-capacity and long-life aqueous magnesium-ion batteries",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-23T23:07:02Z",
+      "url": "https://doi.org/10.1039/d6sc05102b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04670c",
+      "title": "Time-evolving self-assembly of a single-component fluorophore enables dynamic emission for temporal information encryption and self-erasing writing",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-23T22:27:28Z",
+      "url": "https://doi.org/10.1039/d6sc04670c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc00753h",
+      "title": "Manipulating excited-state dynamics through macrocycle positioning in a rotaxane for sensitive and discriminative methanol sensing",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-23T22:27:26Z",
+      "url": "https://doi.org/10.1039/d6sc00753h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04531f",
+      "title": "High-entropy perovskite halides: design principles, properties, and emerging applications",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-23T22:22:35Z",
+      "url": "https://doi.org/10.1039/d6sc04531f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05227d",
+      "title": "Crystal-to-crystal solar energy storage in a hydrogen bonded dianthracene lattice retrocyclized by heat or e-beam",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-23T16:38:45Z",
+      "url": "https://doi.org/10.1039/d6sc05227d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06967c",
+      "title": "Taming nitrogen stereogenicity: enantioselectivity control at a reluctant center",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-23T16:35:43Z",
+      "url": "https://doi.org/10.1039/d6sc06967c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06309h",
+      "title": "Physics-based molecular fingerprints from spectral graph theory provide efficient geometry-aware measures of chemical similarity",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-23T13:39:46Z",
+      "url": "https://doi.org/10.1039/d6sc06309h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06552j",
+      "title": "Copper-catalyzed radical carbonylation platform for the synthesis of N -acyl azoles under 1 bar of CO",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-23T09:45:12Z",
+      "url": "https://doi.org/10.1039/d6sc06552j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05627j",
+      "title": "Ligand-Directed Symmetry Reduction and Stereoselective Assembly of C 3 -Symmetric Topologically Chiral Trefoil Knots",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-23T09:43:38Z",
+      "url": "https://doi.org/10.1039/d6sc05627j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05743h",
+      "title": "Atroposelective synthesis of lactone-bridged N-arylindoles via Pdcatalyzed formal (6 + 4) cyclization",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-23T09:41:55Z",
+      "url": "https://doi.org/10.1039/d6sc05743h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05797g",
+      "title": "Cucurbit[7]uril-mediated aqueous self-assembly and supramolecular functionalisation of selenium nanoparticles",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-23T09:40:44Z",
+      "url": "https://doi.org/10.1039/d6sc05797g",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06052h",
+      "title": "Enhancing electronic conductivity and solvent accessible porosity via oxidative deinsertion in a vanadium catecholate framework",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-23T07:38:34Z",
+      "url": "https://doi.org/10.1039/d6sc06052h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04444a",
+      "title": "Array-addressed scanning electrochemical cell microscopy for single-cell dual-cadherin profiling during epithelial-mesenchymal transition",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-23T06:39:00Z",
+      "url": "https://doi.org/10.1039/d6sc04444a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc00941g",
+      "title": "Redox- and protonation-driven Baird and Clar aromaticity in asymmetric multicyclic octaphyrins",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-23T03:28:28Z",
+      "url": "https://doi.org/10.1039/d6sc00941g",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05420j",
+      "title": "Distance-aware framework on molecular engineering of electrocatalytic interfaces",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-23T03:23:10Z",
+      "url": "https://doi.org/10.1039/d6sc05420j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d6sc00682e",
       "title": "Ga-induced electron pump optimization of Fe active sites in NiFe-LDHs for efficient alkaline water electrooxidation",
@@ -33,19 +241,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-22T21:54:46Z",
       "url": "https://doi.org/10.1039/d6sc03582e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05102b",
-      "title": "Hexaazatrinaphthylene self-fused multi-N-heterocycles for high-capacity and long-life aqueous magnesium-ion batteries",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-22T18:45:32Z",
-      "url": "https://doi.org/10.1039/d6sc05102b",
       "sources": [
         "crossref-fallback"
       ],
@@ -137,19 +332,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-22T09:40:42Z",
       "url": "https://doi.org/10.1039/d6sc06722k",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06052h",
-      "title": "Enhancing electronic conductivity and solvent accessible porosity via oxidative deinsertion in a vanadium catecholate framework",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-22T09:39:32Z",
-      "url": "https://doi.org/10.1039/d6sc06052h",
       "sources": [
         "crossref-fallback"
       ],
@@ -428,19 +610,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc04670c",
-      "title": "Time-evolving self-assembly of a single-component fluorophore enables dynamic emission for temporal information encryption and self-erasing writing",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-21T13:39:31Z",
-      "url": "https://doi.org/10.1039/d6sc04670c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc04475a",
       "title": "NMR of nuclei bound to a paramagnetic metal centre: the case of S = 1 square-planar ruthenium( ii )",
       "journal": "Chemical Science",
@@ -604,19 +773,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-21T13:39:16Z",
       "url": "https://doi.org/10.1039/d6sc06134f",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04531f",
-      "title": "High-entropy perovskite halides: design principles, properties, and emerging applications",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-21T13:39:15Z",
-      "url": "https://doi.org/10.1039/d6sc04531f",
       "sources": [
         "crossref-fallback"
       ],
@@ -1179,19 +1335,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc06552j",
-      "title": "Copper-Catalyzed Radical Carbonylation Platform for the Synthesis of N-Acyl Azoles under 1 bar of CO",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-20T02:40:16Z",
-      "url": "https://doi.org/10.1039/d6sc06552j",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc06531g",
       "title": "Single-Component Dual Emission and Full-Spectrum Color Tuning from Through-Space Charge Transfer in Asymmetric [2.2]Paracyclophanes",
       "journal": "Chemical Science",
@@ -1393,19 +1536,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-18T06:00:00Z",
       "url": "https://doi.org/10.1039/d6sc02210c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc00753h",
-      "title": "Manipulating excited-state dynamics through macrocycle positioning in a rotaxane for sensitive and discriminative methanol sensing",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-17T02:57:56Z",
-      "url": "https://doi.org/10.1039/d6sc00753h",
       "sources": [
         "crossref-fallback"
       ],
@@ -1944,19 +2074,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc06309h",
-      "title": "Physics-Based Molecular Fingerprints from Spectral Graph Theory Provide Efficient Geometry-Aware Measures of Chemical Similarity",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-15T13:50:38Z",
-      "url": "https://doi.org/10.1039/d6sc06309h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc05829a",
       "title": "Harnessing phosphine oxide interactions with HF and HBF 4 to enable the hydrofluorination of alkynes",
       "journal": "Chemical Science",
@@ -2016,19 +2133,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-15T08:48:41Z",
       "url": "https://doi.org/10.1039/d6sc05985f",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05797g",
-      "title": "Cucurbit[7]uril-mediated aqueous self-assembly and supramolecular functionalisation of selenium nanoparticles",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-15T08:45:26Z",
-      "url": "https://doi.org/10.1039/d6sc05797g",
       "sources": [
         "crossref-fallback"
       ],
@@ -2223,19 +2327,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-14T08:46:06Z",
       "url": "https://doi.org/10.1039/d6sc06573b",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06967c",
-      "title": "Taming Nitrogen Stereogenicity: Enantioselectivity Control at a Reluctant Center",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-14T06:46:33Z",
-      "url": "https://doi.org/10.1039/d6sc06967c",
       "sources": [
         "crossref-fallback"
       ],
@@ -11821,19 +11912,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-09-30T21:30:24Z",
       "url": "https://doi.org/10.1039/d6sc02114j",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05420j",
-      "title": "Distance-aware framework on molecular engineering of electrocatalytic interfaces",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-30T18:58:49Z",
-      "url": "https://doi.org/10.1039/d6sc05420j",
       "sources": [
         "crossref-fallback"
       ],
@@ -27958,19 +28036,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-09-11T19:21:33Z",
       "url": "https://doi.org/10.1039/d6sc00358c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04506e",
-      "title": "Ionic liquid-induced dynamic interfacial ion buffer zones for wide-temperature and stable zinc–iodine batteries",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-11T15:33:36Z",
-      "url": "https://doi.org/10.1039/d6sc04506e",
       "sources": [
         "crossref-fallback"
       ],
@@ -76739,19 +76804,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-07-22T12:03:57Z",
       "url": "https://doi.org/10.1039/d6sc02321e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc00941g",
-      "title": "Redox- and protonation-driven Baird and Clar aromaticity in asymmetric multicyclic octaphyrins",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-07-22T12:03:55Z",
-      "url": "https://doi.org/10.1039/d6sc00941g",
       "sources": [
         "crossref-fallback"
       ],
@@ -359625,22 +359677,21 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc00682e",
-    "10.1039/d6sc03582e",
+    "10.1039/d6sc04506e",
     "10.1039/d6sc05102b",
-    "10.1039/d6sc05841h",
-    "10.1039/d6sc05302e",
-    "10.1039/d6sc05417j",
-    "10.1039/d6sc06418c",
-    "10.1039/d6sc05931g",
-    "10.1039/d6sc06692e",
-    "10.1039/d6sc06722k",
+    "10.1039/d6sc04670c",
+    "10.1039/d6sc00753h",
+    "10.1039/d6sc04531f",
+    "10.1039/d6sc05227d",
+    "10.1039/d6sc06967c",
+    "10.1039/d6sc06309h",
+    "10.1039/d6sc06552j",
+    "10.1039/d6sc05627j",
+    "10.1039/d6sc05743h",
+    "10.1039/d6sc05797g",
     "10.1039/d6sc06052h",
-    "10.1039/d6sc06879k",
-    "10.1039/d6sc06729h",
-    "10.1002/jcc.70532",
-    "10.1039/d6sc06688g",
-    "10.1039/d6sc04008j",
-    "10.1039/d6sc04567g"
+    "10.1039/d6sc04444a",
+    "10.1039/d6sc00941g",
+    "10.1039/d6sc05420j"
   ]
 }
