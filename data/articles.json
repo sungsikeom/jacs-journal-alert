@@ -1,17 +1,55 @@
 {
-  "checked_at": "2026-10-24T08:15:55+09:00",
+  "checked_at": "2026-10-25T07:36:11+09:00",
   "journal_count": 12,
-  "new_count": 16,
-  "total_count": 29866,
+  "new_count": 3,
+  "total_count": 29867,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-10-24",
+  "scope_end": "2026-10-25",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc05102b",
+      "title": "Hexaazatrinaphthylene self-fused multi-N-heterocycles for high-capacity and long-life aqueous magnesium-ion batteries",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-24T15:00:31Z",
+      "url": "https://doi.org/10.1039/d6sc05102b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1002/jcc.70487",
+      "title": "On the First‐Order Correction for One‐Body Properties in Uncontracted Multireference Perturbation Theory Framework",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-10-24",
+      "indexed_at": "2026-10-24T08:38:19Z",
+      "url": "https://doi.org/10.1002/jcc.70487",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
+    {
+      "doi": "10.1039/d6sc01535b",
+      "title": "Breaking the limit – synthesis and properties of p -amino-triazatriangulenium, the most stable carbenium ion",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-24T03:56:37Z",
+      "url": "https://doi.org/10.1039/d6sc01535b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d6sc04506e",
       "title": "Ionic liquid-induced dynamic interfacial ion buffer zones for wide-temperature and stable zinc–iodine batteries",
@@ -20,19 +58,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-23T23:11:53Z",
       "url": "https://doi.org/10.1039/d6sc04506e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05102b",
-      "title": "Hexaazatrinaphthylene self-fused multi-N-heterocycles for high-capacity and long-life aqueous magnesium-ion batteries",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-23T23:07:02Z",
-      "url": "https://doi.org/10.1039/d6sc05102b",
       "sources": [
         "crossref-fallback"
       ],
@@ -5002,19 +5027,6 @@
       "sources": [
         "publisher"
       ]
-    },
-    {
-      "doi": "10.1039/d6sc01535b",
-      "title": "Breaking the limit – synthesis and properties of p -amino-triazatriangulenium, the most stable carbenium ion",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-09T17:10:16Z",
-      "url": "https://doi.org/10.1039/d6sc01535b",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
       "doi": "10.1039/d6sc03773a",
@@ -359677,21 +359689,8 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc04506e",
     "10.1039/d6sc05102b",
-    "10.1039/d6sc04670c",
-    "10.1039/d6sc00753h",
-    "10.1039/d6sc04531f",
-    "10.1039/d6sc05227d",
-    "10.1039/d6sc06967c",
-    "10.1039/d6sc06309h",
-    "10.1039/d6sc06552j",
-    "10.1039/d6sc05627j",
-    "10.1039/d6sc05743h",
-    "10.1039/d6sc05797g",
-    "10.1039/d6sc06052h",
-    "10.1039/d6sc04444a",
-    "10.1039/d6sc00941g",
-    "10.1039/d6sc05420j"
+    "10.1002/jcc.70487",
+    "10.1039/d6sc01535b"
   ]
 }
