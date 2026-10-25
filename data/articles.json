@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-10-25T07:36:11+09:00",
+  "checked_at": "2026-10-26T07:41:15+09:00",
   "journal_count": 12,
-  "new_count": 3,
+  "new_count": 0,
   "total_count": 29867,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
@@ -9,7 +9,7 @@
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-10-25",
+  "scope_end": "2026-10-26",
   "source_mode": "publisher-only",
   "articles": [
     {
@@ -359688,9 +359688,5 @@
       ]
     }
   ],
-  "new_dois": [
-    "10.1039/d6sc05102b",
-    "10.1002/jcc.70487",
-    "10.1039/d6sc01535b"
-  ]
+  "new_dois": []
 }
