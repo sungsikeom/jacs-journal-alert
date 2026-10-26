@@ -1,17 +1,186 @@
 {
-  "checked_at": "2026-10-26T07:41:15+09:00",
+  "checked_at": "2026-10-27T08:57:22+09:00",
   "journal_count": 12,
-  "new_count": 0,
-  "total_count": 29867,
+  "new_count": 13,
+  "total_count": 29872,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-10-26",
+  "scope_end": "2026-10-27",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc03917k",
+      "title": "What drives polymer adsorption into MOF nanopores? Insights into the role of solvents from titration calorimetry",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-26T17:37:50Z",
+      "url": "https://doi.org/10.1039/d6sc03917k",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05841h",
+      "title": "Microscale high-throughput screening-assisted discovery of a photo/copper dual catalytic system for benzylic C(sp 2 )–C(sp 3 ) Suzuki–Miyaura coupling: data mining and mechanistic insights",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-26T16:42:49Z",
+      "url": "https://doi.org/10.1039/d6sc05841h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05790j",
+      "title": "Emerging applications of Zintl clusters in small molecule activation and catalysis",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-26T15:33:47Z",
+      "url": "https://doi.org/10.1039/d6sc05790j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06998c",
+      "title": "Complementary anion chemistry enabling coordination pre-organization towards a robust disordered interphase for long-life aqueous Zn batteries",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-26T15:33:05Z",
+      "url": "https://doi.org/10.1039/d6sc06998c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06531g",
+      "title": "Single-component dual emission and full-spectrum color tuning from through-space charge transfer in asymmetric [2.2]paracyclophanes",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-26T12:33:42Z",
+      "url": "https://doi.org/10.1039/d6sc06531g",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06678j",
+      "title": "Tetraphenylmethane-based nonconjugated bipolar hosts with tunable donor–acceptor ratios for high-performance phosphorescent and TADF OLEDs",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-26T11:36:09Z",
+      "url": "https://doi.org/10.1039/d6sc06678j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04573a",
+      "title": "Tuning heterojunction pathways via transition metal oxides on fibrous silica iron for enhanced photoelectrochemical water splitting",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-26T11:32:44Z",
+      "url": "https://doi.org/10.1039/d6sc04573a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06885e",
+      "title": "Mesomeric tuning of merocyanine photoacids",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-26T11:32:38Z",
+      "url": "https://doi.org/10.1039/d6sc06885e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06455h",
+      "title": "Dynamic metal–ligand coordination in solution: a ligand-exchange relay mechanism for gold( i ) sulfido complex transformation",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-26T10:33:38Z",
+      "url": "https://doi.org/10.1039/d6sc06455h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05400e",
+      "title": "A supramolecular dual-lock strategy for retarding prompt back electron transfer",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-26T09:34:52Z",
+      "url": "https://doi.org/10.1039/d6sc05400e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07398k",
+      "title": "Suppressing Oxygen Evolution over Cu-Doped NiO for Efficient Electro-Upcycling of PET Plastics",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-26T07:34:37Z",
+      "url": "https://doi.org/10.1039/d6sc07398k",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03816f",
+      "title": "A Compact Generative Language Model Learns the Compositional Grammar of Phase-Separating Proteins",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-26T07:34:36Z",
+      "url": "https://doi.org/10.1039/d6sc03816f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05905h",
+      "title": "Machine Learning Optimization of Polymeric Complex Coacervate Micelles Reveals Cell-Type-Specific Formulations for Enhanced mRNA Delivery",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-26T07:34:31Z",
+      "url": "https://doi.org/10.1039/d6sc05905h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d6sc05102b",
       "title": "Hexaazatrinaphthylene self-fused multi-N-heterocycles for high-capacity and long-life aqueous magnesium-ion batteries",
@@ -272,19 +441,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc05841h",
-      "title": "Microscale High-Throughput Screening-Assisted Discovery of a Photo/Copper Dual Catalytic System for Benzylic C(sp2)–C(sp3) Suzuki-Miyaura Coupling: Data Mining and Mechanistic Insights",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-22T14:40:54Z",
-      "url": "https://doi.org/10.1039/d6sc05841h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc05302e",
       "title": "A difluoroboryl radical and its boryl anion",
       "journal": "Chemical Science",
@@ -486,19 +642,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-21T14:39:35Z",
       "url": "https://doi.org/10.1039/d6sc90204a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05790j",
-      "title": "Emerging Applications of Zintl Clusters in Small Molecule Activation and Catalysis",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-21T13:40:27Z",
-      "url": "https://doi.org/10.1039/d6sc05790j",
       "sources": [
         "crossref-fallback"
       ],
@@ -1128,19 +1271,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc05400e",
-      "title": "A Supramolecular Dual-Lock Strategy for Retarding Prompt Back Electron Transfer",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-21T07:38:34Z",
-      "url": "https://doi.org/10.1039/d6sc05400e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc07015a",
       "title": "Synthesis and structure of the mercury hydride compound, [Tism Pr i Benz ]HgH: a complete series of congeneric terminal hydride compounds of zinc, cadmium and mercury",
       "journal": "Chemical Science",
@@ -1295,19 +1425,6 @@
       ]
     },
     {
-      "doi": "10.1039/d6sc06455h",
-      "title": "Dynamic Metal-Ligand Coordination in Solution: A Ligand-Exchange Relay Mechanism for Gold(I) Sulfido Complex Transformation",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-20T09:42:57Z",
-      "url": "https://doi.org/10.1039/d6sc06455h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc06226a",
       "title": "3-SF 5 -bicyclo[1.1.1]pentyl alcohol: practical synthesis and use as a precursor for 3-SF 5 -bicyclo[1.1.1]pentyl ethers (esters)",
       "journal": "Chemical Science",
@@ -1354,19 +1471,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-20T03:00:46Z",
       "url": "https://doi.org/10.1039/d6sc04282a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06531g",
-      "title": "Single-Component Dual Emission and Full-Spectrum Color Tuning from Through-Space Charge Transfer in Asymmetric [2.2]Paracyclophanes",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-20T01:41:09Z",
-      "url": "https://doi.org/10.1039/d6sc06531g",
       "sources": [
         "crossref-fallback"
       ],
@@ -1450,19 +1554,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc06998c",
-      "title": "Complementary Anion Chemistry Enabling Coordination Pre-Organization towards A Robust Disordered Interphase for Long-Life Aqueous Zn Battery",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-19T11:43:54Z",
-      "url": "https://doi.org/10.1039/d6sc06998c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc06761a",
       "title": "Ultrafast interphase exciton funneling in alternating-cation 2D perovskites through Förster-type energy transfer",
       "journal": "Chemical Science",
@@ -1535,19 +1626,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-19T09:47:09Z",
       "url": "https://doi.org/10.1039/d6sc06161c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc03917k",
-      "title": "What drives polymer adsorption into MOF nanopores? Insights into the role of solvents from titration calorimetry",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-19T08:42:07Z",
-      "url": "https://doi.org/10.1039/d6sc03917k",
       "sources": [
         "crossref-fallback"
       ],
@@ -13145,19 +13223,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-09-29T10:03:46Z",
       "url": "https://doi.org/10.1039/d6sc05552d",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04573a",
-      "title": "Tuning Heterojunction Pathways via Transition Metal Oxides on Fibrous Silica Iron for Enhanced Photoelectrochemical Water Splitting",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-29T07:04:29Z",
-      "url": "https://doi.org/10.1039/d6sc04573a",
       "sources": [
         "crossref-fallback"
       ],
@@ -30963,7 +31028,7 @@
       "journal": "Journal of Computational Chemistry",
       "journal_short": "J. Comput. Chem.",
       "published_date": "2026-09-08",
-      "indexed_at": "2026-10-21T02:37:27Z",
+      "indexed_at": "2026-10-26T18:17:32Z",
       "url": "https://doi.org/10.1002/jcc.70491",
       "sources": [
         "crossref-fallback"
@@ -359688,5 +359753,19 @@
       ]
     }
   ],
-  "new_dois": []
+  "new_dois": [
+    "10.1039/d6sc03917k",
+    "10.1039/d6sc05841h",
+    "10.1039/d6sc05790j",
+    "10.1039/d6sc06998c",
+    "10.1039/d6sc06531g",
+    "10.1039/d6sc06678j",
+    "10.1039/d6sc04573a",
+    "10.1039/d6sc06885e",
+    "10.1039/d6sc06455h",
+    "10.1039/d6sc05400e",
+    "10.1039/d6sc07398k",
+    "10.1039/d6sc03816f",
+    "10.1039/d6sc05905h"
+  ]
 }
