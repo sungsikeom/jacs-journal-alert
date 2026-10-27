@@ -1,17 +1,288 @@
 {
-  "checked_at": "2026-10-27T08:57:22+09:00",
+  "checked_at": "2026-10-28T08:52:22+09:00",
   "journal_count": 12,
-  "new_count": 13,
-  "total_count": 29872,
+  "new_count": 21,
+  "total_count": 29885,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-10-27",
+  "scope_end": "2026-10-28",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc06836g",
+      "title": "When less is more: harnessing optimal quencher concentrations to maximize quantum yields in TADF photoredox reactions",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-27T20:48:15Z",
+      "url": "https://doi.org/10.1039/d6sc06836g",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07403k",
+      "title": "Hydrogenolysis Triggered Formation of Zero Valent Metals and Metal Selenides at Room Temperature from Divalent Metal Aminoxide Complexes Facilitated by Metal-Ligand Cooperativity",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-27T19:38:25Z",
+      "url": "https://doi.org/10.1039/d6sc07403k",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc00859c",
+      "title": "Revealing transport kinetics for efficient electrochemical conversion of captured CO 2 in amine solutions",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-27T19:28:34Z",
+      "url": "https://doi.org/10.1039/d6sc00859c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc90208a",
+      "title": "Correction: Intermediate knowledge enhanced the performance of the amide coupling yield prediction model",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-27T15:33:23Z",
+      "url": "https://doi.org/10.1039/d6sc90208a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1002/jcc.70525",
+      "title": "vibe‐qc : An Open‐Source, General‐Purpose Electronic‐Structure Code for Molecules and Solids Developed With Generative AI",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-10-27",
+      "indexed_at": "2026-10-27T14:39:05Z",
+      "url": "https://doi.org/10.1002/jcc.70525",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
+    {
+      "doi": "10.1039/d6sc05720a",
+      "title": "Dynamic charge distribution as a key driver of catalytic reactivity in an artificial metalloenzyme",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-27T14:38:43Z",
+      "url": "https://doi.org/10.1039/d6sc05720a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc02809h",
+      "title": "DeepMech: a machine learning framework for chemical reaction mechanism prediction",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-27T13:49:54Z",
+      "url": "https://doi.org/10.1039/d6sc02809h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06694a",
+      "title": "Red Copper Models That Exhibit Copper-Mediated and Dioxygen-Driven Conversion of Nitric Oxide (NO) to Nitrite (NO2-) and Next Ligand Oxidation via O-Atom Transfer and NO⇌NO2- interconversion",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-27T12:38:30Z",
+      "url": "https://doi.org/10.1039/d6sc06694a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06455h",
+      "title": "Dynamic metal–ligand coordination in solution: a ligand-exchange relay mechanism for gold( i ) sulfido complex transformation",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-27T12:36:58Z",
+      "url": "https://doi.org/10.1039/d6sc06455h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1002/jcc.70526",
+      "title": "Combined Topological and Kinetic Approach to Modeling Fullerene Formation",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-10-27",
+      "indexed_at": "2026-10-27T12:34:46Z",
+      "url": "https://doi.org/10.1002/jcc.70526",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
+    {
+      "doi": "10.1039/d6sc07200c",
+      "title": "BULK VERSUS SURFACE CHARGE RECOMBINATION KINETICS IN POLYMER HETEROJUNCTION NANOPARTICLE PHOTOCATALYST DISPERSIONS",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-27T11:36:35Z",
+      "url": "https://doi.org/10.1039/d6sc07200c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06865k",
+      "title": "Acid-assisted water loss in perrhenate-catalysed deoxydehydration: an agent-assisted reaction-network search with microkinetic modelling",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-27T11:32:49Z",
+      "url": "https://doi.org/10.1039/d6sc06865k",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05014j",
+      "title": "Phosphate-Functionalized Multiscale Nanoconfinement in Composite Polymer Electrolytes for High-Performance Li Metal Batteries",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-27T10:32:35Z",
+      "url": "https://doi.org/10.1039/d6sc05014j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04715g",
+      "title": "Interplay of singlet and triplet excited states in photoredox catalysis",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-27T09:34:37Z",
+      "url": "https://doi.org/10.1039/d6sc04715g",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05985f",
+      "title": "Nitrate electroreduction: volcanoes à la carte",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-27T09:34:30Z",
+      "url": "https://doi.org/10.1039/d6sc05985f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04282a",
+      "title": "Hydrogen spillover as an interfacial strategy for nitrate electroreduction to ammonia",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-27T05:04:19Z",
+      "url": "https://doi.org/10.1039/d6sc04282a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05991k",
+      "title": "Perfluorooctanesulfonate Detection and Removal with Simple Imidazolium Macrocycles",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-27T02:34:05Z",
+      "url": "https://doi.org/10.1039/d6sc05991k",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05660a",
+      "title": "Electroreduction of diluted CO2 to formic acid enabled by protic ionic liquid interfaces",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-27T02:32:25Z",
+      "url": "https://doi.org/10.1039/d6sc05660a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06234b",
+      "title": "Solvation-Mediated Electrostatic Shielding of Li Anodes by Na⁺ for Durable Lithium-Oxygen Batteries",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-27T01:34:41Z",
+      "url": "https://doi.org/10.1039/d6sc06234b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05423d",
+      "title": "A convergent fourfold hydrogen-bonding network controls a remote metal centre",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-27T01:34:19Z",
+      "url": "https://doi.org/10.1039/d6sc05423d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06365a",
+      "title": "Reprogramming Pyrrole Reactivity Enables Skeletal Editing to Azepines and Azepinones",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-27T01:34:08Z",
+      "url": "https://doi.org/10.1039/d6sc06365a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d6sc03917k",
       "title": "What drives polymer adsorption into MOF nanopores? Insights into the role of solvents from titration calorimetry",
@@ -111,19 +382,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-26T11:32:38Z",
       "url": "https://doi.org/10.1039/d6sc06885e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06455h",
-      "title": "Dynamic metal–ligand coordination in solution: a ligand-exchange relay mechanism for gold( i ) sulfido complex transformation",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-26T10:33:38Z",
-      "url": "https://doi.org/10.1039/d6sc06455h",
       "sources": [
         "crossref-fallback"
       ],
@@ -1180,19 +1438,6 @@
       ]
     },
     {
-      "doi": "10.1039/d6sc04715g",
-      "title": "Interplay of singlet and triplet excited states in photoredox catalysis",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-21T10:38:29Z",
-      "url": "https://doi.org/10.1039/d6sc04715g",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc03354g",
       "title": "When carbonyls beat aromaticity: an additive framework for predicting tautomeric preferences",
       "journal": "Chemical Science",
@@ -1458,19 +1703,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-20T03:59:36Z",
       "url": "https://doi.org/10.1039/d6sc03860c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04282a",
-      "title": "Hydrogen spillover as an interfacial strategy for nitrate electroreduction to ammonia",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-20T03:00:46Z",
-      "url": "https://doi.org/10.1039/d6sc04282a",
       "sources": [
         "crossref-fallback"
       ],
@@ -2223,19 +2455,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-15T10:54:37Z",
       "url": "https://doi.org/10.1039/d6sc05535d",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05985f",
-      "title": "Nitrate electroreduction: volcanoes à la carte",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-15T08:48:41Z",
-      "url": "https://doi.org/10.1039/d6sc05985f",
       "sources": [
         "crossref-fallback"
       ],
@@ -7219,19 +7438,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-07T07:50:49Z",
       "url": "https://doi.org/10.1039/d6sc06295d",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06836g",
-      "title": "When less is more: harnessing optimal quencher concentrations to maximize quantum yields in TADF photoredox reactions",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-07T06:52:09Z",
-      "url": "https://doi.org/10.1039/d6sc06836g",
       "sources": [
         "crossref-fallback"
       ],
@@ -13190,19 +13396,6 @@
       ]
     },
     {
-      "doi": "10.1039/d6sc05720a",
-      "title": "Dynamic Charge Distribution as a Key Driver of Catalytic Reactivity in an Artificial Metalloenzyme",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-29T22:05:50Z",
-      "url": "https://doi.org/10.1039/d6sc05720a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc02631a",
       "title": "HFGuidedDesign: de novo design of cyclic peptide binders via structure-guided discrete diffusion",
       "journal": "Chemical Science",
@@ -16669,19 +16862,6 @@
       "sources": [
         "crossref-fallback"
       ]
-    },
-    {
-      "doi": "10.1039/d6sc00859c",
-      "title": "Revealing transport kinetics for efficient electrochemical conversion of captured CO 2 in amine solutions",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-24T20:37:12Z",
-      "url": "https://doi.org/10.1039/d6sc00859c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
       "doi": "10.1039/d6sc00878j",
@@ -40413,19 +40593,6 @@
       "sources": [
         "publisher"
       ]
-    },
-    {
-      "doi": "10.1039/d6sc02809h",
-      "title": "DeepMech: a machine learning framework for chemical reaction mechanism prediction",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-08-27T11:06:00Z",
-      "url": "https://doi.org/10.1039/d6sc02809h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
       "doi": "10.1039/d6sc04784j",
@@ -359754,18 +359921,26 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc03917k",
-    "10.1039/d6sc05841h",
-    "10.1039/d6sc05790j",
-    "10.1039/d6sc06998c",
-    "10.1039/d6sc06531g",
-    "10.1039/d6sc06678j",
-    "10.1039/d6sc04573a",
-    "10.1039/d6sc06885e",
+    "10.1039/d6sc06836g",
+    "10.1039/d6sc07403k",
+    "10.1039/d6sc00859c",
+    "10.1039/d6sc90208a",
+    "10.1002/jcc.70525",
+    "10.1039/d6sc05720a",
+    "10.1039/d6sc02809h",
+    "10.1039/d6sc06694a",
     "10.1039/d6sc06455h",
-    "10.1039/d6sc05400e",
-    "10.1039/d6sc07398k",
-    "10.1039/d6sc03816f",
-    "10.1039/d6sc05905h"
+    "10.1002/jcc.70526",
+    "10.1039/d6sc07200c",
+    "10.1039/d6sc06865k",
+    "10.1039/d6sc05014j",
+    "10.1039/d6sc04715g",
+    "10.1039/d6sc05985f",
+    "10.1039/d6sc04282a",
+    "10.1039/d6sc05991k",
+    "10.1039/d6sc05660a",
+    "10.1039/d6sc06234b",
+    "10.1039/d6sc05423d",
+    "10.1039/d6sc06365a"
   ]
 }
