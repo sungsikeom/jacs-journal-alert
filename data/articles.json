@@ -1,17 +1,108 @@
 {
-  "checked_at": "2026-10-30T09:01:28+09:00",
+  "checked_at": "2026-10-31T08:55:25+09:00",
   "journal_count": 12,
-  "new_count": 16,
-  "total_count": 29901,
+  "new_count": 7,
+  "total_count": 29903,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-10-30",
+  "scope_end": "2026-10-31",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc06365a",
+      "title": "Reprogramming pyrrole reactivity enables skeletal editing to azepines and azepinones",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-30T15:31:10Z",
+      "url": "https://doi.org/10.1039/d6sc06365a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06136b",
+      "title": "Light-activated, transcription-guided reconfiguration, aggregation, and intercommunication of structurally compartmentalized DNA condensates",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-30T13:41:53Z",
+      "url": "https://doi.org/10.1039/d6sc06136b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04282a",
+      "title": "Hydrogen spillover as an interfacial strategy for nitrate electroreduction to ammonia",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-30T11:33:31Z",
+      "url": "https://doi.org/10.1039/d6sc04282a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06865k",
+      "title": "Acid-assisted water loss in perrhenate-catalysed deoxydehydration: an agent-assisted reaction-network search with microkinetic modelling",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-30T10:34:42Z",
+      "url": "https://doi.org/10.1039/d6sc06865k",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04444a",
+      "title": "Array-addressed scanning electrochemical cell microscopy for single-cell dual-cadherin profiling during epithelial-mesenchymal transition",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-30T09:50:23Z",
+      "url": "https://doi.org/10.1039/d6sc04444a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06501e",
+      "title": "Metal-Organic Framework-Stabilized Organic Anion Radicals That Electrocatalytically Convert CO2 into Multi-Carbon Products",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-30T09:37:00Z",
+      "url": "https://doi.org/10.1039/d6sc06501e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03316d",
+      "title": "A unified electrocatalytic platform for the chemical–H 2 –electricity triad from biomass via interfacial electronic engineering",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-30T03:55:35Z",
+      "url": "https://doi.org/10.1039/d6sc03316d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d5sc08253f",
       "title": "DeepPath: overcoming data scarcity for protein transition pathway prediction using physics-based deep learning",
@@ -117,19 +208,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc04444a",
-      "title": "Array-addressed scanning electrochemical cell microscopy for single-cell dual-cadherin profiling during epithelial-mesenchymal transition",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-29T11:44:53Z",
-      "url": "https://doi.org/10.1039/d6sc04444a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc90202b",
       "title": "A focus on lucigenin as a potent photoredox catalyst",
       "journal": "Chemical Science",
@@ -226,7 +304,7 @@
       "journal": "Journal of Computational Chemistry",
       "journal_short": "J. Comput. Chem.",
       "published_date": "2026-10-28",
-      "indexed_at": "2026-10-29T06:32:08Z",
+      "indexed_at": "2026-10-30T06:31:47Z",
       "url": "https://doi.org/10.1002/jcc.70538",
       "sources": [
         "crossref-fallback"
@@ -238,7 +316,7 @@
       "journal": "Journal of Computational Chemistry",
       "journal_short": "J. Comput. Chem.",
       "published_date": "2026-10-28",
-      "indexed_at": "2026-10-29T05:32:18Z",
+      "indexed_at": "2026-10-30T06:31:46Z",
       "url": "https://doi.org/10.1002/jcc.70536",
       "sources": [
         "crossref-fallback"
@@ -986,6 +1064,30 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
+      "doi": "10.1002/jcc.70526",
+      "title": "Combined Topological and Kinetic Approach to Modeling Fullerene Formation",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-10-27",
+      "indexed_at": "2026-10-30T06:31:47Z",
+      "url": "https://doi.org/10.1002/jcc.70526",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70525",
+      "title": "vibe‐qc : An Open‐Source, General‐Purpose Electronic‐Structure Code for Molecules and Solids Developed With Generative AI",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-10-27",
+      "indexed_at": "2026-10-30T06:31:47Z",
+      "url": "https://doi.org/10.1002/jcc.70525",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
+    {
       "doi": "10.1039/d6sc06836g",
       "title": "When less is more: harnessing optimal quencher concentrations to maximize quantum yields in TADF photoredox reactions",
       "journal": "Chemical Science",
@@ -1023,18 +1125,6 @@
         "crossref-fallback"
       ],
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1002/jcc.70525",
-      "title": "vibe‐qc : An Open‐Source, General‐Purpose Electronic‐Structure Code for Molecules and Solids Developed With Generative AI",
-      "journal": "Journal of Computational Chemistry",
-      "journal_short": "J. Comput. Chem.",
-      "published_date": "2026-10-27",
-      "indexed_at": "2026-10-27T14:39:05Z",
-      "url": "https://doi.org/10.1002/jcc.70525",
-      "sources": [
-        "crossref-fallback"
-      ]
     },
     {
       "doi": "10.1039/d6sc05720a",
@@ -1089,18 +1179,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1002/jcc.70526",
-      "title": "Combined Topological and Kinetic Approach to Modeling Fullerene Formation",
-      "journal": "Journal of Computational Chemistry",
-      "journal_short": "J. Comput. Chem.",
-      "published_date": "2026-10-27",
-      "indexed_at": "2026-10-27T12:34:46Z",
-      "url": "https://doi.org/10.1002/jcc.70526",
-      "sources": [
-        "crossref-fallback"
-      ]
-    },
-    {
       "doi": "10.1039/d6sc07200c",
       "title": "BULK VERSUS SURFACE CHARGE RECOMBINATION KINETICS IN POLYMER HETEROJUNCTION NANOPARTICLE PHOTOCATALYST DISPERSIONS",
       "journal": "Chemical Science",
@@ -1108,19 +1186,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-27T11:36:35Z",
       "url": "https://doi.org/10.1039/d6sc07200c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06865k",
-      "title": "Acid-assisted water loss in perrhenate-catalysed deoxydehydration: an agent-assisted reaction-network search with microkinetic modelling",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-27T11:32:49Z",
-      "url": "https://doi.org/10.1039/d6sc06865k",
       "sources": [
         "crossref-fallback"
       ],
@@ -1160,19 +1225,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-27T09:34:30Z",
       "url": "https://doi.org/10.1039/d6sc05985f",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04282a",
-      "title": "Hydrogen spillover as an interfacial strategy for nitrate electroreduction to ammonia",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-27T05:04:19Z",
-      "url": "https://doi.org/10.1039/d6sc04282a",
       "sources": [
         "crossref-fallback"
       ],
@@ -1225,19 +1277,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-27T01:34:19Z",
       "url": "https://doi.org/10.1039/d6sc05423d",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06365a",
-      "title": "Reprogramming Pyrrole Reactivity Enables Skeletal Editing to Azepines and Azepinones",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-27T01:34:08Z",
-      "url": "https://doi.org/10.1039/d6sc06365a",
       "sources": [
         "crossref-fallback"
       ],
@@ -1379,7 +1418,7 @@
       "journal": "Journal of Computational Chemistry",
       "journal_short": "J. Comput. Chem.",
       "published_date": "2026-10-24",
-      "indexed_at": "2026-10-29T11:40:13Z",
+      "indexed_at": "2026-10-30T06:31:46Z",
       "url": "https://doi.org/10.1002/jcc.70487",
       "sources": [
         "crossref-fallback"
@@ -1555,6 +1594,18 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
+      "doi": "10.1002/jcc.70532",
+      "title": "Homoleptic Noble Gas Complexes of Rhombic Be 2 X 2 Clusters: Stability and Nature of the Ng⋯Be Interaction",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-10-22",
+      "indexed_at": "2026-10-30T06:31:48Z",
+      "url": "https://doi.org/10.1002/jcc.70532",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
+    {
       "doi": "10.1039/d6sc00682e",
       "title": "Ga-induced electron pump optimization of Fe active sites in NiFe-LDHs for efficient alkaline water electrooxidation",
       "journal": "Chemical Science",
@@ -1672,18 +1723,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1002/jcc.70532",
-      "title": "Homoleptic Noble Gas Complexes of Rhombic Be 2 X 2 Clusters: Stability and Nature of the Ng⋯Be Interaction",
-      "journal": "Journal of Computational Chemistry",
-      "journal_short": "J. Comput. Chem.",
-      "published_date": "2026-10-22",
-      "indexed_at": "2026-10-22T07:41:17Z",
-      "url": "https://doi.org/10.1002/jcc.70532",
-      "sources": [
-        "crossref-fallback"
-      ]
-    },
-    {
       "doi": "10.1039/d6sc04008j",
       "title": "Multi-anion/cation engineering enables fast ion transport and stable interfaces in Zr-based halide electrolytes for all-solid-state batteries",
       "journal": "Chemical Science",
@@ -1708,6 +1747,18 @@
         "crossref-fallback"
       ],
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1002/jcc.70510",
+      "title": "POMs‐GibbsNet: A Deep Neural Network for the Prediction of Thermodynamic Parameters of Polyoxometalates",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-10-21",
+      "indexed_at": "2026-10-30T06:31:48Z",
+      "url": "https://doi.org/10.1002/jcc.70510",
+      "sources": [
+        "crossref-fallback"
+      ]
     },
     {
       "doi": "10.1039/d6sc04534k",
@@ -2282,18 +2333,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1002/jcc.70510",
-      "title": "POMs‐GibbsNet: A Deep Neural Network for the Prediction of Thermodynamic Parameters of Polyoxometalates",
-      "journal": "Journal of Computational Chemistry",
-      "journal_short": "J. Comput. Chem.",
-      "published_date": "2026-10-21",
-      "indexed_at": "2026-10-21T12:40:24Z",
-      "url": "https://doi.org/10.1002/jcc.70510",
-      "sources": [
-        "crossref-fallback"
-      ]
-    },
-    {
       "doi": "10.1039/d6sc03354g",
       "title": "When carbonyls beat aromaticity: an additive framework for predicting tautomeric preferences",
       "journal": "Chemical Science",
@@ -2344,6 +2383,30 @@
         "crossref-fallback"
       ],
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1002/jcc.70528",
+      "title": "Machine‐Learning Surrogate Modeling of DFT ‐Calculated Binding Energies for Ionic Liquid Ion‐Pairs",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-10-20",
+      "indexed_at": "2026-10-30T06:31:48Z",
+      "url": "https://doi.org/10.1002/jcc.70528",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70527",
+      "title": "Improved GAFF Force Field for Fused Ring Non‐Fullerene Acceptors With 1,1‐Dicyanomethylene‐3‐Indanone Based End Groups",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-10-20",
+      "indexed_at": "2026-10-30T06:31:47Z",
+      "url": "https://doi.org/10.1002/jcc.70527",
+      "sources": [
+        "crossref-fallback"
+      ]
     },
     {
       "doi": "10.1039/d6sc07015a",
@@ -2476,30 +2539,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1002/jcc.70528",
-      "title": "Machine‐Learning Surrogate Modeling of DFT ‐Calculated Binding Energies for Ionic Liquid Ion‐Pairs",
-      "journal": "Journal of Computational Chemistry",
-      "journal_short": "J. Comput. Chem.",
-      "published_date": "2026-10-20",
-      "indexed_at": "2026-10-20T10:42:09Z",
-      "url": "https://doi.org/10.1002/jcc.70528",
-      "sources": [
-        "crossref-fallback"
-      ]
-    },
-    {
-      "doi": "10.1002/jcc.70527",
-      "title": "Improved GAFF Force Field for Fused Ring Non‐Fullerene Acceptors With 1,1‐Dicyanomethylene‐3‐Indanone Based End Groups",
-      "journal": "Journal of Computational Chemistry",
-      "journal_short": "J. Comput. Chem.",
-      "published_date": "2026-10-20",
-      "indexed_at": "2026-10-20T10:42:04Z",
-      "url": "https://doi.org/10.1002/jcc.70527",
-      "sources": [
-        "crossref-fallback"
-      ]
-    },
-    {
       "doi": "10.1039/d6sc06226a",
       "title": "3-SF 5 -bicyclo[1.1.1]pentyl alcohol: practical synthesis and use as a precursor for 3-SF 5 -bicyclo[1.1.1]pentyl ethers (esters)",
       "journal": "Chemical Science",
@@ -2544,7 +2583,7 @@
       "journal": "Journal of Computational Chemistry",
       "journal_short": "J. Comput. Chem.",
       "published_date": "2026-10-19",
-      "indexed_at": "2026-10-20T06:43:11Z",
+      "indexed_at": "2026-10-30T06:31:49Z",
       "url": "https://doi.org/10.1002/jcc.70524",
       "sources": [
         "crossref-fallback"
@@ -2686,7 +2725,7 @@
       "journal": "Journal of Computational Chemistry",
       "journal_short": "J. Comput. Chem.",
       "published_date": "2026-10-16",
-      "indexed_at": "2026-10-17T04:41:11Z",
+      "indexed_at": "2026-10-30T06:31:47Z",
       "url": "https://doi.org/10.1002/jcc.70529",
       "sources": [
         "crossref-fallback"
@@ -64702,19 +64741,6 @@
       "sources": [
         "publisher"
       ]
-    },
-    {
-      "doi": "10.1039/d6sc03316d",
-      "title": "A unified electrocatalytic platform for the chemical–H 2 –electricity triad from biomass via interfacial electronic engineering",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-08-03T19:46:23Z",
-      "url": "https://doi.org/10.1039/d6sc03316d",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
       "doi": "10.1039/d6sc05173a",
@@ -360127,21 +360153,12 @@
     }
   ],
   "new_dois": [
-    "10.1039/d5sc08253f",
-    "10.1039/d6sc07398k",
-    "10.1039/d6sc05683k",
-    "10.1039/d6sc05227d",
-    "10.1039/d6sc06298a",
-    "10.1039/d6sc06816b",
-    "10.1039/d6sc06869c",
-    "10.1039/d6sc04203a",
+    "10.1039/d6sc06365a",
+    "10.1039/d6sc06136b",
+    "10.1039/d6sc04282a",
+    "10.1039/d6sc06865k",
     "10.1039/d6sc04444a",
-    "10.1039/d6sc90202b",
-    "10.1039/d6sc06688g",
-    "10.1039/d6sc05102b",
-    "10.1039/d6sc04089f",
-    "10.1039/d6sc06717d",
-    "10.1039/d6sc07475h",
-    "10.1039/d6sc07093k"
+    "10.1039/d6sc06501e",
+    "10.1039/d6sc03316d"
   ]
 }
