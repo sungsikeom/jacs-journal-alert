@@ -1,17 +1,249 @@
 {
-  "checked_at": "2026-10-29T09:05:58+09:00",
+  "checked_at": "2026-10-30T09:01:28+09:00",
   "journal_count": 12,
-  "new_count": 58,
-  "total_count": 29892,
+  "new_count": 16,
+  "total_count": 29901,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-10-29",
+  "scope_end": "2026-10-30",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d5sc08253f",
+      "title": "DeepPath: overcoming data scarcity for protein transition pathway prediction using physics-based deep learning",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-29T21:47:59Z",
+      "url": "https://doi.org/10.1039/d5sc08253f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07398k",
+      "title": "Suppressing oxygen evolution over Cu-doped NiO for efficient electro-upcycling of PET plastics",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-29T16:33:41Z",
+      "url": "https://doi.org/10.1039/d6sc07398k",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05683k",
+      "title": "Grafting of Polymeric N-Heterocyclic Carbenes onto Gold Surfaces",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-29T14:35:35Z",
+      "url": "https://doi.org/10.1039/d6sc05683k",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05227d",
+      "title": "Crystal-to-crystal solar energy storage in a hydrogen bonded dianthracene lattice retrocyclized by heat or e-beam",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-29T14:34:33Z",
+      "url": "https://doi.org/10.1039/d6sc05227d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06298a",
+      "title": "Conformationally locked planar-chiral single- and double-bridged perylene diimides with highly twisted structures: topology-controlled synthesis and chiroptical properties",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-29T12:37:43Z",
+      "url": "https://doi.org/10.1039/d6sc06298a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06816b",
+      "title": "Interfacial engineering in sulfide-based all-solid-state batteries: from cathode/anode interfaces to electrolyte modification",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-29T12:36:03Z",
+      "url": "https://doi.org/10.1039/d6sc06816b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06869c",
+      "title": "Ligand-assisted facile Co 2+ /Co 3+ conversion in metal–hydroxide framework promotes electrochemical benzyl alcohol oxidation at Ampere-scale current density",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-29T12:36:01Z",
+      "url": "https://doi.org/10.1039/d6sc06869c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04203a",
+      "title": "Pd-catalyzed regioselective synthesis of 3-aminoindoles via Larock-type annulation of N -protected 2-iodoanilines with ynamides",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-29T12:07:06Z",
+      "url": "https://doi.org/10.1039/d6sc04203a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04444a",
+      "title": "Array-addressed scanning electrochemical cell microscopy for single-cell dual-cadherin profiling during epithelial-mesenchymal transition",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-29T11:44:53Z",
+      "url": "https://doi.org/10.1039/d6sc04444a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc90202b",
+      "title": "A focus on lucigenin as a potent photoredox catalyst",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-29T10:37:53Z",
+      "url": "https://doi.org/10.1039/d6sc90202b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06688g",
+      "title": "Microwave-irradiated ultrafast synthesis of NiSnPdPtRh high-entropy alloy nanorods for high-efficiency electrocatalytic hydrogen evolution reaction",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-29T10:32:43Z",
+      "url": "https://doi.org/10.1039/d6sc06688g",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05102b",
+      "title": "Hexaazatrinaphthylene self-fused multi-N-heterocycles for high-capacity and long-life aqueous magnesium-ion batteries",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-29T08:29:12Z",
+      "url": "https://doi.org/10.1039/d6sc05102b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04089f",
+      "title": "Achiral guest-mediated modulation of circularly polarized luminescence in chiral charge-transfer cocrystals",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-29T07:58:05Z",
+      "url": "https://doi.org/10.1039/d6sc04089f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06717d",
+      "title": "Synthesis of Azopyridines based photoswitches via Zincke Imine intermediatesSynthesis of Azopyridines based photoswitches via Zincke Imine intermediates",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-29T07:34:33Z",
+      "url": "https://doi.org/10.1039/d6sc06717d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07475h",
+      "title": "Nickel-Mediated Reductive Csp2-Csp2 Cross-Coupling Reactions for Late-Stage Diversification of Aryl Electrophiles",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-29T02:32:53Z",
+      "url": "https://doi.org/10.1039/d6sc07475h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07093k",
+      "title": "Enantioselective Synthesis of Axially Chiral α-Ketoamide Diaryl Ethers via Asymmetric Double Carbonylation of Cyclic Iodonium Salts",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-29T01:31:37Z",
+      "url": "https://doi.org/10.1039/d6sc07093k",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1002/jcc.70538",
+      "title": "Relativistic Effects on Bond Critical Points and Basin Population on Heavy‐Atom‐Containing Molecules With the Modified Dirac Equation",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-10-28",
+      "indexed_at": "2026-10-29T06:32:08Z",
+      "url": "https://doi.org/10.1002/jcc.70538",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70536",
+      "title": "Assessing Structural, Thermal, and Mechanical Properties of Zirconium‐Based Metal‐Organic Frameworks via DFTB3 / 3OB MD Simulations: A Benchmark Beyond UiO Frameworks",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-10-28",
+      "indexed_at": "2026-10-29T05:32:18Z",
+      "url": "https://doi.org/10.1002/jcc.70536",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
     {
       "doi": "10.1039/d6sc05627j",
       "title": "Ligand-directed symmetry reduction and stereoselective assembly of C 3 -symmetric topologically chiral trefoil knots",
@@ -637,19 +869,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc06298a",
-      "title": "Conformationally locked planar-chiral single- and double-bridged perylene diimides with highly twisted structures: topology-controlled synthesis and chiroptical properties",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-28T12:32:38Z",
-      "url": "https://doi.org/10.1039/d6sc06298a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc90209j",
       "title": "Correction: SynAsk: unleashing the power of large language models in organic synthesis",
       "journal": "Chemical Science",
@@ -1129,19 +1348,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc07398k",
-      "title": "Suppressing Oxygen Evolution over Cu-Doped NiO for Efficient Electro-Upcycling of PET Plastics",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-26T07:34:37Z",
-      "url": "https://doi.org/10.1039/d6sc07398k",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc03816f",
       "title": "A Compact Generative Language Model Learns the Compositional Grammar of Phase-Separating Proteins",
       "journal": "Chemical Science",
@@ -1168,25 +1374,12 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc05102b",
-      "title": "Hexaazatrinaphthylene self-fused multi-N-heterocycles for high-capacity and long-life aqueous magnesium-ion batteries",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-24T15:00:31Z",
-      "url": "https://doi.org/10.1039/d6sc05102b",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1002/jcc.70487",
       "title": "On the First‐Order Correction for One‐Body Properties in Uncontracted Multireference Perturbation Theory Framework",
       "journal": "Journal of Computational Chemistry",
       "journal_short": "J. Comput. Chem.",
       "published_date": "2026-10-24",
-      "indexed_at": "2026-10-24T08:38:19Z",
+      "indexed_at": "2026-10-29T11:40:13Z",
       "url": "https://doi.org/10.1002/jcc.70487",
       "sources": [
         "crossref-fallback"
@@ -1252,19 +1445,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-23T22:22:35Z",
       "url": "https://doi.org/10.1039/d6sc04531f",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05227d",
-      "title": "Crystal-to-crystal solar energy storage in a hydrogen bonded dianthracene lattice retrocyclized by heat or e-beam",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-23T16:38:45Z",
-      "url": "https://doi.org/10.1039/d6sc05227d",
       "sources": [
         "crossref-fallback"
       ],
@@ -1343,19 +1523,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-23T07:38:34Z",
       "url": "https://doi.org/10.1039/d6sc06052h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04444a",
-      "title": "Array-addressed scanning electrochemical cell microscopy for single-cell dual-cadherin profiling during epithelial-mesenchymal transition",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-23T06:39:00Z",
-      "url": "https://doi.org/10.1039/d6sc04444a",
       "sources": [
         "crossref-fallback"
       ],
@@ -1515,19 +1682,6 @@
       "sources": [
         "crossref-fallback"
       ]
-    },
-    {
-      "doi": "10.1039/d6sc06688g",
-      "title": "Microwave-Irradiated Ultrafast Synthesis of NiSnPdPtRh High-Entropy Alloy Nanorods for High-Efficiency Electrocatalytic Hydrogen Evolution Reaction",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-22T07:37:54Z",
-      "url": "https://doi.org/10.1039/d6sc06688g",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
       "doi": "10.1039/d6sc04008j",
@@ -36303,19 +36457,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc04089f",
-      "title": "Achiral guest-mediated modulation of circularly polarized luminescence in chiral charge-transfer cocrystals",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-02T18:15:54Z",
-      "url": "https://doi.org/10.1039/d6sc04089f",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc04548k",
       "title": "Polymer electrolyte-modified semi-solid iron anodes for efficient hydrogen evolution reaction suppression and highly reversible aqueous iron-ion batteries",
       "journal": "Chemical Science",
@@ -36323,19 +36464,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-09-02T18:15:52Z",
       "url": "https://doi.org/10.1039/d6sc04548k",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04203a",
-      "title": "Pd-catalyzed regioselective synthesis of 3-aminoindoles via Larock-type annulation of N -protected 2-iodoanilines with ynamides",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-02T18:15:48Z",
-      "url": "https://doi.org/10.1039/d6sc04203a",
       "sources": [
         "crossref-fallback"
       ],
@@ -40732,19 +40860,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-08-27T10:22:59Z",
       "url": "https://doi.org/10.1039/d6sc01404f",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d5sc08253f",
-      "title": "DeepPath: overcoming data scarcity for protein transition pathway prediction using physics-based deep learning",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-08-27T00:45:11Z",
-      "url": "https://doi.org/10.1039/d5sc08253f",
       "sources": [
         "crossref-fallback"
       ],
@@ -360012,63 +360127,21 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc05627j",
-    "10.1039/d6sc05377g",
-    "10.1039/d6sc06678j",
-    "10.1039/d5sc09327a",
-    "10.1039/d6sc02732f",
-    "10.1039/d6sc05913a",
-    "10.1039/d6sc02032a",
-    "10.1039/d6sc04087j",
-    "10.1039/d6sc02031c",
-    "10.1039/d6sc04173f",
-    "10.1039/d6sc06125g",
-    "10.1039/d6sc05163d",
-    "10.1039/d6sc04459j",
-    "10.1039/d6sc05431e",
-    "10.1039/d6sc04254f",
-    "10.1039/d6sc04906k",
-    "10.1039/d6sc04259g",
-    "10.1039/d6sc04231g",
-    "10.1039/d6sc05389k",
-    "10.1039/d6sc05589c",
-    "10.1039/d6sc05929e",
-    "10.1039/d6sc05323h",
-    "10.1039/d6sc05125a",
-    "10.1039/d6sc06133h",
-    "10.1039/d6sc05636a",
-    "10.1039/d6sc05422f",
-    "10.1039/d6sc04454a",
-    "10.1039/d6sc05909k",
-    "10.1039/d6sc90213h",
-    "10.1039/d6sc04824b",
-    "10.1039/d6sc90197b",
-    "10.1039/d6sc03808e",
-    "10.1039/d6sc03105f",
-    "10.1039/d6sc05859k",
-    "10.1039/d6sc04400j",
-    "10.1039/d6sc04181g",
-    "10.1039/d6sc02982e",
-    "10.1039/d6sc04344e",
-    "10.1039/d6sc06089g",
-    "10.1039/d6sc90212j",
-    "10.1039/d6sc05532j",
-    "10.1039/d6sc06271g",
-    "10.1039/d6sc04986a",
-    "10.1039/d6sc06239c",
-    "10.1039/d6sc05519b",
-    "10.1039/d6sc05426a",
-    "10.1039/d6sc05012c",
-    "10.1039/d6sc90210c",
+    "10.1039/d5sc08253f",
+    "10.1039/d6sc07398k",
+    "10.1039/d6sc05683k",
+    "10.1039/d6sc05227d",
     "10.1039/d6sc06298a",
-    "10.1039/d6sc90209j",
-    "10.1039/d6sc05964c",
-    "10.1039/d6sc90198k",
-    "10.1039/d6sc04846c",
-    "10.1039/d6sc05417j",
-    "10.1039/d6sc05974k",
-    "10.1039/d6sc90208a",
-    "10.1039/d6sc03733j",
-    "10.1039/d6sc06254g"
+    "10.1039/d6sc06816b",
+    "10.1039/d6sc06869c",
+    "10.1039/d6sc04203a",
+    "10.1039/d6sc04444a",
+    "10.1039/d6sc90202b",
+    "10.1039/d6sc06688g",
+    "10.1039/d6sc05102b",
+    "10.1039/d6sc04089f",
+    "10.1039/d6sc06717d",
+    "10.1039/d6sc07475h",
+    "10.1039/d6sc07093k"
   ]
 }
