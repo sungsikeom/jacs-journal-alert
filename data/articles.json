@@ -1,17 +1,69 @@
 {
-  "checked_at": "2026-10-31T08:55:25+09:00",
+  "checked_at": "2026-11-01T08:30:32+09:00",
   "journal_count": 12,
-  "new_count": 7,
-  "total_count": 29903,
+  "new_count": 4,
+  "total_count": 29904,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-10-31",
+  "scope_end": "2026-11-01",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc00831c",
+      "title": "Towards accurate and scalable high-throughput MOF adsorption screening: merging classical force fields and universal machine learned interatomic potentials",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-31T21:11:51Z",
+      "url": "https://doi.org/10.1039/d6sc00831c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06939h",
+      "title": "Orthogonal elemental readout for integrated profiling of metallodrug–protein interactions and protein regulation",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-31T12:34:57Z",
+      "url": "https://doi.org/10.1039/d6sc06939h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc02343f",
+      "title": "Defying antiaromaticity – the curious case of pentalenopentalenes",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-31T10:13:54Z",
+      "url": "https://doi.org/10.1039/d6sc02343f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03397k",
+      "title": "Electronic structure engineering of Zn-based catalysts via anionic regulation for polysulfide adsorption–catalysis in Li–S batteries",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-10-31T02:00:37Z",
+      "url": "https://doi.org/10.1039/d6sc03397k",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d6sc06365a",
       "title": "Reprogramming pyrrole reactivity enables skeletal editing to azepines and azepinones",
@@ -5800,19 +5852,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-10T16:04:30Z",
       "url": "https://doi.org/10.1039/d6sc00596a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc00831c",
-      "title": "Towards accurate and scalable high-throughput MOF adsorption screening: merging classical force fields and universal machine learned interatomic potentials",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-10T02:47:09Z",
-      "url": "https://doi.org/10.1039/d6sc00831c",
       "sources": [
         "crossref-fallback"
       ],
@@ -15239,19 +15278,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-09-28T16:54:07Z",
       "url": "https://doi.org/10.1039/d6sc04090j",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc02343f",
-      "title": "Defying antiaromaticity – the curious case of pentalenopentalenes",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-28T15:38:27Z",
-      "url": "https://doi.org/10.1039/d6sc02343f",
       "sources": [
         "crossref-fallback"
       ],
@@ -77436,19 +77462,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-07-22T12:02:58Z",
       "url": "https://doi.org/10.1039/d6sc04009h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc03397k",
-      "title": "Electronic structure engineering of Zn-based catalysts via anionic regulation for polysulfide adsorption–catalysis in Li–S batteries",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-07-22T12:02:53Z",
-      "url": "https://doi.org/10.1039/d6sc03397k",
       "sources": [
         "crossref-fallback"
       ],
@@ -360153,12 +360166,9 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc06365a",
-    "10.1039/d6sc06136b",
-    "10.1039/d6sc04282a",
-    "10.1039/d6sc06865k",
-    "10.1039/d6sc04444a",
-    "10.1039/d6sc06501e",
-    "10.1039/d6sc03316d"
+    "10.1039/d6sc00831c",
+    "10.1039/d6sc06939h",
+    "10.1039/d6sc02343f",
+    "10.1039/d6sc03397k"
   ]
 }
