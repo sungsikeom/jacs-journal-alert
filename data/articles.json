@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-11-01T08:30:32+09:00",
+  "checked_at": "2026-11-02T08:42:58+09:00",
   "journal_count": 12,
-  "new_count": 4,
+  "new_count": 1,
   "total_count": 29904,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
@@ -9,9 +9,22 @@
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-11-01",
+  "scope_end": "2026-11-02",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc05138c",
+      "title": "Stereocontrolled entry to borylated piperidines via stepwise dearomative carboboration of pyridines",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-01T07:00:00Z",
+      "url": "https://doi.org/10.1039/d6sc05138c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d6sc00831c",
       "title": "Towards accurate and scalable high-throughput MOF adsorption screening: merging classical force fields and universal machine learned interatomic potentials",
@@ -2960,19 +2973,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-15T14:47:23Z",
       "url": "https://doi.org/10.1039/d6sc03257e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05138c",
-      "title": "Stereocontrolled entry to borylated piperidines via stepwise dearomative carboboration of pyridines",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-15T14:47:22Z",
-      "url": "https://doi.org/10.1039/d6sc05138c",
       "sources": [
         "crossref-fallback"
       ],
@@ -360166,9 +360166,6 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc00831c",
-    "10.1039/d6sc06939h",
-    "10.1039/d6sc02343f",
-    "10.1039/d6sc03397k"
+    "10.1039/d6sc05138c"
   ]
 }
