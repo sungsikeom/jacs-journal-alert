@@ -1,17 +1,134 @@
 {
-  "checked_at": "2026-11-05T09:56:57+09:00",
+  "checked_at": "2026-11-06T09:59:21+09:00",
   "journal_count": 12,
-  "new_count": 34,
-  "total_count": 29927,
+  "new_count": 10,
+  "total_count": 29931,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-11-05",
+  "scope_end": "2026-11-06",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc06137k",
+      "title": "Long-lived azobispyrazole stapled peptides for light-activated inhibition of protein–protein interactions",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-05T18:24:43Z",
+      "url": "https://doi.org/10.1039/d6sc06137k",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06544a",
+      "title": "Pressure-Driven Activation of Semi-core p -Orbitals in Rb and Cs via Crystal-Field Splitting",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-05T13:26:50Z",
+      "url": "https://doi.org/10.1039/d6sc06544a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03911a",
+      "title": "Pure-green OLEDs with CIEy over 0.7 via employing multi-resonance thermally activated delayed fluorescence sensitizers",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-05T12:55:09Z",
+      "url": "https://doi.org/10.1039/d6sc03911a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06407h",
+      "title": "Harnessing carbyne reactivity from stabilized phosphorus ylides: the skeletal editing of indenes via single-carbon insertion",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-05T10:30:12Z",
+      "url": "https://doi.org/10.1039/d6sc06407h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05787j",
+      "title": "Bioinspired Metal-Free Carbazole-Guanine Quadruplex Gel for Ambient Room-Temperature Phosphorescence",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-05T10:29:45Z",
+      "url": "https://doi.org/10.1039/d6sc05787j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05662h",
+      "title": "Total synthesis of cochinmicin I and V",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-05T09:28:00Z",
+      "url": "https://doi.org/10.1039/d6sc05662h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07134a",
+      "title": "Catalytic borylation of the high-global-warming-potential refrigerant HFC-143a",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-05T09:26:36Z",
+      "url": "https://doi.org/10.1039/d6sc07134a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03628g",
+      "title": "PFAS removal by ultra-low loads of a metal–organic cage",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-05T05:59:51Z",
+      "url": "https://doi.org/10.1039/d6sc03628g",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc01160h",
+      "title": "Ultrafast excited-state proton transfer dynamics using linearized pair-density functional theory",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-05T03:50:15Z",
+      "url": "https://doi.org/10.1039/d6sc01160h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d6sc04008j",
       "title": "Multi-anion/cation engineering enables fast ion transport and stable interfaces in Zr-based halide electrolytes for all-solid-state batteries",
@@ -98,19 +215,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-04T15:31:43Z",
       "url": "https://doi.org/10.1039/d6sc03993f",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06137k",
-      "title": "Long-lived azobispyrazole stapled peptides for light-activated inhibition of protein–protein interactions",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-04T15:28:40Z",
-      "url": "https://doi.org/10.1039/d6sc06137k",
       "sources": [
         "crossref-fallback"
       ],
@@ -460,7 +564,7 @@
       "journal": "Journal of Computational Chemistry",
       "journal_short": "J. Comput. Chem.",
       "published_date": "2026-11-03",
-      "indexed_at": "2026-11-04T04:24:59Z",
+      "indexed_at": "2026-11-05T11:35:05Z",
       "url": "https://doi.org/10.1002/jcc.70521",
       "sources": [
         "crossref-fallback"
@@ -472,7 +576,7 @@
       "journal": "Journal of Computational Chemistry",
       "journal_short": "J. Comput. Chem.",
       "published_date": "2026-11-03",
-      "indexed_at": "2026-11-04T03:25:58Z",
+      "indexed_at": "2026-11-05T11:33:19Z",
       "url": "https://doi.org/10.1002/jcc.70537",
       "sources": [
         "crossref-fallback"
@@ -744,8 +848,20 @@
       "journal": "Journal of Computational Chemistry",
       "journal_short": "J. Comput. Chem.",
       "published_date": "2026-11-02",
-      "indexed_at": "2026-11-04T09:30:56Z",
+      "indexed_at": "2026-11-05T11:33:20Z",
       "url": "https://doi.org/10.1002/jcc.70539",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70522",
+      "title": "Physics‐Based AI ‐Augmented Workflows Discovering Candidate Graphene Quantum Dot Near‐Infrared Chromophores",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-11-02",
+      "indexed_at": "2026-11-05T11:33:20Z",
+      "url": "https://doi.org/10.1002/jcc.70522",
       "sources": [
         "crossref-fallback"
       ]
@@ -801,31 +917,6 @@
         "crossref-fallback"
       ],
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc03628g",
-      "title": "PFAS removal by ultra-low loads of a metal–organic cage",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-02T22:19:47Z",
-      "url": "https://doi.org/10.1039/d6sc03628g",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1002/jcc.70522",
-      "title": "Physics‐Based AI ‐Augmented Workflows Discovering Candidate Graphene Quantum Dot Near‐Infrared Chromophores",
-      "journal": "Journal of Computational Chemistry",
-      "journal_short": "J. Comput. Chem.",
-      "published_date": "2026-11-02",
-      "indexed_at": "2026-11-02T18:28:21Z",
-      "url": "https://doi.org/10.1002/jcc.70522",
-      "sources": [
-        "crossref-fallback"
-      ]
     },
     {
       "doi": "10.1039/d6sc05905h",
@@ -7794,19 +7885,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-08T08:52:03Z",
       "url": "https://doi.org/10.1039/d6sc06874j",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06407h",
-      "title": "Harnessing Carbyne Reactivity from Stabilized Phosphorus Ylides: Skeletal Editing of Indenes via Single-Carbon Insertion",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-08T01:51:33Z",
-      "url": "https://doi.org/10.1039/d6sc06407h",
       "sources": [
         "crossref-fallback"
       ],
@@ -24496,19 +24574,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-09-17T15:06:38Z",
       "url": "https://doi.org/10.1039/d6sc04773d",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc03911a",
-      "title": "Pure-green OLEDs with CIEy over 0.7 via employing multi-resonance thermally activated delayed fluorescence sensitizers",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-17T15:06:38Z",
-      "url": "https://doi.org/10.1039/d6sc03911a",
       "sources": [
         "crossref-fallback"
       ],
@@ -48840,19 +48905,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-08-19T10:24:57Z",
       "url": "https://doi.org/10.1039/d6sc03593k",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc01160h",
-      "title": "Ultrafast excited-state proton transfer dynamics using linearized pair-density functional theory",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-08-19T10:24:54Z",
-      "url": "https://doi.org/10.1039/d6sc01160h",
       "sources": [
         "crossref-fallback"
       ],
@@ -360461,39 +360513,15 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc04008j",
-    "10.1039/d6sc03404g",
-    "10.1039/d6sc05306h",
-    "10.1039/d6sc02507b",
-    "10.1039/d6sc02502a",
-    "10.1039/d6sc04090j",
-    "10.1039/d6sc03993f",
     "10.1039/d6sc06137k",
-    "10.1039/d6sc06869c",
-    "10.1039/d6sc01341d",
-    "10.1039/d6sc00694a",
-    "10.1039/d6sc03365b",
-    "10.1039/d6sc04307k",
-    "10.1039/d6sc05962g",
-    "10.1039/d6sc06024b",
-    "10.1039/d6sc03835b",
-    "10.1039/d6sc03710k",
-    "10.1039/d6sc04361e",
-    "10.1039/d6sc05921j",
-    "10.1039/d6sc05963e",
-    "10.1039/d6sc90219g",
-    "10.1039/d6sc04162k",
-    "10.1039/d6sc04559f",
-    "10.1039/d6sc06329b",
-    "10.1039/d6sc04210d",
-    "10.1039/d6sc90218a",
-    "10.1039/d6sc90190e",
-    "10.1039/d6sc90216b",
-    "10.1039/d6sc06723a",
-    "10.1039/d6sc06709c",
-    "10.1039/d6sc06368c",
-    "10.1039/d6sc03860c",
-    "10.1039/d6sc03397k",
-    "10.1039/d6sc02309f"
+    "10.1039/d6sc06544a",
+    "10.1039/d6sc03911a",
+    "10.1039/d6sc06407h",
+    "10.1039/d6sc05787j",
+    "10.1039/d6sc05662h",
+    "10.1039/d6sc07134a",
+    "10.1039/d6sc03628g",
+    "10.1039/d6sc01160h",
+    "10.1039/d6sc04008j"
   ]
 }
