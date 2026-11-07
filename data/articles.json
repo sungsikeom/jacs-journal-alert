@@ -1,17 +1,210 @@
 {
-  "checked_at": "2026-11-06T09:59:21+09:00",
+  "checked_at": "2026-11-07T09:10:38+09:00",
   "journal_count": 12,
-  "new_count": 10,
-  "total_count": 29931,
+  "new_count": 15,
+  "total_count": 29936,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-11-06",
+  "scope_end": "2026-11-07",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc03582e",
+      "title": "Prominent signatures of energy transfer in action-detected spectra of a cyanobacterial photosynthetic protein",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-06T21:27:10Z",
+      "url": "https://doi.org/10.1039/d6sc03582e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc02716d",
+      "title": "Equilibrium-driven decarbonylative multi-deuteration enables access to highly deuterated carbon frameworks",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-06T18:25:44Z",
+      "url": "https://doi.org/10.1039/d6sc02716d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06717d",
+      "title": "Synthesis of azopyridine-based photoswitches via Zincke imine intermediates",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-06T16:25:23Z",
+      "url": "https://doi.org/10.1039/d6sc06717d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06014e",
+      "title": "Photocatalytic polarity-reversed Corey–Chaykovsky cyclopropanation",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-06T15:28:10Z",
+      "url": "https://doi.org/10.1039/d6sc06014e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07394h",
+      "title": "Azobenzene-Mediated Reversible Conformational Switching in 9,9′-Bifluorenylidene-Based Molecular Machines",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-06T13:25:10Z",
+      "url": "https://doi.org/10.1039/d6sc07394h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04226k",
+      "title": "A meta-linked benzoxazole-based wide-bandgap material for deep-blue electroluminescence and high-brightness, low-roll-off multicolor phosphorescent OLEDs",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-06T12:47:08Z",
+      "url": "https://doi.org/10.1039/d6sc04226k",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1002/jcc.70546",
+      "title": "Carbyne‐Terminated Carbon‐Flanked Noble‐Gas Cations: Stability and Asymmetric C–Ng–C Bonding (NgHe–Rn)",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-11-06",
+      "indexed_at": "2026-11-06T12:29:01Z",
+      "url": "https://doi.org/10.1002/jcc.70546",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70531",
+      "title": "Sc 2 @ C 66 . Spherical Aromaticity in a Markedly Ellipsoidal Endohedral Metallic Fullerene",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-11-06",
+      "indexed_at": "2026-11-06T12:28:11Z",
+      "url": "https://doi.org/10.1002/jcc.70531",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
+    {
+      "doi": "10.1039/d6sc05743h",
+      "title": "Atroposelective synthesis of lactone-bridged N -arylindoles via Pd-catalyzed formal (6 + 4) cyclization",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-06T11:29:19Z",
+      "url": "https://doi.org/10.1039/d6sc05743h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05552d",
+      "title": "Engaging native carboxylic acids via solvent-gated proton relay for photo(electro)chemical decarboxylative functionalizations",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-06T11:26:06Z",
+      "url": "https://doi.org/10.1039/d6sc05552d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05308d",
+      "title": "Harnessing Bridge Resonance to Optimise Multiexciton Evolution through Intramolecular Singlet Fission",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-06T09:32:12Z",
+      "url": "https://doi.org/10.1039/d6sc05308d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc00169f",
+      "title": "Lipids and lipid nanoparticles functionalized with randomized poly(ethylene glycol) (rPEG) for mRNA delivery",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-06T06:42:07Z",
+      "url": "https://doi.org/10.1039/d6sc00169f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03835b",
+      "title": "Generalized valences and oxidation scores for solids",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-06T05:08:48Z",
+      "url": "https://doi.org/10.1039/d6sc03835b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03212e",
+      "title": "Materials process informatics-assisted precise particle size control of metal–organic frameworks",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-06T04:43:22Z",
+      "url": "https://doi.org/10.1039/d6sc03212e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05584b",
+      "title": "Decoupled Electro-Biosynthesis of High-Value Bioproducts from CO2 and N2",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-06T02:28:26Z",
+      "url": "https://doi.org/10.1039/d6sc05584b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d6sc06137k",
       "title": "Long-lived azobispyrazole stapled peptides for light-activated inhibition of protein–protein interactions",
@@ -312,19 +505,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc03835b",
-      "title": "Generalized valences and oxidation scores for solids",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-04T13:25:23Z",
-      "url": "https://doi.org/10.1039/d6sc03835b",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc03710k",
       "title": "Sortase-mediated generation of various macrocyclic peptide scaffolds from low-reactivity electrophilic substrates",
       "journal": "Chemical Science",
@@ -581,19 +761,6 @@
       "sources": [
         "crossref-fallback"
       ]
-    },
-    {
-      "doi": "10.1039/d6sc03212e",
-      "title": "Materials process informatics-assisted precise particle size control of metal–organic frameworks",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-03T22:10:06Z",
-      "url": "https://doi.org/10.1039/d6sc03212e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
       "doi": "10.1039/d6sc04306b",
@@ -952,19 +1119,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-02T14:27:29Z",
       "url": "https://doi.org/10.1039/d6sc07107d",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06014e",
-      "title": "Photocatalytic Polarity-Reversed Corey-Chaykovsky Cyclopropanation",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-02T13:31:25Z",
-      "url": "https://doi.org/10.1039/d6sc06014e",
       "sources": [
         "crossref-fallback"
       ],
@@ -1368,19 +1522,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-29T07:58:05Z",
       "url": "https://doi.org/10.1039/d6sc04089f",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06717d",
-      "title": "Synthesis of Azopyridines based photoswitches via Zincke Imine intermediatesSynthesis of Azopyridines based photoswitches via Zincke Imine intermediates",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-29T07:34:33Z",
-      "url": "https://doi.org/10.1039/d6sc06717d",
       "sources": [
         "crossref-fallback"
       ],
@@ -2487,19 +2628,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc05743h",
-      "title": "Atroposelective synthesis of lactone-bridged N-arylindoles via Pdcatalyzed formal (6 + 4) cyclization",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-23T09:41:55Z",
-      "url": "https://doi.org/10.1039/d6sc05743h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc05797g",
       "title": "Cucurbit[7]uril-mediated aqueous self-assembly and supramolecular functionalisation of selenium nanoparticles",
       "journal": "Chemical Science",
@@ -2571,19 +2699,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-22T22:40:41Z",
       "url": "https://doi.org/10.1039/d6sc00682e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc03582e",
-      "title": "Prominent signatures of energy transfer in action-detected spectra of a cyanobacterial photosynthetic protein",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-22T21:54:46Z",
-      "url": "https://doi.org/10.1039/d6sc03582e",
       "sources": [
         "crossref-fallback"
       ],
@@ -14924,19 +15039,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc05552d",
-      "title": "Engaging Native Carboxylic Acids via Solvent-Gated Proton Relay for Photo(electro)chemical Decarboxylative Functionalization",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-29T10:03:46Z",
-      "url": "https://doi.org/10.1039/d6sc05552d",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc04167a",
       "title": "Air-stable sodium dimethylglyoxime as a cathode presodiation additive for high-energy-density sodium-ion batteries",
       "journal": "Chemical Science",
@@ -24704,19 +24806,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-09-17T15:05:25Z",
       "url": "https://doi.org/10.1039/d6sc03745c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc02716d",
-      "title": "Equilibrium-driven decarbonylative multi-deuteration enables access to highly deuterated carbon frameworks",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-17T15:05:23Z",
-      "url": "https://doi.org/10.1039/d6sc02716d",
       "sources": [
         "crossref-fallback"
       ],
@@ -49041,19 +49130,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc04226k",
-      "title": "A meta-linked benzoxazole-based wide-bandgap material for deep-blue electroluminescence and high-brightness, low-roll-off multicolor phosphorescent OLEDs",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-08-19T10:24:15Z",
-      "url": "https://doi.org/10.1039/d6sc04226k",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc02372j",
       "title": "Chiral recognition of 2,3-dihydroxypropanesulfonate by bacterial transport proteins adapted to distinct ecological niches",
       "journal": "Chemical Science",
@@ -51020,19 +51096,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-08-17T22:09:17Z",
       "url": "https://doi.org/10.1039/d6sc02846b",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc00169f",
-      "title": "Lipids and lipid nanoparticles functionalized with randomized poly(ethylene glycol) (rPEG) for mRNA delivery",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-08-17T22:08:03Z",
-      "url": "https://doi.org/10.1039/d6sc00169f",
       "sources": [
         "crossref-fallback"
       ],
@@ -360513,15 +360576,20 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc06137k",
-    "10.1039/d6sc06544a",
-    "10.1039/d6sc03911a",
-    "10.1039/d6sc06407h",
-    "10.1039/d6sc05787j",
-    "10.1039/d6sc05662h",
-    "10.1039/d6sc07134a",
-    "10.1039/d6sc03628g",
-    "10.1039/d6sc01160h",
-    "10.1039/d6sc04008j"
+    "10.1039/d6sc03582e",
+    "10.1039/d6sc02716d",
+    "10.1039/d6sc06717d",
+    "10.1039/d6sc06014e",
+    "10.1039/d6sc07394h",
+    "10.1039/d6sc04226k",
+    "10.1002/jcc.70546",
+    "10.1002/jcc.70531",
+    "10.1039/d6sc05743h",
+    "10.1039/d6sc05552d",
+    "10.1039/d6sc05308d",
+    "10.1039/d6sc00169f",
+    "10.1039/d6sc03835b",
+    "10.1039/d6sc03212e",
+    "10.1039/d6sc05584b"
   ]
 }
