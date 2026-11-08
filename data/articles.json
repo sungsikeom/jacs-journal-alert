@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-11-08T08:44:25+09:00",
+  "checked_at": "2026-11-09T08:50:14+09:00",
   "journal_count": 12,
-  "new_count": 0,
+  "new_count": 1,
   "total_count": 29936,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
@@ -9,9 +9,22 @@
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-11-08",
+  "scope_end": "2026-11-09",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc01349j",
+      "title": "Rapid in situ encapsulation of [NiFe]-hydrogenase into covalent organic frameworks for robust hydrogen oxidation and evolution",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-08T11:32:27Z",
+      "url": "https://doi.org/10.1039/d6sc01349j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d6sc03582e",
       "title": "Prominent signatures of energy transfer in action-detected spectra of a cyanobacterial photosynthetic protein",
@@ -77820,19 +77833,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-07-22T12:03:45Z",
       "url": "https://doi.org/10.1039/d6sc03309a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc01349j",
-      "title": "Rapid in situ encapsulation of [NiFe]-hydrogenase into covalent organic frameworks for robust hydrogen oxidation and evolution",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-07-22T12:03:39Z",
-      "url": "https://doi.org/10.1039/d6sc01349j",
       "sources": [
         "crossref-fallback"
       ],
@@ -360575,5 +360575,7 @@
       ]
     }
   ],
-  "new_dois": []
+  "new_dois": [
+    "10.1039/d6sc01349j"
+  ]
 }
