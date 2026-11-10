@@ -1,17 +1,225 @@
 {
-  "checked_at": "2026-11-09T08:50:14+09:00",
+  "checked_at": "2026-11-10T11:49:10+09:00",
   "journal_count": 12,
-  "new_count": 1,
-  "total_count": 29936,
+  "new_count": 16,
+  "total_count": 29946,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-11-09",
+  "scope_end": "2026-11-10",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc03368g",
+      "title": "High-dimensional CRISPR-SERS interactomics tracks the topological evolution of plant viral pathogenesis and therapeutic response",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-10T01:52:44Z",
+      "url": "https://doi.org/10.1039/d6sc03368g",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07104j",
+      "title": "Development of Electrochemical Aptamer-Based Sensors for Therapeutic Monitoring of Lamotrigine",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-10T00:22:25Z",
+      "url": "https://doi.org/10.1039/d6sc07104j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04555c",
+      "title": "Quantum-accurate enhanced sampling and mini-protein folding through replica exchange for multiscale neural network potentials",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-09T16:25:42Z",
+      "url": "https://doi.org/10.1039/d6sc04555c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06589a",
+      "title": "Electronic excitation pathway engineering through p-orbital hybridization in a wide-bandgap Na 4 Fe 3 (PO 4 ) 2 P 2 O 7 cathode for extreme-condition sodium storage",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-09T15:26:42Z",
+      "url": "https://doi.org/10.1039/d6sc06589a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05848e",
+      "title": "Enzyme-Deoxygenated Photoiniferter Polymerization for the High-Throughput Discovery of Ultrahigh Molecular Weight Polymer Adhesives",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-09T13:24:45Z",
+      "url": "https://doi.org/10.1039/d6sc05848e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06501e",
+      "title": "Metal–organic framework-stabilized organic anion radicals that electrocatalytically convert CO 2 into multi-carbon products",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-09T12:25:54Z",
+      "url": "https://doi.org/10.1039/d6sc06501e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05521d",
+      "title": "π-Bridge Engineering of NIR-II Fluorophore Nanoparticles for High-Contrast Bioimaging and Image-Guided Surgery",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-09T12:21:41Z",
+      "url": "https://doi.org/10.1039/d6sc05521d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07210k",
+      "title": "Snapshots of the Multifunctional Role of Lewis Acids Captured in Dynamic Ni-Mg Heterometallic Complexes",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-09T12:21:39Z",
+      "url": "https://doi.org/10.1039/d6sc07210k",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05552d",
+      "title": "Engaging native carboxylic acids via solvent-gated proton relay for photo(electro)chemical decarboxylative functionalizations",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-09T12:21:26Z",
+      "url": "https://doi.org/10.1039/d6sc05552d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06275j",
+      "title": "Tuning Structure and Catalysis of Rhodium Complexes with Pincer-type Period 4 Metalloligands",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-09T11:25:07Z",
+      "url": "https://doi.org/10.1039/d6sc06275j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc90215d",
+      "title": "Correction: Surfactant-chaperoned donor–acceptor–donor NIR-II dye strategy efficiently circumvents intermolecular aggregation to afford enhanced bioimaging contrast",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-09T10:25:37Z",
+      "url": "https://doi.org/10.1039/d6sc90215d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07271b",
+      "title": "Hydrogen-bonded organic frameworks materials fabricating luminescent device for smart responsive sensing application",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-09T10:23:32Z",
+      "url": "https://doi.org/10.1039/d6sc07271b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07008f",
+      "title": "Electron-Donor-Catalyzed E→Z Isomerization of Styrenic Amides",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-09T10:21:30Z",
+      "url": "https://doi.org/10.1039/d6sc07008f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06694a",
+      "title": "Red copper models that exhibit copper-mediated and dioxygen-driven conversion of nitric oxide (NO) to nitrite (NO 2 − ) and subsequent ligand oxidation via O-atom transfer and NO ⇌ NO 2 − interconversion",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-09T09:28:09Z",
+      "url": "https://doi.org/10.1039/d6sc06694a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06941j",
+      "title": "Engineered genome structural diversification for structure-function mapping",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-09T09:21:37Z",
+      "url": "https://doi.org/10.1039/d6sc06941j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06848k",
+      "title": "Emulsion polymerizations stabilized by amphiphilic block-random copolymers in a tubular microreactor with online dynamic light scattering",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-09T08:27:23Z",
+      "url": "https://doi.org/10.1039/d6sc06848k",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d6sc01349j",
       "title": "Rapid in situ encapsulation of [NiFe]-hydrogenase into covalent organic frameworks for robust hydrogen oxidation and evolution",
@@ -135,19 +343,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-06T11:29:19Z",
       "url": "https://doi.org/10.1039/d6sc05743h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05552d",
-      "title": "Engaging native carboxylic acids via solvent-gated proton relay for photo(electro)chemical decarboxylative functionalizations",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-06T11:26:06Z",
-      "url": "https://doi.org/10.1039/d6sc05552d",
       "sources": [
         "crossref-fallback"
       ],
@@ -906,19 +1101,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc06589a",
-      "title": "Electronic Excitation Pathway Engineering through p-Orbital Hybridization in Wide-Bandgap Na4Fe3(PO4)2P2O7 Cathode for Extreme-Condition Sodium Storage",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-03T09:28:28Z",
-      "url": "https://doi.org/10.1039/d6sc06589a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc07200c",
       "title": "Bulk versus surface charge recombination kinetics in polymer heterojunction nanoparticle photocatalyst dispersions",
       "journal": "Chemical Science",
@@ -1028,7 +1210,7 @@
       "journal": "Journal of Computational Chemistry",
       "journal_short": "J. Comput. Chem.",
       "published_date": "2026-11-02",
-      "indexed_at": "2026-11-05T11:33:20Z",
+      "indexed_at": "2026-11-09T17:29:16Z",
       "url": "https://doi.org/10.1002/jcc.70539",
       "sources": [
         "crossref-fallback"
@@ -1045,19 +1227,6 @@
       "sources": [
         "crossref-fallback"
       ]
-    },
-    {
-      "doi": "10.1039/d6sc06848k",
-      "title": "Emulsion Polymerizations Stabilized by Amphiphilic Block-Random Copolymers in a Tubular Microreactor with Online Dynamic Light Scattering",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-02T23:26:44Z",
-      "url": "https://doi.org/10.1039/d6sc06848k",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
       "doi": "10.1039/d6sc03088b",
@@ -1379,19 +1548,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-30T09:50:23Z",
       "url": "https://doi.org/10.1039/d6sc04444a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06501e",
-      "title": "Metal-Organic Framework-Stabilized Organic Anion Radicals That Electrocatalytically Convert CO2 into Multi-Carbon Products",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-30T09:37:00Z",
-      "url": "https://doi.org/10.1039/d6sc06501e",
       "sources": [
         "crossref-fallback"
       ],
@@ -2350,19 +2506,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-27T13:49:54Z",
       "url": "https://doi.org/10.1039/d6sc02809h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06694a",
-      "title": "Red Copper Models That Exhibit Copper-Mediated and Dioxygen-Driven Conversion of Nitric Oxide (NO) to Nitrite (NO2-) and Next Ligand Oxidation via O-Atom Transfer and NO⇌NO2- interconversion",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-27T12:38:30Z",
-      "url": "https://doi.org/10.1039/d6sc06694a",
       "sources": [
         "crossref-fallback"
       ],
@@ -32491,19 +32634,6 @@
       "sources": [
         "crossref-fallback"
       ]
-    },
-    {
-      "doi": "10.1039/d6sc03368g",
-      "title": "High-dimensional CRISPR-SERS interactomics tracks the topological evolution of plant viral pathogenesis and therapeutic response",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-08T04:42:09Z",
-      "url": "https://doi.org/10.1039/d6sc03368g",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
       "doi": "10.1039/d6sc04941a",
@@ -360576,6 +360706,21 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc01349j"
+    "10.1039/d6sc03368g",
+    "10.1039/d6sc07104j",
+    "10.1039/d6sc04555c",
+    "10.1039/d6sc06589a",
+    "10.1039/d6sc05848e",
+    "10.1039/d6sc06501e",
+    "10.1039/d6sc05521d",
+    "10.1039/d6sc07210k",
+    "10.1039/d6sc05552d",
+    "10.1039/d6sc06275j",
+    "10.1039/d6sc90215d",
+    "10.1039/d6sc07271b",
+    "10.1039/d6sc07008f",
+    "10.1039/d6sc06694a",
+    "10.1039/d6sc06941j",
+    "10.1039/d6sc06848k"
   ]
 }
