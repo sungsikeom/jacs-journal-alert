@@ -1,17 +1,160 @@
 {
-  "checked_at": "2026-11-10T11:49:10+09:00",
+  "checked_at": "2026-11-11T09:44:09+09:00",
   "journal_count": 12,
-  "new_count": 16,
-  "total_count": 29946,
+  "new_count": 13,
+  "total_count": 29949,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-11-10",
+  "scope_end": "2026-11-11",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc04917f",
+      "title": "Exploring chemical space for iridium( iii ) complexes: a direct-to-biology (D2B) approach to identifying anticancer and antibacterial agents",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-10T22:48:11Z",
+      "url": "https://doi.org/10.1039/d6sc04917f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03328h",
+      "title": "Modulation strategies for acidic oxygen evolution catalysts",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-10T19:32:43Z",
+      "url": "https://doi.org/10.1039/d6sc03328h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc02112c",
+      "title": "Recent efforts of vapour-phase strategies for EUV resist toward high- and hyper-NA extreme ultraviolet lithography",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-10T19:03:57Z",
+      "url": "https://doi.org/10.1039/d6sc02112c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05435h",
+      "title": "Current-density-dependent interphase formation and V 4+ /V 5+ activation unlocking low-rate durability of VO 2 (B) toward commercializable aqueous zinc-ion batteries",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-10T18:33:57Z",
+      "url": "https://doi.org/10.1039/d6sc05435h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05584b",
+      "title": "Decoupled electro-biosynthesis of high-value bioproducts from CO 2 and N 2",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-10T18:27:30Z",
+      "url": "https://doi.org/10.1039/d6sc05584b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07394h",
+      "title": "Azobenzene-mediated reversible conformational switching in 9,9′-bifluorenylidene-based molecular machines",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-10T18:27:22Z",
+      "url": "https://doi.org/10.1039/d6sc07394h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05621k",
+      "title": "Dearomative Cyclopropanation and Aziridination Reactions of Unactivated Quinolines Using Sulfones as Carbene Equivalents",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-10T17:34:54Z",
+      "url": "https://doi.org/10.1039/d6sc05621k",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06308j",
+      "title": "Metal–ligand orbital mixing mediates spin–phonon coupling in group VI tetraaryl molecular color centers",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-10T12:28:03Z",
+      "url": "https://doi.org/10.1039/d6sc06308j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06485j",
+      "title": "A large language model-based autonomous agent for scanning tunnelling microscopy",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-10T11:29:27Z",
+      "url": "https://doi.org/10.1039/d6sc06485j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc90202b",
+      "title": "A focus on lucigenin as a potent photoredox catalyst",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-10T11:28:09Z",
+      "url": "https://doi.org/10.1039/d6sc90202b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07032a",
+      "title": "Homoconjugation-Induced Fluorescence Enhancement in C3v-Symmetric Pyrene- and Phenanthrene-Embedded Triptycenes",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-10T08:21:27Z",
+      "url": "https://doi.org/10.1039/d6sc07032a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d6sc03368g",
       "title": "High-dimensional CRISPR-SERS interactomics tracks the topological evolution of plant viral pathogenesis and therapeutic response",
@@ -37,6 +180,18 @@
         "crossref-fallback"
       ],
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1002/jcc.70559",
+      "title": "Curvature‐Induced Kinetic Trapping in Chemical Reactions",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-11-09",
+      "indexed_at": "2026-11-10T05:22:26Z",
+      "url": "https://doi.org/10.1002/jcc.70559",
+      "sources": [
+        "crossref-fallback"
+      ]
     },
     {
       "doi": "10.1039/d6sc04555c",
@@ -286,19 +441,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc07394h",
-      "title": "Azobenzene-Mediated Reversible Conformational Switching in 9,9′-Bifluorenylidene-Based Molecular Machines",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-06T13:25:10Z",
-      "url": "https://doi.org/10.1039/d6sc07394h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc04226k",
       "title": "A meta-linked benzoxazole-based wide-bandgap material for deep-blue electroluminescence and high-brightness, low-roll-off multicolor phosphorescent OLEDs",
       "journal": "Chemical Science",
@@ -395,19 +537,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-06T04:43:22Z",
       "url": "https://doi.org/10.1039/d6sc03212e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05584b",
-      "title": "Decoupled Electro-Biosynthesis of High-Value Bioproducts from CO2 and N2",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-06T02:28:26Z",
-      "url": "https://doi.org/10.1039/d6sc05584b",
       "sources": [
         "crossref-fallback"
       ],
@@ -991,32 +1120,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-03T19:32:46Z",
       "url": "https://doi.org/10.1039/d6sc05423d",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06485j",
-      "title": "A large language model-based autonomous agent for scanning tunnelling microscopy",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-03T18:29:46Z",
-      "url": "https://doi.org/10.1039/d6sc06485j",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06308j",
-      "title": "Metal-Ligand orbital mixing mediates spin-phonon coupling in Group VI tetraaryl molecular color centers",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-03T18:29:40Z",
-      "url": "https://doi.org/10.1039/d6sc06308j",
       "sources": [
         "crossref-fallback"
       ],
@@ -1639,19 +1742,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-29T12:07:06Z",
       "url": "https://doi.org/10.1039/d6sc04203a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc90202b",
-      "title": "A focus on lucigenin as a potent photoredox catalyst",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-29T10:37:53Z",
-      "url": "https://doi.org/10.1039/d6sc90202b",
       "sources": [
         "crossref-fallback"
       ],
@@ -3036,19 +3126,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-21T13:39:43Z",
       "url": "https://doi.org/10.1039/d6sc05488a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04917f",
-      "title": "Exploring chemical space for iridium( iii ) complexes: a direct-to-biology (D2B) approach to identifying anticancer and antibacterial agents",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-21T13:39:43Z",
-      "url": "https://doi.org/10.1039/d6sc04917f",
       "sources": [
         "crossref-fallback"
       ],
@@ -24747,19 +24824,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc05435h",
-      "title": "Current-density-dependent interphase formation and V 4+ /V 5+ activation unlocking low-rate durability of VO 2 (B) toward commercializable aqueous zinc-ion batteries",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-17T15:08:25Z",
-      "url": "https://doi.org/10.1039/d6sc05435h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc03819k",
       "title": "Versatile helicene building blocks for organic electronics",
       "journal": "Chemical Science",
@@ -34844,19 +34908,6 @@
       ]
     },
     {
-      "doi": "10.1039/d6sc03328h",
-      "title": "Modulation strategies for acidic oxygen evolution catalysts",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-04T17:47:02Z",
-      "url": "https://doi.org/10.1039/d6sc03328h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc00676k",
       "title": "π-Aggregation-free, fused perylene pentamers: synthesis, narrowband far-red to near-infrared emission, and chiroptical properties",
       "journal": "Chemical Science",
@@ -43119,19 +43170,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-08-26T09:25:04Z",
       "url": "https://doi.org/10.1039/d6sc02671k",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc02112c",
-      "title": "Recent efforts of vapour-phase strategies for EUV resist toward high- and hyper-NA extreme ultraviolet lithography",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-08-26T04:35:57Z",
-      "url": "https://doi.org/10.1039/d6sc02112c",
       "sources": [
         "crossref-fallback"
       ],
@@ -360706,21 +360744,18 @@
     }
   ],
   "new_dois": [
+    "10.1039/d6sc04917f",
+    "10.1039/d6sc03328h",
+    "10.1039/d6sc02112c",
+    "10.1039/d6sc05435h",
+    "10.1039/d6sc05584b",
+    "10.1039/d6sc07394h",
+    "10.1039/d6sc05621k",
+    "10.1039/d6sc06308j",
+    "10.1039/d6sc06485j",
+    "10.1039/d6sc90202b",
+    "10.1039/d6sc07032a",
     "10.1039/d6sc03368g",
-    "10.1039/d6sc07104j",
-    "10.1039/d6sc04555c",
-    "10.1039/d6sc06589a",
-    "10.1039/d6sc05848e",
-    "10.1039/d6sc06501e",
-    "10.1039/d6sc05521d",
-    "10.1039/d6sc07210k",
-    "10.1039/d6sc05552d",
-    "10.1039/d6sc06275j",
-    "10.1039/d6sc90215d",
-    "10.1039/d6sc07271b",
-    "10.1039/d6sc07008f",
-    "10.1039/d6sc06694a",
-    "10.1039/d6sc06941j",
-    "10.1039/d6sc06848k"
+    "10.1039/d6sc07104j"
   ]
 }
