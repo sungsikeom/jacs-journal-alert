@@ -1,17 +1,237 @@
 {
-  "checked_at": "2026-11-12T10:56:52+09:00",
+  "checked_at": "2026-11-13T10:15:24+09:00",
   "journal_count": 12,
-  "new_count": 24,
-  "total_count": 29957,
+  "new_count": 19,
+  "total_count": 29965,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-11-12",
+  "scope_end": "2026-11-13",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc07271b",
+      "title": "Fabrication of hydrogen-bonded organic framework material-based luminescent devices for smart responsive sensing applications",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-12T15:25:07Z",
+      "url": "https://doi.org/10.1039/d6sc07271b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07107d",
+      "title": "In situ co-activation–nucleophilic aromatic substitution (ISCA–S N Ar): synthesis of α-aryl-α-heteroarylmalononitriles",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-12T15:25:04Z",
+      "url": "https://doi.org/10.1039/d6sc07107d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03387c",
+      "title": "Polymer chemistry at the living-material interface",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-12T15:07:43Z",
+      "url": "https://doi.org/10.1039/d6sc03387c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04184a",
+      "title": "Electron Upconversion in Living Systems: Transient High-Energy Reductants Generated in situ By Exergonic Chemical Reactions",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-12T14:26:11Z",
+      "url": "https://doi.org/10.1039/d6sc04184a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc02716d",
+      "title": "Equilibrium-driven decarbonylative multi-deuteration enables access to highly deuterated carbon frameworks",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-12T14:25:06Z",
+      "url": "https://doi.org/10.1039/d6sc02716d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07001a",
+      "title": "Target-triggered DNAzyme hydrogels with boron-doped atomically dispersed Fe nanozymes for one-step bacterial colorimetric sensing",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-12T13:36:11Z",
+      "url": "https://doi.org/10.1039/d6sc07001a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07431f",
+      "title": "Ultrasensitive Endogenous miRNA Imaging in Live Cells by Allosteric Orthogonal CRISPR Probe",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-12T13:31:41Z",
+      "url": "https://doi.org/10.1039/d6sc07431f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1002/jcc.70534",
+      "title": "Toward Equilibrium Charges: Environment‐Consistent Atomic Charge Models for Nonpolarizable Force Fields",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-11-12",
+      "indexed_at": "2026-11-12T13:26:19Z",
+      "url": "https://doi.org/10.1002/jcc.70534",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
+    {
+      "doi": "10.1039/d6sc04824b",
+      "title": "Multi-wavelength photo-activation of transmembrane chloride transport in distinct vesicle populations using photocaged indolocarbazole anionophores",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-12T12:36:36Z",
+      "url": "https://doi.org/10.1039/d6sc04824b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07475h",
+      "title": "Nickel-mediated reductive Csp 2 –Csp 2 cross-coupling reactions for late-stage diversification of aryl electrophiles",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-12T11:31:51Z",
+      "url": "https://doi.org/10.1039/d6sc07475h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07805b",
+      "title": "Neuroevolution potentials uncover concentration-dependent Li + transport mechanisms in PEO–LiTFSI electrolytes",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-12T10:30:27Z",
+      "url": "https://doi.org/10.1039/d6sc07805b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03961h",
+      "title": "Cyclopropanation of unactivated alkenes with diazo compounds enables facile synthesis of challenging cyclopropanes and late-stage sesquiterpene modification",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-12T09:40:01Z",
+      "url": "https://doi.org/10.1039/d6sc03961h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06544a",
+      "title": "Pressure-driven activation of semi-core p-orbitals in Rb and Cs via crystal-field splitting",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-12T09:32:26Z",
+      "url": "https://doi.org/10.1039/d6sc06544a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07314j",
+      "title": "Rational Design and Activity Origin Analysis of High-Entropy Perovskite Oxides for the Oxygen Evolution Reaction via Integrated Strategy",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-12T09:29:26Z",
+      "url": "https://doi.org/10.1039/d6sc07314j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07148a",
+      "title": "Recent Advances on Single-Carbon Insertion into C-C Bonds",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-12T09:29:22Z",
+      "url": "https://doi.org/10.1039/d6sc07148a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06176a",
+      "title": "pH-driven structural dynamics of the plant proton-coupled membrane transporter SUC1 probed by HDX-MS",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-12T08:27:37Z",
+      "url": "https://doi.org/10.1039/d6sc06176a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07493f",
+      "title": "In Situ Activated Peptide Amphiphiles Form Discrete Phase-Separated Domains in Fuel-Dependent Synthetic Cells",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-12T08:27:10Z",
+      "url": "https://doi.org/10.1039/d6sc07493f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d6sc02948e",
       "title": "Covalently linked ferrocene–polyoxometalate dyads for light-induced radical generation",
@@ -282,19 +502,6 @@
       "sources": [
         "crossref-fallback"
       ]
-    },
-    {
-      "doi": "10.1039/d6sc03387c",
-      "title": "Polymer chemistry at the living-material interface",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-11T06:45:55Z",
-      "url": "https://doi.org/10.1039/d6sc03387c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
       "doi": "10.1039/d6sc04252j",
@@ -608,19 +815,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc07271b",
-      "title": "Hydrogen-bonded organic frameworks materials fabricating luminescent device for smart responsive sensing application",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-09T10:23:32Z",
-      "url": "https://doi.org/10.1039/d6sc07271b",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc07008f",
       "title": "Electron-Donor-Catalyzed E→Z Isomerization of Styrenic Amides",
       "journal": "Chemical Science",
@@ -693,19 +887,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-06T21:27:10Z",
       "url": "https://doi.org/10.1039/d6sc03582e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc02716d",
-      "title": "Equilibrium-driven decarbonylative multi-deuteration enables access to highly deuterated carbon frameworks",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-06T18:25:44Z",
-      "url": "https://doi.org/10.1039/d6sc02716d",
       "sources": [
         "crossref-fallback"
       ],
@@ -847,19 +1028,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-05T18:24:43Z",
       "url": "https://doi.org/10.1039/d6sc06137k",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06544a",
-      "title": "Pressure-Driven Activation of Semi-core p -Orbitals in Rb and Cs via Crystal-Field Splitting",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-05T13:26:50Z",
-      "url": "https://doi.org/10.1039/d6sc06544a",
       "sources": [
         "crossref-fallback"
       ],
@@ -1514,19 +1682,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc07431f",
-      "title": "Ultrasensitive Endogenous miRNA Imaging in Live Cells by Allosteric Orthogonal CRISPR Probe",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-03T07:29:37Z",
-      "url": "https://doi.org/10.1039/d6sc07431f",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc03721f",
       "title": "Dearomative [2 + 2] photocycloaddition to difluoro bicyclo[2.1.1]hexane bioisosteres",
       "journal": "Chemical Science",
@@ -1688,19 +1843,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-02T15:29:06Z",
       "url": "https://doi.org/10.1039/d6sc07425a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc07107d",
-      "title": "In Situ Co-Activation-Nucleophilic Aromatic Substitution (ISCA-S N Ar): Synthesis of α-Aryl-α-Heteroarylmalononitriles",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-02T14:27:29Z",
-      "url": "https://doi.org/10.1039/d6sc07107d",
       "sources": [
         "crossref-fallback"
       ],
@@ -2078,19 +2220,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-29T07:58:05Z",
       "url": "https://doi.org/10.1039/d6sc04089f",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc07475h",
-      "title": "Nickel-Mediated Reductive Csp2-Csp2 Cross-Coupling Reactions for Late-Stage Diversification of Aryl Electrophiles",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-29T02:32:53Z",
-      "url": "https://doi.org/10.1039/d6sc07475h",
       "sources": [
         "crossref-fallback"
       ],
@@ -2492,19 +2621,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-28T13:39:24Z",
       "url": "https://doi.org/10.1039/d6sc90213h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04824b",
-      "title": "Multi-wavelength photo-activation of transmembrane chloride transport in distinct vesicle populations using photocaged indolocarbazole anionophores",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-28T13:39:24Z",
-      "url": "https://doi.org/10.1039/d6sc04824b",
       "sources": [
         "crossref-fallback"
       ],
@@ -20223,19 +20339,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-09-23T10:05:26Z",
       "url": "https://doi.org/10.1039/d6sc04006c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc03961h",
-      "title": "Cyclopropanation of unactivated alkenes with diazo compounds enables facile synthesis of challenging cyclopropanes and late-stage sesquiterpene modification",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-23T10:05:07Z",
-      "url": "https://doi.org/10.1039/d6sc03961h",
       "sources": [
         "crossref-fallback"
       ],
@@ -360846,29 +360949,24 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc02948e",
-    "10.1039/d6sc01375a",
-    "10.1039/d6sc04529d",
-    "10.1039/d6sc03733j",
-    "10.1039/d6sc02570f",
-    "10.1039/d6sc06387j",
-    "10.1039/d6sc05660a",
-    "10.1039/d6sc07112k",
-    "10.1039/d6sc06703d",
-    "10.1039/d6sc90208a",
-    "10.1039/d6sc90220k",
-    "10.1039/d6sc90222g",
-    "10.1039/d6sc90223e",
-    "10.1039/d6sc90209j",
-    "10.1039/d6sc05511g",
-    "10.1039/d6sc05720a",
-    "10.1039/d6sc90198k",
-    "10.1002/jcc.70543",
-    "10.1039/d6sc05584b",
-    "10.1039/d6sc03917k",
-    "10.1002/jcc.70540",
+    "10.1039/d6sc07271b",
+    "10.1039/d6sc07107d",
     "10.1039/d6sc03387c",
-    "10.1039/d6sc04252j",
-    "10.1039/d6sc03923e"
+    "10.1039/d6sc04184a",
+    "10.1039/d6sc02716d",
+    "10.1039/d6sc07001a",
+    "10.1039/d6sc07431f",
+    "10.1002/jcc.70534",
+    "10.1039/d6sc04824b",
+    "10.1039/d6sc07475h",
+    "10.1039/d6sc07805b",
+    "10.1039/d6sc03961h",
+    "10.1039/d6sc06544a",
+    "10.1039/d6sc07314j",
+    "10.1039/d6sc07148a",
+    "10.1039/d6sc06176a",
+    "10.1039/d6sc07493f",
+    "10.1039/d6sc02948e",
+    "10.1039/d6sc01375a"
   ]
 }
