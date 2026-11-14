@@ -1,17 +1,199 @@
 {
-  "checked_at": "2026-11-13T10:15:24+09:00",
+  "checked_at": "2026-11-14T09:56:01+09:00",
   "journal_count": 12,
-  "new_count": 19,
-  "total_count": 29965,
+  "new_count": 14,
+  "total_count": 29967,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-11-13",
+  "scope_end": "2026-11-14",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc06133h",
+      "title": "Modular synthesis of functionalized azetidines through visible-light copper-catalyzed carboamination of 1,3-dienes with azabicyclo[1.1.0]butanes",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-13T17:26:14Z",
+      "url": "https://doi.org/10.1039/d6sc06133h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03721f",
+      "title": "Dearomative [2 + 2] photocycloaddition to difluoro bicyclo[2.1.1]hexane bioisosteres",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-13T17:24:25Z",
+      "url": "https://doi.org/10.1039/d6sc03721f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07431f",
+      "title": "Ultrasensitive endogenous miRNA imaging in live cells by an allosteric orthogonal CRISPR probe",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-13T16:26:42Z",
+      "url": "https://doi.org/10.1039/d6sc07431f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05811f",
+      "title": "Mitochondria-Targeted Gold(I)-Polymeric Radiosensitizers with Hypoxia-Activated Tumor Accumulation for Pyroptosis-Driven Radioimmunotherapy",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-13T15:28:53Z",
+      "url": "https://doi.org/10.1039/d6sc05811f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03328h",
+      "title": "Modulation strategies for acidic oxygen evolution catalysts",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-13T14:34:28Z",
+      "url": "https://doi.org/10.1039/d6sc03328h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc02982e",
+      "title": "Task-adaptive multimodal molecular representations for structure-sensitive property prediction",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-13T14:19:51Z",
+      "url": "https://doi.org/10.1039/d6sc02982e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07008f",
+      "title": "Electron-donor-catalyzed E → Z isomerization of styrenic amides",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-13T13:23:24Z",
+      "url": "https://doi.org/10.1039/d6sc07008f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05102b",
+      "title": "Hexaazatrinaphthylene self-fused multi-N-heterocycles for high-capacity and long-life aqueous magnesium-ion batteries",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-13T12:20:57Z",
+      "url": "https://doi.org/10.1039/d6sc05102b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04807b",
+      "title": "Electrolyte additive engineering to construct stable interphases with high ionic conductivity for high-temperature and high-voltage lithium metal batteries",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-13T11:41:40Z",
+      "url": "https://doi.org/10.1039/d6sc04807b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07104j",
+      "title": "Development of electrochemical aptamer-based sensors for therapeutic monitoring of lamotrigine",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-13T10:27:31Z",
+      "url": "https://doi.org/10.1039/d6sc07104j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07032a",
+      "title": "Homoconjugation-induced fluorescence enhancement in C 3v -symmetric pyrene- and phenanthrene-embedded triptycenes",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-13T10:25:31Z",
+      "url": "https://doi.org/10.1039/d6sc07032a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07170h",
+      "title": "Tailoring metal-organic framework catalysts for exchange reactions within covalent adaptable networks",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-13T09:27:54Z",
+      "url": "https://doi.org/10.1039/d6sc07170h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03670h",
+      "title": "Alkali Metal Cations Act as Dynamic Shuttle to Promote CO 2 Capture at the Electrochemical Interface of Nitrogen-Functionalized Au 25 Nanoclusters",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-13T08:22:17Z",
+      "url": "https://doi.org/10.1039/d6sc03670h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc00488a",
+      "title": "Electrophilic activation of water by a carbene catalyzed by a copper surface",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-13T07:08:39Z",
+      "url": "https://doi.org/10.1039/d6sc00488a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d6sc07271b",
       "title": "Fabrication of hydrogen-bonded organic framework material-based luminescent devices for smart responsive sensing applications",
@@ -85,19 +267,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-12T13:36:11Z",
       "url": "https://doi.org/10.1039/d6sc07001a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc07431f",
-      "title": "Ultrasensitive Endogenous miRNA Imaging in Live Cells by Allosteric Orthogonal CRISPR Probe",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-12T13:31:41Z",
-      "url": "https://doi.org/10.1039/d6sc07431f",
       "sources": [
         "crossref-fallback"
       ],
@@ -543,19 +712,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc03328h",
-      "title": "Modulation strategies for acidic oxygen evolution catalysts",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-10T19:32:43Z",
-      "url": "https://doi.org/10.1039/d6sc03328h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc02112c",
       "title": "Recent efforts of vapour-phase strategies for EUV resist toward high- and hyper-NA extreme ultraviolet lithography",
       "journal": "Chemical Science",
@@ -647,19 +803,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc07032a",
-      "title": "Homoconjugation-Induced Fluorescence Enhancement in C3v-Symmetric Pyrene- and Phenanthrene-Embedded Triptycenes",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-10T08:21:27Z",
-      "url": "https://doi.org/10.1039/d6sc07032a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc03368g",
       "title": "High-dimensional CRISPR-SERS interactomics tracks the topological evolution of plant viral pathogenesis and therapeutic response",
       "journal": "Chemical Science",
@@ -667,19 +810,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-10T01:52:44Z",
       "url": "https://doi.org/10.1039/d6sc03368g",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc07104j",
-      "title": "Development of Electrochemical Aptamer-Based Sensors for Therapeutic Monitoring of Lamotrigine",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-10T00:22:25Z",
-      "url": "https://doi.org/10.1039/d6sc07104j",
       "sources": [
         "crossref-fallback"
       ],
@@ -809,19 +939,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-09T10:25:37Z",
       "url": "https://doi.org/10.1039/d6sc90215d",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc07008f",
-      "title": "Electron-Donor-Catalyzed E→Z Isomerization of Styrenic Amides",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-09T10:21:30Z",
-      "url": "https://doi.org/10.1039/d6sc07008f",
       "sources": [
         "crossref-fallback"
       ],
@@ -1682,19 +1799,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc03721f",
-      "title": "Dearomative [2 + 2] photocycloaddition to difluoro bicyclo[2.1.1]hexane bioisosteres",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-03T05:17:14Z",
-      "url": "https://doi.org/10.1039/d6sc03721f",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc03347d",
       "title": "Synergistic effects in s- and d-block heterometallic compounds: small molecule activation and catalysis",
       "journal": "Chemical Science",
@@ -2200,19 +2304,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc05102b",
-      "title": "Hexaazatrinaphthylene self-fused multi-N-heterocycles for high-capacity and long-life aqueous magnesium-ion batteries",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-29T08:29:12Z",
-      "url": "https://doi.org/10.1039/d6sc05102b",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc04089f",
       "title": "Achiral guest-mediated modulation of circularly polarized luminescence in chiral charge-transfer cocrystals",
       "journal": "Chemical Science",
@@ -2549,19 +2640,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc06133h",
-      "title": "Modular synthesis of functionalized azetidines through visible-light copper-catalyzed carboamination of 1,3-dienes with azabicyclo[1.1.0]butanes",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-28T13:39:51Z",
-      "url": "https://doi.org/10.1039/d6sc06133h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc05636a",
       "title": "Modulating intermolecular interactions and high-order triplet states of anthracene host materials for efficient TTA-UC with a Naphtho[2,3- d ][1,3,2]diazaborole scaffold and its N -substituents",
       "journal": "Chemical Science",
@@ -2686,19 +2764,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-28T13:39:13Z",
       "url": "https://doi.org/10.1039/d6sc04400j",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc02982e",
-      "title": "Task-adaptive multimodal molecular representations for structure-sensitive property prediction",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-28T13:39:13Z",
-      "url": "https://doi.org/10.1039/d6sc02982e",
       "sources": [
         "crossref-fallback"
       ],
@@ -4070,19 +4135,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-20T15:39:44Z",
       "url": "https://doi.org/10.1039/d6sc06571f",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05811f",
-      "title": "Mitochondria-Targeted Gold(I)-Polymeric Radiosensitizers with Hypoxia-Activated Tumor Accumulation for Pyroptosis-Driven Radioimmunotherapy",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-20T13:39:12Z",
-      "url": "https://doi.org/10.1039/d6sc05811f",
       "sources": [
         "crossref-fallback"
       ],
@@ -25166,19 +25218,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-09-17T15:06:38Z",
       "url": "https://doi.org/10.1039/d6sc04773d",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04807b",
-      "title": "Electrolyte additive engineering to construct stable interphases with high ionic conductivity for high-temperature and high-voltage lithium metal batteries",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-17T15:06:28Z",
-      "url": "https://doi.org/10.1039/d6sc04807b",
       "sources": [
         "crossref-fallback"
       ],
@@ -78297,19 +78336,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-07-22T12:02:53Z",
       "url": "https://doi.org/10.1039/d6sc02508k",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc00488a",
-      "title": "Electrophilic activation of water by a carbene catalyzed by a copper surface",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-07-22T12:02:42Z",
-      "url": "https://doi.org/10.1039/d6sc00488a",
       "sources": [
         "crossref-fallback"
       ],
@@ -360949,24 +360975,19 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc07271b",
-    "10.1039/d6sc07107d",
-    "10.1039/d6sc03387c",
-    "10.1039/d6sc04184a",
-    "10.1039/d6sc02716d",
-    "10.1039/d6sc07001a",
+    "10.1039/d6sc06133h",
+    "10.1039/d6sc03721f",
     "10.1039/d6sc07431f",
-    "10.1002/jcc.70534",
-    "10.1039/d6sc04824b",
-    "10.1039/d6sc07475h",
-    "10.1039/d6sc07805b",
-    "10.1039/d6sc03961h",
-    "10.1039/d6sc06544a",
-    "10.1039/d6sc07314j",
-    "10.1039/d6sc07148a",
-    "10.1039/d6sc06176a",
-    "10.1039/d6sc07493f",
-    "10.1039/d6sc02948e",
-    "10.1039/d6sc01375a"
+    "10.1039/d6sc05811f",
+    "10.1039/d6sc03328h",
+    "10.1039/d6sc02982e",
+    "10.1039/d6sc07008f",
+    "10.1039/d6sc05102b",
+    "10.1039/d6sc04807b",
+    "10.1039/d6sc07104j",
+    "10.1039/d6sc07032a",
+    "10.1039/d6sc07170h",
+    "10.1039/d6sc03670h",
+    "10.1039/d6sc00488a"
   ]
 }
