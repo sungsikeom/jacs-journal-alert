@@ -1,17 +1,104 @@
 {
-  "checked_at": "2026-11-14T09:56:01+09:00",
+  "checked_at": "2026-11-15T08:59:50+09:00",
   "journal_count": 12,
-  "new_count": 14,
-  "total_count": 29967,
+  "new_count": 3,
+  "total_count": 29972,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-11-14",
+  "scope_end": "2026-11-15",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc04917f",
+      "title": "Exploring chemical space for iridium( iii ) complexes: a direct-to-biology (D2B) approach to identifying anticancer and antibacterial agents",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-14T16:43:33Z",
+      "url": "https://doi.org/10.1039/d6sc04917f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04425e",
+      "title": "Beyond radicals: harnessing non-radical pathways in MOF-based functional materials for water purification",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-14T11:22:26Z",
+      "url": "https://doi.org/10.1039/d6sc04425e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07024h",
+      "title": "Iron-catalyzed oxidative alkynylation of 1,3-dicarbonyls via 1,4alkynyl migration",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-14T03:24:56Z",
+      "url": "https://doi.org/10.1039/d6sc07024h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1002/jcc.70580",
+      "title": "How Reliable Is the Cluster Approximation for Interacting Quantum Atoms Studies of Molecular Crystals?",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-11-13",
+      "indexed_at": "2026-11-14T06:31:22Z",
+      "url": "https://doi.org/10.1002/jcc.70580",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70582",
+      "title": "KARA‐DTI: Drug–Target Interaction Prediction via Adaptive Routing and Cross‐Modal Feature Fusion",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-11-13",
+      "indexed_at": "2026-11-14T04:31:37Z",
+      "url": "https://doi.org/10.1002/jcc.70582",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70542",
+      "title": "Cyclic Nitreones Containing N → N Coordination Interaction: A Quantum Chemical Study",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-11-13",
+      "indexed_at": "2026-11-14T04:27:00Z",
+      "url": "https://doi.org/10.1002/jcc.70542",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70583",
+      "title": "OCCat : A Software Package for Optimization of Cluster Catalyst",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-11-13",
+      "indexed_at": "2026-11-14T04:20:06Z",
+      "url": "https://doi.org/10.1002/jcc.70583",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
     {
       "doi": "10.1039/d6sc06133h",
       "title": "Modular synthesis of functionalized azetidines through visible-light copper-catalyzed carboamination of 1,3-dienes with azabicyclo[1.1.0]butanes",
@@ -428,6 +515,30 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
+      "doi": "10.1002/jcc.70540",
+      "title": "Does the Total Energy Difference Method for Modelling Core Level Photoemission Fail for Bigger Molecules?",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-11-11",
+      "indexed_at": "2026-11-14T07:20:22Z",
+      "url": "https://doi.org/10.1002/jcc.70540",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
+    {
+      "doi": "10.1002/jcc.70543",
+      "title": "Half‐Way Bayesian Calibration for Assessing Uncertainties in Quantum Chemistry Guided Catalyst Optimization",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-11-11",
+      "indexed_at": "2026-11-14T06:31:28Z",
+      "url": "https://doi.org/10.1002/jcc.70543",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
+    {
       "doi": "10.1039/d6sc04529d",
       "title": "Substituent engineering of dynamic covalent bonds enables simultaneous enhancement of performance and recyclability",
       "journal": "Chemical Science",
@@ -623,18 +734,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1002/jcc.70543",
-      "title": "Half‐Way Bayesian Calibration for Assessing Uncertainties in Quantum Chemistry Guided Catalyst Optimization",
-      "journal": "Journal of Computational Chemistry",
-      "journal_short": "J. Comput. Chem.",
-      "published_date": "2026-11-11",
-      "indexed_at": "2026-11-11T10:21:55Z",
-      "url": "https://doi.org/10.1002/jcc.70543",
-      "sources": [
-        "crossref-fallback"
-      ]
-    },
-    {
       "doi": "10.1039/d6sc05584b",
       "title": "Decoupled electro-biosynthesis of high-value bioproducts from CO 2 and N 2",
       "journal": "Chemical Science",
@@ -661,18 +760,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1002/jcc.70540",
-      "title": "Does the Total Energy Difference Method for Modelling Core Level Photoemission Fail for Bigger Molecules?",
-      "journal": "Journal of Computational Chemistry",
-      "journal_short": "J. Comput. Chem.",
-      "published_date": "2026-11-11",
-      "indexed_at": "2026-11-11T09:41:46Z",
-      "url": "https://doi.org/10.1002/jcc.70540",
-      "sources": [
-        "crossref-fallback"
-      ]
-    },
-    {
       "doi": "10.1039/d6sc04252j",
       "title": "1,2-Diketones as in situ persistent radical precursors: symmetric and unsymmetric diacylation of alkenes under visible light",
       "journal": "Chemical Science",
@@ -693,19 +780,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-11T03:14:32Z",
       "url": "https://doi.org/10.1039/d6sc03923e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04917f",
-      "title": "Exploring chemical space for iridium( iii ) complexes: a direct-to-biology (D2B) approach to identifying anticancer and antibacterial agents",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-10T22:48:11Z",
-      "url": "https://doi.org/10.1039/d6sc04917f",
       "sources": [
         "crossref-fallback"
       ],
@@ -821,7 +895,7 @@
       "journal": "Journal of Computational Chemistry",
       "journal_short": "J. Comput. Chem.",
       "published_date": "2026-11-09",
-      "indexed_at": "2026-11-10T05:22:26Z",
+      "indexed_at": "2026-11-14T06:31:13Z",
       "url": "https://doi.org/10.1002/jcc.70559",
       "sources": [
         "crossref-fallback"
@@ -997,6 +1071,18 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
+      "doi": "10.1002/jcc.70531",
+      "title": "Sc 2 @ C 66 . Spherical Aromaticity in a Markedly Ellipsoidal Endohedral Metallic Fullerene",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-11-06",
+      "indexed_at": "2026-11-14T07:19:54Z",
+      "url": "https://doi.org/10.1002/jcc.70531",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
+    {
       "doi": "10.1039/d6sc03582e",
       "title": "Prominent signatures of energy transfer in action-detected spectra of a cyanobacterial photosynthetic protein",
       "journal": "Chemical Science",
@@ -1056,18 +1142,6 @@
       "published_date": "2026-11-06",
       "indexed_at": "2026-11-06T12:29:01Z",
       "url": "https://doi.org/10.1002/jcc.70546",
-      "sources": [
-        "crossref-fallback"
-      ]
-    },
-    {
-      "doi": "10.1002/jcc.70531",
-      "title": "Sc 2 @ C 66 . Spherical Aromaticity in a Markedly Ellipsoidal Endohedral Metallic Fullerene",
-      "journal": "Journal of Computational Chemistry",
-      "journal_short": "J. Comput. Chem.",
-      "published_date": "2026-11-06",
-      "indexed_at": "2026-11-06T12:28:11Z",
-      "url": "https://doi.org/10.1002/jcc.70531",
       "sources": [
         "crossref-fallback"
       ]
@@ -3552,19 +3626,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-21T13:39:41Z",
       "url": "https://doi.org/10.1039/d6sc01239f",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04425e",
-      "title": "Beyond radicals: harnessing non-radical pathways in MOF-based functional materials for water purification",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-21T13:39:40Z",
-      "url": "https://doi.org/10.1039/d6sc04425e",
       "sources": [
         "crossref-fallback"
       ],
@@ -360975,19 +361036,8 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc06133h",
-    "10.1039/d6sc03721f",
-    "10.1039/d6sc07431f",
-    "10.1039/d6sc05811f",
-    "10.1039/d6sc03328h",
-    "10.1039/d6sc02982e",
-    "10.1039/d6sc07008f",
-    "10.1039/d6sc05102b",
-    "10.1039/d6sc04807b",
-    "10.1039/d6sc07104j",
-    "10.1039/d6sc07032a",
-    "10.1039/d6sc07170h",
-    "10.1039/d6sc03670h",
-    "10.1039/d6sc00488a"
+    "10.1039/d6sc04917f",
+    "10.1039/d6sc04425e",
+    "10.1039/d6sc07024h"
   ]
 }
