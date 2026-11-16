@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-11-15T08:59:50+09:00",
+  "checked_at": "2026-11-16T09:04:19+09:00",
   "journal_count": 12,
-  "new_count": 3,
+  "new_count": 4,
   "total_count": 29972,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
@@ -9,9 +9,61 @@
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-11-15",
+  "scope_end": "2026-11-16",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc05417j",
+      "title": "Low-affinity exchangeable probes for super-resolution and long-term fluorescence imaging",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-15T21:45:44Z",
+      "url": "https://doi.org/10.1039/d6sc05417j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06836g",
+      "title": "When less is more: harnessing optimal quencher concentrations to maximize quantum yields in TADF photoredox reactions",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-15T05:00:52Z",
+      "url": "https://doi.org/10.1039/d6sc06836g",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04353d",
+      "title": "Asymmetric Chichibabin diradicaloids: synthesis via oxidation of SOMO–HOMO inversion radicals and near-infrared absorption for electrochromism",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-15T04:44:28Z",
+      "url": "https://doi.org/10.1039/d6sc04353d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04270h",
+      "title": "High-performance CO 2 electrolysis in membrane electrode assemblies: the role of non-alkali cations",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-15T00:45:04Z",
+      "url": "https://doi.org/10.1039/d6sc04270h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d6sc04917f",
       "title": "Exploring chemical space for iridium( iii ) complexes: a direct-to-biology (D2B) approach to identifying anticancer and antibacterial agents",
@@ -520,7 +572,7 @@
       "journal": "Journal of Computational Chemistry",
       "journal_short": "J. Comput. Chem.",
       "published_date": "2026-11-11",
-      "indexed_at": "2026-11-14T07:20:22Z",
+      "indexed_at": "2026-11-15T03:25:30Z",
       "url": "https://doi.org/10.1002/jcc.70540",
       "sources": [
         "crossref-fallback"
@@ -3000,19 +3052,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc05417j",
-      "title": "Low-affinity exchangeable probes for super-resolution and long-term fluorescence imaging",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-28T10:43:11Z",
-      "url": "https://doi.org/10.1039/d6sc05417j",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc05974k",
       "title": "Atomistic mechanisms of hard carbon formation from polyvinylidene chloride",
       "journal": "Chemical Science",
@@ -3048,19 +3087,6 @@
       "sources": [
         "crossref-fallback"
       ]
-    },
-    {
-      "doi": "10.1039/d6sc06836g",
-      "title": "When less is more: harnessing optimal quencher concentrations to maximize quantum yields in TADF photoredox reactions",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-27T20:48:15Z",
-      "url": "https://doi.org/10.1039/d6sc06836g",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
       "doi": "10.1039/d6sc00859c",
@@ -37925,19 +37951,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc04353d",
-      "title": "Asymmetric Chichibabin diradicaloids: synthesis via oxidation of SOMO–HOMO inversion radicals and near-infrared absorption for electrochromism",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-02T18:14:44Z",
-      "url": "https://doi.org/10.1039/d6sc04353d",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc90176j",
       "title": "Front cover",
       "journal": "Chemical Science",
@@ -43397,19 +43410,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-08-26T12:22:46Z",
       "url": "https://doi.org/10.1039/d6sc04720c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04270h",
-      "title": "High-performance CO 2 electrolysis in membrane electrode assemblies: the role of non-alkali cations",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-08-26T12:22:46Z",
-      "url": "https://doi.org/10.1039/d6sc04270h",
       "sources": [
         "crossref-fallback"
       ],
@@ -361036,8 +361036,9 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc04917f",
-    "10.1039/d6sc04425e",
-    "10.1039/d6sc07024h"
+    "10.1039/d6sc05417j",
+    "10.1039/d6sc06836g",
+    "10.1039/d6sc04353d",
+    "10.1039/d6sc04270h"
   ]
 }
