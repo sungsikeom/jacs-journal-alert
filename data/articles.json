@@ -1,17 +1,146 @@
 {
-  "checked_at": "2026-11-19T10:55:49+09:00",
+  "checked_at": "2026-11-20T10:48:52+09:00",
   "journal_count": 12,
-  "new_count": 34,
-  "total_count": 30002,
+  "new_count": 9,
+  "total_count": 30006,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-11-19",
+  "scope_end": "2026-11-20",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc05323h",
+      "title": "On-resin Heck coupling enables small-molecule ligand discovery with covalent peptide-encoded libraries",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-19T22:30:51Z",
+      "url": "https://doi.org/10.1039/d6sc05323h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07170h",
+      "title": "Tailoring metal–organic framework catalysts for exchange reactions within covalent adaptable networks",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-19T19:16:06Z",
+      "url": "https://doi.org/10.1039/d6sc07170h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06387j",
+      "title": "Potential-dependent mobility of oxygen adspecies at glass-sealed gold nanowire surfaces",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-19T18:18:10Z",
+      "url": "https://doi.org/10.1039/d6sc06387j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06681j",
+      "title": "Automated multimodal mining of structured data locked in the figures and tables of flow chemistry literature",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-19T18:17:22Z",
+      "url": "https://doi.org/10.1039/d6sc06681j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06542b",
+      "title": "Generative models in industrial drug discovery: perspectives from REINVENT",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-19T15:23:39Z",
+      "url": "https://doi.org/10.1039/d6sc06542b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc02838a",
+      "title": "Why CO 2 capture via supercapacitive swing adsorption needs a theory, not just tweaks",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-19T14:18:17Z",
+      "url": "https://doi.org/10.1039/d6sc02838a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03670h",
+      "title": "Alkali metal cations act as a dynamic shuttle to promote CO 2 capture at the electrochemical interface of nitrogen-functionalized Au 25 nanoclusters",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-19T11:23:13Z",
+      "url": "https://doi.org/10.1039/d6sc03670h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07259c",
+      "title": "Emerging S(VI) Moiety: State-of-the-Art in Pentafluorooxosulfate (–OSF 5 ) Chemistry",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-19T10:16:43Z",
+      "url": "https://doi.org/10.1039/d6sc07259c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06571f",
+      "title": "Facile synthesis of closed-loop recyclable and crystalline stereoregular poly(ether- alt -ester)s from bio-based commodity chemicals",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-19T02:34:31Z",
+      "url": "https://doi.org/10.1039/d6sc06571f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1002/jcc.70523",
+      "title": "Transferability of Properties in the IQA Scheme: Application on Oligopeptide and Polyacetylene Systems",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-11-18",
+      "indexed_at": "2026-11-19T04:18:28Z",
+      "url": "https://doi.org/10.1002/jcc.70523",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
     {
       "doi": "10.1039/d6sc04506e",
       "title": "Ionic liquid-induced dynamic interfacial ion buffer zones for wide-temperature and stable zinc–iodine batteries",
@@ -1282,32 +1411,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc07170h",
-      "title": "Tailoring metal-organic framework catalysts for exchange reactions within covalent adaptable networks",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-13T09:27:54Z",
-      "url": "https://doi.org/10.1039/d6sc07170h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc03670h",
-      "title": "Alkali Metal Cations Act as Dynamic Shuttle to Promote CO 2 Capture at the Electrochemical Interface of Nitrogen-Functionalized Au 25 Nanoclusters",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-13T08:22:17Z",
-      "url": "https://doi.org/10.1039/d6sc03670h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc00488a",
       "title": "Electrophilic activation of water by a carbene catalyzed by a copper surface",
       "journal": "Chemical Science",
@@ -1572,19 +1675,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-11T20:41:02Z",
       "url": "https://doi.org/10.1039/d6sc02570f",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06387j",
-      "title": "Potential-Dependent Mobility of Oxygen Adspecies at Glass-sealed Gold Nanowire Surfaces",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-11T18:23:11Z",
-      "url": "https://doi.org/10.1039/d6sc06387j",
       "sources": [
         "crossref-fallback"
       ],
@@ -3441,19 +3531,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc05323h",
-      "title": "On-resin Heck coupling enables small-molecule ligand discovery with covalent peptide-encoded libraries",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-28T13:39:52Z",
-      "url": "https://doi.org/10.1039/d6sc05323h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc05125a",
       "title": "Charge-transfer dynamics in bowl-shaped imide-functionalized corannulenes at ensemble and single-molecule levels",
       "journal": "Chemical Science",
@@ -4832,19 +4909,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-20T15:40:21Z",
       "url": "https://doi.org/10.1039/d6sc05541a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06571f",
-      "title": "Facile synthesis of closed-loop recyclable and crystalline stereoregular poly(ether- alt -ester)s from bio-based commodity chemicals",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-20T15:39:44Z",
-      "url": "https://doi.org/10.1039/d6sc06571f",
       "sources": [
         "crossref-fallback"
       ],
@@ -38009,19 +38073,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-09-02T18:16:08Z",
       "url": "https://doi.org/10.1039/d6sc02932a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc02838a",
-      "title": "Why CO 2 capture via supercapacitive swing adsorption needs a theory, not just tweaks",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-02T18:16:08Z",
-      "url": "https://doi.org/10.1039/d6sc02838a",
       "sources": [
         "crossref-fallback"
       ],
@@ -361425,39 +361476,14 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc04506e",
-    "10.1039/d6sc05521d",
-    "10.1039/d6sc06671b",
-    "10.1039/d6sc05308d",
-    "10.1039/d6sc03860c",
-    "10.1039/d6sc04089f",
-    "10.1039/d6sc06295d",
-    "10.1039/d6sc90229d",
-    "10.1039/d6sc03882d",
-    "10.1039/d6sc05534f",
-    "10.1039/d6sc05561c",
-    "10.1039/d6sc03917k",
-    "10.1039/d6sc05072g",
-    "10.1039/d6sc05973b",
-    "10.1039/d6sc06421c",
-    "10.1039/d6sc06874j",
-    "10.1039/d6sc06755g",
-    "10.1039/d6sc06430b",
-    "10.1039/d6sc01981a",
-    "10.1039/d6sc90215d",
-    "10.1039/d6sc05217g",
-    "10.1039/d6sc06126e",
-    "10.1039/d6sc05041g",
-    "10.1039/d6sc90226j",
-    "10.1039/d6sc90228f",
-    "10.1039/d6sc06836g",
-    "10.1039/d6sc07080a",
-    "10.1039/d6sc06939h",
-    "10.1039/d6sc07421a",
-    "10.1039/d6sc07072h",
-    "10.1039/d5sc08253f",
-    "10.1039/d6sc04534k",
-    "10.1039/d6sc07244e",
-    "10.1039/d6sc02475k"
+    "10.1039/d6sc05323h",
+    "10.1039/d6sc07170h",
+    "10.1039/d6sc06387j",
+    "10.1039/d6sc06681j",
+    "10.1039/d6sc06542b",
+    "10.1039/d6sc02838a",
+    "10.1039/d6sc03670h",
+    "10.1039/d6sc07259c",
+    "10.1039/d6sc06571f"
   ]
 }
