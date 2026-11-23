@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-11-22T09:31:42+09:00",
+  "checked_at": "2026-11-23T09:59:27+09:00",
   "journal_count": 12,
-  "new_count": 6,
+  "new_count": 3,
   "total_count": 30012,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
@@ -9,9 +9,48 @@
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-11-22",
+  "scope_end": "2026-11-23",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d5sc09327a",
+      "title": "Inducing a chiral twist in achiral porphyrins: tailoring molecular interactions for circularly polarized luminescence from chiral microflowers",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-22T16:33:19Z",
+      "url": "https://doi.org/10.1039/d5sc09327a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc02114j",
+      "title": "GFP chromophore photophysics: ultrafast dynamics and hot ground state cooling in the neutral form",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-22T08:44:27Z",
+      "url": "https://doi.org/10.1039/d6sc02114j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04270h",
+      "title": "High-performance CO 2 electrolysis in membrane electrode assemblies: the role of non-alkali cations",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-22T04:16:37Z",
+      "url": "https://doi.org/10.1039/d6sc04270h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d6sc04283j",
       "title": "Accelerating the discovery of nanoporous gas separation materials via Coulomb-enhanced classical density functional theory",
@@ -1383,19 +1422,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-15T04:44:28Z",
       "url": "https://doi.org/10.1039/d6sc04353d",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04270h",
-      "title": "High-performance CO 2 electrolysis in membrane electrode assemblies: the role of non-alkali cations",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-15T00:45:04Z",
-      "url": "https://doi.org/10.1039/d6sc04270h",
       "sources": [
         "crossref-fallback"
       ],
@@ -2911,19 +2937,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc02114j",
-      "title": "GFP chromophore photophysics: ultrafast dynamics and hot ground state cooling in the neutral form",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-03T11:35:44Z",
-      "url": "https://doi.org/10.1039/d6sc02114j",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc02045c",
       "title": "Quantification of mesopore infiltration in a polymer-grafted metal–organic framework",
       "journal": "Chemical Science",
@@ -3447,19 +3460,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-28T16:33:21Z",
       "url": "https://doi.org/10.1039/d6sc06678j",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d5sc09327a",
-      "title": "Inducing a chiral twist in achiral porphyrins: tailoring molecular interactions for circularly polarized luminescence from chiral microflowers",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-28T14:20:32Z",
-      "url": "https://doi.org/10.1039/d5sc09327a",
       "sources": [
         "crossref-fallback"
       ],
@@ -361554,11 +361554,8 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc04283j",
-    "10.1039/d6sc00169f",
-    "10.1039/d6sc07402b",
-    "10.1039/d6sc04506e",
-    "10.1039/d5sc10108e",
-    "10.1039/d6sc05910d"
+    "10.1039/d5sc09327a",
+    "10.1039/d6sc02114j",
+    "10.1039/d6sc04270h"
   ]
 }
