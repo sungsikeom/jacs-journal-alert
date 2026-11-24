@@ -1,17 +1,134 @@
 {
-  "checked_at": "2026-11-23T09:59:27+09:00",
+  "checked_at": "2026-11-24T13:52:41+09:00",
   "journal_count": 12,
-  "new_count": 3,
-  "total_count": 30012,
+  "new_count": 9,
+  "total_count": 30016,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-11-23",
+  "scope_end": "2026-11-24",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc07578a",
+      "title": "Selective electrocatalytic hydrogenation: insights from interfacial water structure to reaction selectivity",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-24T04:12:09Z",
+      "url": "https://doi.org/10.1039/d6sc07578a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07085j",
+      "title": "'A new trick for an old base!': Reengineering of Tröger's base Naphthalimides for Enhanced Aggregation-Induced Emission (AIE) and pH-Responsive Luminescence",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-23T21:38:11Z",
+      "url": "https://doi.org/10.1039/d6sc07085j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04252j",
+      "title": "1,2-Diketones as in situ persistent radical precursors: symmetric and unsymmetric diacylation of alkenes under visible light",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-23T19:49:05Z",
+      "url": "https://doi.org/10.1039/d6sc04252j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc00919k",
+      "title": "A method for the detection of transient spectra for the in situ investigation of amyloid intermediate species",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-23T18:25:34Z",
+      "url": "https://doi.org/10.1039/d6sc00919k",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05910d",
+      "title": "A sulfonate-functionalized thiazolothiazole Zn-MOF for synergistic uranyl capture and photoreduction",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-23T18:16:27Z",
+      "url": "https://doi.org/10.1039/d6sc05910d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06985a",
+      "title": "Pulsed potential-driven glycerol electro-oxidation to glycolic acid: mitigating catalyst oxidation and surface poisoning",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-23T17:32:48Z",
+      "url": "https://doi.org/10.1039/d6sc06985a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06941j",
+      "title": "Engineered genome structural diversification for structure–function mapping",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-23T11:14:05Z",
+      "url": "https://doi.org/10.1039/d6sc06941j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06780h",
+      "title": "Plug-and-play upgrading of ion-paired organocatalysts in a pillar[5]arene-embedded covalent organic framework",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-23T10:16:59Z",
+      "url": "https://doi.org/10.1039/d6sc06780h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06300d",
+      "title": "High temperature polymer dielectrics: materials, mechanisms and capacitive energy storage",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-23T08:16:18Z",
+      "url": "https://doi.org/10.1039/d6sc06300d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d5sc09327a",
       "title": "Inducing a chiral twist in achiral porphyrins: tailoring molecular interactions for circularly polarized luminescence from chiral microflowers",
@@ -111,19 +228,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-21T03:22:43Z",
       "url": "https://doi.org/10.1039/d5sc10108e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05910d",
-      "title": "A Sulfonate-Functionalized Thiazolothiazole Zn-MOF for Synergistic Uranyl Capture and Photoreduction",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-21T03:15:40Z",
-      "url": "https://doi.org/10.1039/d6sc05910d",
       "sources": [
         "crossref-fallback"
       ],
@@ -1012,19 +1116,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc06780h",
-      "title": "Plug-and-play upgrading of ion-paired organocatalysts in a pillar[5]arene-embedded covalent organic framework",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-17T11:20:51Z",
-      "url": "https://doi.org/10.1039/d6sc06780h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc05488a",
       "title": "Emergent integration of the amine scrubbing method into photocatalytic CO 2 reduction",
       "journal": "Chemical Science",
@@ -1045,19 +1136,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-17T10:21:48Z",
       "url": "https://doi.org/10.1039/d6sc90225a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06985a",
-      "title": "Pulsed Potential-Driven Glycerol Electro-oxidation to Glycolic Acid: Mitigating Catalyst Oxidation and Surface Poisoning",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-17T09:33:01Z",
-      "url": "https://doi.org/10.1039/d6sc06985a",
       "sources": [
         "crossref-fallback"
       ],
@@ -1253,19 +1331,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-16T16:35:37Z",
       "url": "https://doi.org/10.1039/d6sc06987h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06941j",
-      "title": "Engineered genome structural diversification for structure–function mapping",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-16T15:23:59Z",
-      "url": "https://doi.org/10.1039/d6sc06941j",
       "sources": [
         "crossref-fallback"
       ],
@@ -2039,19 +2104,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-11T10:21:10Z",
       "url": "https://doi.org/10.1039/d6sc05584b",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04252j",
-      "title": "1,2-Diketones as in situ persistent radical precursors: symmetric and unsymmetric diacylation of alkenes under visible light",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-11T05:57:46Z",
-      "url": "https://doi.org/10.1039/d6sc04252j",
       "sources": [
         "crossref-fallback"
       ],
@@ -361554,8 +361606,14 @@
     }
   ],
   "new_dois": [
-    "10.1039/d5sc09327a",
-    "10.1039/d6sc02114j",
-    "10.1039/d6sc04270h"
+    "10.1039/d6sc07578a",
+    "10.1039/d6sc07085j",
+    "10.1039/d6sc04252j",
+    "10.1039/d6sc00919k",
+    "10.1039/d6sc05910d",
+    "10.1039/d6sc06985a",
+    "10.1039/d6sc06941j",
+    "10.1039/d6sc06780h",
+    "10.1039/d6sc06300d"
   ]
 }
