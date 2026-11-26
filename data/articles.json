@@ -1,17 +1,690 @@
 {
-  "checked_at": "2026-11-25T12:37:15+09:00",
+  "checked_at": "2026-11-26T11:57:08+09:00",
   "journal_count": 12,
-  "new_count": 18,
-  "total_count": 30023,
+  "new_count": 51,
+  "total_count": 30036,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-11-25",
+  "scope_end": "2026-11-26",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc03275c",
+      "title": "Recent achievements on nonflammable electrolytes with ethoxy(pentafluoro)cyclotriphosphazene for stable and safe lithium-ion batteries",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T23:13:56Z",
+      "url": "https://doi.org/10.1039/d6sc03275c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07152j",
+      "title": "Biosynthesis of the Octadrides Viburspiran and Botryoanhydride and the Novel Heptadride Viburnadride - Rings within Rings",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T18:15:32Z",
+      "url": "https://doi.org/10.1039/d6sc07152j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04184a",
+      "title": "Electron upconversion in living systems: transient high-energy electrons generated in situ by exergonic chemical reactions",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T17:13:16Z",
+      "url": "https://doi.org/10.1039/d6sc04184a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07849d",
+      "title": "Dual modulation of stacking and oxygen adsorption in 1D-COFs via gradient methyl functionalization for enhanced photocatalytic H 2 O 2 synthesis",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T17:12:59Z",
+      "url": "https://doi.org/10.1039/d6sc07849d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc02570f",
+      "title": "Recent progress in catalytic asymmetric synthesis of triarylmethanes",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T16:25:16Z",
+      "url": "https://doi.org/10.1039/d6sc02570f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07024h",
+      "title": "Iron-catalyzed oxidative alkynylation of 1,3-dicarbonyls via 1,4-alkynyl migration",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T16:12:05Z",
+      "url": "https://doi.org/10.1039/d6sc07024h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06374h",
+      "title": "Enantioselective synthesis of β-aryl-β-acyl esters as unsymmetrical 1,4-dicarbonyl compounds via oxidative aryl rearrangement using λ 3 -perchrolate iodane",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:19:07Z",
+      "url": "https://doi.org/10.1039/d6sc06374h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05923f",
+      "title": "Mesoporous Ag 2 Se as a model n-type thermoelectric: soft-templated synthesis and thermal transport engineering",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:16:33Z",
+      "url": "https://doi.org/10.1039/d6sc05923f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc01758d",
+      "title": "Taming the carbamoyl radical for selective hydrocarbamidation of alkynes via metallaphotoredox catalysis",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:16:04Z",
+      "url": "https://doi.org/10.1039/d6sc01758d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04245g",
+      "title": "Beyond the catalytic serine: selective protease engagement with covalent macrocyclic activity-based probes",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:15:27Z",
+      "url": "https://doi.org/10.1039/d6sc04245g",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03717h",
+      "title": "Base-catalyzed intramolecular C–H annulation reactions of o -carboranes containing nitriles, alkynes, and alkenes",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:15:16Z",
+      "url": "https://doi.org/10.1039/d6sc03717h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06573b",
+      "title": "Control of axial stereochemistry for the enantioselective construction of a QUINAP library",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:15:08Z",
+      "url": "https://doi.org/10.1039/d6sc06573b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03773a",
+      "title": "Boosting the mobility of ions in nanoporous confinement by applying a gate voltage",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:15:03Z",
+      "url": "https://doi.org/10.1039/d6sc03773a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04689d",
+      "title": "A heterobimetallic journey from ambiphilic Ti phosphide to nucleophilic Ti/Ir phosphinidene",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:14:49Z",
+      "url": "https://doi.org/10.1039/d6sc04689d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05761f",
+      "title": "Metal-free CO 2 fixation: conversion of epoxides to cyclic carbonates by a highly efficient bifunctional boron-tethered N-heterocyclic nitrenium catalyst",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:14:41Z",
+      "url": "https://doi.org/10.1039/d6sc05761f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc01654e",
+      "title": "Force-modulated and strain-dependent stereoselectivity of copper-catalyzed reductive coupling",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:14:33Z",
+      "url": "https://doi.org/10.1039/d6sc01654e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05518d",
+      "title": "Boosting CO 2 hydrogenation to C 2+ hydrocarbons via phase modulation using a Ni-doped CuCo catalyst",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:14:25Z",
+      "url": "https://doi.org/10.1039/d6sc05518d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04697e",
+      "title": "PNA-ligand conjugates enable site-selective and directional targeting of adjacent G-quadruplexes",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:14:25Z",
+      "url": "https://doi.org/10.1039/d6sc04697e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05647d",
+      "title": "Direct-inject liquid-chromatography enables an autonomous continuous preferential crystallization platform",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:14:20Z",
+      "url": "https://doi.org/10.1039/d6sc05647d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04632k",
+      "title": "Noble gas electrochemistry-driven luminescence integrated with machine learning for environmental monitoring",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:14:20Z",
+      "url": "https://doi.org/10.1039/d6sc04632k",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06151f",
+      "title": "Peripheral transition metalation: hemilabile meso -N-metalated phthalocyanines showing activatable near-infrared photophysical properties",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:14:09Z",
+      "url": "https://doi.org/10.1039/d6sc06151f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06111g",
+      "title": "Traceless trimethyl-lock translators for thiol-mediated uptake of native proteins as covalent constructs",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:14:07Z",
+      "url": "https://doi.org/10.1039/d6sc06111g",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03583c",
+      "title": "Simultaneous enhancement of photoluminescence and spin-polarization lifetime in a carbazole-functionalized TTM diradical",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:13:51Z",
+      "url": "https://doi.org/10.1039/d6sc03583c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05682b",
+      "title": "In situ reduction of CO 2 forms surface redox mediators on nanoparticle catalysts",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:13:47Z",
+      "url": "https://doi.org/10.1039/d6sc05682b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06840e",
+      "title": "Symmetric dual-interphase design enables stable lithium-metal anodes for high rate ultrahigh-nickel all-solid-state batteries",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:13:27Z",
+      "url": "https://doi.org/10.1039/d6sc06840e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05084k",
+      "title": "Radical chemistry in atmospheric ice analogs forms persistent trifluoroacetic acid",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:13:22Z",
+      "url": "https://doi.org/10.1039/d6sc05084k",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06201f",
+      "title": "Oxygen-responsive high-efficiency orange-red room-temperature phosphorescence from chalcogen-containing dibenzo[ a , c ]phenazine foldamers",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:13:21Z",
+      "url": "https://doi.org/10.1039/d6sc06201f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05552d",
+      "title": "Engaging native carboxylic acids via solvent-gated proton relay for photo(electro)chemical decarboxylative functionalizations",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:13:09Z",
+      "url": "https://doi.org/10.1039/d6sc05552d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc90232d",
+      "title": "Contents list",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:12:14Z",
+      "url": "https://doi.org/10.1039/d6sc90232d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc90233b",
+      "title": "Back cover",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:10:22Z",
+      "url": "https://doi.org/10.1039/d6sc90233b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03369e",
+      "title": "Ionic covalent organic frameworks with precisely engineered pyridinic nitrogen sites for light-driven gold recovery",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T15:10:04Z",
+      "url": "https://doi.org/10.1039/d6sc03369e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07058b",
+      "title": "Lewis acid-like catalysis enabled by electrophilic nitrogen radical cations",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T14:20:40Z",
+      "url": "https://doi.org/10.1039/d6sc07058b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc90202b",
+      "title": "A focus on lucigenin as a potent photoredox catalyst",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T14:20:07Z",
+      "url": "https://doi.org/10.1039/d6sc90202b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04536g",
+      "title": "Engineering peroxygenases for pharmaceutical applications: recent advances and future perspectives",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T14:19:32Z",
+      "url": "https://doi.org/10.1039/d6sc04536g",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05488a",
+      "title": "Emergent integration of the amine scrubbing method into photocatalytic CO 2 reduction",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T14:19:02Z",
+      "url": "https://doi.org/10.1039/d6sc05488a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06062e",
+      "title": "Mechanical macrocyclic effects: stimuli-responsive dual emission by self-inclusion and mutual exclusion",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T14:16:38Z",
+      "url": "https://doi.org/10.1039/d6sc06062e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05911b",
+      "title": "A bifunctional ER-targeting fluorescent probe for the detection of SO 2 and polarity in living cell and animals",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T14:16:25Z",
+      "url": "https://doi.org/10.1039/d6sc05911b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06531g",
+      "title": "Single-component dual emission and full-spectrum color tuning from through-space charge transfer in asymmetric [2.2]paracyclophanes",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T14:16:13Z",
+      "url": "https://doi.org/10.1039/d6sc06531g",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc90230h",
+      "title": "Front cover",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T14:15:05Z",
+      "url": "https://doi.org/10.1039/d6sc90230h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06144c",
+      "title": "Function-preserving photooxidation of AS1411 aptamer by a G-quadruplex-guided photosensitizer",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T14:14:17Z",
+      "url": "https://doi.org/10.1039/d6sc06144c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07388c",
+      "title": "Spatially engineered sulfide electrolyte membranes for stable all-solid-state batteries",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T14:12:27Z",
+      "url": "https://doi.org/10.1039/d6sc07388c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc01349j",
+      "title": "Rapid in situ encapsulation of [NiFe]-hydrogenase into covalent organic frameworks for robust hydrogen oxidation and evolution",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T12:42:44Z",
+      "url": "https://doi.org/10.1039/d6sc01349j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06383g",
+      "title": "Sulfur( vi )-fluoride exchange (SuFEx) modification of antibodies increases tumour cell selectivity",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T11:18:17Z",
+      "url": "https://doi.org/10.1039/d6sc06383g",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07607f",
+      "title": "Construction of Contiguous Stereocentres on Allene Skeletons by Copper-Catalysed Enantioselective Trifunctionalisation",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T11:13:13Z",
+      "url": "https://doi.org/10.1039/d6sc07607f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06944d",
+      "title": "Switchable polymerisation catalysis using l -lactide, CO 2 and alkene oxides",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T11:13:07Z",
+      "url": "https://doi.org/10.1039/d6sc06944d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1002/jcc.70586",
+      "title": "Hardware‐Assisted Sample‐Based Quantum Diagonalization for Molecular Potential‐Energy Curves",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-11-25",
+      "indexed_at": "2026-11-25T09:21:42Z",
+      "url": "https://doi.org/10.1002/jcc.70586",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
+    {
+      "doi": "10.1039/d6sc05705e",
+      "title": "ReO x nano-islands supported on Ag: Active catalysts for partial oxidation of methane to methanol and other light liquid oxygenates",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T09:21:34Z",
+      "url": "https://doi.org/10.1039/d6sc05705e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1002/jcc.70592",
+      "title": "Benchmark Study of Density Functional Methods for Closed‐Shell Pd ( II ) Elementary Steps Relevant to Carbonylation Chemistry",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-11-25",
+      "indexed_at": "2026-11-25T09:21:28Z",
+      "url": "https://doi.org/10.1002/jcc.70592",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
+    {
+      "doi": "10.1039/d6sc07102c",
+      "title": "Stannylene ambiphilicity enables formation of a trimetallic complex",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T09:21:27Z",
+      "url": "https://doi.org/10.1039/d6sc07102c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06818a",
+      "title": "Cross-scale fluorescence imaging links H2O2 to BACE1/GSK-3β-associated Aβ and Tau pathology in brain iron overload",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T07:16:14Z",
+      "url": "https://doi.org/10.1039/d6sc06818a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07421a",
+      "title": "Palladium-catalyzed strain-release carbonylation of [1.1.1]propellane enables ketene generation and amide synthesis",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-25T07:15:41Z",
+      "url": "https://doi.org/10.1039/d6sc07421a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1002/jcc.70581",
+      "title": "Multi‐Objective Sampling of Gas‐Phase Microsolvation Landscapes",
+      "journal": "Journal of Computational Chemistry",
+      "journal_short": "J. Comput. Chem.",
+      "published_date": "2026-11-24",
+      "indexed_at": "2026-11-25T06:15:46Z",
+      "url": "https://doi.org/10.1002/jcc.70581",
+      "sources": [
+        "crossref-fallback"
+      ]
+    },
     {
       "doi": "10.1039/d6sc02671k",
       "title": "Decoding cryptic defluorinases through a latent generative sequence landscape",
@@ -1115,19 +1788,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc07421a",
-      "title": "Palladium-Catalyzed Strain-Release Carbonylation of [1.1.1]Propellane Enables Ketene Generation and Amide Synthesis",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-18T08:23:25Z",
-      "url": "https://doi.org/10.1039/d6sc07421a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc07072h",
       "title": "Thermally Driven Face-On-to-Edge-On Reorganization in Selenium-Engineered A-D-A-type Organic Semiconductors Enables Solution-Processed Single-Crystal-Like Thin Films for High-Mobility N-Type Transistors",
       "journal": "Chemical Science",
@@ -1270,19 +1930,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc06383g",
-      "title": "Sulfur(VI)-Fluoride Exchange (SuFEx) modification of antibodies increases target cell selectivity",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-17T14:16:54Z",
-      "url": "https://doi.org/10.1039/d6sc06383g",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc90214f",
       "title": "A focus on why fluorine substitution strengthens aryl C–H bonds",
       "journal": "Chemical Science",
@@ -1303,19 +1950,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-17T12:17:47Z",
       "url": "https://doi.org/10.1039/d6sc06275j",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05488a",
-      "title": "Emergent integration of the amine scrubbing method into photocatalytic CO 2 reduction",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-17T10:24:51Z",
-      "url": "https://doi.org/10.1039/d6sc05488a",
       "sources": [
         "crossref-fallback"
       ],
@@ -1699,19 +2333,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc07024h",
-      "title": "Iron-catalyzed oxidative alkynylation of 1,3-dicarbonyls via 1,4alkynyl migration",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-14T03:24:56Z",
-      "url": "https://doi.org/10.1039/d6sc07024h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1002/jcc.70582",
       "title": "KARA‐DTI: Drug–Target Interaction Prediction via Adaptive Routing and Cross‐Modal Feature Fusion",
       "journal": "Journal of Computational Chemistry",
@@ -1941,19 +2562,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc04184a",
-      "title": "Electron Upconversion in Living Systems: Transient High-Energy Reductants Generated in situ By Exergonic Chemical Reactions",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-12T14:26:11Z",
-      "url": "https://doi.org/10.1039/d6sc04184a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc07001a",
       "title": "Target-triggered DNAzyme hydrogels with boron-doped atomically dispersed Fe nanozymes for one-step bacterial colorimetric sensing",
       "journal": "Chemical Science",
@@ -2128,19 +2736,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-11T21:04:52Z",
       "url": "https://doi.org/10.1039/d6sc03733j",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc02570f",
-      "title": "Recent progress in catalytic asymmetric synthesis of triarylmethanes",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-11T20:41:02Z",
-      "url": "https://doi.org/10.1039/d6sc02570f",
       "sources": [
         "crossref-fallback"
       ],
@@ -2355,19 +2950,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc90202b",
-      "title": "A focus on lucigenin as a potent photoredox catalyst",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-10T11:28:09Z",
-      "url": "https://doi.org/10.1039/d6sc90202b",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc03368g",
       "title": "High-dimensional CRISPR-SERS interactomics tracks the topological evolution of plant viral pathogenesis and therapeutic response",
       "journal": "Chemical Science",
@@ -2432,19 +3014,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc05552d",
-      "title": "Engaging native carboxylic acids via solvent-gated proton relay for photo(electro)chemical decarboxylative functionalizations",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-09T12:21:26Z",
-      "url": "https://doi.org/10.1039/d6sc05552d",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc06694a",
       "title": "Red copper models that exhibit copper-mediated and dioxygen-driven conversion of nitric oxide (NO) to nitrite (NO 2 − ) and subsequent ligand oxidation via O-atom transfer and NO ⇌ NO 2 − interconversion",
       "journal": "Chemical Science",
@@ -2465,19 +3034,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-09T08:27:23Z",
       "url": "https://doi.org/10.1039/d6sc06848k",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc01349j",
-      "title": "Rapid in situ encapsulation of [NiFe]-hydrogenase into covalent organic frameworks for robust hydrogen oxidation and evolution",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-08T11:32:27Z",
-      "url": "https://doi.org/10.1039/d6sc01349j",
       "sources": [
         "crossref-fallback"
       ],
@@ -3369,19 +3925,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-02T12:26:46Z",
       "url": "https://doi.org/10.1039/d6sc05991k",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc07102c",
-      "title": "Stannylene Ambiphilicity Enables Formation of a Trimetallic Complex",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-02T11:28:01Z",
-      "url": "https://doi.org/10.1039/d6sc07102c",
       "sources": [
         "crossref-fallback"
       ],
@@ -4281,19 +4824,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc06531g",
-      "title": "Single-component dual emission and full-spectrum color tuning from through-space charge transfer in asymmetric [2.2]paracyclophanes",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-26T12:33:42Z",
-      "url": "https://doi.org/10.1039/d6sc06531g",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc04573a",
       "title": "Tuning heterojunction pathways via transition metal oxides on fibrous silica iron for enhanced photoelectrochemical water splitting",
       "journal": "Chemical Science",
@@ -5160,19 +5690,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc04536g",
-      "title": "Engineering peroxygenases for pharmaceutical applications: recent advances and future perspectives",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-20T21:38:32Z",
-      "url": "https://doi.org/10.1039/d6sc04536g",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc04703c",
       "title": "Toward resolving the RuO 2 /IrO 2 oxygen evolution activity puzzle: critical roles of spin polarization and exchange–correlation functional accuracy",
       "journal": "Chemical Science",
@@ -5477,19 +5994,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-16T00:55:28Z",
       "url": "https://doi.org/10.1039/d6sc03065c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05518d",
-      "title": "Boosting CO 2 hydrogenation to C 2+ hydrocarbons via phase modulation using a Ni-doped CuCo catalyst",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-15T15:53:27Z",
-      "url": "https://doi.org/10.1039/d6sc05518d",
       "sources": [
         "crossref-fallback"
       ],
@@ -5938,19 +6442,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc06201f",
-      "title": "Oxygen-responsive high-efficiency orange-red room-temperature phosphorescence from chalcogen-containing dibenzo[ a , c ]phenazine foldamers",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-15T07:54:31Z",
-      "url": "https://doi.org/10.1039/d6sc06201f",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc06246f",
       "title": "Modular synthesis of 3,3-diarylpropylamines via the photo- and copper-catalyzed 1,3-aminoarylation of cyclopropanes",
       "journal": "Chemical Science",
@@ -6009,84 +6500,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-14T15:50:54Z",
       "url": "https://doi.org/10.1039/d6sc05729b",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc03583c",
-      "title": "Simultaneous enhancement of photoluminescence and spin-polarization lifetime in a carbazole-functionalized TTM diradical",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-14T13:49:21Z",
-      "url": "https://doi.org/10.1039/d6sc03583c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06111g",
-      "title": "Traceless trimethyl-lock translators for thiol-mediated uptake of native proteins as covalent constructs",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-14T11:51:35Z",
-      "url": "https://doi.org/10.1039/d6sc06111g",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05682b",
-      "title": "In situ reduction of CO 2 forms surface redox mediators on nanoparticle catalysts",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-14T11:51:22Z",
-      "url": "https://doi.org/10.1039/d6sc05682b",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05911b",
-      "title": "A bifunctional ER-targeting fluorescent probe for the detection of SO 2 and polarity in living cell and animals",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-14T09:50:40Z",
-      "url": "https://doi.org/10.1039/d6sc05911b",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc07058b",
-      "title": "Lewis acid-like catalysis enabled by electrophilic nitrogen radical cations",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-14T08:57:24Z",
-      "url": "https://doi.org/10.1039/d6sc07058b",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06573b",
-      "title": "Control of axial stereochemistry for the enantioselective construction of a QUINAP library",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-14T08:46:06Z",
-      "url": "https://doi.org/10.1039/d6sc06573b",
       "sources": [
         "crossref-fallback"
       ],
@@ -6676,84 +7089,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-13T20:35:09Z",
       "url": "https://doi.org/10.1039/d6sc03942a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06840e",
-      "title": "Symmetric dual-interphase design enables stable lithium-metal anodes for high rate ultrahigh-nickel all-solid-state batteries",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-13T15:47:16Z",
-      "url": "https://doi.org/10.1039/d6sc06840e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04245g",
-      "title": "Beyond the catalytic serine: selective protease engagement with covalent macrocyclic activity-based probes",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-13T11:46:01Z",
-      "url": "https://doi.org/10.1039/d6sc04245g",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06374h",
-      "title": "Enantioselective synthesis of β-aryl-β-acyl esters as unsymmetrical 1,4-dicarbonyl compounds via oxidative aryl rearrangement using λ 3 -perchrolate iodane",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-13T11:45:39Z",
-      "url": "https://doi.org/10.1039/d6sc06374h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc03717h",
-      "title": "Base-catalyzed intramolecular C–H annulation reactions of o -carboranes containing nitriles, alkynes, and alkenes",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-13T10:51:30Z",
-      "url": "https://doi.org/10.1039/d6sc03717h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05923f",
-      "title": "Mesoporous Ag 2 Se as a model n-type thermoelectric: soft-templated synthesis and thermal transport engineering",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-13T08:44:43Z",
-      "url": "https://doi.org/10.1039/d6sc05923f",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06144c",
-      "title": "Function-preserving photooxidation of AS1411 aptamer by a G-quadruplex-guided photosensitizer",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-13T07:48:06Z",
-      "url": "https://doi.org/10.1039/d6sc06144c",
       "sources": [
         "crossref-fallback"
       ],
@@ -7464,45 +7799,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-12T16:06:46Z",
       "url": "https://doi.org/10.1039/d6sc02299e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc03369e",
-      "title": "Ionic covalent organic frameworks with precisely engineered pyridinic nitrogen sites for light-driven gold recovery",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-12T14:48:30Z",
-      "url": "https://doi.org/10.1039/d6sc03369e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06062e",
-      "title": "Mechanical macrocyclic effects: stimuli-responsive dual emission by self-inclusion and mutual exclusion",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-12T10:47:38Z",
-      "url": "https://doi.org/10.1039/d6sc06062e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05761f",
-      "title": "Metal-free CO 2 fixation: conversion of epoxides to cyclic carbonates by a highly efficient bifunctional boron-tethered N-heterocyclic nitrenium catalyst",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-12T08:47:11Z",
-      "url": "https://doi.org/10.1039/d6sc05761f",
       "sources": [
         "crossref-fallback"
       ],
@@ -8673,71 +8969,6 @@
       ]
     },
     {
-      "doi": "10.1039/d6sc03773a",
-      "title": "Boosting the mobility of ions in nanoporous confinement by applying a gate voltage",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-09T15:49:00Z",
-      "url": "https://doi.org/10.1039/d6sc03773a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04632k",
-      "title": "Noble gas electrochemistry-driven luminescence integrated with machine learning for environmental monitoring",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-09T10:56:45Z",
-      "url": "https://doi.org/10.1039/d6sc04632k",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc01758d",
-      "title": "Taming the carbamoyl radical for selective hydrocarbamidation of alkynes via metallaphotoredox catalysis",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-09T10:53:37Z",
-      "url": "https://doi.org/10.1039/d6sc01758d",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc01654e",
-      "title": "Force-modulated and strain-dependent stereoselectivity of copper-catalyzed reductive coupling",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-09T08:52:37Z",
-      "url": "https://doi.org/10.1039/d6sc01654e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06151f",
-      "title": "Peripheral transition metalation: hemilabile meso -N-metalated phthalocyanines showing activatable near-infrared photophysical properties",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-09T07:49:41Z",
-      "url": "https://doi.org/10.1039/d6sc06151f",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1038/s41557-026-02275-7",
       "title": "Reversible Sn4+/Sn0 anode for high-energy-density flow batteries",
       "journal": "Nature Chemistry",
@@ -9561,45 +9792,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-08T21:16:50Z",
       "url": "https://doi.org/10.1039/d6sc02479c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04689d",
-      "title": "A heterobimetallic journey from ambiphilic Ti phosphide to nucleophilic Ti/Ir phosphinidene",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-08T15:53:05Z",
-      "url": "https://doi.org/10.1039/d6sc04689d",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04697e",
-      "title": "PNA-ligand conjugates enable site-selective and directional targeting of adjacent G-quadruplexes",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-08T15:50:03Z",
-      "url": "https://doi.org/10.1039/d6sc04697e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05647d",
-      "title": "Direct-inject liquid-chromatography enables an autonomous continuous preferential crystallization platform",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-08T08:52:48Z",
-      "url": "https://doi.org/10.1039/d6sc05647d",
       "sources": [
         "crossref-fallback"
       ],
@@ -11614,19 +11806,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-10-06T19:06:28Z",
       "url": "https://doi.org/10.1039/d6sc03324e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc05084k",
-      "title": "Radical chemistry in atmospheric ice analogs forms persistent trifluoroacetic acid",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-06T16:00:07Z",
-      "url": "https://doi.org/10.1039/d6sc05084k",
       "sources": [
         "crossref-fallback"
       ],
@@ -56271,19 +56450,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-08-12T20:29:43Z",
       "url": "https://doi.org/10.1039/d6sc02205g",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc03275c",
-      "title": "Recent achievements on nonflammable electrolytes with ethoxy(pentafluoro)cyclotriphosphazene for stable and safe lithium-ion batteries",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-08-12T20:29:41Z",
-      "url": "https://doi.org/10.1039/d6sc03275c",
       "sources": [
         "crossref-fallback"
       ],
@@ -361695,23 +361861,56 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc02671k",
-    "10.1039/d6sc02507b",
-    "10.1039/d6sc07244e",
-    "10.1039/d6sc07010h",
-    "10.1039/d6sc06637b",
-    "10.1039/d6sc03023h",
-    "10.1039/d6sc07606h",
-    "10.1039/d6sc05854j",
-    "10.1039/d6sc90222g",
-    "10.1039/d6sc06565a",
-    "10.1039/d6sc06671b",
-    "10.1039/d6sc90203k",
-    "10.1039/d6sc05621k",
-    "10.1039/d6sc04089f",
-    "10.1039/d6sc04366f",
-    "10.1039/d6sc06593g",
-    "10.1039/d6sc03415b",
-    "10.1039/d6sc07578a"
+    "10.1039/d6sc03275c",
+    "10.1039/d6sc07152j",
+    "10.1039/d6sc04184a",
+    "10.1039/d6sc07849d",
+    "10.1039/d6sc02570f",
+    "10.1039/d6sc07024h",
+    "10.1039/d6sc06374h",
+    "10.1039/d6sc05923f",
+    "10.1039/d6sc01758d",
+    "10.1039/d6sc04245g",
+    "10.1039/d6sc03717h",
+    "10.1039/d6sc06573b",
+    "10.1039/d6sc03773a",
+    "10.1039/d6sc04689d",
+    "10.1039/d6sc05761f",
+    "10.1039/d6sc01654e",
+    "10.1039/d6sc05518d",
+    "10.1039/d6sc04697e",
+    "10.1039/d6sc05647d",
+    "10.1039/d6sc04632k",
+    "10.1039/d6sc06151f",
+    "10.1039/d6sc06111g",
+    "10.1039/d6sc03583c",
+    "10.1039/d6sc05682b",
+    "10.1039/d6sc06840e",
+    "10.1039/d6sc05084k",
+    "10.1039/d6sc06201f",
+    "10.1039/d6sc05552d",
+    "10.1039/d6sc90232d",
+    "10.1039/d6sc90233b",
+    "10.1039/d6sc03369e",
+    "10.1039/d6sc07058b",
+    "10.1039/d6sc90202b",
+    "10.1039/d6sc04536g",
+    "10.1039/d6sc05488a",
+    "10.1039/d6sc06062e",
+    "10.1039/d6sc05911b",
+    "10.1039/d6sc06531g",
+    "10.1039/d6sc90230h",
+    "10.1039/d6sc06144c",
+    "10.1039/d6sc07388c",
+    "10.1039/d6sc01349j",
+    "10.1039/d6sc06383g",
+    "10.1039/d6sc07607f",
+    "10.1039/d6sc06944d",
+    "10.1002/jcc.70586",
+    "10.1039/d6sc05705e",
+    "10.1002/jcc.70592",
+    "10.1039/d6sc07102c",
+    "10.1039/d6sc06818a",
+    "10.1039/d6sc07421a"
   ]
 }
