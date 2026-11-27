@@ -1,17 +1,264 @@
 {
-  "checked_at": "2026-11-26T11:57:08+09:00",
+  "checked_at": "2026-11-27T11:59:17+09:00",
   "journal_count": 12,
-  "new_count": 51,
-  "total_count": 30036,
+  "new_count": 19,
+  "total_count": 30040,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-11-26",
+  "scope_end": "2026-11-27",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc03347d",
+      "title": "Synergistic effects in s- and d-block heterometallic compounds: small molecule activation and catalysis",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-27T00:21:54Z",
+      "url": "https://doi.org/10.1039/d6sc03347d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03290g",
+      "title": "Temporal dependence emerges from a carbodiimide driven acid–anhydride equilibrium coupled to a photocatalytic decarboxylation reaction",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-26T23:50:01Z",
+      "url": "https://doi.org/10.1039/d6sc03290g",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc01626j",
+      "title": "Catalytic visible light-driven alkane dehydrogenation by a di-uranyl germanotungstate",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-26T22:27:04Z",
+      "url": "https://doi.org/10.1039/d6sc01626j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc03212e",
+      "title": "Materials process informatics-assisted precise particle size control of metal–organic frameworks",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-26T22:08:41Z",
+      "url": "https://doi.org/10.1039/d6sc03212e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc01341d",
+      "title": "Efficient red circularly-polarized phosphorescence from pyrene derivatives mediated by locked axial chirality scaffold",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-26T17:36:53Z",
+      "url": "https://doi.org/10.1039/d6sc01341d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06869c",
+      "title": "Ligand-assisted facile Co 2+ /Co 3+ conversion in a metal–hydroxide framework promotes electrochemical benzyl alcohol oxidation at ampere-scale current density",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-26T15:18:40Z",
+      "url": "https://doi.org/10.1039/d6sc06869c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07466a",
+      "title": "On again, off again: thiol-Michael photoactivated dynamic covalent chemistry",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-26T15:12:25Z",
+      "url": "https://doi.org/10.1039/d6sc07466a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07068j",
+      "title": "Dynamic Catalytic Chemistry for Green-Fuel Synthesis",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-26T14:17:19Z",
+      "url": "https://doi.org/10.1039/d6sc07068j",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04573a",
+      "title": "Tuning heterojunction pathways via transition metal oxides on fibrous silica iron for enhanced photoelectrochemical water splitting",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-26T13:42:32Z",
+      "url": "https://doi.org/10.1039/d6sc04573a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04758k",
+      "title": "Catalytic C–S bond cleavage of simple sulfides with productive retention of thiol fragments",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-26T13:20:34Z",
+      "url": "https://doi.org/10.1039/d6sc04758k",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc02698b",
+      "title": "Recycling fluoropolymers to acyl fluorides through shuttle catalysis",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-26T13:20:32Z",
+      "url": "https://doi.org/10.1039/d6sc02698b",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06974f",
+      "title": "Platinum( ii ) [2.2]-paracyclophane complexes with planar chirality as circularly polarized electrochemiluminescence emitters",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-26T12:17:19Z",
+      "url": "https://doi.org/10.1039/d6sc06974f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07462f",
+      "title": "Site-selective electrochemical radical cyclization: a general platform for the synthesis of diaryl-fused oxepine and azepine derivatives",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-26T10:15:47Z",
+      "url": "https://doi.org/10.1039/d6sc07462f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07011f",
+      "title": "Weak H-bonds facilitate Li + transport in concentrated aqueous LiTFSI solutions",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-26T10:15:19Z",
+      "url": "https://doi.org/10.1039/d6sc07011f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06361f",
+      "title": "Programming supramolecular hydrogel stiffness via thermally accelerated secondary nucleation–elongation",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-26T10:10:33Z",
+      "url": "https://doi.org/10.1039/d6sc06361f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06944d",
+      "title": "Switchable polymerisation catalysis using l -lactide, CO 2 and alkene oxides",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-26T09:15:45Z",
+      "url": "https://doi.org/10.1039/d6sc06944d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc00831c",
+      "title": "Towards accurate and scalable high-throughput MOF adsorption screening: merging classical force fields and universal machine learned interatomic potentials",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-26T07:54:30Z",
+      "url": "https://doi.org/10.1039/d6sc00831c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07360c",
+      "title": "Ligand-enabled copper-catalyzed enantioselective intermolecular radical 1,2-alkylarylation of styrenes with consistently high enantioselectivities",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-26T03:12:19Z",
+      "url": "https://doi.org/10.1039/d6sc07360c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04301a",
+      "title": "Modulating multicenter bonding through facile addition of diradical precursors to a bipyridine-stabilized borane",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-26T03:08:48Z",
+      "url": "https://doi.org/10.1039/d6sc04301a",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d6sc03275c",
       "title": "Recent achievements on nonflammable electrolytes with ethoxy(pentafluoro)cyclotriphosphazene for stable and safe lithium-ion batteries",
@@ -585,19 +832,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc06944d",
-      "title": "Switchable polymerisation catalysis using l -lactide, CO 2 and alkene oxides",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-25T11:13:07Z",
-      "url": "https://doi.org/10.1039/d6sc06944d",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1002/jcc.70586",
       "title": "Hardware‐Assisted Sample‐Based Quantum Diagonalization for Molecular Potential‐Energy Curves",
       "journal": "Journal of Computational Chemistry",
@@ -1146,19 +1380,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-21T03:22:43Z",
       "url": "https://doi.org/10.1039/d5sc10108e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc03347d",
-      "title": "Synergistic effects in s- and d-block heterometallic compounds: small molecule activation and catalysis",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-20T22:33:43Z",
-      "url": "https://doi.org/10.1039/d6sc03347d",
       "sources": [
         "crossref-fallback"
       ],
@@ -1904,19 +2125,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc07011f",
-      "title": "Weak H-bonds facilitate Li + transport in concentrated aqueous LiTFSI solutions",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-17T15:18:28Z",
-      "url": "https://doi.org/10.1039/d6sc07011f",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc05848e",
       "title": "Enzyme-deoxygenated photoiniferter polymerization for the high-throughput discovery of ultrahigh molecular weight polymer adhesives",
       "journal": "Chemical Science",
@@ -1982,19 +2190,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc06361f",
-      "title": "Programming Supramolecular Hydrogel Stiffness via Thermally Accelerated Secondary Nucleation-Elongation",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-17T09:29:38Z",
-      "url": "https://doi.org/10.1039/d6sc06361f",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc03244c",
       "title": "Leveraging E / Z isomerization to enhance ring opening polymerization thermodynamics of a CO 2 /butadiene derived δ-lactone",
       "journal": "Chemical Science",
@@ -2041,19 +2236,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-17T02:36:26Z",
       "url": "https://doi.org/10.1039/d6sc04400j",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc00831c",
-      "title": "Towards accurate and scalable high-throughput MOF adsorption screening: merging classical force fields and universal machine learned interatomic potentials",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-17T00:17:35Z",
-      "url": "https://doi.org/10.1039/d6sc00831c",
       "sources": [
         "crossref-fallback"
       ],
@@ -2158,19 +2340,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-16T15:23:43Z",
       "url": "https://doi.org/10.1039/d6sc06676c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06974f",
-      "title": "Platinum(II) [2.2]-paracyclophane complexes with planar chirality as circularly polarized electrochemiluminescence emitters",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-16T14:20:02Z",
-      "url": "https://doi.org/10.1039/d6sc06974f",
       "sources": [
         "crossref-fallback"
       ],
@@ -3129,19 +3298,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc03212e",
-      "title": "Materials process informatics-assisted precise particle size control of metal–organic frameworks",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-06T04:43:22Z",
-      "url": "https://doi.org/10.1039/d6sc03212e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc06137k",
       "title": "Long-lived azobispyrazole stapled peptides for light-activated inhibition of protein–protein interactions",
       "journal": "Chemical Science",
@@ -3305,32 +3461,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-04T15:31:43Z",
       "url": "https://doi.org/10.1039/d6sc03993f",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06869c",
-      "title": "Ligand-assisted facile Co 2+ /Co 3+ conversion in a metal–hydroxide framework promotes electrochemical benzyl alcohol oxidation at ampere-scale current density",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-04T14:30:23Z",
-      "url": "https://doi.org/10.1039/d6sc06869c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc01341d",
-      "title": "Efficient red circularly-polarized phosphorescence from pyrene derivatives mediated by locked axial chirality scaffold",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-04T14:08:23Z",
-      "url": "https://doi.org/10.1039/d6sc01341d",
       "sources": [
         "crossref-fallback"
       ],
@@ -3745,19 +3875,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-03T02:01:47Z",
       "url": "https://doi.org/10.1039/d6sc03639b",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc02698b",
-      "title": "Recycling fluoropolymers to acyl fluorides through shuttle catalysis",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-03T01:36:29Z",
-      "url": "https://doi.org/10.1039/d6sc02698b",
       "sources": [
         "crossref-fallback"
       ],
@@ -4824,19 +4941,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc04573a",
-      "title": "Tuning heterojunction pathways via transition metal oxides on fibrous silica iron for enhanced photoelectrochemical water splitting",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-26T11:32:44Z",
-      "url": "https://doi.org/10.1039/d6sc04573a",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc06885e",
       "title": "Mesomeric tuning of merocyanine photoacids",
       "journal": "Chemical Science",
@@ -5804,19 +5908,6 @@
       "sources": [
         "crossref-fallback"
       ]
-    },
-    {
-      "doi": "10.1039/d6sc01626j",
-      "title": "Catalytic visible light-driven alkane dehydrogenation by a di-uranyl germanotungstate",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-10-19T22:30:40Z",
-      "url": "https://doi.org/10.1039/d6sc01626j",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
       "doi": "10.1039/d6sc02391f",
@@ -26305,19 +26396,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc04758k",
-      "title": "Catalytic C–S bond cleavage of simple sulfides with productive retention of thiol fragments",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-17T15:05:39Z",
-      "url": "https://doi.org/10.1039/d6sc04758k",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc04288k",
       "title": "Dihydrobenzofuro[3,2- b ]benzofuran: a light-driven molecular switch with fluorescence switching, bistability, and intrinsic chirality",
       "journal": "Chemical Science",
@@ -38607,19 +38685,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc03290g",
-      "title": "Temporal dependence emerges from a carbodiimide driven acid–anhydride equilibrium coupled to a photocatalytic decarboxylation reaction",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-02T18:15:48Z",
-      "url": "https://doi.org/10.1039/d6sc03290g",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc02582j",
       "title": "Self-assembly drives rare-earth separations in a family of M 4 L 4 cages",
       "journal": "Chemical Science",
@@ -38679,19 +38744,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-09-02T18:15:35Z",
       "url": "https://doi.org/10.1039/d5sc09989g",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04301a",
-      "title": "Modulating multicenter bonding through facile addition of diradical precursors to a bipyridine-stabilized borane",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-02T18:15:27Z",
-      "url": "https://doi.org/10.1039/d6sc04301a",
       "sources": [
         "crossref-fallback"
       ],
@@ -361861,56 +361913,24 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc03275c",
-    "10.1039/d6sc07152j",
-    "10.1039/d6sc04184a",
-    "10.1039/d6sc07849d",
-    "10.1039/d6sc02570f",
-    "10.1039/d6sc07024h",
-    "10.1039/d6sc06374h",
-    "10.1039/d6sc05923f",
-    "10.1039/d6sc01758d",
-    "10.1039/d6sc04245g",
-    "10.1039/d6sc03717h",
-    "10.1039/d6sc06573b",
-    "10.1039/d6sc03773a",
-    "10.1039/d6sc04689d",
-    "10.1039/d6sc05761f",
-    "10.1039/d6sc01654e",
-    "10.1039/d6sc05518d",
-    "10.1039/d6sc04697e",
-    "10.1039/d6sc05647d",
-    "10.1039/d6sc04632k",
-    "10.1039/d6sc06151f",
-    "10.1039/d6sc06111g",
-    "10.1039/d6sc03583c",
-    "10.1039/d6sc05682b",
-    "10.1039/d6sc06840e",
-    "10.1039/d6sc05084k",
-    "10.1039/d6sc06201f",
-    "10.1039/d6sc05552d",
-    "10.1039/d6sc90232d",
-    "10.1039/d6sc90233b",
-    "10.1039/d6sc03369e",
-    "10.1039/d6sc07058b",
-    "10.1039/d6sc90202b",
-    "10.1039/d6sc04536g",
-    "10.1039/d6sc05488a",
-    "10.1039/d6sc06062e",
-    "10.1039/d6sc05911b",
-    "10.1039/d6sc06531g",
-    "10.1039/d6sc90230h",
-    "10.1039/d6sc06144c",
-    "10.1039/d6sc07388c",
-    "10.1039/d6sc01349j",
-    "10.1039/d6sc06383g",
-    "10.1039/d6sc07607f",
+    "10.1039/d6sc03347d",
+    "10.1039/d6sc03290g",
+    "10.1039/d6sc01626j",
+    "10.1039/d6sc03212e",
+    "10.1039/d6sc01341d",
+    "10.1039/d6sc06869c",
+    "10.1039/d6sc07466a",
+    "10.1039/d6sc07068j",
+    "10.1039/d6sc04573a",
+    "10.1039/d6sc04758k",
+    "10.1039/d6sc02698b",
+    "10.1039/d6sc06974f",
+    "10.1039/d6sc07462f",
+    "10.1039/d6sc07011f",
+    "10.1039/d6sc06361f",
     "10.1039/d6sc06944d",
-    "10.1002/jcc.70586",
-    "10.1039/d6sc05705e",
-    "10.1002/jcc.70592",
-    "10.1039/d6sc07102c",
-    "10.1039/d6sc06818a",
-    "10.1039/d6sc07421a"
+    "10.1039/d6sc00831c",
+    "10.1039/d6sc07360c",
+    "10.1039/d6sc04301a"
   ]
 }
