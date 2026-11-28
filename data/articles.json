@@ -1,17 +1,134 @@
 {
-  "checked_at": "2026-11-27T11:59:17+09:00",
+  "checked_at": "2026-11-28T11:50:03+09:00",
   "journal_count": 12,
-  "new_count": 19,
-  "total_count": 30040,
+  "new_count": 10,
+  "total_count": 30043,
   "baseline_initialized": false,
   "scope_start": "2026-01-01",
   "journal_scope_starts": {
     "JACS": "2025-01-01",
     "Nat Chem": "2009-01-01"
   },
-  "scope_end": "2026-11-27",
+  "scope_end": "2026-11-28",
   "source_mode": "publisher-only",
   "articles": [
+    {
+      "doi": "10.1039/d6sc02570f",
+      "title": "Recent progress in catalytic asymmetric synthesis of triarylmethanes",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-27T17:54:26Z",
+      "url": "https://doi.org/10.1039/d6sc02570f",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06524d",
+      "title": "Cr-doped SrTiO 3 : an earth-abundant photocathode for solar light-driven water splitting",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-27T17:13:10Z",
+      "url": "https://doi.org/10.1039/d6sc06524d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc05705e",
+      "title": "ReO x nano-islands supported on Ag: active catalysts for partial oxidation of methane to methanol and other light liquid oxygenates",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-27T16:19:30Z",
+      "url": "https://doi.org/10.1039/d6sc05705e",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc04398d",
+      "title": "Data-driven interfacial regulations through molecular additive screening for batteries and electrocatalysis",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-27T15:45:38Z",
+      "url": "https://doi.org/10.1039/d6sc04398d",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06662c",
+      "title": "Advanced sintering technology for oxide solid-state electrolytes",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-27T13:16:03Z",
+      "url": "https://doi.org/10.1039/d6sc06662c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06676c",
+      "title": "Spatially isolated bifunctional Janus nanosheet catalysts for cascade Knoevenagel-hydrogenation reactions",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-27T12:25:02Z",
+      "url": "https://doi.org/10.1039/d6sc06676c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc06875h",
+      "title": "Electron-transfer chain length governs function in photosystem I-platinum nanoparticle biohybrid catalysts",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-27T12:14:04Z",
+      "url": "https://doi.org/10.1039/d6sc06875h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07072h",
+      "title": "Thermally driven face-on-to-edge-on reorganization in selenium-engineered A–D–A-type organic semiconductors enables solution-processed single-crystal-like thin films for high-mobility n-type transistors",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-27T11:14:08Z",
+      "url": "https://doi.org/10.1039/d6sc07072h",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
+    {
+      "doi": "10.1039/d6sc07388c",
+      "title": "Spatially engineered sulfide electrolyte membranes for stable all-solid-state batteries",
+      "journal": "Chemical Science",
+      "journal_short": "Chem. Sci.",
+      "published_date": "2026-01-01",
+      "indexed_at": "2026-11-27T11:11:20Z",
+      "url": "https://doi.org/10.1039/d6sc07388c",
+      "sources": [
+        "crossref-fallback"
+      ],
+      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
+    },
     {
       "doi": "10.1039/d6sc03347d",
       "title": "Synergistic effects in s- and d-block heterometallic compounds: small molecule activation and catalysis",
@@ -306,19 +423,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-25T17:12:59Z",
       "url": "https://doi.org/10.1039/d6sc07849d",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc02570f",
-      "title": "Recent progress in catalytic asymmetric synthesis of triarylmethanes",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-25T16:25:16Z",
-      "url": "https://doi.org/10.1039/d6sc02570f",
       "sources": [
         "crossref-fallback"
       ],
@@ -780,19 +884,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc07388c",
-      "title": "Spatially engineered sulfide electrolyte membranes for stable all-solid-state batteries",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-25T14:12:27Z",
-      "url": "https://doi.org/10.1039/d6sc07388c",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d6sc01349j",
       "title": "Rapid in situ encapsulation of [NiFe]-hydrogenase into covalent organic frameworks for robust hydrogen oxidation and evolution",
       "journal": "Chemical Science",
@@ -842,19 +933,6 @@
       "sources": [
         "crossref-fallback"
       ]
-    },
-    {
-      "doi": "10.1039/d6sc05705e",
-      "title": "ReO x nano-islands supported on Ag: Active catalysts for partial oxidation of methane to methanol and other light liquid oxygenates",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-25T09:21:34Z",
-      "url": "https://doi.org/10.1039/d6sc05705e",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
       "doi": "10.1002/jcc.70592",
@@ -2009,19 +2087,6 @@
       "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
     },
     {
-      "doi": "10.1039/d6sc07072h",
-      "title": "Thermally Driven Face-On-to-Edge-On Reorganization in Selenium-Engineered A-D-A-type Organic Semiconductors Enables Solution-Processed Single-Crystal-Like Thin Films for High-Mobility N-Type Transistors",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-18T08:23:25Z",
-      "url": "https://doi.org/10.1039/d6sc07072h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
       "doi": "10.1039/d5sc08253f",
       "title": "DeepPath: overcoming data scarcity for protein transition pathway prediction using physics-based deep learning",
       "journal": "Chemical Science",
@@ -2327,19 +2392,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-11-16T16:35:37Z",
       "url": "https://doi.org/10.1039/d6sc06987h",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc06676c",
-      "title": "Spatially isolated bifunctional Janus nanosheets catalysts for cascade Knoevenagel-hydrogenation reactions",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-11-16T15:23:43Z",
-      "url": "https://doi.org/10.1039/d6sc06676c",
       "sources": [
         "crossref-fallback"
       ],
@@ -26507,19 +26559,6 @@
       "published_date": "2026-01-01",
       "indexed_at": "2026-09-17T15:04:07Z",
       "url": "https://doi.org/10.1039/d6sc04680k",
-      "sources": [
-        "crossref-fallback"
-      ],
-      "date_note": "Crossref 등록 연도(정확한 날짜 미등록)"
-    },
-    {
-      "doi": "10.1039/d6sc04398d",
-      "title": "Data-driven interfacial regulations through molecular additive screening for batteries and electrocatalysis",
-      "journal": "Chemical Science",
-      "journal_short": "Chem. Sci.",
-      "published_date": "2026-01-01",
-      "indexed_at": "2026-09-17T15:04:06Z",
-      "url": "https://doi.org/10.1039/d6sc04398d",
       "sources": [
         "crossref-fallback"
       ],
@@ -361913,24 +361952,15 @@
     }
   ],
   "new_dois": [
-    "10.1039/d6sc03347d",
-    "10.1039/d6sc03290g",
-    "10.1039/d6sc01626j",
-    "10.1039/d6sc03212e",
-    "10.1039/d6sc01341d",
-    "10.1039/d6sc06869c",
-    "10.1039/d6sc07466a",
-    "10.1039/d6sc07068j",
-    "10.1039/d6sc04573a",
-    "10.1039/d6sc04758k",
-    "10.1039/d6sc02698b",
-    "10.1039/d6sc06974f",
-    "10.1039/d6sc07462f",
-    "10.1039/d6sc07011f",
-    "10.1039/d6sc06361f",
-    "10.1039/d6sc06944d",
-    "10.1039/d6sc00831c",
-    "10.1039/d6sc07360c",
-    "10.1039/d6sc04301a"
+    "10.1039/d6sc02570f",
+    "10.1039/d6sc06524d",
+    "10.1039/d6sc05705e",
+    "10.1039/d6sc04398d",
+    "10.1039/d6sc06662c",
+    "10.1039/d6sc06676c",
+    "10.1039/d6sc06875h",
+    "10.1039/d6sc07072h",
+    "10.1039/d6sc07388c",
+    "10.1039/d6sc03347d"
   ]
 }
